@@ -110,7 +110,7 @@
 88. Sormani: Ho detto quello che avrei dovuto dire sei mesi fa.
 89. Ricci: Sei mesi fa non era pronto. Se avesse parlato allora, forse avrebbe parlato male. Oggi sì. I testimoni non nascono pronti, architetto. Lo diventano.
 90. Davide: (Leggendo sul portatile la trascrizione automatica) Cinquantadue minuti. Abbiamo tutto. La mail con l'intestazione completa. Le date. Il nome di Pirovano.
-91. Elena: Pirovano lo chiamiamo oggi. Gli mandiamo le domande. Quarantotto ore.
+91. Elena: A Pirovano mandiamo le domande domattina. Quarantotto ore.
 92. Luca: E l'assessora. E Orobica.
 93. Elena: E Falco. E il fondo. Tutti. (A Sormani) Architetto, prima di pubblicare le manderemo la trascrizione. Se c'è un errore, ce lo dice.
 94. Sormani: (Annuendo) E se non c'è?
@@ -183,7 +183,7 @@
 143. Luca: La buona.
 144. Fabbri: Le impronte sulla busta della foto delle bambine. E il furgone bruciato a Pero. Abbiamo incrociato tutto con le telecamere della circonvallazione. Abbiamo i due del furgone. Nomi, indirizzi, precedenti. Uno ha fatto il militare in un reparto di artificieri. L'altro è un ex pilota di droni da corsa.
 145. Luca: (Chiudendo gli occhi) Li prendete?
-146. Fabbri: Domattina alle cinque. Ma non è questo il punto.
+146. Fabbri: Giovedì all'alba. Prima mi serve la firma del giudice. Ma non è questo il punto.
 147. Luca: La notizia che non mi piacerà.
 148. Fabbri: Tutti e due, negli ultimi otto mesi, hanno ricevuto uno stipendio regolare. Contratto a tempo indeterminato. «Addetti alla sicurezza.»
 149. Luca: Da chi?

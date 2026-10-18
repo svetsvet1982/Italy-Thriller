@@ -124,7 +124,7 @@
 97. Sara: (Piano) Posso venire ad aiutarla? Un sabato. A preparare l'orto per la primavera. (Pausa) Senza taccuino. Senza domande. Solo la vanga.
 98. Adele: (Guardandola a lungo) Lei sa usare la vanga?
 99. Sara: Mio nonno aveva un orto a Catania. (Pausa) Mi faceva zappare i peperoni in agosto. Per punizione.
-100. Adele: (Dopo un lungo silenzio) Venga sabato. (Pausa) Senza di lui. (Indicando Luca con il mento) Senza la direttrice. (Pausa) Lei e la vanga.
+100. Adele: (Dopo un lungo silenzio) Venga sabato. (Pausa) Non questo. Quello dopo. Questo sabato vado al cimitero. (Pausa) Senza di lui. (Indicando Luca con il mento) Senza la direttrice. (Pausa) Lei e la vanga.
 
 ---
 

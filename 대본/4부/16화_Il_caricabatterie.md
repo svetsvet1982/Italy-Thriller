@@ -5,7 +5,7 @@
 > 유형: 🕵 색출형 · 150턴
 > 등장인물:
 > - 엘레나(Elena), 루카(Luca), 마테오(Matteo), 토마소(Tommaso), 사라(Sara), 레오(Leo), 다비데(Davide), 리치 변호사(Ricci)
-> - 파브리 검사(Fabbri), 조르조(Giorgio), 에르네스토 브리비오(Ernesto Brivio, 84, 조르조의 옛 편집국장)
+> - 파브리 검사(Fabbri), 조르조(Giorgio), 에르네스토 크리파(Ernesto Crippa, 84, 조르조의 옛 편집국장)
 > 인용: 베르길리우스 『아이네이스』 2권 49행 "Timeo Danaos et dona ferentes"
 
 ---
@@ -88,41 +88,41 @@
 ---
 
 ### 3장면 (66–100턴)
-*오후 3시, 브레라. 오래된 건물 3층, 책이 가득한 아파트. 에르네스토 브리비오는 조르조가 1983년부터 2016년까지 일한 신문의 전 편집국장이다. 휠체어에 담요를 덮고 있다. 엘레나와 루카가 맞은편에 앉는다.*
+*오후 3시, 브레라. 오래된 건물 3층, 책이 가득한 아파트. 에르네스토 크리파는 조르조가 1983년부터 2016년까지 일한 신문의 전 편집국장이다. 휠체어에 담요를 덮고 있다. 엘레나와 루카가 맞은편에 앉는다.*
 
-66. Brivio: (Con la voce sottile ma chiara) Fantoni. (Pausa) Mi ha chiamato a luglio. Dopo tre anni di silenzio. Per dirmi che collaborava con voi. (Pausa) Ho pensato: finalmente si è rimesso in piedi.
+66. Crippa: (Con la voce sottile ma chiara) Fantoni. (Pausa) Mi ha chiamato a luglio. Dopo tre anni di silenzio. Per dirmi che collaborava con voi. (Pausa) Ho pensato: finalmente si è rimesso in piedi.
 67. Elena: In piedi?
-68. Brivio: (Guardandola con gli occhi azzurri, acquosi) Direttrice. Lei è qui perché Giorgio ha fatto qualcosa. (Pausa) Non mi dica cosa. Alla mia età le brutte notizie non si digeriscono. (Pausa) Mi chieda solo quello che vuole sapere.
+68. Crippa: (Guardandola con gli occhi azzurri, acquosi) Direttrice. Lei è qui perché Giorgio ha fatto qualcosa. (Pausa) Non mi dica cosa. Alla mia età le brutte notizie non si digeriscono. (Pausa) Mi chieda solo quello che vuole sapere.
 69. Luca: Perché ha lasciato il giornale nel duemilasedici?
-70. Brivio: (Dopo un lungo silenzio) Perché gliel'ho chiesto io. (Pausa) Con il prepensionamento. Pulito. Per non doverlo licenziare.
+70. Crippa: (Dopo un lungo silenzio) Perché gliel'ho chiesto io. (Pausa) Con il prepensionamento. Pulito. Per non doverlo licenziare.
 71. Elena: (Fermandosi) Licenziare?
-72. Brivio: (Sistemandosi la coperta) Giorgio giocava. (Pausa) Ai cavalli. Il trotto, a San Siro. Da quando era giovane. (Pausa) All'inizio era un hobby. Il sabato pomeriggio. Poi... il martedì. Il giovedì. Poi tutte le sere.
+72. Crippa: (Sistemandosi la coperta) Giorgio giocava. (Pausa) Ai cavalli. Il trotto, a San Siro. Da quando era giovane. (Pausa) All'inizio era un hobby. Il sabato pomeriggio. Poi... il martedì. Il giovedì. Poi tutte le sere.
 73. Luca: (Piano) I cavalli.
-74. Brivio: Nel duemilaquattordici aveva dei debiti. Grossi. Non con le banche. (Pausa) Con certa gente di Quarto Oggiaro che presta soldi e li rivuole al trenta per cento. (Pausa) Una mattina è venuto al giornale con un occhio nero. Ha detto che era caduto dalla bicicletta. (Pausa) Giorgio non ha mai avuto una bicicletta.
+74. Crippa: Nel duemilaquattordici aveva dei debiti. Grossi. Non con le banche. (Pausa) Con certa gente di Quarto Oggiaro che presta soldi e li rivuole al trenta per cento. (Pausa) Una mattina è venuto al giornale con un occhio nero. Ha detto che era caduto dalla bicicletta. (Pausa) Giorgio non ha mai avuto una bicicletta.
 75. Elena: E lei?
-76. Brivio: Io l'ho chiamato nel mio ufficio. Gli ho chiesto quanto. (Pausa) Centoventimila euro. (Pausa) Gli ho detto che il giornale non poteva. E nemmeno io.
+76. Crippa: Io l'ho chiamato nel mio ufficio. Gli ho chiesto quanto. (Pausa) Centoventimila euro. (Pausa) Gli ho detto che il giornale non poteva. E nemmeno io.
 77. Luca: E Sironi?
-78. Brivio: (Guardandolo, sorpreso) Lei sa di Alberto?
+78. Crippa: (Guardandolo, sorpreso) Lei sa di Alberto?
 79. Luca: Era il mio maestro.
-80. Brivio: (Annuendo lentamente) Allora le dico. (Pausa) Alberto gli diede quarantamila euro. I risparmi di una vita. Senza dire niente a nessuno. Neanche a sua sorella. (Pausa) Me lo raccontò dopo. Al funerale. Piangendo. (Pausa) No. Non al funerale. Una settimana prima di morire. In questo salotto.
+80. Crippa: (Annuendo lentamente) Allora le dico. (Pausa) Alberto gli diede quarantamila euro. I risparmi di una vita. Senza dire niente a nessuno. Neanche a sua sorella. (Pausa) Me lo raccontò dopo. Al funerale. Piangendo. (Pausa) No. Non al funerale. Una settimana prima di morire. In questo salotto.
 81. Elena: (Immobile) Una settimana prima.
-82. Brivio: Era venuto a trovarmi. Era agitato. Mi disse: «Ernesto, ho dato a Giorgio i miei risparmi. E lui li ha usati per pagare i suoi debiti. Va bene. Lo sapevo.» (Pausa) «Ma adesso ho scoperto con quali altri soldi ha pagato il resto. E non va bene. Non va bene per niente.»
+82. Crippa: Era venuto a trovarmi. Era agitato. Mi disse: «Ernesto, ho dato a Giorgio i miei risparmi. E lui li ha usati per pagare i suoi debiti. Va bene. Lo sapevo.» (Pausa) «Ma adesso ho scoperto con quali altri soldi ha pagato il resto. E non va bene. Non va bene per niente.»
 83. Luca: (Con un filo di voce) Con quali soldi?
-84. Brivio: Non me lo disse. (Pausa) Mi disse solo: «Ho paura di dover scrivere la cosa più brutta della mia vita. Su un amico.» (Pausa) E poi, sulla porta: «Ernesto, timeo Danaos et dona ferentes. Me l'hai insegnato tu, al primo anno. Avevi ragione.»
+84. Crippa: Non me lo disse. (Pausa) Mi disse solo: «Ho paura di dover scrivere la cosa più brutta della mia vita. Su un amico.» (Pausa) E poi, sulla porta: «Ernesto, timeo Danaos et dona ferentes. Me l'hai insegnato tu, al primo anno. Avevi ragione.»
 85. Elena: (Sorpresa) Lei gliel'aveva insegnato?
-86. Brivio: (Con un mezzo sorriso stanco) Ai praticanti dicevo sempre: non accettate regali dalle fonti. Neanche una penna. Neanche un panettone a Natale. «Timeo Danaos et dona ferentes.» (Pausa) Lo dicevo ai ragazzi di vent'anni. Alberto e Giorgio. Nell'ottantatré. Seduti in prima fila.
+86. Crippa: (Con un mezzo sorriso stanco) Ai praticanti dicevo sempre: non accettate regali dalle fonti. Neanche una penna. Neanche un panettone a Natale. «Timeo Danaos et dona ferentes.» (Pausa) Lo dicevo ai ragazzi di vent'anni. Alberto e Giorgio. Nell'ottantatré. Seduti in prima fila.
 87. Luca: (Dopo un lungo silenzio) Giorgio non aveva capito.
-88. Brivio: Giorgio aveva capito benissimo. (Pausa) Aveva solo capito al contrario. Che i doni funzionano. (Pausa) E da quel giorno ha cominciato a portarli.
+88. Crippa: Giorgio aveva capito benissimo. (Pausa) Aveva solo capito al contrario. Che i doni funzionano. (Pausa) E da quel giorno ha cominciato a portarli.
 89. Elena: (Piano) I cornetti.
-90. Brivio: (Sorpreso) Porta ancora i cornetti? (Pausa) Li portava anche a noi. Ogni mattina. Dal novantacinque. (Pausa) Tutti lo amavano. (Pausa) Io lo amavo. Come un figlio un po' storto.
+90. Crippa: (Sorpreso) Porta ancora i cornetti? (Pausa) Li portava anche a noi. Ogni mattina. Dal novantacinque. (Pausa) Tutti lo amavano. (Pausa) Io lo amavo. Come un figlio un po' storto.
 91. Luca: E la casa di Camogli? Nel duemilasedici?
-92. Brivio: (Chiudendo gli occhi) Mi disse che era l'eredità di una zia. (Pausa) Io volli credergli. Volevo che fosse vero. Era più facile. (Pausa) Se avessi fatto una domanda in più, forse Alberto sarebbe ancora vivo. (Pausa) Alberto era morto. Giorgio era il mio ultimo ragazzo di quella prima fila.
+92. Crippa: (Chiudendo gli occhi) Mi disse che era l'eredità di una zia. (Pausa) Io volli credergli. Volevo che fosse vero. Era più facile. (Pausa) Se avessi fatto una domanda in più, forse Alberto sarebbe ancora vivo. (Pausa) Alberto era morto. Giorgio era il mio ultimo ragazzo di quella prima fila.
 93. Elena: (Alzandosi, avvicinandosi alla sedia a rotelle) Grazie, direttore.
-94. Brivio: (Prendendole la mano, con una forza inattesa) Direttrice. Una cosa. (Pausa) Se Giorgio ha fatto quello che penso... non lo odi. (Pausa) Lo fermi. Ma non lo odi. (Pausa) L'odio è un regalo anche quello. E lui sa usare tutti i regali.
+94. Crippa: (Prendendole la mano, con una forza inattesa) Direttrice. Una cosa. (Pausa) Se Giorgio ha fatto quello che penso... non lo odi. (Pausa) Lo fermi. Ma non lo odi. (Pausa) L'odio è un regalo anche quello. E lui sa usare tutti i regali.
 95. Elena: (Guardandolo) Non lo odio. (Pausa) Ancora non ci riesco.
-96. Brivio: È la cosa più pericolosa. (Pausa) Lui conta su questo.
+96. Crippa: È la cosa più pericolosa. (Pausa) Lui conta su questo.
 97. Luca: (Sulla porta) Direttore. (Pausa) Lei ha fatto bene a insegnarlo. Il Virgilio.
-98. Brivio: (Con amarezza) L'ho insegnato a due ragazzi. Uno è morto perché l'aveva capito. L'altro... l'altro l'ha capito troppo bene.
+98. Crippa: (Con amarezza) L'ho insegnato a due ragazzi. Uno è morto perché l'aveva capito. L'altro... l'altro l'ha capito troppo bene.
 99. Elena: (Fuori, sulle scale, appoggiandosi al muro, a Luca) Quarantamila euro. I risparmi di una vita. (Pausa) E lui l'ha venduto per ottantamila.
 100. Luca: (Piano) Il doppio. (Pausa) Giuda ne prese trenta. Giorgio si è fatto pagare meglio.
 
@@ -200,13 +200,13 @@
 | ② 출처 | 푸블리우스 베르길리우스 마로(Publius Vergilius Maro, 기원전 70–19), 『아이네이스』(*Aeneis*) 제2권 49행. 아이네아스가 트로이 함락을 회상하는 대목에서 사제 라오콘이 하는 말. |
 | ③ 번역 | 그것이 무엇이든, 나는 그리스인들이 두렵다, 선물을 가져올 때조차. |
 | ④ 배경 | 그리스군이 떠난 척하며 해변에 거대한 목마를 남기자, 라오콘이 성안에 들이지 말라고 경고하며 창을 던진다. 곧 바다에서 뱀 두 마리가 나와 라오콘과 두 아들을 휘감아 죽인다. 트로이인들은 그가 신에게 바친 선물을 모독해 벌을 받았다고 믿고 목마를 들인다. 그날 밤 트로이는 불탄다. *Danai*는 그리스인의 시적 이름이다. 이탈리아에서 '의심스러운 선물'을 두고 지금도 라틴어 그대로 인용한다. |
-| ⑤ 이 화에서의 맥락 | **30턴, 리치** / **42–49턴, 사라와 팀** / **84–88턴, 브리비오의 회상** / **149–150턴.** |
+| ⑤ 이 화에서의 맥락 | **30턴, 리치** / **42–49턴, 사라와 팀** / **84–88턴, 크리파의 회상** / **149–150턴.** |
 | | 증거: 카모글리역 보관함 사진(2월 28일 11:02, 조르조가 문 열리는 소리에 고개를 돌림, 부품 상자를 든 모습). 비아 파스트렌고 담배 가게 주인의 증언("20년 단골, 토스카노 시가 주 2개, 2월에 '스위스 손자 용'이라며 선불카드를 세 번 충전"). 손자 토비아가 두 번째 알리바이로 쓰였다. 그날 아침 그는 출산을 앞둔 누나 일로 병원에 있던 다비데에게 "언제든 전화해"라고 했다(35턴). PG-07 조회는 2019년 퇴직해 2021년 사망한 원사의 비활성화되지 않은 비밀번호로 이루어졌다. 그를 아는 사람은 네리, 칼라브리아로 간 동료, 그리고 파브리 자신이다(15–21턴). 그래서 파브리는 조르조 혼자가 아니라 **조르조와 네리를 한 장면에** 잡으려 한다. |
-| | 세 겹의 '선물': ① 사라가 고등학교 때 쓰던 베르길리우스를 읽는다. 라오콘은 옳았지만 가장 먼저 죽었다. 토마소가 덧붙인다. "알베르토처럼."(47턴) 조르조가 들인 목마는 셋(케이블, 충전기, 멀티탭)이고, 날마다 더 작은 목마(코르네토)가 하나씩 있었다(48턴). ② 옛 편집국장 브리비오(84, 휠체어)의 증언. 1983년 첫 줄에 앉은 두 수습기자에게 그는 "취재원에게서 펜 한 자루도 받지 마라"며 이 구절을 가르쳤다. 조르조는 1990년대부터 산시로 경마(트로트)에 빠져 2014년 콰르토 오자로 사채 12만 유로 빚을 졌다("자전거에서 넘어졌다"는 멍든 눈, 그는 자전거가 없었다). 시로니는 평생 저축 4만 유로를 몰래 빌려줬다. 죽기 일주일 전 시로니는 이 거실에서 말했다. "나머지를 어떤 돈으로 갚았는지 알게 됐다… 친구에 대해 내 인생에서 가장 끔찍한 글을 써야 할 것 같다." 그리고 문간에서 "Timeo Danaos… 당신이 가르쳐 줬죠."(80–84턴) 브리비오의 결론: "조르조는 거꾸로 이해했다. 선물이 통한다는 걸. 그날부터 선물을 들고 다녔다."(88턴) "그를 미워하지 마라. 멈추게 하되. 미움도 선물이고 그는 모든 선물을 쓸 줄 안다."(94턴) 루카: "유다는 서른 닢을 받았다. 조르조는 더 비싸게 받았다."(100턴) ③ 조르조의 새 선물. 1905년판 마치니 전집, 시로니에게 쓴 1994년 헌사와 같은 문장 "Che sa ascoltare anche quello che non si dice". 마테오는 처음으로 커피를 '두 잔'으로 받아 마신다. 이번에는 마테오가 '선물'을 준다. 도청 멀티탭 위에서 하는 가짜 통화 "토마소가 손드리오에서 시로니의 2016년 노트를 찾았다, 목요일 19시 프레차로사로 로마 대검찰청에"(123–125턴). "Timeo Matteum et dona ferentem."(62턴) |
+| | 세 겹의 '선물': ① 사라가 고등학교 때 쓰던 베르길리우스를 읽는다. 라오콘은 옳았지만 가장 먼저 죽었다. 토마소가 덧붙인다. "알베르토처럼."(47턴) 조르조가 들인 목마는 셋(케이블, 충전기, 멀티탭)이고, 날마다 더 작은 목마(코르네토)가 하나씩 있었다(48턴). ② 옛 편집국장 크리파(84, 휠체어)의 증언. 1983년 첫 줄에 앉은 두 수습기자에게 그는 "취재원에게서 펜 한 자루도 받지 마라"며 이 구절을 가르쳤다. 조르조는 1990년대부터 산시로 경마(트로트)에 빠져 2014년 콰르토 오자로 사채 12만 유로 빚을 졌다("자전거에서 넘어졌다"는 멍든 눈, 그는 자전거가 없었다). 시로니는 평생 저축 4만 유로를 몰래 빌려줬다. 죽기 일주일 전 시로니는 이 거실에서 말했다. "나머지를 어떤 돈으로 갚았는지 알게 됐다… 친구에 대해 내 인생에서 가장 끔찍한 글을 써야 할 것 같다." 그리고 문간에서 "Timeo Danaos… 당신이 가르쳐 줬죠."(80–84턴) 크리파의 결론: "조르조는 거꾸로 이해했다. 선물이 통한다는 걸. 그날부터 선물을 들고 다녔다."(88턴) "그를 미워하지 마라. 멈추게 하되. 미움도 선물이고 그는 모든 선물을 쓸 줄 안다."(94턴) 루카: "유다는 서른 닢을 받았다. 조르조는 더 비싸게 받았다."(100턴) ③ 조르조의 새 선물. 1905년판 마치니 전집, 시로니에게 쓴 1994년 헌사와 같은 문장 "Che sa ascoltare anche quello che non si dice". 마테오는 처음으로 커피를 '두 잔'으로 받아 마신다. 이번에는 마테오가 '선물'을 준다. 도청 멀티탭 위에서 하는 가짜 통화 "토마소가 손드리오에서 시로니의 2016년 노트를 찾았다, 목요일 19시 프레차로사로 로마 대검찰청에"(123–125턴). "Timeo Matteum et dona ferentem."(62턴) |
 | | 결과: 22:55 조르조가 카모글리 휴대폰으로 루포의 '정보원' 선불폰(= 네리)에 전화한다. "늘 가던 곳, 내일 6시, 가진 걸 전부 가져와." "늘 가던 곳"은 정의궁 뒤 코르소 디 포르타 비토리아 바, 지난 금요일 토마소와 네리가 앉았던 곳이다(141턴). |
 | ⑥ 언어 포인트 | **timeo / ferentes**: 라틴어 *timere*(두려워하다)의 1인칭 현재, *ferre*(가져오다)의 현재분사 복수 대격. 이탈리아어 *temo*(두렵다), *-fero*(가져오는: *mortifero* 치명적인, *frutti-fero* 열매 맺는)와 같은 뿌리다. |
 | | **et**: '그리고'가 아니라 '…조차, …마저'(= *etiam*)로 읽어야 뜻이 산다. "선물을 가져올 때조차". |
-| | **dono / regalo / omaggio**: *dono*는 격식 있는 선물, 재능(*il dono della parola*). *regalo*는 일상의 선물. *omaggio*는 증정품·경의. 브리비오의 '취재원 선물 금지' 원칙은 *Non accettate regali dalle fonti*(86턴). |
+| | **dono / regalo / omaggio**: *dono*는 격식 있는 선물, 재능(*il dono della parola*). *regalo*는 일상의 선물. *omaggio*는 증정품·경의. 크리파의 '취재원 선물 금지' 원칙은 *Non accettate regali dalle fonti*(86턴). |
 | | 수사 어휘: *fotogramma*(프레임, 1–3턴), *misura cautelare*(구속 등 보전 처분, 11턴), *credenziali*(인증 정보, 15턴), *disattivare*(비활성화하다, 17턴), *trascrizione*(녹취록, 133턴), *finanzieri in borghese*(사복 금융경찰, 143턴), *strozzino / prestare a usura*(사채업자 / 고리로 빌려주다, 74턴의 '30%'). |
 
 ---

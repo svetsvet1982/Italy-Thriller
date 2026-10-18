@@ -136,8 +136,8 @@
 103. Giorgio: (Guardando la paglia) Volevo dirtelo io. (Pausa) Non da un verbale. Non da un giornale. (Pausa) Me lo devi lasciar dire.
 104. Luca: (Dopo un lungo silenzio) Dillo.
 105. Giorgio: (Lentamente) Nel duemilaquattordici avevo dei debiti. Ai cavalli. Qui. (Pausa) Gente che ti aspetta sotto casa. Mi ruppero un dente. Mi dissero che la prossima volta era il ginocchio.
-106. Luca: Lo so. Brivio.
-107. Giorgio: (Con un mezzo sorriso amaro) Brivio. Sempre lui. (Pausa) Alberto mi prestò quarantamila euro. Tutto quello che aveva. (Pausa) Non bastavano. (Pausa) E qui, una sera, al bar della tribuna, un poliziotto gentile mi offrì un caffè. (Pausa) Neri.
+106. Luca: Lo so. Crippa.
+107. Giorgio: (Con un mezzo sorriso amaro) Crippa. Sempre lui. (Pausa) Alberto mi prestò quarantamila euro. Tutto quello che aveva. (Pausa) Non bastavano. (Pausa) E qui, una sera, al bar della tribuna, un poliziotto gentile mi offrì un caffè. (Pausa) Neri.
 108. Luca: E poi?
 109. Giorgio: Poi mi presentò un uomo di Lugano. Educato. Con il polsino. (Pausa) Mi disse: «Lei conosce tutti al palazzo. E conosce Sironi. Ci serve sapere cosa scrive Sironi su Falco. Solo quello.» (Pausa) Mi offrirono di pagare i miei debiti. Tutti.
 110. Luca: (Con la voce che si irrigidisce) E tu hai detto sì.

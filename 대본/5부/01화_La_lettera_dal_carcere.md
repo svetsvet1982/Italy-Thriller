@@ -56,7 +56,7 @@
 35. Ricci: Era vero che non piangeva. (Pausa) «Uomo di ghiaccio» non è un fatto. È un giudizio. (Pausa) Lo sai. Te l'avrei cerchiato in rosso, allora.
 36. Luca: Allora non c'eri.
 37. Ricci: Allora c'era Sironi. (Pausa) Cosa ti disse?
-38. Luca: (Dopo un lungo silenzio) Sironi era a Roma quel giorno. Per un processo. (Pausa) Il pezzo l'ha passato il caporedattore di turno. Brivio era in ferie. (Pausa) Quando Sironi tornò, lo lesse in treno. (Pausa) Mi chiamò dalla stazione. Mi disse una frase sola.
+38. Luca: (Dopo un lungo silenzio) Sironi era a Roma quel giorno. Per un processo. (Pausa) Il pezzo l'ha passato il caporedattore di turno. Crippa era in ferie. (Pausa) Quando Sironi tornò, lo lesse in treno. (Pausa) Mi chiamò dalla stazione. Mi disse una frase sola.
 39. Ricci: Quale?
 40. Luca: «Un titolo non è una prova, Luca.» (Pausa) E chiuse.
 41. Ricci: (Posando gli occhiali) Un titolo non è una prova.

@@ -169,12 +169,12 @@
 ### 5장면 (132–150턴)
 *저녁 6시, 밀라노행 완행열차. 객차는 거의 비었다. 시로니는 졸고, 루카는 창밖 어둠을 본다. 시로니의 휴대폰이 울린다. 그는 졸린 채 받는다.*
 
-132. Sironi: (Al telefono, mezzo addormentato) Pronto. (Pausa, svegliandosi di colpo) Brivio. (Pausa) Sì. (Pausa) Sì, sono sul treno. (Pausa) Domani? Roma? (Pausa) Il processo del Caso... sì. Me l'ero dimenticato. (Pausa) Va bene. Parto alle sei. (Pausa) E Valdorsa? (Pausa) No, Brivio, Valdorsa non è finita. (Pausa) Chi la segue? (Pausa, guardando Luca) Il ragazzo?
+132. Sironi: (Al telefono, mezzo addormentato) Pronto. (Pausa, svegliandosi di colpo) Crippa. (Pausa) Sì. (Pausa) Sì, sono sul treno. (Pausa) Domani? Roma? (Pausa) Il processo del Caso... sì. Me l'ero dimenticato. (Pausa) Va bene. Parto alle sei. (Pausa) E Valdorsa? (Pausa) No, Crippa, Valdorsa non è finita. (Pausa) Chi la segue? (Pausa, guardando Luca) Il ragazzo?
 133. Luca: (Raddrizzandosi di colpo sul sedile)
-134. Sironi: (Al telefono, dopo un lungo silenzio) È troppo giovane, Brivio. (Pausa) Ha quattro giorni di telefono e due di paese. (Pausa) Lo so che non c'è nessun altro. (Pausa) Va bene. (Pausa) Ma i pezzi li passi tu. Personalmente. Non il turno. (Pausa) Promesso? (Pausa) Va bene.
+134. Sironi: (Al telefono, dopo un lungo silenzio) È troppo giovane, Crippa. (Pausa) Ha quattro giorni di telefono e due di paese. (Pausa) Lo so che non c'è nessun altro. (Pausa) Va bene. (Pausa) Ma i pezzi li passi tu. Personalmente. Non il turno. (Pausa) Promesso? (Pausa) Va bene.
 135. Sironi: (Chiudendo, guardando Luca a lungo) Domani parto per Roma. Una settimana. Un processo che segue Giorgio con me. (Pausa) Valdorsa è tua. Da solo.
 136. Luca: (Senza riuscire a nascondere la felicità) Da solo.
-137. Sironi: (Serio) Da solo. (Pausa) E Brivio passerà i tuoi pezzi. Lui. Non il caporedattore di turno.
+137. Sironi: (Serio) Da solo. (Pausa) E Crippa passerà i tuoi pezzi. Lui. Non il caporedattore di turno.
 138. Luca: Va bene.
 139. Sironi: (Tirando fuori il taccuino nero, guardandolo, poi rimettendolo in tasca) Luca. Ascoltami bene. (Pausa) Una settimana è lunga, in un paese. (Pausa) Ti diranno tutto. Ti mostreranno tutto. Il prete, i vicini, la televisione. (Pausa) Ma tu ricordati tre cose.
 140. Luca: Tre cose.
@@ -182,7 +182,7 @@
 142. Luca: I camion.
 143. Sironi: Tutti ti parleranno di Paolo. (Pausa) Tu, ogni giorno, chiedi a qualcuno dei camion. Anche se nessuno ti risponde. (Pausa) Soprattutto se nessuno ti risponde.
 144. Luca: (Annuendo, con il cuore che batte) I camion.
-145. Sironi: E se Brivio è in ferie... (Pausa) No. Brivio non va mai in ferie. (Pausa, con un mezzo sorriso) Non preoccuparti.
+145. Sironi: E se Crippa è in ferie... (Pausa) No. Crippa non va mai in ferie. (Pausa, con un mezzo sorriso) Non preoccuparti.
 146. Luca: (Piano) E se ci va?
 147. Sironi: (Chiudendo gli occhi, appoggiando la testa al finestrino) Allora telefona a me. Prima di mandare il pezzo. (Pausa) A qualsiasi ora. Anche in aula.
 148. Luca: Glielo prometto.
@@ -231,7 +231,7 @@
 | | 아무도 묻지 않은 것: 노르마(위층 침실 창이 지방도를 향함). 2006년 창고 증축 뒤 매일 밤 트럭이 다녔고 "의료 물자"라고 했다. 14일 밤에는 트럭이 두 대였다. 23:30 한 대, **00:50 창고에서 국도 쪽으로 반대 방향, 상향등을 켜고 너무 빠르게**. 레모가 문간에서 "창피한 줄 알아라!"라고 외치자 트럭이 처음으로 속도를 줄였고, 조수석 실루엣이 "가서 자라, 영감"이라고 했다(칼라브리아 억양, 9월부터 가로등 고장). "일요일 이후 모두 파올로만 물었다. 트럭은 아무도 묻지 않았다."(65턴) |
 | | 밀가루의 장면: **일요일 05:45(발견 25분 전), 개점하자마자 파올로가 들어와 그라파 탄 커피를 마셨다(그는 술을 못 마신다). 파란 재킷 어깨와 소매가 고운 흰 가루투성이였다. 향 없는 새 골판지 냄새, "약국에서 상자를 옮겼다."**(그날은 일요일, 약국은 닫혀 있었다) 루카는 증거를 봤다. 시로니는 묻는다. "어떤 가루? 밀가루, 활석, 석고, 시멘트, 종이 상자, 건초?"(82턴) "방앗간에 간 사람은 밀가루를 훔치지 않아도 하얗게 나온다. 그리고 모두 훔쳤다고 생각한다."(88턴) 레모의 2007년 창고 야간 근무 6개월. "나폴리 운송장으로 들어온 트럭이 밀라노 운송장으로 나갔다. 같은 물건, 같은 상자, 다른 이름." 라벨 교체를 물었다가 다음 날 잘렸다(93턴). → 13화 '창고의 화물'. |
 | | 시로니의 고백: 손드리오 공의였던 아버지가 오진(독감인 줄 알았던 폐렴)을 하고 다음 날 눈 속 4시간을 올라가 사과하고 맞는 약을 줬다. 그 노인은 20년 동안 크리스마스마다 비토 치즈를 보냈다. "직업은 절대 틀리지 않는 게 아니다. 다시 올라가는 거다."(115턴) 그리고 친구 조르조. "치즈 도둑", 고르곤졸라라는 이름의 고양이(16년 살았다), "월요일에 법정에 데려가 경위에게 먼저 인사하는 법을 배우게 하겠다."(101–107턴) 시청자는 2016년을 안다. |
-| | 운명의 전화: 브리비오가 시로니를 1주일 로마 재판에 보낸다(조르조와 함께). 발도르사는 루카 혼자 맡는다. 원고는 당직 데스크가 아니라 브리비오가 직접 넘기기로 약속한다. 시로니의 세 가지 당부. 서두르는 고양이, 방앗간, 그리고 트럭("아무도 대답하지 않을수록 더 물어라"). "브리비오가 휴가를 가면? — 원고를 보내기 전에 나에게 전화해, 법정이라도." / "약속드려요." / "약속하지 말고, 해라."(145–149턴) 1화의 사실: 그 주에 브리비오는 휴가를 갔고 원고는 당직 데스크가 넘겼다. 루카는 전화하지 않았다. |
+| | 운명의 전화: 크리파가 시로니를 1주일 로마 재판에 보낸다(조르조와 함께). 발도르사는 루카 혼자 맡는다. 원고는 당직 데스크가 아니라 크리파가 직접 넘기기로 약속한다. 시로니의 세 가지 당부. 서두르는 고양이, 방앗간, 그리고 트럭("아무도 대답하지 않을수록 더 물어라"). "크리파가 휴가를 가면? — 원고를 보내기 전에 나에게 전화해, 법정이라도." / "약속드려요." / "약속하지 말고, 해라."(145–149턴) 1화의 사실: 그 주에 크리파는 휴가를 갔고 원고는 당직 데스크가 넘겼다. 루카는 전화하지 않았다. |
 | ⑥ 언어 포인트 | **infarinarsi**: *in-* + *farina* + *-are* = 밀가루를 묻히다(요리에서 *infarinare il pesce*, 생선에 밀가루를 입히다). 비유: *avere un'infarinatura di qualcosa*(어떤 분야를 얕게 알다 — *un'infarinatura di inglese*). |
 | | **mulino / mugnaio**: 방앗간 / 방앗간 주인(74턴 *Sembri un mugnaio*). 관용구 *tirare l'acqua al proprio mulino*(자기 방앗간에 물을 끌어오다 = 아전인수). |
 | | 물류 어휘: *bolla di accompagnamento*(화물 운송장, 93턴), *capoturno*(조장, 93턴), *materiale sanitario*(의료 물자, 50턴), *abbaglianti*(상향등, 54턴), *etichette*(라벨, 93–94턴). |
@@ -248,6 +248,6 @@
 | 미래·전미래 | quando saprò, verrò (98), Ti insegnerà (107), Ti diranno… Ti mostreranno (139), parleranno (143), passerà (137) |
 | 조건법 현재·과거 | Non dovremmo? (6), Dovremmo (7), avrebbe ancora il forno (117) / avrebbe fatto una mostra (28) |
 | 접속법 4시제 | (현재) aspetti che sia lui (17) / (과거) credi che abbiano già fatto (13), Lei pensa che Paolo sia andato… che non abbia rubato (89), penso che Paolo sia andato (90) / (반과거) Remo non voleva che parlassi (39), voleva che restasse (26), Come se se ne accorgesse (74), Prima che si sapesse (68) / (대과거) Se fossi tornato su il giorno dopo (117) |
-| 가정문 | 1형: se non parlo, scoppio (39), Se vuole raccontarla (43), Se arrivi tu e fai la stessa domanda, ti risponde (15), E se Brivio è in ferie... (145), E se ci va? — Allora telefona (146–147) / 3형(혼합): Se fossi tornato su il giorno dopo, forse avrebbe ancora il forno (117) |
+| 가정문 | 1형: se non parlo, scoppio (39), Se vuole raccontarla (43), Se arrivi tu e fai la stessa domanda, ti risponde (15), E se Crippa è in ferie... (145), E se ci va? — Allora telefona (146–147) / 3형(혼합): Se fossi tornato su il giorno dopo, forse avrebbe ancora il forno (117) |
 | 명령법 | tu: fai il caffè (41), Fagli vedere (101), Mettilo (131), Dimmelo (127), Ascoltami (139), ricordati (139), chiedi (143), Non preoccuparti (145), telefona (147), Non promettere. Fallo (149) / voi: Mangiate (31) |
 | 기타 | 수동태 — / si 구문 Si sente (46), che si impara (107), si ricordano (131), Non si fa. Ci si sporca… si sta attenti (121), Ti si legge in faccia (125) / 제룬디오 asciugando (1), Gridando (1), Togliendosi (4), Sospirando (10), Guardandosi (14, 93), Arrivando (18), posandoli (18), Assaggiando (19, 32), Indicando (21), Ammorbidendosi (22), Guardando (25, 37, 48, 65, 68, 89, 97, 109, 117, 122, 130, 135, 139, 150), Asciugandosi, voltandosi (30), Posando (31, 53), Mangiando (34), Sedendosi (35, 66), Fermandosi (36, 51, 69, 79, 92), Abbassando (39, 91, 126), Annuendo (46, 119, 144), Trattenendo (55), Girandosi (58, 80), Avvicinandosi (59), Scuotendo (61), Alzando (78), Esitando (81), Pensandoci (83), tirando (96), Scrivendo (100), Rispondendo (101), Ridendo (103, 106), Sorridendo (104), Annotando (108), Arrossendo (124), Alzandosi (131), svegliandosi (132), Raddrizzandosi (133), Chiudendo (135, 147), Tirando… rimettendolo (139), appoggiando (147) / 간접화법 Dice che l'ha visto… e che ha gli occhi (10), Gli hanno risposto che portano… E che il sanitario non dorme (50), Diceva che le facce… E che un giorno avrebbe fatto (28), diceva che era il gatto (103), Ha detto: «…» (74) / 결합대명사 gliela fece (22), se l'è portata (26), me l'ha chiesto (65), Ce l'hanno detto (77), se ne accorgesse (74), Me l'ero dimenticato (132), Fagli (101), Glielo prometto (148), Dimmelo (127), Ce l'ho (126), Mettilo (131) |

@@ -64,7 +64,7 @@
 43. Matteo: (Sedendosi, con le mani nei capelli) Scusa.
 44. Ilenia: (Con delicatezza) C'è un'altra cosa che posso dire. Il primo caricabatterie... il componente dentro ha un numero di lotto. Posso provare a capire dove è stato venduto. Ci vorrà tempo. Settimane.
 45. Elena: Prova. (Pausa) Grazie, Ilenia.
-46. Ilenia: (Prima di chiudere) Matteo. (Pausa) Io sono una tecnica. Non un giudice. Il caricabatterie nero è pulito. Questo non vuol dire che tu menti. Vuol dire che chi te l'ha dato, se è la stessa persona, ieri sera non voleva rischiare.
+46. Ilenia: (Prima di chiudere) Matteo. (Pausa) Io sono una tecnica. Non un giudice. Il caricabatterie nero è pulito. Questo non vuol dire che tu abbia mentito. Vuol dire che chi te l'ha dato, se è la stessa persona, ieri sera non voleva rischiare.
 47. Matteo: (Guardando lo schermo) Grazie.
 48. Ilenia: (Chiudendo) Dormi un po'. Sembri me dopo un esame.
 49. Ricci: (Dopo un silenzio) Allora. Mettiamola come la metterebbe un magistrato. Freddamente. (Pausa) Scusa, Matteo. Devo farlo.
@@ -134,7 +134,7 @@
 101. Matteo: (Calciando un sasso) Pulito. (Pausa) Il caricabatterie che mi ha dato ieri sera era pulito.
 102. Leo: Era pulito.
 103. Matteo: Quindi ieri sera lui sapeva. Sapeva che Ilenia controllava. Glielo avevo detto io. E mi ha dato quello buono. (Pausa) Sono stato io a dirglielo.
-104. Leo: Non potevi sapere.
+104. Leo: Non potevi sapere. (Pausa) E anche se l'avessi saputo, gliel'avresti detto lo stesso. Era il tuo collega.
 105. Matteo: Non potevo sapere. (Pausa) Leo. Ti faccio una domanda. E voglio la verità. Come Elena con me.
 106. Leo: (Fermandosi) Falla.
 107. Matteo: Stamattina. Quando Ilenia ha detto «pulito». (Pausa) Per un secondo, hai pensato che io mentissi?
@@ -220,8 +220,8 @@
 | 대과거 | Come avevi detto tu (19), quello che avevo pensato (63), Le avevo detto (88), non l'aveva mai incontrato… Gliel'aveva «passato» (92), Glielo avevo detto io (103), Era stato un altro ragazzo (118), Mi avevi chiesto (138) |
 | 원과거 | trovarono… venne… Si sedette… Non disse… disse (120), gli dissi (122) |
 | 미래·전미래 | Bianca ti farà vedere (24), Ci vorrà tempo (44) |
-| 조건법 현재·과거 | prenderebbe… farebbe (61, 직접화법), la metterebbe (49), sarebbe la cosa più normale (76), cosa direbbe Tommaso? (110), sarebbe il peggior bugiardo (114) / Io avrei fatto lo stesso (72) |
-| 접속법 4시제 | (현재) Pensa che sia il passo normale (84) / (과거) — → finché non è provato (71, 직설) / (반과거) se fosse vero (76), Senza che glielo chiedessi (79), se fosse il caso (98), hai pensato che io mentissi? (107), se Matteo mentisse (114), Se fosse Giorgio (127), Prima ancora che camminasse (147) / (대과거) — |
-| 가정문 | 1형: se domani Giorgio nega, noi abbiamo solo (11), se lo diciamo a un magistrato: … (40), Se vuoi, te la faccio leggere (63), Se c'è uno zoppo…, noi camminiamo (84), Se qualcuno lo trova…, Matteo è finito (146) / 2형: se fosse vero, sarebbe la cosa più normale (76), se Matteo mentisse, sarebbe il peggior bugiardo (114) |
+| 조건법 현재·과거 | prenderebbe… farebbe (61, 직접화법), la metterebbe (49), sarebbe la cosa più normale (76), cosa direbbe Tommaso? (110), sarebbe il peggior bugiardo (114) / Io avrei fatto lo stesso (72), gliel'avresti detto (104) |
+| 접속법 4시제 | (현재) Pensa che sia il passo normale (84) / (과거) non vuol dire che tu abbia mentito (46) / (반과거) se fosse vero (76), Senza che glielo chiedessi (79), se fosse il caso (98), hai pensato che io mentissi? (107), se Matteo mentisse (114), Se fosse Giorgio (127), Prima ancora che camminasse (147) / (대과거) anche se l'avessi saputo (104) |
+| 가정문 | 1형: se domani Giorgio nega, noi abbiamo solo (11), se lo diciamo a un magistrato: … (40), Se vuoi, te la faccio leggere (63), Se c'è uno zoppo…, noi camminiamo (84), Se qualcuno lo trova…, Matteo è finito (146) / 3형: anche se l'avessi saputo, gliel'avresti detto lo stesso (104) / 2형: se fosse vero, sarebbe la cosa più normale (76), se Matteo mentisse, sarebbe il peggior bugiardo (114) |
 | 명령법 | tu: Dillo (2), Siediti (42), Prova (45), Dormi (48), Fallo (50), Fammela (57), Lasciami finire (76), Dimmi (73), Falla (106), Non ringraziarmi. Dimostra (124), Stampa (149), Non dirle (26), Metti (29), Parla (30), Riportamela (17) / voi: ditemi (1) / noi: Parliamo (1), Restiamo (20), Mettiamola (49) |
 | 기타 | 수동태 sono stato accusato (118), è stato aperto (140), È firmata (88), è trasferito (94), Registrata (140), Prodotto… Venduto (35) / si 구문 non se ne accorge (84), Ti si legge tutto (114) / 제룬디오 Versando (1), Guardando (2, 16, 47, 56, 70, 85, 108, 127, 135), Indicando (6), Prendendo… guardandolo (7), Posando (9), Abbassando (12), Mettendogli (15), Alzando (23, 42, 57), Mettendo (30), Sporgendosi (32), Alzandosi (41), Sedendosi (43, 68), Chiudendo (48, 66), Fermandosi (60, 106, 119, 128), Irrigidendosi (86), Rispondendo… abbassando (87), Calciando (101), Annuendo (72, 109), Ridendo (112, 113), Ricominciando (124), Esitando (140) / 간접화법 Mi ha detto solo: «…» (1), Ruffo dice che il numero gli è stato dato… Che gli ha detto che apparteneva (90), Ruffo dice di non poterne rivelare (92), mi ha chiesto se fosse il caso (98), Gli ho detto di no. Che se ne occupo io (98) / 결합대명사 Me l'ha regalato (3), me ne ha dato (6), Gliel'ho portato (15), Riportamela (17), gliel'ho detto (19), ce la faccio (23), te l'ho detto (26), ce l'hanno (37), Fammela (57), te la faccio leggere (63), me l'ha riportata (66), gliel'ha regalato (69), te lo dico (71), Te l'ha detto (78), glielo chiedessi (79), se ne accorge (84), Gliel'aveva passato (92), te lo regalo (92), avermelo detto (99), Glielo avevo detto… dirglielo (103), Me l'hanno detto (111) |

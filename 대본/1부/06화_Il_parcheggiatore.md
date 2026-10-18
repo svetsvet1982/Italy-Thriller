@@ -5,7 +5,7 @@
 > 유형: 🔍 취재형 · 150턴
 > 등장인물:
 > - Il Riflettore 팀: 루카(Luca), 엘레나(Elena), 다비데(Davide), 사라(Sara), 토마소(Tommaso), 레오(Leo)
-> - 그 밖: 주차요원 난도(Nando, 24세), 주차장 운영사 'Stadio Park Service'의 관리자 콘티니(Contini)
+> - 그 밖: 주차요원 난도(Nando, 24세), 주차장 운영사 'Stadio Park Service'의 관리자 콜나기(Colnaghi)
 > 현안 착안: 밀라노 경비·안전요원 불법 인력 공급과 압수(2026.10)
 > 인용: 속담 "Una mano lava l'altra"
 
@@ -130,37 +130,37 @@
 ---
 
 ### 4장면 (101–135턴)
-*오후 5시, 경기장 옆 주차장 관리 사무소. 'Stadio Park Service'의 관리자 콘티니가 루카를 맞이한다. 정중한 미소 뒤에 경계심이 있다.*
+*오후 5시, 경기장 옆 주차장 관리 사무소. 'Stadio Park Service'의 관리자 콜나기가 루카를 맞이한다. 정중한 미소 뒤에 경계심이 있다.*
 
-101. Contini: Prego, si accomodi. Mi hanno detto che lei è un giornalista. Non riceviamo molti giornalisti, qui. Di solito ci chiamano solo quando qualcuno non trova la macchina.
-102. Luca: Grazie per avermi ricevuto senza appuntamento, dottor Contini.
-103. Contini: Ci mancherebbe. Siamo una società trasparente. In che cosa posso esserle utile?
+101. Colnaghi: Prego, si accomodi. Mi hanno detto che lei è un giornalista. Non riceviamo molti giornalisti, qui. Di solito ci chiamano solo quando qualcuno non trova la macchina.
+102. Luca: Grazie per avermi ricevuto senza appuntamento, dottor Colnaghi.
+103. Colnaghi: Ci mancherebbe. Siamo una società trasparente. In che cosa posso esserle utile?
 104. Luca: Sto scrivendo un articolo sul parcheggio dello stadio, dopo la morte del signor Brivio.
-105. Contini: Una tragedia. Abbiamo collaborato con la polizia fin dal primo momento. Abbiamo messo a disposizione tutto.
+105. Colnaghi: Una tragedia. Abbiamo collaborato con la polizia fin dal primo momento. Abbiamo messo a disposizione tutto.
 106. Luca: Anche le immagini delle telecamere del lato nord?
-107. Contini: Purtroppo quelle telecamere erano guaste. Un problema tecnico.
+107. Colnaghi: Purtroppo quelle telecamere erano guaste. Un problema tecnico.
 108. Luca: Da due settimane. Era stato segnalato?
-109. Contini: (Una piccola pausa) Le segnalazioni seguono le procedure. Il tecnico era stato chiamato.
+109. Colnaghi: (Una piccola pausa) Le segnalazioni seguono le procedure. Il tecnico era stato chiamato.
 110. Luca: Quando sarebbe dovuto arrivare?
-111. Contini: Non ho la data sotto mano. Posso farla cercare.
+111. Colnaghi: Non ho la data sotto mano. Posso farla cercare.
 112. Luca: Gliene sarei grato. Un'altra domanda: il personale che lavora nel parcheggio durante le partite è dipendente di Stadio Park Service?
-113. Contini: No. Per il personale ci appoggiamo a una cooperativa esterna. È una pratica normalissima nel nostro settore.
+113. Colnaghi: No. Per il personale ci appoggiamo a una cooperativa esterna. È una pratica normalissima nel nostro settore.
 114. Luca: Quale cooperativa?
-115. Contini: Lombarda Security. Una cooperativa regolarmente iscritta, con tutti i documenti in ordine.
+115. Colnaghi: Lombarda Security. Una cooperativa regolarmente iscritta, con tutti i documenti in ordine.
 116. Luca: La stessa che fino a un anno fa si chiamava «Servizi Lombardia», e prima ancora «Sicurezza Futura»?
-117. Contini: (Il sorriso si irrigidisce) Non mi occupo della storia societaria dei nostri fornitori. Noi chiediamo i documenti e verifichiamo che siano in regola.
+117. Colnaghi: (Il sorriso si irrigidisce) Non mi occupo della storia societaria dei nostri fornitori. Noi chiediamo i documenti e verifichiamo che siano in regola.
 118. Luca: E verificate anche come vengono pagati i lavoratori? Mi risulta che ricevano buste in contanti.
-119. Contini: Se ci fossero irregolarità, sarebbe responsabilità della cooperativa, non nostra. Noi paghiamo regolarmente il servizio, con bonifico.
+119. Colnaghi: Se ci fossero irregolarità, sarebbe responsabilità della cooperativa, non nostra. Noi paghiamo regolarmente il servizio, con bonifico.
 120. Luca: Quanto pagate la cooperativa per ogni partita?
-121. Contini: Queste sono informazioni commerciali riservate.
+121. Colnaghi: Queste sono informazioni commerciali riservate.
 122. Luca: Capisco. Ultima domanda: chi sono i soci di Stadio Park Service? Il cinquanta per cento è intestato a una fiduciaria.
-123. Contini: (Alzandosi) Dottor Moretti, credo che la nostra conversazione sia finita. Io gestisco un parcheggio. Le domande sugli azionisti le faccia a chi di dovere.
+123. Colnaghi: (Alzandosi) Dottor Moretti, credo che la nostra conversazione sia finita. Io gestisco un parcheggio. Le domande sugli azionisti le faccia a chi di dovere.
 124. Luca: A chi di dovere, chi?
-125. Contini: Al nostro ufficio legale. Le lascio il contatto. (Gli porge un biglietto) E un consiglio, se permette.
+125. Colnaghi: Al nostro ufficio legale. Le lascio il contatto. (Gli porge un biglietto) E un consiglio, se permette.
 126. Luca: Prego.
-127. Contini: Milano è una città piccola, per chi fa il suo mestiere. Ci si incontra sempre. Conviene essere amici.
+127. Colnaghi: Milano è una città piccola, per chi fa il suo mestiere. Ci si incontra sempre. Conviene essere amici.
 128. Luca: Io sono amico di tutti quelli che rispondono alle domande.
-129. Contini: Allora non diventeremo amici. Buona serata.
+129. Colnaghi: Allora non diventeremo amici. Buona serata.
 130. Luca: (Uscendo, al telefono) Tommaso? Sono uscito.
 131. Tommaso: (Al telefono) Com'è andata?
 132. Luca: Mi ha dato un biglietto dell'ufficio legale e un consiglio. «Conviene essere amici.»
@@ -205,7 +205,7 @@
 | | 누가, 왜: 주차요원 난도가 시스템을 설명하며 이 속담을 쓴다. "네가 눈 한쪽을 감으면 그들이 일을 준다." 앞부분만 쓴 부정적 의미다. |
 | | 받아치기: 토마소가 뒷부분 "그리고 두 손이 함께 얼굴을 씻는다고들 하지"를 덧붙이자, 난도는 "내 얼굴은 아무도 씻어 주지 않았다"고 답한다. |
 | | 의미: 속담의 두 얼굴, 곧 협력과 담합이 그대로 드러난다. 공생은 위에 있는 사람들끼리의 일이고, 맨 아래의 난도는 그 '손'에 끼지 못한다. |
-| | 연결: 4장면에서 관리자 콘티니가 "서로 친구로 지내는 게 좋다(Conviene essere amici)"고 말하는 것도 같은 논리다. 침묵한 대가가 공생인 구조다. |
+| | 연결: 4장면에서 관리자 콜나기가 "서로 친구로 지내는 게 좋다(Conviene essere amici)"고 말하는 것도 같은 논리다. 침묵한 대가가 공생인 구조다. |
 | ⑥ 언어 포인트 | **lavare / lavarsi**: '씻기다'와 '씻다'. *lavarsi le mani*(손을 씻다)에는 비유적 의미도 있어서, 빌라도처럼 '책임을 회피하다'라는 뜻으로 쓴다(*Me ne lavo le mani*). |
 | | **tutte e due**: '둘 다'. 여성형은 *tutte e due*, 남성형은 *tutti e due*. *entrambe / entrambi*와 같다. |
 | | 함께 배우는 표현: *chiudere un occhio*(눈감아 주다, 46턴), *guardare dall'altra parte*(외면하다, 44–45턴), *lavorare in nero*(불법 노동, 등록 없이 일하다). |

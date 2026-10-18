@@ -183,7 +183,7 @@
 144. Leo: Come?
 145. Ricci: Non lo so. (Pausa) E c'è un'altra cosa. (Guardando Elena) Testori mi ha detto che nell'elenco generale dei fascicoli sequestrati ce n'è uno con il tuo nome. «Sala Elena.» Aperto sei anni fa. (Pausa) Mai chiuso.
 146. Elena: (Senza voce) Sei anni fa.
-147. Ricci: E ce n'è uno più vecchio. Uno dei primi. (Pausa, abbassando lo sguardo sul foglio) Zero-zero-uno-due. «Sironi Alberto.» Aperto nel duemiladiciannove. (Pausa) Chiuso a febbraio di quest'anno.
+147. Ricci: E ce n'è uno più vecchio. Molto più vecchio. (Pausa, abbassando lo sguardo sul foglio) Zero-due-zero-tre. «Sironi Alberto.» Aperto nell'ottobre del duemilaquindici. (Pausa) Chiuso nel febbraio del duemilasedici.
 148. Luca: (Alzandosi, la sedia che cade all'indietro) Febbraio.
 149. Elena: (Guardando Luca, con la voce che è appena un filo) Il mese in cui è morto.
 150. Tommaso: (Andando alla lavagna, cancellando tutto con il palmo della mano, lentamente. Poi scrivendo, in mezzo, una sola parola) SPECULA.

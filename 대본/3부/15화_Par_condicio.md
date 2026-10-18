@@ -100,8 +100,8 @@
 73. Luca: Uno sciopero.
 74. Teresa: Lo sciopero del sessantadue. Me lo ricordo. Avevo dieci anni. (Pausa) Le donne della filatura chiedevano che il turno di notte fosse pagato come quello del giorno, più la maggiorazione. Erano in trenta. I Borsani ne licenziarono dodici. Le più giovani e le più rumorose. Per dare l'esempio.
 75. Leo: E Angela Valenti era fra le dodici.
-76. Teresa: Era fra le dodici. (Girando la scheda) E qui c'è un'altra cosa. Sul retro. «Figli a carico: uno. Sergio, nato nel cinquantotto.»
-77. Luca: (Piano) Sergio.
+76. Teresa: Era fra le dodici. (Girando la scheda) E qui c'è un'altra cosa. Sul retro. «Figli a carico: uno. Augusto, nato nel cinquantotto.»
+77. Luca: (Piano) Augusto.
 78. Teresa: (Guardandolo da sopra gli occhiali) Lo conoscete?
 79. Luca: Forse. (Pausa) Cosa successe dopo? Alle dodici donne?
 80. Teresa: Alcune trovarono lavoro in altre fabbriche. Altre no, perché i Borsani avevano fatto girare i nomi. Nessuno, qui, le voleva più. (Pausa) Mia madre mi raccontava che alcune andarono a Milano. A fare le pulizie. Nei palazzi dei signori. Era l'unico lavoro che non chiedeva referenze.

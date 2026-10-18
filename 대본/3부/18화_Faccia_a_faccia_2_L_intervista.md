@@ -5,7 +5,7 @@
 > 유형: 🔍 취재형 · 150턴
 > 등장인물:
 > - 루카(Luca), 레오(Leo, 카메라), 엘레나(Elena), 토마소(Tommaso, 공장 밖 차 안)
-> - 카를로 모란디니(Carlo Morandini, 49), 페데리카 로(Federica Rho), 세르조 발렌티(Sergio Valenti, 68)
+> - 카를로 모란디니(Carlo Morandini, 49), 페데리카 로(Federica Rho), 아우구스토 발렌티(Augusto Valenti, 68)
 > 인용: 니콜로 마키아벨리 『군주론』 25장 "la fortuna sia arbitra della metà delle azioni nostre"
 
 ---
@@ -16,8 +16,8 @@
 1. Federica: (Controllando l'orologio) Le regole, Moretti. Quaranta minuti. Due telecamere. Pubblicazione integrale, senza tagli. Il candidato può non rispondere. Il cavaliere assiste e non interviene.
 2. Luca: (Sistemando il microfono sul bavero della giacca grigia, con le maniche giuste) D'accordo.
 3. Valenti: (Dalla sua sedia, con un sorriso) Bella giacca, Moretti. Le maniche sono perfette. Chi gliel'ha fatta?
-4. Luca: (Dopo un momento) Mia madre.
-5. Valenti: (Annuendo lentamente) Le madri. (Pausa) Si vede la mano di una sarta. Mia madre diceva che un uomo si giudica dalle maniche. (Pausa) Non dica niente. Io sono un mobile. Faccia finta che non ci sia.
+4. Luca: (Dopo un momento) Mio padre. Con la macchina da cucire di mia madre.
+5. Valenti: (Annuendo lentamente) Le madri. Anche quando non ci sono più, cuciono. (Pausa) Si vede la mano di una sarta. Mia madre diceva che un uomo si giudica dalle maniche. (Pausa) Non dica niente. Io sono un mobile. Faccia finta che non ci sia.
 6. Leo: (Dietro la sua telecamera, piano) Registro.
 7. Morandini: (Entrando, giacca blu, senza cravatta, stringendo la mano a Luca) Moretti. Finalmente ci vediamo da vicino. I suoi articoli li leggo tutti. Anche quelli che mi fanno arrabbiare. Soprattutto quelli.
 8. Luca: Grazie per l'intervista.
@@ -34,7 +34,7 @@
 19. Morandini: (Dopo un momento) Non conoscevo questa storia. (Pausa) È una storia triste. Purtroppo, la storia industriale di questo paese è piena di storie così. È anche per questo che voglio riportare il lavoro qui. Lavoro buono. Pagato bene.
 20. Luca: Sa chi è oggi il figlio di una di quelle dodici donne?
 21. Morandini: (Silenzio. Lo sguardo che va, per un istante, verso la sedia di Valenti. Poi torna su Luca) Non vedo cosa c'entri con la Drone Valley.
-22. Luca: C'entra. (Pausa) Angela Valenti. Filatrice. Assunta a quindici anni. Licenziata il dodici ottobre millenovecentosessantadue. Figlio: Sergio, nato nel cinquantotto. (Pausa) Il proprietario di questo terreno.
+22. Luca: C'entra. (Pausa) Angela Valenti. Filatrice. Assunta a quindici anni. Licenziata il dodici ottobre millenovecentosessantadue. Figlio: Augusto, nato nel cinquantotto. (Pausa) Il proprietario di questo terreno.
 23. Federica: (Interrompendo) Moretti, le domande devono riguardare il candidato.
 24. Luca: (Senza girarsi) Riguardano il candidato. Il candidato ha scelto questo luogo per l'intervista. E il proprietario ha scelto di essere presente.
 25. Valenti: (Dalla sua sedia, calmo, alzando una mano) Federica. Lasci stare. Il ragazzo ha ragione. (Pausa) Continui, Moretti. Io sono sempre un mobile.
@@ -131,7 +131,7 @@
 104. Valenti: (Sorridendo appena) Io so sempre prima. È il mio mestiere. (Pausa) E adesso lei mi chiede di chi è la Drone Valley. (Pausa) Le rispondo. È di chi l'ha immaginata quando nessuno ci credeva. Di chi ha comprato i terreni quando costavano otto euro. Di chi ha trovato i capitali quando le banche dicevano di no. (Pausa) È mia, Moretti. Per la metà che si può governare.
 105. Luca: E l'altra metà?
 106. Valenti: (Guardando Morandini, che ha la testa bassa) L'altra metà è della fortuna. (Pausa) E degli elettori. Domenica.
-107. Morandini: (Senza alzare la testa, piano) E io, Sergio? Io di chi sono?
+107. Morandini: (Senza alzare la testa, piano) E io, Augusto? Io di chi sono?
 108. Valenti: (Dopo un lungo silenzio, gentile, quasi paterno) Tu, Carlo, sei stato la mia fortuna. (Pausa) E stasera sei stato la tua sfortuna.
 109. Elena: (In macchina, in un sussurro) L'ha detto davanti alla telecamera.
 110. Tommaso: (Fissando il telefono) Non ha detto niente di illegale. (Pausa) Ha detto tutto il resto.
@@ -157,10 +157,10 @@
 124. Luca: (Togliendosi il microfono) Sì?
 125. Morandini: (Senza guardarlo) Pubblichi tutto. Anche la parte di mio padre. (Pausa) Non la tagli. Anche se Federica glielo chiederà domani. Anche se glielo chiederò io.
 126. Luca: Avevamo detto integrale. Sarà integrale.
-127. Morandini: (Alzandosi, guardando la giacca di Luca) Le maniche. Sua madre è brava. (Pausa) Anche mia madre cuciva. Le divise del collegio. Dopo la morte di mio padre. (Pausa) Tutti abbiamo una madre che ha cucito qualcosa, in questa storia.
-128. Valenti: (Avvicinandosi a Luca, mentre i tecnici smontano le luci, a voce bassa, solo per lui) Moretti. Lei ha fatto un buon primo punto. (Pausa) Sua madre gliel'ha insegnato, vero?
+127. Morandini: (Alzandosi, guardando la giacca di Luca) Le maniche. Suo padre è bravo. (Pausa) Anche mia madre cuciva. Le divise del collegio. Dopo la morte di mio padre. (Pausa) Tutti abbiamo una madre che ha cucito qualcosa, in questa storia.
+128. Valenti: (Avvicinandosi a Luca, mentre i tecnici smontano le luci, a voce bassa, solo per lui) Moretti. Lei ha fatto un buon primo punto. (Pausa) Gliel'ha insegnato sua madre, vero? La signora Giovanna. Prima di andarsene.
 129. Luca: (Gelido) Come sa di mia madre?
-130. Valenti: (Sorridendo, con dolcezza) Io so sempre prima. Gliel'ho detto. (Pausa) Ma non si preoccupi per sua madre. Io non faccio del male alle sarte. Mai. (Pausa) È l'unica regola che ho.
+130. Valenti: (Sorridendo, con dolcezza) Io so sempre prima. Gliel'ho detto. (Pausa) Ma non si preoccupi per suo padre. Io non faccio del male ai vecchi tranvieri. Né alle sarte. Mai. (Pausa) È l'unica regola che ho.
 131. Luca: (Dopo un lungo silenzio) Sa che cosa avrebbe detto sua madre, stasera? Se l'avesse vista seduto qui, a guardare un uomo raccontare la morte di suo padre?
 132. Valenti: (Fermandosi. Per la prima volta, il sorriso sparisce) Lei non sa niente di mia madre.
 133. Luca: So che chiese di essere pagata per il buio. (Pausa) Lei, stasera, ha pagato qualcuno per restare al buio.
@@ -178,11 +178,11 @@
 139. Tommaso: (Vedendo arrivare Morandini, mettendosi istintivamente fra lui e Luca) Candidato.
 140. Morandini: (Fermandosi a due metri, le mani in tasca, a voce bassa) Non vengo a minacciare nessuno, ispettore. (A Luca) Moretti. Un minuto. Senza telecamere.
 141. Luca: (Guardando Elena, che annuisce) Va bene.
-142. Morandini: (Avvicinandosi, sussurrando) Lei mi ha chiesto di chi è la Drone Valley. Sergio le ha risposto. Ma ha detto metà della verità. La sua metà. (Pausa) L'altra metà è questa. Ascolti bene, perché non la ripeto.
+142. Morandini: (Avvicinandosi, sussurrando) Lei mi ha chiesto di chi è la Drone Valley. Augusto le ha risposto. Ma ha detto metà della verità. La sua metà. (Pausa) L'altra metà è questa. Ascolti bene, perché non la ripeto.
 143. Luca: Ascolto.
 144. Morandini: Lunedì mattina, il giorno dopo il voto, chiunque vinca... Falco annuncerà un accordo. Con Stormwing. Il cinquantuno per cento. È già firmato. Da due settimane. In uno studio notarile di Lugano. (Pausa) La Drone Valley, il corridoio aereo, i terreni, il software dei droni del comizio. Tutto. A Dubai.
 145. Luca: (Immobile) Il golden power. Il governo deve autorizzare.
-146. Morandini: Il governo lo saprà lunedì. Come tutti. (Pausa) Sergio prende i soldi, Stormwing prende la tecnologia, e io... io dovevo fare il presidente che taglia il nastro.
+146. Morandini: Il governo lo saprà lunedì. Come tutti. (Pausa) Augusto prende i soldi, Stormwing prende la tecnologia, e io... io dovevo fare il presidente che taglia il nastro.
 147. Luca: Perché me lo dice?
 148. Morandini: (Guardando il cotonificio dietro di loro, nero contro il cielo viola) Perché mio padre è caduto da un'impalcatura senza parapetto. E io, stasera, ho capito che ci sto salendo sopra. (Pausa) Non ho prove da darle. Non ho documenti. Se lo scrive domani, la denuncio. Se lo scrive sabato, a urne chiuse... (Pausa) Faccia quello che crede, Moretti.
 149. Elena: (Dopo che Morandini è risalito in macchina, piano) Sabato è il giorno del silenzio elettorale.
@@ -215,7 +215,7 @@
 
 | 범주 | 예문 (턴) |
 |---|---|
-| 근과거·반과거 | gliel'ha fatta (3), Ho studiato (15), ha scelto (24), sono stati comprati (26), ha cominciato (28), l'ho presentata… ha comprato (29), ha firmato (34), è stata depositata (34), Non ho pensato (37), Ha detto sì (38), Ha versato (40), Ho fatto… Ho incontrato (41), Ho cenato (45), Le ho chiesto (48), ho sempre fatto (51), Le ho appena risposto (53), Mi ha raccontato (54), L'ho saputo. Me l'ha detto… Mi ha detto… ho deciso (56), sono morti… è caduto (62), È stata una tragedia (63), Ha visitato? (64), Ho visto (67), ho visto… ho pensato (73), mi ha preso… mi ha portato… l'ho seguito (73), sono diventato (75), ha accettato (83), mi hanno proposto (86), Ho detto (94), le ha scritte… le ho approvate (96), ha fatto (96, 128), Ho cominciato (100), hanno venduto (101), Nessuno le ha obbligate. Hanno preso (102), l'ha inventato. L'ha solo scritto (102), l'ha immaginata… ha comprato… ha trovato (104), sei stato (108), ho finito (114), L'ho detto (118), ha fatto (118), è risalito (149), ho capito (148), è caduto (148), Sergio le ha risposto. Ma ha detto (142) / produceva (13), Chiedevano (18), Erano (18), Non conoscevo (19), dava (26), sapeva (30, 46, 50), lavorava (34), Era contento (35), C'era (42), non era invitato (43), finanziava (46, 52), mi diceva. Faceva… avevo (51), Eravamo (51), correvano… suonavano… si fermavano (67), Era lì (67), Avevo quattro anni (69), Non c'era (69), costavano… rallentavano (69), c'era già (86), Filava (100), non sapevano (101, 102), costavano… dicevano (104), cuciva (127), dovevo (146) |
+| 근과거·반과거 | gliel'ha fatta (3), Ho studiato (15), ha scelto (24), sono stati comprati (26), ha cominciato (28), l'ho presentata… ha comprato (29), ha firmato (34), è stata depositata (34), Non ho pensato (37), Ha detto sì (38), Ha versato (40), Ho fatto… Ho incontrato (41), Ho cenato (45), Le ho chiesto (48), ho sempre fatto (51), Le ho appena risposto (53), Mi ha raccontato (54), L'ho saputo. Me l'ha detto… Mi ha detto… ho deciso (56), sono morti… è caduto (62), È stata una tragedia (63), Ha visitato? (64), Ho visto (67), ho visto… ho pensato (73), mi ha preso… mi ha portato… l'ho seguito (73), sono diventato (75), ha accettato (83), mi hanno proposto (86), Ho detto (94), le ha scritte… le ho approvate (96), ha fatto (96, 128), Ho cominciato (100), hanno venduto (101), Nessuno le ha obbligate. Hanno preso (102), l'ha inventato. L'ha solo scritto (102), l'ha immaginata… ha comprato… ha trovato (104), sei stato (108), ho finito (114), L'ho detto (118), ha fatto (118), è risalito (149), ho capito (148), è caduto (148), Augusto le ha risposto. Ma ha detto (142) / produceva (13), Chiedevano (18), Erano (18), Non conoscevo (19), dava (26), sapeva (30, 46, 50), lavorava (34), Era contento (35), C'era (42), non era invitato (43), finanziava (46, 52), mi diceva. Faceva… avevo (51), Eravamo (51), correvano… suonavano… si fermavano (67), Era lì (67), Avevo quattro anni (69), Non c'era (69), costavano… rallentavano (69), c'era già (86), Filava (100), non sapevano (101, 102), costavano… dicevano (104), cuciva (127), dovevo (146) |
 | 대과거 | Me l'aveva detto lui (35), era caduto il secondo (67), Il costruttore aveva detto (69), Avevamo detto integrale (126) |
 | 원과거 | ne licenziarono… trovò… andarono (18), mi portò… passarono… mi disse (51), Cadde (69), Mia madre ricevette (71), Mi dissero (86), glielo disse… me lo disse (87–90), entrò… Fu cacciata… chiese… Quella fu… la decisero… la governò… Andò… Lavò… mi mandò… fu umiliata (100), chiese (133) |
 | 미래·전미래 | tornerà a produrre (13), lo scoprirà (118), Sarà integrale (126), glielo chiederà… glielo chiederò (125), Ci rivedremo (134), annuncerà (144), lo saprà (146) |

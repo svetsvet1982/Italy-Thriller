@@ -5,7 +5,7 @@
 > 유형: 🔍 취재형 · 150턴
 > 등장인물:
 > - 엘레나(Elena), 루카(Luca), 토마소(Tommaso), 다비데(Davide), 레오(Leo), 마테오(Matteo), 리치 변호사(Ricci)
-> - 시모네 갈비아티(Simone), 페데리카 로(Federica Rho, 모란디니 캠프 대변인, 전화), 이바나 콜롬보(Ivana, 녹화 화면), 안나 모레티(Anna Moretti, 루카의 어머니, 재봉사)
+> - 시모네 갈비아티(Simone), 페데리카 로(Federica Rho, 모란디니 캠프 대변인, 전화), 이바나 콜롬보(Ivana, 녹화 화면), 레나토 모레티(Renato Moretti, 72, 루카의 아버지, 은퇴한 전차 운전사)
 > 인용: 속담 "Chi ben comincia è a metà dell'opera"
 
 ---
@@ -129,43 +129,43 @@
 ---
 
 ### 4장면 (101–135턴)
-*밤 9시, 루카 어머니의 집. 칼베어사의 오래된 아파트, 거실이 재봉 작업실이다. 안나가 마네킹에 걸린 루카의 회색 재킷 소매를 고치고 있다.*
+*밤 9시, 산시로 서민 아파트 4층, 루카 아버지 레나토의 집. 부엌 식탁 위에 세상을 떠난 어머니 조반나의 낡은 재봉틀 Necchi가 놓여 있다. 레나토가 돋보기를 쓰고 루카의 회색 재킷 소매에 핀을 꽂고 있다.*
 
-101. Anna: (Con gli spilli in bocca) Stai fermo. Alza il braccio. No, l'altro.
-102. Luca: Mamma, è una giacca di sei anni fa. Va bene così.
-103. Anna: Va bene così per andare al bar. Non per parlare con uno che vuole fare il presidente. (Togliendo gli spilli) Le maniche sono lunghe di un centimetro. In televisione si vede tutto. Quando gesticoli, sembri un bambino con la giacca del papà.
-104. Luca: (Ridendo) Grazie, mamma.
-105. Anna: (Sedendosi alla macchina da cucire, una vecchia Necchi) Allora. Le domande le hai preparate?
-106. Luca: Le abbiamo preparate tutti insieme. Cinquantotto. Ne ho tenute quindici.
-107. Anna: E la prima?
-108. Luca: (Esitando) La prima è una domanda facile. Sulla storia di una fabbrica.
-109. Anna: (Annuendo, cucendo) Bene. Chi ben comincia è a metà dell'opera. (Pausa) Me lo diceva mia madre quando avevo nove anni. Mi insegnò a cucire così. «Il primo punto, Anna. Il primo punto decide tutta la cucitura. Se il primo è storto, puoi fare cento punti perfetti dopo, ma la cucitura resta storta.»
-110. Luca: Lo so. Me l'hai detto mille volte.
-111. Anna: Te l'ho detto mille volte e te lo dico la milleunesima. (Pausa, fermando la macchina) Il primo punto non deve essere il più forte. Deve essere il più dritto. Capisci?
-112. Luca: (Dopo un momento) Capisco.
-113. Anna: (Riprendendo a cucire) Quando eri piccolo, volevi fare l'avvocato. Ti ricordi?
-114. Luca: Me lo ricordo.
-115. Anna: Ti mettevi la cravatta di tuo padre e facevi le arringhe davanti allo specchio. Difendevi il gatto che aveva rubato il pesce. (Ride) Vincevi sempre.
+101. Renato: (Con gli spilli in bocca) Stai fermo. Alza il braccio. No, l'altro.
+102. Luca: Papà, è una giacca di sei anni fa. Va bene così.
+103. Renato: Va bene così per andare al bar. Non per parlare con uno che vuole fare il presidente. (Togliendo gli spilli) Le maniche sono lunghe di un centimetro. In televisione si vede tutto. Quando gesticoli, sembri un bambino con la giacca del papà.
+104. Luca: (Ridendo) Sono un bambino con la giacca del papà. Me l'hai regalata tu.
+105. Renato: (Sedendosi alla macchina da cucire, accarezzandola) Allora. Le domande le hai preparate?
+106. Luca: Le abbiamo preparate tutti insieme. Cinquantotto. Ne ho tenute quindici. (Pausa) Papà. Da quando sai cucire?
+107. Renato: Da quando tua madre non c'è più. (Pausa) Gli ultimi due anni, quando non riusciva più a tenere l'ago, mi faceva sedere qui. Lei guardava. Io cucivo. E lei mi sgridava. Come ai tempi del tram, quando sbagliavo fermata.
+108. Luca: (Piano) Non me l'hai mai detto.
+109. Renato: (Annuendo, cucendo) Non me l'hai mai chiesto. (Pausa) E la prima domanda?
+110. Luca: (Esitando) La prima è una domanda facile. Sulla storia di una fabbrica.
+111. Renato: Bene. Chi ben comincia è a metà dell'opera. (Pausa) Lo diceva tua madre. Glielo insegnò sua madre a nove anni, a Rovigo. «Il primo punto, Giovanna. Il primo punto decide tutta la cucitura. Se il primo è storto, puoi fare cento punti perfetti dopo, ma la cucitura resta storta.»
+112. Luca: Lo so. Me l'ha detto mille volte. Da bambino.
+113. Renato: E io te lo dico la milleunesima. (Pausa, fermando la macchina) Il primo punto non deve essere il più forte. Deve essere il più dritto. Lei diceva così. Capisci?
+114. Luca: (Dopo un momento) Capisco.
+115. Renato: (Riprendendo a cucire) Quando eri piccolo, volevi fare l'avvocato. Ti mettevi la mia cravatta, quella delle feste, e facevi le arringhe davanti allo specchio. Difendevi il gatto della signora Brambilla, che aveva rubato il pesce di Ugo. (Ride) Vincevi sempre.
 116. Luca: Il gatto era innocente.
-117. Anna: Il gatto era colpevolissimo. (Pausa) Poi il tuo professore... come si chiamava? Quello con la barba.
+117. Renato: Il gatto era colpevolissimo. Ugo l'ha raccontato per vent'anni. (Pausa) Poi il tuo professore... come si chiamava? Quello con la barba.
 118. Luca: Sironi.
-119. Anna: Sironi. Ti disse quella frase. Che l'avvocato difende un cliente e il giornalista difende quelli che non hanno un avvocato. (Pausa) Tornasti a casa quella sera e mi dicesti: «Mamma, cambio strada.» Io piansi. Pensavo che i giornalisti morissero di fame.
+119. Renato: Sironi. Ti disse quella frase. Che l'avvocato difende un cliente e il giornalista difende quelli che non hanno un avvocato. (Pausa) Tornasti a casa quella sera e dicesti a tua madre: «Mamma, cambio strada.» Lei pianse. Io pensavo che i giornalisti morissero di fame.
 120. Luca: (Sorridendo) Un po' è vero.
-121. Anna: Un po' è vero. (Pausa) Ma se tu avessi fatto l'avvocato, adesso difenderesti uno come quello. Morandini. Lo pagherebbe bene. (Pausa) E io non ti cucirei le maniche con lo stesso piacere.
-122. Luca: (Guardandola) Mamma. Se Sironi fosse vivo, sarebbe lui a fare questa intervista. Non io.
-123. Anna: (Smettendo di cucire) No. (Pausa) Se Sironi fosse vivo, ti guarderebbe dalla porta. Come ti guardo io adesso. E non direbbe niente. Perché sapeva che il primo punto devi farlo tu.
-124. Luca: (Dopo un lungo silenzio, la voce che si incrina appena) Ho paura, mamma.
-125. Anna: (Alzandosi, tenendo la giacca finita, mettendogliela sulle spalle) Lo so. Anche io avevo paura il giorno del primo vestito da sposa. Era della figlia del farmacista. Novantadue. Avevo il terrore di tagliare la seta storta.
+121. Renato: Un po' è vero. (Pausa) Ma se tu avessi fatto l'avvocato, adesso difenderesti uno come quello. Morandini. Ti pagherebbe bene. (Pausa) E io non ti cucirei le maniche con lo stesso piacere.
+122. Luca: (Guardandolo) Papà. Se Sironi fosse vivo, sarebbe lui a fare questa intervista. Non io.
+123. Renato: (Smettendo di cucire) No. (Pausa) Se Sironi fosse vivo, ti guarderebbe dalla porta. Come ti guarderebbe tua madre. E non direbbe niente. Perché sapeva che il primo punto devi farlo tu.
+124. Luca: (Dopo un lungo silenzio, la voce che si incrina appena) Ho paura, papà.
+125. Renato: (Alzandosi, tenendo la giacca finita, mettendogliela sulle spalle) Lo so. Anch'io avevo paura il primo giorno sul sedici. Settantotto. Il tram era più lungo della mia vita. Avevo il terrore di prendere la curva di piazzale Lotto troppo veloce.
 126. Luca: E com'è andata?
-127. Anna: L'ho tagliata dritta. (Pausa) E la sposa ha divorziato dopo due anni. (Ride) Ma il vestito era perfetto. Ce l'ha ancora. Me l'ha detto al mercato l'anno scorso.
+127. Renato: L'ho presa piano. (Pausa) E un signore è sceso e ha detto all'ispettore che guidavo come una lumaca. (Ride) Ma nessuno è caduto. Quarant'anni, e nessuno è mai caduto.
 128. Luca: (Ridendo, infilando le braccia nelle maniche) Perfette.
-129. Anna: (Guardandolo, sistemandogli il colletto) Un centimetro. (Pausa) Adesso sembri un uomo che sa cosa vuole chiedere.
+129. Renato: (Guardandolo, sistemandogli il colletto, come faceva lei) Un centimetro. (Pausa) Adesso sembri un uomo che sa cosa vuole chiedere.
 130. Luca: E se non lo so?
-131. Anna: Allora fingi. Per i primi tre minuti. (Pausa) Dopo, lo saprai.
-132. Luca: (Abbracciandola) Grazie, mamma.
-133. Anna: (Dandogli una pacca sulla schiena) Quanto ti devo?
+131. Renato: Allora fingi. Per i primi tre minuti. (Pausa) Dopo, lo saprai.
+132. Luca: (Abbracciandolo) Grazie, papà.
+133. Renato: (Dandogli una pacca sulla schiena) Quanto ti devo?
 134. Luca: (Confuso) Cosa?
-135. Anna: (Ridendo) Niente. Il tuo giornale non accetta niente gratis, no? Me l'ha detto Leo. Allora domenica vieni a pranzo. Così siamo pari.
+135. Renato: (Ridendo) Niente. Il tuo giornale non accetta niente gratis, no? Me l'ha detto Leo. Allora domenica vieni a pranzo. Ti faccio il risotto. Così siamo pari.
 
 ---
 
@@ -180,7 +180,7 @@
 141. Luca: (Piano) Il cotonificio.
 142. Matteo: Hanno letto la nostra prima domanda.
 143. Tommaso: Non possono averla letta. È nella busta.
-144. Elena: (Continuando) «Come richiesto, vi informiamo della presenza di altre persone. Oltre al candidato e alla sottoscritta, assisterà all'intervista, senza intervenire, il proprietario del sito.» (Pausa) «Il cavalier Sergio Valenti.»
+144. Elena: (Continuando) «Come richiesto, vi informiamo della presenza di altre persone. Oltre al candidato e alla sottoscritta, assisterà all'intervista, senza intervenire, il proprietario del sito.» (Pausa) «Il cavalier Augusto Valenti.»
 145. Luca: (Immobile)
 146. Tommaso: Valenti. Nel cotonificio. Davanti alla telecamera.
 147. Leo: Vuole guardarti in faccia mentre fai le domande.
@@ -200,13 +200,13 @@
 | ② 출처 | 고대 그리스 격언 *Ἀρχὴ ἥμισυ παντός*(시작이 전체의 절반, 플라톤 『법률』, 아리스토텔레스 『니코마코스 윤리학』)와 호라티우스 『서간집』 1.2.40의 *Dimidium facti qui coepit habet*(시작한 사람은 일의 절반을 해낸 것이다)에서 온 이탈리아 속담. |
 | ③ 번역 | 잘 시작한 사람은 일의 절반에 와 있다. 시작이 반이다. |
 | ④ 배경 | 한국어 "시작이 반이다"와 같은 뿌리다. 다만 이탈리아어에는 *ben*(잘)이 들어 있다. 그냥 시작하는 게 아니라 '잘' 시작해야 반이다. 이탈리아 학교에서 첫 수업 날 교사들이 칠판에 자주 쓰는 문장이다. |
-| ⑤ 이 화에서의 맥락 | **28–30턴, 엘레나** / **109–111턴, 루카의 어머니 안나** / **150턴, 엘레나.** |
-| | 첫 질문을 고르는 세 가지 지혜: ① 엘레나: "40분 인터뷰에서 처음 3분이 나머지 37분을 정한다." 1998년 로마에서 가장 센 질문으로 시작했다가 장관이 4분 만에 나가 버린 실패담(38턴). ② 토마소의 경찰 기법: '문 열기'. 상대가 부정할 수 없는 사실로 시작해 카메라 앞 첫마디가 '네'가 되게 한다(35–37턴). ③ 안나의 재봉: "첫 땀이 바느질 전체를 정한다. 첫 땀은 가장 세지 않아도 된다. 가장 곧아야 한다."(109–111턴) |
+| ⑤ 이 화에서의 맥락 | **28–30턴, 엘레나** / **111–113턴, 루카의 아버지 레나토(어머니 조반나의 말)** / **150턴, 엘레나.** |
+| | 첫 질문을 고르는 세 가지 지혜: ① 엘레나: "40분 인터뷰에서 처음 3분이 나머지 37분을 정한다." 1998년 로마에서 가장 센 질문으로 시작했다가 장관이 4분 만에 나가 버린 실패담(38턴). ② 토마소의 경찰 기법: '문 열기'. 상대가 부정할 수 없는 사실로 시작해 카메라 앞 첫마디가 '네'가 되게 한다(35–37턴). ③ 세상을 떠난 어머니 조반나의 재봉 지혜를, 아내의 재봉틀 앞에 앉은 아버지 레나토가 전한다. "첫 땀이 바느질 전체를 정한다. 첫 땀은 가장 세지 않아도 된다. 가장 곧아야 한다."(111–113턴) |
 | | 그래서 고른 첫 질문은 마테오의 아이디어다. "보르사니 면방직 공장의 역사를 아십니까?" 모란디니는 '네'라고 할 수밖에 없다. 그다음은 1962년 해고된 열두 명의 방적공, 그다음은 그중 한 명의 아들이다. 발렌티의 이름을 먼저 말하지 않고 거기까지 간다(46–53턴). 마지막 질문은 "드론 밸리는 누구의 것입니까?"다. |
 | | 시모네의 조언: 모란디니는 답하기 싫을 때 아버지 이야기를 한다. 일곱 개 중 여섯은 시모네가 썼고, 단 하나, 안전장치 없는 비계에서 떨어져 죽은 아버지 이야기만 진짜다(76–78턴). 이야기를 끝까지 듣고 똑같은 질문을 똑같은 말로 다시 하라(80턴). 그리고 오로비카 협동조합의 산재 사망 사고와 이어지는 질문이 생긴다. "아버님이 살아 계셨다면 아그라테 창고에 대해 뭐라고 하셨을까요?"(95턴) 루카가 정한 규칙은, 그 이야기가 나올 때만 이 질문을 한다는 것이다. |
 | ⑥ 언어 포인트 | **chi + 3인칭 단수**: '…하는 사람은'. 이탈리아 속담에 가장 흔한 구조다. *Chi dorme non piglia pesci*(자는 사람은 물고기를 못 잡는다), *Chi va piano va sano e va lontano*(천천히 가는 사람이 안전하게 멀리 간다), *Chi la fa l'aspetti*(12화). |
 | | **ben(e) + 동사**: 동사 앞의 *ben*은 강조나 정도를 나타낸다. *ben fatto*(잘했다), *ben detto*(옳은 말이다), *Lo so ben io*(내가 잘 알지). |
-| | 재봉 어휘: *spilli*(시침핀, 101턴), *macchina da cucire*(재봉틀, 105턴), *cucitura / punto*(바느질선 / 땀, 109턴), *maniche*(소매, 103턴), *colletto*(깃, 129턴), *tagliare storto / dritto*(비뚤게 / 곧게 자르다, 125–127턴), *vestito da sposa*(웨딩드레스, 125턴). |
+| | 재봉 어휘: *spilli*(시침핀, 101턴), *macchina da cucire*(재봉틀, 105턴), *cucitura / punto*(바느질선 / 땀, 111턴), *maniche*(소매, 103턴), *colletto*(깃, 129턴), *ago*(바늘, 107턴), *sbagliare fermata*(정거장을 놓치다, 107턴). |
 | | 인터뷰 어휘: *concedere un'intervista*(인터뷰에 응하다, 12턴), *pubblicabile integralmente*(전문 공개 가능, 12턴), *smentita*(정정·부인 성명, 82턴), *chiudersi come un'ostrica*(굴처럼 입을 다물다, 60턴), *cascarci*(속아 넘어가다, 62턴 *Non ci casco*), *arringa*(변론, 115턴). |
 
 ---
@@ -215,12 +215,12 @@
 
 | 범주 | 예문 (턴) |
 |---|---|
-| 근과거·반과거 | ha scelto (2), ha risposto (6), ha titolato… abbiamo titolato (6), Ha cambiato idea (18), l'ha cambiata (24), ha capito (24), l'ho visto (37, 82), ha presentato (40), ha firmato (42), L'ha visitato. L'ha nominato… Ha detto (46), ha detto (57), l'ha scritto (65), Testori ti ha detto (71), Ho letto (72), Le ho scritte (76), gli ho scritto (78), mi ha chiesto (82), è mai avvenuta (83), sono… stato (84), Le hai preparate? — Le abbiamo preparate. Ne ho tenute (105–106), Me l'hai detto… Te l'ho detto (110–111), L'ho tagliata… ha divorziato… Me l'ha detto (127), Me l'ha detto Leo (135), avete cambiato (136), Avevano detto (137) / si nascondeva (23), Lo chiamavamo (37), Avevo ventisei anni. Pensavo (38), faceva… diceva (74), si alzava (76), Erano… bugie (82), volevi (113), Ti mettevi… facevi… Difendevi… Vincevi (115), si chiamava (117), Pensavo (119), sapeva (123), avevo paura… Era della figlia… Avevo il terrore (125) |
-| 대과거 | avevo perso (38), aveva rubato il pesce (115), Quello che aveva detto arrabbiato (82), Avevano detto (137) |
-| 원과거 | feci… cominciai… Il ministro si alzò… se ne andò… mi spiegò (38), non accettò… portò (76), morì (76, 91), Mi insegnò (109), Ti disse… Tornasti… mi dicesti… Io piansi (119) |
+| 근과거·반과거 | ha scelto (2), ha risposto (6), ha titolato… abbiamo titolato (6), Ha cambiato idea (18), l'ha cambiata (24), ha capito (24), l'ho visto (37, 82), ha presentato (40), ha firmato (42), L'ha visitato. L'ha nominato… Ha detto (46), ha detto (57), l'ha scritto (65), Testori ti ha detto (71), Ho letto (72), Le ho scritte (76), gli ho scritto (78), mi ha chiesto (82), è mai avvenuta (83), sono… stato (84), Me l'hai regalata (104), Le hai preparate? — Le abbiamo preparate. Ne ho tenute (105–106), Non me l'hai mai detto. — Non me l'hai mai chiesto (108–109), Me l'ha detto mille volte (112), l'ha raccontato (117), L'ho presa… è sceso e ha detto… nessuno è caduto (127), Me l'ha detto Leo (135), avete cambiato (136), Avevano detto (137) / si nascondeva (23), Lo chiamavamo (37), Avevo ventisei anni. Pensavo (38), faceva… diceva (74), si alzava (76), Erano… bugie (82), non riusciva… mi faceva… guardava… cucivo… mi sgridava… sbagliavo (107), diceva (111, 113), volevi… Ti mettevi… facevi… Difendevi… Vincevi (115), si chiamava (117), pensavo (119), sapeva (123), avevo paura… era più lungo… Avevo il terrore (125), guidavo (127), faceva (129) |
+| 대과거 | avevo perso (38), aveva rubato il pesce di Ugo (115), Quello che aveva detto arrabbiato (82), Avevano detto (137) |
+| 원과거 | feci… cominciai… Il ministro si alzò… se ne andò… mi spiegò (38), non accettò… portò (76), morì (76, 91), Glielo insegnò (111), Ti disse… Tornasti… dicesti… Lei pianse (119) |
 | 미래·전미래 | Sarà fatto (21), ci saranno i droni (46), farà l'intervista (72), lo saprai (131), si terrà… presenterà (140), assisterà (144) |
-| 조건법 현재·과거 | direbbe (95), difenderesti… pagherebbe… non ti cucirei (121), sarebbe lui (122), ti guarderebbe… non direbbe (123) / Non dovresti essere qui (71, 현재) |
-| 접속법 4시제 | (현재) niente che sia nell'indagine (72), Pensi che possa farlo? (85) / (과거) prove che si sia arricchito… che abbia firmato (66), che nessuno gliel'abbia mai chiesto (86), Chiunque l'abbia visto (73) / (반과거) Penso che lo volesse fare (86), Pensavo che i giornalisti morissero (119), Se Sironi fosse vivo (122, 123), Se suo padre fosse vivo (95), E se cominciassimo dal cotonificio? (44) / (대과거) se tu avessi fatto l'avvocato (121), Come se la storia non ci fosse stata (80) |
-| 가정문 | 1형: Se la prima domanda è sbagliata, lui prende il ritmo (28), Se è giusta, il ritmo lo prendi tu (30), Se non c'è un documento, lui dice (34), Se dice sì, gli chiedo… Se dice no, gli racconti (49–50), Se arrivo lì e lui risponde, è un'intervista (55), Se la faccio all'inizio, si chiude (60), Se ne parlo, lui dice (62), Se me lo chiede, rispondo (65), se vi chiedono…, la risposta è (73), Se lo tratti come loro, … si difende (84), Se il primo è storto, … resta storta (109), se lui è lì, la prima domanda diventa (149) / 2형: Se suo padre fosse vivo, cosa direbbe? (95), Se Sironi fosse vivo, sarebbe lui… ti guarderebbe (122–123) / 3형(혼합): se tu avessi fatto l'avvocato, adesso difenderesti (121) |
+| 조건법 현재·과거 | direbbe (95), difenderesti… ti pagherebbe… non ti cucirei (121), sarebbe lui (122), ti guarderebbe… Come ti guarderebbe tua madre… non direbbe (123) / Non dovresti essere qui (71, 현재) |
+| 접속법 4시제 | (현재) niente che sia nell'indagine (72), Pensi che possa farlo? (85) / (과거) prove che si sia arricchito… che abbia firmato (66), che nessuno gliel'abbia mai chiesto (86), Chiunque l'abbia visto (73) / (반과거) Penso che lo volesse fare (86), pensavo che i giornalisti morissero (119), Se Sironi fosse vivo (122, 123), Se suo padre fosse vivo (95), E se cominciassimo dal cotonificio? (44) / (대과거) se tu avessi fatto l'avvocato (121), Come se la storia non ci fosse stata (80) |
+| 가정문 | 1형: Se la prima domanda è sbagliata, lui prende il ritmo (28), Se è giusta, il ritmo lo prendi tu (30), Se non c'è un documento, lui dice (34), Se dice sì, gli chiedo… Se dice no, gli racconti (49–50), Se arrivo lì e lui risponde, è un'intervista (55), Se la faccio all'inizio, si chiude (60), Se ne parlo, lui dice (62), Se me lo chiede, rispondo (65), se vi chiedono…, la risposta è (73), Se lo tratti come loro, … si difende (84), Se il primo è storto, … resta storta (111), se lui è lì, la prima domanda diventa (149) / 2형: Se suo padre fosse vivo, cosa direbbe? (95), Se Sironi fosse vivo, sarebbe lui… ti guarderebbe (122–123) / 3형(혼합): se tu avessi fatto l'avvocato, adesso difenderesti (121) |
 | 명령법 | tu: Stai fermo. Alza (101), non interromperlo. Lascialo… ripeti (80), non tornare (87), Salutamelo (90), fingi (131), vieni (135) / voi: Guardate (1), Scrivete (66), Accettate? (19, 직설) / Lei: Se lo ricordi (83) / noi: Passiamo (2) |
-| 기타 | 수동태 è stato soppresso (3), Sarà fatto (21), si terrà (140) / si 구문 si può rispondere (32), Non si comincia… Si comincia (35), si vede tutto (103), si parla solo (8) / 제룬디오 Facendo (1), Ridendo (3, 90, 104, 128, 135), Spegnendo (4), Rispondendo (9), Alzando (13), Guardando (14, 20, 53, 65, 73, 85, 96, 122, 129, 137, 149), Andando… cancellando… scrivendo (30), Contando (31), Cancellando (33), Annuendo (38, 109, 150), Pensandoci (42), Fischiando (51), Scrivendo (53, 95), Esitando (57, 108), Approvando (63), Leggendo (66, 140), Correggendo (67), Alzandosi (71, 84, 125), Sedendosi (74, 105), cadendo (76, 91), Mettendo (83), Accompagnandolo (87), uscendo (90), Cercando (93), Togliendo (103), cucendo (109), fermando (111), Riprendendo (113), Smettendo (123), tenendo… mettendogliela (125), infilando (128), sistemandogli (129), Abbracciandola (132), Dandogli (133), Firmando (136), Continuando (144) / 결합대명사 ce lo dite (20), Me lo diceva (109), Me l'hai detto… te lo dico (110–111), Me lo ricordo (114), gliel'abbia mai chiesto (86), ve l'ha detta (73), mettendogliela (125), Ce l'ha ancora. Me l'ha detto (127), Salutamelo (90) |
+| 기타 | 수동태 è stato soppresso (3), Sarà fatto (21), si terrà (140) / si 구문 si può rispondere (32), Non si comincia… Si comincia (35), si vede tutto (103), si parla solo (8) / 제룬디오 Facendo (1), Ridendo (3, 90, 104, 128, 135), Spegnendo (4), Rispondendo (9), Alzando (13), Guardando (14, 20, 53, 65, 73, 85, 96, 122, 129, 137, 149), Andando… cancellando… scrivendo (30), Contando (31), Cancellando (33), Annuendo (38, 109, 150), accarezzandola (105), Pensandoci (42), Fischiando (51), Scrivendo (53, 95), Esitando (57, 108), Approvando (63), Leggendo (66, 140), Correggendo (67), Alzandosi (71, 84, 125), Sedendosi (74, 105), cadendo (76, 91), Mettendo (83), Accompagnandolo (87), uscendo (90), Cercando (93), Togliendo (103), cucendo (109), fermando (113), Riprendendo (115), Smettendo (123), tenendo… mettendogliela (125), infilando (128), sistemandogli (129), Abbracciandolo (132), Dandogli (133), Firmando (136), Continuando (144) / 결합대명사 ce lo dite (20), Me l'hai regalata (104), Non me l'hai mai detto (108), Glielo insegnò (111), te lo dico (113), gliel'abbia mai chiesto (86), ve l'ha detta (73), mettendogliela (125), Me l'ha detto (135), Salutamelo (90) |

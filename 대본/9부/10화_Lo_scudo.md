@@ -96,7 +96,7 @@
 67. Sacchi: (Con un sorriso stanco) Hanno una cassetta. (Pausa) E un indirizzo. (Pausa) È un servizio di domiciliazione. (Pausa) Al quarto piano c'è una società che affitta gli indirizzi. (Pausa) Ottanta euro al mese. (Pausa) Ci sono trenta ditte qui dentro. (Pausa) Io ne ho viste entrare di persona tre. (Pausa) In sei anni.
 68. Sara: (Avvicinandosi al bancone) E lo Studio Lambro?
 69. Sacchi: (Posando la maglia, guardandoli bene) Voi siete giornalisti.
-70. Luca: (Con onestà) Sì. (Pausa) Inchiostro. (Pausa) Di Milano.
+70. Luca: (Con onestà) Sì. (Pausa) Il Riflettore. (Pausa) Di Milano.
 71. Sacchi: (Dopo un momento, con un mezzo sorriso) Lo leggo. (Pausa) Mio figlio me l'ha messo sul telefono. (Pausa) Quello del ragazzo arrestato e poi liberato.
 72. Luca: (Piano) Sono io.
 73. Sacchi: (Guardandolo meglio) Ah. (Pausa) Più magro che in fotografia. (Pausa) Si sieda. (Pausa) Tutti e due. (Pausa) Vi dico quello che ho visto. (Pausa) Non quello che penso. (Pausa) Va bene così?

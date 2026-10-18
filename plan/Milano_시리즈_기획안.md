@@ -461,7 +461,7 @@
 |---|---|---|---|---|---|
 | 1 | 🤝 | Il figlio (아들) | 필리포가 처음으로 얼굴을 드러내고 증언한다. 왜 아버지를 배신하는가. 어머니의 죽음과 아버지의 침묵. | 8부 15화 | 속담 "Tale padre, tale figlio" (필리포가 뒤집는 말) |
 | 2 | 🔍 | La chiave (열쇠) | 필리포가 빼낸 암호화 USB. 비밀번호는 시로니의 기사 제목이었다. 같은 날 15개국 기자들이 'Progetto Inchiostro'를 결성한다. | 2부 '일 코르보' | 에코 『장미의 이름』 "Stat rosa pristina nomine, nomina nuda tenemus" |
-| 3 | 🔍 | La baita (산장) | 베르가모 산장에 숨겨진 시로니의 상자: 녹음테이프, 수첩, Falco 첫 군납 계약의 리베이트 장부. | 4부 'Inchiostro 2016' | 속담 "Carta canta" |
+| 3 | 🔍 | La baita (산장) | 베르가모 산장에 숨겨진 시로니의 상자: 녹음테이프, 수첩, Falco 첫 군납 계약의 리베이트 장부. 2009년 발도르사 메모 "Troppo facile."(너무 쉬워)의 뒷장도 있다. | 4부 'Inchiostro 2016' | 속담 "Carta canta" |
 | 4 | 🤝 | La voce di Sironi (시로니의 목소리) | 사고 전날 밤의 음성 메모. "Se mi succede qualcosa, cercate Fonte Zero."(나한테 무슨 일이 생기면 폰테 제로를 찾아라) 토마소가 무너진다. | 시로니 미스터리 | 단테 연옥편 1곡 71–72행 "libertà va cercando, ch'è sì cara, / come sa chi per lei vita rifiuta" |
 | 5 | 🔍 | Il patto (거래) | 수감 중인 네리가 감형을 대가로 증언하겠다고 한다. 교도소 면회실. | 4부 | 라틴 법언 "Pacta sunt servanda" |
 | 6 | ⚡ | Cella 14 (14호 감방) | 증언 전날 네리가 감방에서 숨진 채 발견된다. 자살인가 입막음인가. 그날 밤 파브리 검사가 정치 압박으로 사건에서 배제된다. | 4부·8부 | 역사: 1986년 보게라 교도소, 미켈레 신도나의 독이 든 커피 |
@@ -488,7 +488,7 @@
 |---|---|---|---|---|---|
 | 1 | D-14 | ⚡ | Dopo l'agguato (습격 이후) | 필리포가 중상을 입는다. 증인보호 프로그램으로 넘길지, 언론이 끝까지 지킬지 갈등한다. | 파올로 보르셀리노(전해지는 말) "Chi ha paura muore ogni giorno, chi non ha paura muore una volta sola" |
 | 2 | D-13 | 🤝 | Mio padre (나의 아버지) | 루카 아버지의 시골집 상공에 밤마다 드론이 뜬다. 처음으로 가족이 표적이 된다. 부자의 tu 대화. | 단테 지옥편 15곡 85행 "m'insegnavate come l'uom s'etterna" |
-| 3 | D-12 | 🔍 | Le voci (목소리들) | 1~8부 증인들의 증언을 영상으로 기록하는 프로젝트: 피살자의 아내, 응원석 소년, 건축가, 보좌관, 왕, 텔레그램 청년. | 프리모 레비 『가라앉은 자와 구조된 자』 "È avvenuto, quindi può accadere di nuovo" |
+| 3 | D-12 | 🔍 | Le voci (목소리들) | 1~8부 증인들의 증언을 영상으로 기록하는 프로젝트: 피살자의 아내, 응원석 소년, 건축가, 보좌관, 발도르사의 파올로, 왕, 텔레그램 청년. | 프리모 레비 『가라앉은 자와 구조된 자』 "È avvenuto, quindi può accadere di nuovo" |
 | 4 | D-11 | 🔍 | Il ministero (장관실) | 정부 고위 인사가 국가안보를 이유로 보도 중단을 요청한다. "대교 사업은 국가 전략 사업이오." 7부 13화보다 훨씬 무거운 압박. | 안드레오티 "Il potere logora chi non ce l'ha" |
 | 5 | D-10 | 📰 | L'ingiunzione (금지명령) | Falco가 법원에 보도금지 가처분을 신청한다. 리치 변호사의 법정 공방. | 칼라만드레이(1955) "La libertà è come l'aria: ci si accorge di quanto vale quando comincia a mancare" |
 | 6 | D-9 | 🎭 | Il gala (갈라) | 루카가 발렌티 재단의 비공개 갈라에 위장 잠입한다. 시리즈 최고 수준의 Lei 대화. | 토마시 디 람페두사 『표범』 "Noi fummo i Gattopardi, i Leoni; quelli che ci sostituiranno saranno gli sciacalletti, le iene" |

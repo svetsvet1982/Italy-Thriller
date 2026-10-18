@@ -100,7 +100,7 @@
 73. Elena: (Chiudendo gli occhi) Mi dispiace.
 74. Adele: (Bevendo finalmente un sorso) Prima di morire, all'ospedale di Vigevano, mi ha detto una cosa. (Pausa) Non l'ho mai detta a nessuno. Neanche al prete.
 75. Luca: (Aspettando, immobile)
-76. Adele: (Guardando la tazza) Mi ha detto: «Adele. Una settimana prima, Stefano mi ha detto che al magazzino c'era una cosa che non gli piaceva. Che ne avrebbe parlato con Paolo.» (Pausa) «Non gli ho chiesto cosa. Pensavo che fosse per il rumore dei camion.» (Pausa) «Se gliel'avessi chiesto, forse...»
+76. Adele: (Guardando la tazza) Mi ha detto: «Adele. Una settimana prima, Stefano mi ha detto che al magazzino c'era una cosa che non gli piaceva. Che ne avrebbe parlato con Paolo.» (Pausa) «Non gli ho chiesto cosa. Pensavo che fosse per il rumore dei camion.» (Pausa) «Se gliel'avessi chiesto, forse oggi sarebbe ancora vivo.»
 77. Elena: (Piano) Forse.
 78. Adele: (Posando la tazza) Gianni è morto con quel «forse» in bocca. (Pausa) E io l'ho seppellito con lui. Per non doverci pensare.
 79. Luca: (Lentamente) Una cosa al magazzino.
@@ -141,15 +141,15 @@
 108. Luca: (Immobile) Lei aveva sentito?
 109. Don Luigi: (Lentamente) La canonica è lì. (Indicando una casa dietro la chiesa, visibile in fondo ai campi) A quattrocento metri. (Pausa) Quella notte io non dormivo. Ero alla finestra. A pregare per mia sorella, che stava morendo a Novara.
 110. Elena: E cosa ha visto?
-111. Don Luigi: (Dopo un lungo silenzio) Ho visto due fari. Del camion. All'una meno dieci. (Pausa) E prima, a mezzanotte e mezza, ho visto una torcia. Nel fienile degli Zerli. Che si muoveva. (Pausa) E un'altra torcia. Nel cortile del magazzino. Che si muoveva verso la strada. (Pausa) Due torce.
+111. Don Luigi: (Dopo un lungo silenzio) Vidi due fari. Del camion. All'una meno dieci. (Pausa) E prima, a mezzanotte e mezza, ho visto una torcia. Nel fienile degli Zerli. Che si muoveva. (Pausa) E un'altra torcia. Nel cortile del magazzino. Che si muoveva verso la strada. (Pausa) Due torce.
 112. Luca: (Senza respirare) Due torce.
 113. Don Luigi: Due. (Pausa) Al processo dissero che Paolo era solo. (Pausa) Io sapevo che le torce erano due.
 114. Elena: (Con la voce dura) E perché non l'ha detto?
 115. Don Luigi: (Guardandola, con una tristezza infinita) Perché il giorno dopo il funerale venne da me un uomo. In canonica. Gentile. Con la giacca di pelle. (Pausa) Mi disse: «Padre, il magazzino ha appena promesso il tetto nuovo. Sarebbe un peccato se la diocesi venisse a sapere che il parroco di Valdorsa passa le notti alla finestra invece che a letto.»
 116. Luca: (Piano) Neri.
-117. Don Luigi: Non so come si chiamasse. (Pausa) So che io ho avuto paura. (Pausa) Per il tetto. Per la mia parrocchia. (Pausa) Per me.
+117. Don Luigi: Non so come si chiamasse. (Pausa) So che io ho avuto paura. (Pausa) Se avessi parlato, forse Paolo non sarebbe stato condannato da solo. (Pausa) Per il tetto. Per la mia parrocchia. (Pausa) Per me.
 118. Adele: (Che è uscita sulla porta e ha sentito tutto, con un filo di voce) Don Luigi.
-119. Don Luigi: (Girandosi verso di lei, con le lacrime che scendono sulle guance rugose) Adele. (Pausa) Ogni giovedì da diciassette anni vengo qui a dirti messa in cucina. (Pausa) E ogni giovedì da diciassette anni non ti ho detto questo.
+119. Don Luigi: (Girandosi verso di lei, con le lacrime che scendono sulle guance rugose) Adele. (Pausa) Ogni giovedì da diciassette anni vengo qui a dirti messa in cucina. (Pausa) E ogni giovedì da diciassette anni non ti ho detto quello che avevo visto.
 120. Adele: (Immobile sulla soglia)
 121. Don Luigi: Cessate d'uccidere i morti. (Pausa) Te l'ho letta io, al funerale di Gianni. (Pausa) E intanto lo uccidevo anch'io. Stefano. Ogni giovedì. Con il mio silenzio.
 122. Adele: (Dopo un lunghissimo silenzio, scendendo lo scalino, prendendo il braccio del prete) Venga dentro, don Luigi. (Pausa) Fa freddo.
@@ -216,11 +216,11 @@
 | 범주 | 예문 (턴) |
 |---|---|
 | 근과거·반과거 | è diventato… si è trasferito (2), L'ho visto (11), Le ha fatte (17), L'ho fatta (17), Me l'ha detto (20), è morto… l'ha preso (21), Ho letto (23), l'ho comprato. L'ho letto… ho pensato (27), mi ha aiutata (29), Ne sono passati (45), me la sono comprata (47), ha detto (53), ho ucciso (58), L'ho ucciso… Ho fatto (58), ha più guardato… Hanno guardato (58), ha guardato (60), sono venuto (60), gli è venuto (72), mi ha detto (74, 76), l'ho mai detta (74), l'ho seppellito (78), ha detto (83), l'ha detto… l'ha scritto… l'ha mai pubblicato (85), ho guardato (90), ho detto (103), ho avuto paura (117), ha sentito (118), Te l'ho letta (121), è cambiato (127), è cresciuto (128–129), sono… invecchiato (129), Abbiamo passato… L'abbiamo trovata (132), ha firmato (142, 144, 146), ha fatto (148) / Lei era un ragazzo (11), venivano (17), Voleva (17, 60), scriveva (27), vedo (27), avevo (43), Era qui (37–38), stava zitto. Non guardava… diceva (68), era un pasticcione. Firmava… voleva (68), rispondeva? (69), era un vecchio scemo (70), dicevano (70), si alzava e andava. Si sedeva… stava (72), Pensavo (76), faceva. Leggeva (80), cambiavano (83), Lo sapeva (85), aveva (85), erano (96), non dormivo. Ero (109), stava morendo (109), si muoveva (111), sapevo (113), uccidevo (121), si fidava (144) |
-| 대과거 | l'aveva trovato (72), Le aveva dette → / aveva ucciso → / io non avevo sentito niente… Lei aveva sentito? (107–108), aveva appena promesso (115) |
-| 원과거 | lesse (47), Le piantò (96), Lei mi chiese… Io le dissi… le dissi (105), lo pagò (107), Ho visto → / dissero (113), venne… Mi disse (115) |
+| 대과거 | l'aveva trovato (72), io non avevo sentito niente… Lei aveva sentito? (107–108), quello che avevo visto (119) |
+| 원과거 | lesse (47), Le piantò (96), Lei mi chiese… Io le dissi… le dissi (105), lo pagò (107), Vidi (111), dissero (113), venne… Mi disse (115) |
 | 미래·전미래 | lo dirà (124), Andrò (148), farà? (147), vorrà (126) |
-| 조건법 현재·과거 | Sarebbe un peccato (115) / ne avrebbe parlato (76) |
-| 접속법 4시제 | (현재) Non so cosa voglia dire (144), ha il diritto che qualcuno la guardi (60) / (과거) una prova potrebbe essere stata sottratta (25, 수동 부정사) → / non vuol dire che sia stato lui (40) / (반과거) che fosse solo (40), Pensavo che fosse per il rumore (76), se la diocesi venisse a sapere (115), Non so come si chiamasse (117) / (대과거) Se gliel'avessi chiesto (76) |
-| 가정문 | 1형: E se ci caccia? — Se ci caccia, ce ne andiamo (6–7), E se non c'è? — Se non c'è, torno (61–62), E se c'è? — Se c'è, torno… prima di scriverlo (63–64), Se li volete…, Se sperate (원문) / 2형: Sarebbe un peccato se la diocesi venisse a sapere (115) / 3형(미완): Se gliel'avessi chiesto, forse... (76) |
+| 조건법 현재·과거 | Sarebbe un peccato (115), sarebbe ancora vivo (76) / ne avrebbe parlato (76), non sarebbe stato condannato (117) |
+| 접속법 4시제 | (현재) Non so cosa voglia dire (144), ha il diritto che qualcuno la guardi (60) / (과거) non vuol dire che sia stato lui (40), Se avessi parlato (117) / (반과거) che fosse solo (40), Pensavo che fosse per il rumore (76), se la diocesi venisse a sapere (115), Non so come si chiamasse (117) / (대과거) Se gliel'avessi chiesto (76) |
+| 가정문 | 1형: E se ci caccia? — Se ci caccia, ce ne andiamo (6–7), E se non c'è? — Se non c'è, torno (61–62), E se c'è? — Se c'è, torno… prima di scriverlo (63–64), Se li volete…, Se sperate (원문) / 2형: Sarebbe un peccato se la diocesi venisse a sapere (115) / 3형: Se avessi parlato, forse Paolo non sarebbe stato condannato da solo (117) / 혼합형: Se gliel'avessi chiesto, forse oggi sarebbe ancora vivo (76) |
 | 명령법 | voi: Entrate (15), Sedetevi (21, 45), lasciatelo… Lasciate (55), Cessate… Non gridate (원문) / Lei: Mi lasci finire (29), Mi dica (41), La legga (49), Continui (51), Venga (100, 122), Porti (130), Scriva (123) / tu: non dire… Ascolta (5) |
 | 기타 | 수동태 potrebbe essere stata sottratta (25) / si 구문 si è trasferito (2), si alzava… si sedeva (72) / 제룬디오 Guardando (1, 3, 11, 13, 18, 31, 53, 57, 60, 63, 82, 98, 101, 107, 115, 127, 149, 150), Aprendo (8, 9, 49, 53), Fermandosi (10, 101, 104, 125, 137), spostandosi (15), Entrando (16, 129), Girandosi (19, 35, 67, 94, 119), Sedendosi (22, 46), Restando (23), Abbassando (24), Alzando (29), Posando (34, 78), Voltandosi (37, 65), Alzandosi (44, 90), Andando… prendendo (47, 90), Avvicinandosi (48, 91), Prendendo (50), leggendo (50), Tenendo (66), Bevendo (74), Indicando (100, 109), appoggiandosi (101), scendendo… prendendo (122), Lasciandosi… passando (123), Rispondendo (131), Stringendo (133), Sporgendosi (135), Accostando… fermandola (141), Rimettendo (150) / 간접화법 Lei scrive che ci sono… Che «una prova…» Che «la verità…» (25), mi ha detto: «…» (74, 76), Al processo dissero che Paolo era solo (113), Mi disse: «…» (115) / 결합대명사 ce ne andiamo (7, 44), Me l'ha detto (20), me la sono comprata (47), me ne vado (56), glielo dico (62, 64), gliel'avessi chiesto (76), ne avrebbe parlato (76), Te l'ho letta (121), Me lo ricordo (106) |

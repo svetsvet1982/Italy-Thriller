@@ -5,7 +5,7 @@
 > 유형: 🔍 취재형 · 150턴
 > 등장인물:
 > - 엘레나(Elena), 루카(Luca), 토마소(Tommaso), 다비데(Davide), 레오(Leo), 마테오(Matteo), 리치 변호사(Ricci)
-> - 시모네 갈비아티(Simone), 페데리카 로(Federica Rho, 모란디니 캠프 대변인, 전화), 이바나 콜롬보(Ivana, 녹화 화면), 레나토 모레티(Renato Moretti, 72, 루카의 아버지, 은퇴한 전차 운전사)
+> - 시모네 갈비아티(Simone), 페데리카 로(Federica Rho, 모란디니 캠프 대변인, 전화), 이바나 브람바티(Ivana, 녹화 화면), 레나토 모레티(Renato Moretti, 72, 루카의 아버지, 은퇴한 전차 운전사)
 > 인용: 속담 "Chi ben comincia è a metà dell'opera"
 
 ---

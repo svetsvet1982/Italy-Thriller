@@ -5,7 +5,7 @@
 > 유형: 📰 보도형 · 150턴
 > 등장인물:
 > - 엘레나(Elena), 루카(Luca), 다비데(Davide), 레오(Leo), 마테오(Matteo, 문자), 리치 변호사(Ricci)
-> - 이바나 콜롬보(Ivana Colombo, 52, 지역 방송 Antenna Lombarda 보도국장), 테레사 보시(Teresa Bossi, 74, 퇴직 교사, 파냐노 역사기록관 자원봉사자), 페시나(Pessina, 전화)
+> - 이바나 브람바티(Ivana Brambati, 52, 지역 방송 Antenna Lombarda 보도국장), 테레사 보시(Teresa Bossi, 74, 퇴직 교사, 파냐노 역사기록관 자원봉사자), 페시나(Pessina, 전화)
 > 인용: 속담 "Patti chiari, amicizia lunga"
 
 ---
@@ -40,14 +40,14 @@
 25. Elena: Della par condicio?
 26. Luca: Del dibattito. Quello fra dieci giorni. Fra Morandini e Arnaboldi. (Pausa) Vogliono che le domande le faccia il Riflettore.
 27. Elena: (Fermandosi) Noi?
-28. Luca: Noi. Insieme a un giornale di destra. Due giornalisti, due testate, per la par condicio. (Pausa) La direttrice si chiama Ivana Colombo.
+28. Luca: Noi. Insieme a un giornale di destra. Due giornalisti, due testate, per la par condicio. (Pausa) La direttrice si chiama Ivana Brambati.
 29. Elena: La conosco. Una volta mi ha tolto la parola in diretta perché ho detto «mafia» prima delle undici di sera.
 30. Luca: Allora è una persona coerente.
 
 ---
 
 ### 2장면 (31–65턴)
-*같은 날 오후 3시, 세스토 산 조반니의 Antenna Lombarda. 낡은 스튜디오, 벽에는 지역 축구팀 사진들. 이바나 콜롬보의 사무실.*
+*같은 날 오후 3시, 세스토 산 조반니의 Antenna Lombarda. 낡은 스튜디오, 벽에는 지역 축구팀 사진들. 이바나 브람바티의 사무실.*
 
 31. Ivana: (Versando il caffè dalla moka) Sala. Sei invecchiata bene.
 32. Elena: Anche tu. Hai ancora la stessa moka.

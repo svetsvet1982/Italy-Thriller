@@ -59,8 +59,8 @@
 38. Elena: Chi sapeva, il giorno prima, che Matteo sarebbe entrato?
 39. Davide: (Contando sulle dita) Noi sei. Ricci. E... (Pausa) Basta.
 40. Leo: (Lentamente) Il coinquilino di Matteo?
-41. Matteo: Fabio? Fabio non sa niente. Gli ho detto che facevo uno stage in una società di ricerche.
-42. Tommaso: E Fabio, la sera prima, ti ha visto preparare la borsa? Ti ha sentito al telefono?
+41. Matteo: Fausto? Fausto non sa niente. Gli ho detto che facevo uno stage in una società di ricerche.
+42. Tommaso: E Fausto, la sera prima, ti ha visto preparare la borsa? Ti ha sentito al telefono?
 43. Matteo: (Esitando) Mi ha sentito parlare con Leo. Della focaccia. Ma non ha capito niente. Pensava che parlassimo di una panetteria.
 44. Leo: (Freddo) Quindi adesso indaghiamo su un ragazzo di Bergamo che studia ingegneria perché ha sentito la parola focaccia?
 45. Elena: Leo.

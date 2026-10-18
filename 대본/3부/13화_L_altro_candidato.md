@@ -4,7 +4,7 @@
 
 > 유형: 🔍 취재형 · 150턴
 > 등장인물:
-> - 엘레나(Elena), 루카(Luca), 토마소(Tommaso), 다비데(Davide), 알레시아(Alessia)
+> - 엘레나(Elena), 루카(Luca), 토마소(Tommaso), 다비데(Davide), 사라(Sara)
 > - 실비아 아르나볼디(Silvia Arnaboldi, 56, 중도좌파 후보), 렌초 베토니(Renzo Bettoni, 63, 아르나볼디 캠프의 '보건 정책 고문'), 그라치엘라 비가노(Graziella Viganò, 60대, 전 병원 구매 담당 직원)
 > 인용: 속담 "Il lupo perde il pelo ma non il vizio"
 
@@ -24,25 +24,25 @@
 9. Luca: Regge. (Pausa) Soprattutto la frase dopo. «Quell'uomo oggi lavora per uno dei candidati alla presidenza della Lombardia. Da settembre, tutti gli articoli del Riflettore che lo riguardano sono firmati da un altro giornalista. Lo abbiamo deciso perché io non posso essere imparziale su di lui. I lettori hanno il diritto di saperlo.»
 10. Tommaso: (Entrando con il cane, che ormai lo segue anche in redazione) Ha telefonato Ricci. Dice: «Brava. Ma la prossima volta svegliatemi prima di pubblicare, non dopo.»
 11. Elena: (Con un mezzo sorriso) La prossima volta.
-12. Alessia: (Entrando, togliendosi il casco della bici) Abbiamo un problema di altro tipo.
+12. Sara: (Entrando, togliendosi il casco della bici) Abbiamo un problema di altro tipo.
 13. Elena: Un altro?
-14. Alessia: Un altro. (Posando il telefono sul tavolo) Ieri sera, mentre tutti guardavano te, mi ha scritto una persona. Una signora di Monza. Ex dipendente dell'ospedale. Ha letto la storia di Dubai e ha scritto: «Avete scritto su Morandini. Adesso abbiate il coraggio di guardare anche dall'altra parte.»
+14. Sara: Un altro. (Posando il telefono sul tavolo) Ieri sera, mentre tutti guardavano te, mi ha scritto una persona. Una signora di Monza. Ex dipendente dell'ospedale. Ha letto la storia di Dubai e ha scritto: «Avete scritto su Morandini. Adesso abbiate il coraggio di guardare anche dall'altra parte.»
 15. Davide: Dall'altra parte. Arnaboldi.
-16. Alessia: Arnaboldi. (Leggendo) «Nella campagna di Silvia Arnaboldi c'è un uomo che ha già rubato una volta. Se vince lei, ruberà di nuovo. Si chiama Renzo Bettoni.»
+16. Sara: Arnaboldi. (Leggendo) «Nella campagna di Silvia Arnaboldi c'è un uomo che ha già rubato una volta. Se vince lei, ruberà di nuovo. Si chiama Renzo Bettoni.»
 17. Tommaso: (Fermandosi) Bettoni.
 18. Luca: Lo conosci?
 19. Tommaso: Lo conoscevo. Duemiladodici. Era assessore alla sanità di una provincia. Appalti per le pulizie degli ospedali. Gare scritte su misura per una ditta di un cugino. Fu condannato a due anni e quattro mesi. Patteggiò. Non fece un giorno di carcere.
 20. Davide: (Cercando sul computer) Eccolo. Sito della campagna Arnaboldi. «Comitato per la sanità pubblica. Consulente: dottor Renzo Bettoni, esperto di organizzazione ospedaliera.»
 21. Elena: (Dopo un momento) Esperto di organizzazione ospedaliera.
 22. Tommaso: Esperto, sì. Sapeva benissimo come si organizza un ospedale. Soprattutto i bandi.
-23. Alessia: Il lupo perde il pelo ma non il vizio.
+23. Sara: Il lupo perde il pelo ma non il vizio.
 24. Elena: (Guardandola) Lo sappiamo? O lo pensiamo?
-25. Alessia: Lo pensiamo. (Pausa) La signora dice che lo può dimostrare.
+25. Sara: Lo pensiamo. (Pausa) La signora dice che lo può dimostrare.
 26. Luca: (Piano) Elena. Lo sai cosa diranno, se ci mettiamo su questa storia proprio adesso.
 27. Elena: Diranno che, dopo il pezzo di stamattina, attacchiamo Arnaboldi per sembrare imparziali. Per farci perdonare.
 28. Luca: E se non ci mettiamo su questa storia?
 29. Elena: Diranno che proteggiamo Arnaboldi. Che siamo il giornale dell'opposizione. (Pausa) Quindi non conta cosa diranno. Conta se è vero.
-30. Elena: Alessia, Tommaso: andate a Monza. Luca: le carte del processo del duemiladodici. Davide: tutto quello che Bettoni ha fatto da allora. Fra dieci anni di silenzio, qualcosa c'è sempre.
+30. Elena: Sara, Tommaso: andate a Monza. Luca: le carte del processo del duemiladodici. Davide: tutto quello che Bettoni ha fatto da allora. Fra dieci anni di silenzio, qualcosa c'è sempre.
 
 ---
 
@@ -50,45 +50,45 @@
 *같은 날 오전 11시, 몬차. 공원 옆 오래된 카페. 그라치엘라 비가노는 몬차 병원 구매과에서 30년 일하고 작년에 은퇴했다. 서류철을 품에 안고 있다.*
 
 31. Graziella: (Stringendo la cartellina) Voi siete quelli del Riflettore. Quelli che hanno scritto di Dubai.
-32. Alessia: Sì. Io sono Alessia. Lui è Tommaso.
+32. Sara: Sì. Io sono Sara. Lui è Tommaso.
 33. Graziella: (Guardando Tommaso) Lei era in polizia. Si vede da come si è seduto. Con la schiena al muro.
 34. Tommaso: (Sorridendo) Trent'anni. Non si perde l'abitudine.
 35. Graziella: Il lupo perde il pelo ma non il vizio. (Pausa) È per questo che vi ho scritto. Per un lupo.
-36. Alessia: Bettoni.
+36. Sara: Bettoni.
 37. Graziella: Bettoni. (Aprendo la cartellina) Io lavoravo all'ufficio acquisti dell'ospedale quando lui era assessore. Nel duemilaundici preparai io i documenti della gara per le pulizie. E vidi come la cambiarono. Tre volte. Ogni volta aggiungevano un requisito. «Esperienza in almeno quattro ospedali della provincia.» «Certificazione speciale per le sale operatorie.» Alla fine c'era una sola ditta al mondo che poteva vincerla.
 38. Tommaso: Quella del cugino.
 39. Graziella: Quella del cugino. (Pausa) Io testimoniai al processo. Mi costò molto. Due colleghi non mi salutarono più per anni. E lui... lui patteggiò e tornò a casa.
-40. Alessia: E adesso?
+40. Sara: E adesso?
 41. Graziella: Adesso, tre settimane fa, una mia ex collega, che lavora ancora all'ufficio acquisti, mi ha chiamata. Piangeva. (Prendendo un foglio) Mi ha raccontato che un uomo era andato a trovare il nuovo direttore dell'ospedale. Un uomo che si presentava come «consulente della futura presidente». E che aveva chiesto informazioni sulla prossima gara per le pulizie. Quella che scade fra sei mesi.
 42. Tommaso: Bettoni.
 43. Graziella: Bettoni. Lei l'ha riconosciuto. Era lì, nel corridoio, quando è uscito dall'ufficio del direttore. (Pausa) E ha detto al direttore, davanti alla segretaria: «Fra due mesi le cose cambiano. Conviene a tutti che la gara sia scritta bene.»
-44. Alessia: (Prendendo appunti) «Scritta bene.»
+44. Sara: (Prendendo appunti) «Scritta bene.»
 45. Graziella: Scritta bene. La stessa espressione del duemilaundici. Me la ricordo, perché la usò anche allora, davanti a me.
 46. Tommaso: La sua collega è disposta a parlare con noi?
 47. Graziella: (Scuotendo la testa) No. Ha paura. Ha cinquantadue anni e un mutuo. (Pausa) Ma ha fatto una cosa. Ha scritto tutto in una mail a sé stessa, il giorno stesso. Con l'ora. E me l'ha girata.
-48. Alessia: Possiamo vederla?
+48. Sara: Possiamo vederla?
 49. Graziella: (Girando il telefono) Potete vederla. Non potete fotografarla. Non potete scrivere il suo nome. Neanche il reparto.
 50. Tommaso: (Leggendo con attenzione) Venerdì diciannove settembre. Undici e quaranta. «Oggi è venuto R.B. dal direttore. Ha detto: fra due mesi le cose cambiano.» (Pausa) È precisa.
 51. Graziella: È sempre stata precisa. Per questo ha paura.
-52. Alessia: Signora Viganò. Una domanda difficile. Lei vota?
+52. Sara: Signora Viganò. Una domanda difficile. Lei vota?
 53. Graziella: (Sorpresa, poi ridendo) Sì. Ho sempre votato a sinistra. Ho votato per Arnaboldi alle primarie. (Pausa) È per questo che vi ho scritto. Non a un giornale di destra. A voi.
 54. Tommaso: Non capisco.
 55. Graziella: Se l'avessi mandata a un giornale di destra, avrebbero scritto «Arnaboldi è come Morandini». Punto. E fra un mese avremmo avuto Morandini con la sua Drone Valley. (Pausa) Io non voglio che Arnaboldi perda. Voglio che si liberi di lui prima di vincere. Se vince con lui dentro, fra tre anni sarà lei sui giornali.
-56. Alessia: (Piano) Lei vuole che noi glielo diciamo.
+56. Sara: (Piano) Lei vuole che noi glielo diciamo.
 57. Graziella: Voglio che qualcuno glielo dica in pubblico. In privato gliel'hanno già detto. Gliel'ho detto io, per lettera, a giugno. Non mi ha mai risposto.
 58. Tommaso: Ha la lettera?
 59. Graziella: (Prendendo un altro foglio) Ho la copia. E la ricevuta della raccomandata. Firmata dalla sua segreteria.
-60. Alessia: (Guardando Tommaso) Quindi lei sapeva.
+60. Sara: (Guardando Tommaso) Quindi lei sapeva.
 61. Graziella: Quindi lei sapeva. O almeno la sua segreteria sapeva. (Pausa) Non so se gliel'abbiano fatta leggere. Questo dovete chiederlo a lei.
 62. Tommaso: Lo faremo.
 63. Graziella: (Chiudendo la cartellina) Un'ultima cosa. Quando testimoniai, nel duemiladodici, un giornalista scrisse che ero «una dipendente scontenta, forse in cerca di vendetta». Lo scrisse senza avermi mai parlato.
-64. Alessia: Noi le abbiamo parlato.
+64. Sara: Noi le abbiamo parlato.
 65. Graziella: Lo so. (Alzandosi) Per questo ve l'ho data. (Pausa) Chi era quel giornalista, lo sapete?
 66. Tommaso: No.
 67. Graziella: Lavorava per un giornale che allora era vicino a un certo partito. E il partito, allora, era quello di Bettoni. (Pausa) Chiedete a Pessina. Era lui che gli passava le notizie.
-68. Alessia: (Fermandosi) Pessina?
+68. Sara: (Fermandosi) Pessina?
 69. Graziella: Nel duemiladodici Pessina e Bettoni erano nello stesso partito. Poi Pessina cambiò. Bettoni no. (Pausa) Ma i lupi si conoscono tutti. Anche quando cambiano bosco.
-70. Tommaso: (Dopo che se n'è andata, ad Alessia) Pessina. Di nuovo.
+70. Tommaso: (Dopo che se n'è andata, ad Sara) Pessina. Di nuovo.
 
 ---
 
@@ -102,7 +102,7 @@
 75. Tommaso: Il lupo che scrive le regole del pollaio.
 76. Elena: Era legale?
 77. Luca: Era legale. L'interdizione era finita. Nessuno l'aveva vietato. (Pausa) Ma nessuno ce l'aveva chiesto, se fosse una buona idea.
-78. Alessia: E adesso c'è la mail della collega. «Fra due mesi le cose cambiano. Conviene a tutti che la gara sia scritta bene.»
+78. Sara: E adesso c'è la mail della collega. «Fra due mesi le cose cambiano. Conviene a tutti che la gara sia scritta bene.»
 79. Elena: Che è una frase. Non un reato.
 80. Tommaso: Non un reato. Una frase. Detta da un condannato per bandi truccati, al direttore di un ospedale, in nome di una candidata che non ha ancora vinto. (Pausa) Se l'avesse detta un uomo di Morandini, l'avremmo scritta?
 81. Elena: (Dopo un momento) Sì. L'avremmo scritta. Con le stesse cautele. (Pausa) E quindi la scriviamo. Ma prima dobbiamo fare due telefonate. A Bettoni. E ad Arnaboldi.
@@ -129,16 +129,16 @@
 ---
 
 ### 4장면 (101–135턴)
-*다음 날 토요일 오전 10시, 이솔라 지구의 아르나볼디 캠프 사무소. 후보가 직접 만나겠다고 했다. 엘레나는 오지 않고 루카와 알레시아가 간다.*
+*다음 날 토요일 오전 10시, 이솔라 지구의 아르나볼디 캠프 사무소. 후보가 직접 만나겠다고 했다. 엘레나는 오지 않고 루카와 사라가 간다.*
 
 101. Arnaboldi: (In piedi, vicino alla finestra, giacca blu, capelli corti grigi) Moretti. Ho letto i suoi articoli su Dubai. Bravo. (Pausa) E ho letto l'articolo della sua direttrice ieri. Coraggioso. (Pausa) E adesso vengono da me. Era inevitabile.
 102. Luca: Non era inevitabile. È arrivata una segnalazione. L'abbiamo verificata.
 103. Arnaboldi: (Sedendosi) Mi dica.
 104. Luca: (Posando sul tavolo la copia della lettera) Questa lettera è arrivata alla sua segreteria il dodici giugno. Raccomandata. Firmata dalla sua segretaria. Dice che Renzo Bettoni fu condannato per bandi truccati e che non dovrebbe avere ruoli nella sua campagna.
 105. Arnaboldi: (Guardando la lettera a lungo) La conosco.
-106. Alessia: L'ha letta?
+106. Sara: L'ha letta?
 107. Arnaboldi: L'ho letta. A luglio. (Pausa) E ho pensato: Renzo ha pagato. Ha patteggiato, ha fatto il suo. Ha diritto a una seconda possibilità. È quello che io dico in tutti i comizi. Che le persone possono cambiare. Che le carceri devono rieducare. Che una condanna non è un tatuaggio.
-108. Alessia: E adesso?
+108. Sara: E adesso?
 109. Luca: (Spingendo un secondo foglio: la trascrizione della mail della collega, senza nomi) Il diciannove settembre il dottor Bettoni è andato dal direttore dell'ospedale di Monza. Si è presentato come consulente della futura presidente. Ha parlato della prossima gara per le pulizie. Ha detto: «Conviene a tutti che la gara sia scritta bene.»
 110. Arnaboldi: (Leggendo. Il viso si irrigidisce) Chi l'ha scritto?
 111. Luca: Una persona che era lì. Non possiamo dire chi.
@@ -147,21 +147,21 @@
 114. Arnaboldi: E uscite lo stesso.
 115. Luca: Usciamo lo stesso. (Pausa) Abbiamo pubblicato i bonifici di Morandini due settimane prima del suo comizio. Pubblichiamo questo una settimana prima del suo dibattito. Non scegliamo le date in base a chi conviene.
 116. Arnaboldi: (Guardandolo, poi ridendo amaramente) La par condicio del Riflettore.
-117. Alessia: Una domanda. Solo una. (Pausa) Se Bettoni avesse fatto la stessa cosa nella campagna di Morandini, lei cosa avrebbe detto?
+117. Sara: Una domanda. Solo una. (Pausa) Se Bettoni avesse fatto la stessa cosa nella campagna di Morandini, lei cosa avrebbe detto?
 118. Arnaboldi: (Lentamente) Avrei detto che Morandini doveva cacciarlo. Subito. Prima del dibattito. (Pausa) E avrei avuto ragione.
-119. Alessia: E allora?
+119. Sara: E allora?
 120. Arnaboldi: (Alzandosi, andando alla finestra) Renzo mi ha aiutata quando non mi conosceva nessuno. Nel duemilasei. Mi ha portata in giro per le sezioni della Brianza con la sua macchina. Mi ha presentata a tutti. (Pausa) Non ho mai pensato che lui... Ho pensato che fosse cambiato. Volevo che fosse cambiato.
 121. Luca: Le persone, a volte, non sanno quello che non vogliono sapere.
 122. Arnaboldi: (Girandosi di scatto) Chi l'ha detto?
 123. Luca: La mia direttrice. Due notti fa. Di sé stessa.
 124. Arnaboldi: (Dopo un lungo silenzio, prendendo il telefono) Restate. Voglio che sentiate. (Componendo il numero) Renzo. Sono Silvia. (Pausa) No, ascoltami tu. Sei andato a Monza il diciannove? (Pausa) Non mi interessa se era un amico. (Pausa) Renzo. Da questo momento non fai più parte della campagna. Né del comitato. Né di niente. (Pausa) No. Ti avevo dato una seconda possibilità. Te la sei giocata in un corridoio d'ospedale. (Chiude)
-125. Alessia: (Piano) Lo scriviamo.
+125. Sara: (Piano) Lo scriviamo.
 126. Arnaboldi: (Sedendosi, stanca) Scrivetelo. Scrivete tutto. Anche che ho ricevuto la lettera a giugno e non ho fatto niente. Anche quello. (Pausa) Scrivete che ho sbagliato per tre mesi. E che l'ho capito oggi, grazie a voi. Non ve lo dico per farvi piacere. Ve lo dico perché altrimenti lo scriverete lo stesso. E preferisco che lo scriviate con le mie parole.
 127. Luca: Lo scriveremo con le sue parole.
 128. Arnaboldi: (Guardandolo) Moretti. Una cosa, fuori dal registratore.
 129. Luca: (Spegnendo il registratore) Dica.
 130. Arnaboldi: Pessina conosceva Renzo. Bene. Erano nello stesso partito. (Pausa) Due mesi fa, Pessina è venuto da me. A una cena. Mi ha detto, ridendo: «Silvia, attenta a chi ti porti dietro. I vecchi amici sono come le cambiali. Prima o poi te le presentano.»
-131. Alessia: (Fermandosi) Due mesi fa.
+131. Sara: (Fermandosi) Due mesi fa.
 132. Arnaboldi: Due mesi fa. (Pausa) Io pensavo che fosse un consiglio. Adesso penso che fosse un avvertimento. Che sapesse già. E che aspettasse il momento giusto per farlo uscire. (Pausa) Ma è uscito con voi. Prima che con lui.
 133. Luca: (Riaccendendo il registratore) Possiamo usare questo?
 134. Arnaboldi: No. Non posso dimostrarlo. (Pausa) Ma voi potete cercarlo.
@@ -180,9 +180,9 @@
 141. Tommaso: Morandini. Su tutti i social. «Anche il Riflettore ammette: la sinistra lombarda ha i suoi condannati. Noi, almeno, non li nascondiamo.» (Pausa) E l'ha firmato il suo staff. Con un link al nostro articolo.
 142. Davide: Ci usa.
 143. Elena: Ci usa. Ieri ci chiamavano «quelli che pagano le fonti». Oggi ci linkano come prova. (Pausa) Va bene. Non scriviamo per piacere a qualcuno. Scriviamo perché le cose sono vere.
-144. Alessia: (Arrivando) Elena. Una cosa. (Mostrando il telefono) La signora Viganò. Mi ha mandato un messaggio. Una riga.
+144. Sara: (Arrivando) Elena. Una cosa. (Mostrando il telefono) La signora Viganò. Mi ha mandato un messaggio. Una riga.
 145. Elena: Leggila.
-146. Alessia: «Grazie. Il lupo, stavolta, è rimasto fuori dal pollaio.»
+146. Sara: «Grazie. Il lupo, stavolta, è rimasto fuori dal pollaio.»
 147. Elena: (Sorridendo appena) Per adesso.
 148. Luca: (Guardando gli appunti) Elena. Quella frase di Arnaboldi. Fuori registro. Pessina conosceva Bettoni. Pessina sapeva. Pessina aspettava. (Pausa) Ha in mano due lupi. Uno a destra e uno a sinistra. E decide lui quando aprire la gabbia.
 149. Elena: (Dopo un lungo silenzio) Allora non stiamo coprendo un'elezione fra due candidati. (Pausa) Stiamo coprendo un'elezione in cui un uomo ha già deciso che vincerà comunque.
@@ -200,8 +200,8 @@
 | ② 출처 | 라틴어 *Lupus pilum mutat, non mentem*(늑대는 털을 바꿔도 마음은 바꾸지 않는다)에서 온 이탈리아 속담. 수에토니우스의 『황제전』 「베스파시아누스」에 나오는 일화(*Vulpem pilum mutare, non mores*, 여우는 털을 바꿔도 버릇은 바꾸지 않는다)가 원형으로 꼽힌다. |
 | ③ 번역 | 늑대는 털은 갈아도 버릇은 못 버린다. 제 버릇 개 못 준다. |
 | ④ 배경 | 늑대는 계절마다 털갈이를 하지만 사냥 본능은 그대로다. 겉모습(직함, 소속, 말투)은 바뀌어도 본성은 바뀌지 않는다는 뜻으로, 전과자나 상습범을 두고 자주 쓴다. 반대편에 서는 말은 "사람은 변할 수 있다"이다. 아르나볼디가 유세에서 늘 하는 "유죄 판결은 문신이 아니다"(107턴)가 그쪽이다. |
-| ⑤ 이 화에서의 맥락 | **23–24턴, 알레시아와 엘레나** / **35턴, 그라치엘라** / **69턴, "숲을 바꿔도"** / **75턴, 토마소** / **146턴, 그라치엘라의 문자** / **150턴, 토마소.** |
-| | 이 화의 질문은 이 속담이 맞는지, 그리고 그것을 누가 판단하는지다. ① 알레시아가 속담을 꺼내자 엘레나가 묻는다. "우리가 그걸 아는 거야, 생각하는 거야?"(24턴) 기자에게 속담은 가설일 뿐 증거가 아니다. ② 2012년 입찰 조작으로 유죄를 받은 베토니가 10년 동안 '입찰서 작성 지원' 컨설턴트로 일했다. 합법이었다. 토마소의 말로는 "닭장 규칙을 쓰는 늑대"(75턴)다. ③ 결정적 증거는 사건 당일 동료가 자기에게 보낸 메일 속 문장 하나다. "두 달 뒤엔 상황이 바뀝니다. 입찰서는 잘 쓰는 게 모두에게 좋겠죠." 2011년에 쓴 표현과 똑같다(45턴). ④ 마지막 반전은 베토니가 아니라 페시나다. 두 진영의 늑대를 모두 알고 언제 우리 문을 열지 고르는 사람이다(148턴). "어떤 늑대는 털조차 갈지 않는다."(150턴) |
+| ⑤ 이 화에서의 맥락 | **23–24턴, 사라와 엘레나** / **35턴, 그라치엘라** / **69턴, "숲을 바꿔도"** / **75턴, 토마소** / **146턴, 그라치엘라의 문자** / **150턴, 토마소.** |
+| | 이 화의 질문은 이 속담이 맞는지, 그리고 그것을 누가 판단하는지다. ① 사라가 속담을 꺼내자 엘레나가 묻는다. "우리가 그걸 아는 거야, 생각하는 거야?"(24턴) 기자에게 속담은 가설일 뿐 증거가 아니다. ② 2012년 입찰 조작으로 유죄를 받은 베토니가 10년 동안 '입찰서 작성 지원' 컨설턴트로 일했다. 합법이었다. 토마소의 말로는 "닭장 규칙을 쓰는 늑대"(75턴)다. ③ 결정적 증거는 사건 당일 동료가 자기에게 보낸 메일 속 문장 하나다. "두 달 뒤엔 상황이 바뀝니다. 입찰서는 잘 쓰는 게 모두에게 좋겠죠." 2011년에 쓴 표현과 똑같다(45턴). ④ 마지막 반전은 베토니가 아니라 페시나다. 두 진영의 늑대를 모두 알고 언제 우리 문을 열지 고르는 사람이다(148턴). "어떤 늑대는 털조차 갈지 않는다."(150턴) |
 | | 균형 보도: 엘레나의 원칙은 "누가 뭐라 할지가 아니라 사실인지가 중요하다"(29턴)이다. 시험 질문은 "모란디니 쪽 사람이 했어도 우리가 썼을까?"(80–81턴). 반론권은 두 사람에게 각각 정확한 질문으로 행사하게 하고(83턴), 보도 시점은 유리한 쪽을 골라 정하지 않는다(115턴). 아르나볼디도 같은 질문을 받는다. "모란디니 캠프였다면 뭐라고 하셨겠어요?"(117턴) 그녀는 자기 대답으로 자기를 심판한다. |
 | ⑥ 언어 포인트 | **perdere il pelo / il vizio**: *pelo*는 동물의 털(사람 머리카락은 *capelli*), *vizio*는 버릇·악습(*vizio del fumo*, 흡연 습관). 관련 관용구: *non avere peli sulla lingua*(거침없이 말하다), *cercare il pelo nell'uovo*(흠을 잡다), *per un pelo*(간발의 차로). |
 | | 사법·행정 어휘: *patteggiare / patteggiamento*(유죄협상하다 / 유죄협상, 19·71턴), *pena sospesa*(집행유예, 71턴), *interdizione dai pubblici uffici*(공직 자격 정지, 71턴), *gara / bando / capitolato*(입찰 / 공고 / 입찰 조건서, 37·74턴), *requisito*(자격 요건, 37턴), *raccomandata*(등기우편, 59·104턴), *diritto di replica*(반론권, 82턴), *fuori registro / fuori dal registratore*(오프더레코드, 128턴). |

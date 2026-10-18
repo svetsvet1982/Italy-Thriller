@@ -52,7 +52,7 @@
 31. Fabbri: (Stringendo la mano a Elena) Sala. Ci rivediamo. L'ultima volta era per i droni sul carcere. Adesso per i droni sulle vostre finestre.
 32. Elena: (Sorpresa) Sulle nostre finestre?
 33. Fabbri: Ci arriveremo. (Indicando l'uomo accanto a lei) Vi presento l'ispettore Sergio Neri. Lavora con me da dieci anni. Sezione di polizia giudiziaria. Da oggi è il vostro riferimento per tutto quello che riguarda Specula. Se avete bisogno, chiamate lui.
-34. Neri: (Sorridendo, stringendo le mani a uno a uno) Piacere. Ho letto tutto quello che avete scritto. Anche gli articoli sul Riflettore di dieci anni fa. Quando c'era ancora Sironi. (Pausa) Un grande giornalista.
+34. Neri: (Sorridendo, stringendo le mani a uno a uno) Piacere. Ho letto tutto quello che avete scritto. E anche gli articoli di Sironi, dieci anni fa. Prima che esisteste voi. (Pausa) Un grande giornalista.
 35. Luca: (Fermandosi) Lo conosceva?
 36. Neri: Di vista. Al palazzo di giustizia. Tutti lo conoscevano. (Pausa) Mi dispiace per quello che è successo.
 37. Fabbri: (Sedendosi, aprendo una cartellina) Allora. Quello che posso dirvi. (Pausa) Specula non pedinava soltanto. Interrogava banche dati dello Stato. Quella delle forze di polizia, dove ci sono denunce e precedenti. Quella dell'Agenzia delle Entrate, dove ci sono redditi e proprietà. Quella dell'INPS, dove ci sono stipendi e contributi.

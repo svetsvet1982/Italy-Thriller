@@ -5,7 +5,7 @@
 > 유형: 🔍 취재형 · 150턴
 > 등장인물:
 > - 엘레나(Elena), 루카(Luca), 토마소(Tommaso), 다비데(Davide), 알레시아(Alessia)
-> - 실비아 아르나볼디(Silvia Arnaboldi, 56, 중도좌파 후보), 렌초 베토니(Renzo Bettoni, 63, 아르나볼디 캠프의 '보건 정책 고문'), 오르넬라 비가노(Ornella Viganò, 60대, 전 병원 구매 담당 직원)
+> - 실비아 아르나볼디(Silvia Arnaboldi, 56, 중도좌파 후보), 렌초 베토니(Renzo Bettoni, 63, 아르나볼디 캠프의 '보건 정책 고문'), 오르넬라 비가노(Graziella Viganò, 60대, 전 병원 구매 담당 직원)
 > 인용: 속담 "Il lupo perde il pelo ma non il vizio"
 
 ---
@@ -49,45 +49,45 @@
 ### 2장면 (31–70턴)
 *같은 날 오전 11시, 몬차. 공원 옆 오래된 카페. 오르넬라 비가노는 몬차 병원 구매과에서 30년 일하고 작년에 은퇴했다. 서류철을 품에 안고 있다.*
 
-31. Ornella: (Stringendo la cartellina) Voi siete quelli del Riflettore. Quelli che hanno scritto di Dubai.
+31. Graziella: (Stringendo la cartellina) Voi siete quelli del Riflettore. Quelli che hanno scritto di Dubai.
 32. Alessia: Sì. Io sono Alessia. Lui è Tommaso.
-33. Ornella: (Guardando Tommaso) Lei era in polizia. Si vede da come si è seduto. Con la schiena al muro.
+33. Graziella: (Guardando Tommaso) Lei era in polizia. Si vede da come si è seduto. Con la schiena al muro.
 34. Tommaso: (Sorridendo) Trent'anni. Non si perde l'abitudine.
-35. Ornella: Il lupo perde il pelo ma non il vizio. (Pausa) È per questo che vi ho scritto. Per un lupo.
+35. Graziella: Il lupo perde il pelo ma non il vizio. (Pausa) È per questo che vi ho scritto. Per un lupo.
 36. Alessia: Bettoni.
-37. Ornella: Bettoni. (Aprendo la cartellina) Io lavoravo all'ufficio acquisti dell'ospedale quando lui era assessore. Nel duemilaundici preparai io i documenti della gara per le pulizie. E vidi come la cambiarono. Tre volte. Ogni volta aggiungevano un requisito. «Esperienza in almeno quattro ospedali della provincia.» «Certificazione speciale per le sale operatorie.» Alla fine c'era una sola ditta al mondo che poteva vincerla.
+37. Graziella: Bettoni. (Aprendo la cartellina) Io lavoravo all'ufficio acquisti dell'ospedale quando lui era assessore. Nel duemilaundici preparai io i documenti della gara per le pulizie. E vidi come la cambiarono. Tre volte. Ogni volta aggiungevano un requisito. «Esperienza in almeno quattro ospedali della provincia.» «Certificazione speciale per le sale operatorie.» Alla fine c'era una sola ditta al mondo che poteva vincerla.
 38. Tommaso: Quella del cugino.
-39. Ornella: Quella del cugino. (Pausa) Io testimoniai al processo. Mi costò molto. Due colleghi non mi salutarono più per anni. E lui... lui patteggiò e tornò a casa.
+39. Graziella: Quella del cugino. (Pausa) Io testimoniai al processo. Mi costò molto. Due colleghi non mi salutarono più per anni. E lui... lui patteggiò e tornò a casa.
 40. Alessia: E adesso?
-41. Ornella: Adesso, tre settimane fa, una mia ex collega, che lavora ancora all'ufficio acquisti, mi ha chiamata. Piangeva. (Prendendo un foglio) Mi ha raccontato che un uomo era andato a trovare il nuovo direttore dell'ospedale. Un uomo che si presentava come «consulente della futura presidente». E che aveva chiesto informazioni sulla prossima gara per le pulizie. Quella che scade fra sei mesi.
+41. Graziella: Adesso, tre settimane fa, una mia ex collega, che lavora ancora all'ufficio acquisti, mi ha chiamata. Piangeva. (Prendendo un foglio) Mi ha raccontato che un uomo era andato a trovare il nuovo direttore dell'ospedale. Un uomo che si presentava come «consulente della futura presidente». E che aveva chiesto informazioni sulla prossima gara per le pulizie. Quella che scade fra sei mesi.
 42. Tommaso: Bettoni.
-43. Ornella: Bettoni. Lei l'ha riconosciuto. Era lì, nel corridoio, quando è uscito dall'ufficio del direttore. (Pausa) E ha detto al direttore, davanti alla segretaria: «Fra due mesi le cose cambiano. Conviene a tutti che la gara sia scritta bene.»
+43. Graziella: Bettoni. Lei l'ha riconosciuto. Era lì, nel corridoio, quando è uscito dall'ufficio del direttore. (Pausa) E ha detto al direttore, davanti alla segretaria: «Fra due mesi le cose cambiano. Conviene a tutti che la gara sia scritta bene.»
 44. Alessia: (Prendendo appunti) «Scritta bene.»
-45. Ornella: Scritta bene. La stessa espressione del duemilaundici. Me la ricordo, perché la usò anche allora, davanti a me.
+45. Graziella: Scritta bene. La stessa espressione del duemilaundici. Me la ricordo, perché la usò anche allora, davanti a me.
 46. Tommaso: La sua collega è disposta a parlare con noi?
-47. Ornella: (Scuotendo la testa) No. Ha paura. Ha cinquantadue anni e un mutuo. (Pausa) Ma ha fatto una cosa. Ha scritto tutto in una mail a sé stessa, il giorno stesso. Con l'ora. E me l'ha girata.
+47. Graziella: (Scuotendo la testa) No. Ha paura. Ha cinquantadue anni e un mutuo. (Pausa) Ma ha fatto una cosa. Ha scritto tutto in una mail a sé stessa, il giorno stesso. Con l'ora. E me l'ha girata.
 48. Alessia: Possiamo vederla?
-49. Ornella: (Girando il telefono) Potete vederla. Non potete fotografarla. Non potete scrivere il suo nome. Neanche il reparto.
+49. Graziella: (Girando il telefono) Potete vederla. Non potete fotografarla. Non potete scrivere il suo nome. Neanche il reparto.
 50. Tommaso: (Leggendo con attenzione) Venerdì diciannove settembre. Undici e quaranta. «Oggi è venuto R.B. dal direttore. Ha detto: fra due mesi le cose cambiano.» (Pausa) È precisa.
-51. Ornella: È sempre stata precisa. Per questo ha paura.
+51. Graziella: È sempre stata precisa. Per questo ha paura.
 52. Alessia: Signora Viganò. Una domanda difficile. Lei vota?
-53. Ornella: (Sorpresa, poi ridendo) Sì. Ho sempre votato a sinistra. Ho votato per Arnaboldi alle primarie. (Pausa) È per questo che vi ho scritto. Non a un giornale di destra. A voi.
+53. Graziella: (Sorpresa, poi ridendo) Sì. Ho sempre votato a sinistra. Ho votato per Arnaboldi alle primarie. (Pausa) È per questo che vi ho scritto. Non a un giornale di destra. A voi.
 54. Tommaso: Non capisco.
-55. Ornella: Se l'avessi mandata a un giornale di destra, avrebbero scritto «Arnaboldi è come Morandini». Punto. E fra un mese avremmo avuto Morandini con la sua Drone Valley. (Pausa) Io non voglio che Arnaboldi perda. Voglio che si liberi di lui prima di vincere. Se vince con lui dentro, fra tre anni sarà lei sui giornali.
+55. Graziella: Se l'avessi mandata a un giornale di destra, avrebbero scritto «Arnaboldi è come Morandini». Punto. E fra un mese avremmo avuto Morandini con la sua Drone Valley. (Pausa) Io non voglio che Arnaboldi perda. Voglio che si liberi di lui prima di vincere. Se vince con lui dentro, fra tre anni sarà lei sui giornali.
 56. Alessia: (Piano) Lei vuole che noi glielo diciamo.
-57. Ornella: Voglio che qualcuno glielo dica in pubblico. In privato gliel'hanno già detto. Gliel'ho detto io, per lettera, a giugno. Non mi ha mai risposto.
+57. Graziella: Voglio che qualcuno glielo dica in pubblico. In privato gliel'hanno già detto. Gliel'ho detto io, per lettera, a giugno. Non mi ha mai risposto.
 58. Tommaso: Ha la lettera?
-59. Ornella: (Prendendo un altro foglio) Ho la copia. E la ricevuta della raccomandata. Firmata dalla sua segreteria.
+59. Graziella: (Prendendo un altro foglio) Ho la copia. E la ricevuta della raccomandata. Firmata dalla sua segreteria.
 60. Alessia: (Guardando Tommaso) Quindi lei sapeva.
-61. Ornella: Quindi lei sapeva. O almeno la sua segreteria sapeva. (Pausa) Non so se gliel'abbiano fatta leggere. Questo dovete chiederlo a lei.
+61. Graziella: Quindi lei sapeva. O almeno la sua segreteria sapeva. (Pausa) Non so se gliel'abbiano fatta leggere. Questo dovete chiederlo a lei.
 62. Tommaso: Lo faremo.
-63. Ornella: (Chiudendo la cartellina) Un'ultima cosa. Quando testimoniai, nel duemiladodici, un giornalista scrisse che ero «una dipendente scontenta, forse in cerca di vendetta». Lo scrisse senza avermi mai parlato.
+63. Graziella: (Chiudendo la cartellina) Un'ultima cosa. Quando testimoniai, nel duemiladodici, un giornalista scrisse che ero «una dipendente scontenta, forse in cerca di vendetta». Lo scrisse senza avermi mai parlato.
 64. Alessia: Noi le abbiamo parlato.
-65. Ornella: Lo so. (Alzandosi) Per questo ve l'ho data. (Pausa) Chi era quel giornalista, lo sapete?
+65. Graziella: Lo so. (Alzandosi) Per questo ve l'ho data. (Pausa) Chi era quel giornalista, lo sapete?
 66. Tommaso: No.
-67. Ornella: Lavorava per un giornale che allora era vicino a un certo partito. E il partito, allora, era quello di Bettoni. (Pausa) Chiedete a Pessina. Era lui che gli passava le notizie.
+67. Graziella: Lavorava per un giornale che allora era vicino a un certo partito. E il partito, allora, era quello di Bettoni. (Pausa) Chiedete a Pessina. Era lui che gli passava le notizie.
 68. Alessia: (Fermandosi) Pessina?
-69. Ornella: Nel duemiladodici Pessina e Bettoni erano nello stesso partito. Poi Pessina cambiò. Bettoni no. (Pausa) Ma i lupi si conoscono tutti. Anche quando cambiano bosco.
+69. Graziella: Nel duemiladodici Pessina e Bettoni erano nello stesso partito. Poi Pessina cambiò. Bettoni no. (Pausa) Ma i lupi si conoscono tutti. Anche quando cambiano bosco.
 70. Tommaso: (Dopo che se n'è andata, ad Alessia) Pessina. Di nuovo.
 
 ---
@@ -200,7 +200,7 @@
 | ② 출처 | 라틴어 *Lupus pilum mutat, non mentem*(늑대는 털을 바꿔도 마음은 바꾸지 않는다)에서 온 이탈리아 속담. 수에토니우스의 『황제전』 「베스파시아누스」에 나오는 일화(*Vulpem pilum mutare, non mores*, 여우는 털을 바꿔도 버릇은 바꾸지 않는다)가 원형으로 꼽힌다. |
 | ③ 번역 | 늑대는 털은 갈아도 버릇은 못 버린다. 제 버릇 개 못 준다. |
 | ④ 배경 | 늑대는 계절마다 털갈이를 하지만 사냥 본능은 그대로다. 겉모습(직함, 소속, 말투)은 바뀌어도 본성은 바뀌지 않는다는 뜻으로, 전과자나 상습범을 두고 자주 쓴다. 반대편에 서는 말은 "사람은 변할 수 있다"이다. 아르나볼디가 유세에서 늘 하는 "유죄 판결은 문신이 아니다"(107턴)가 그쪽이다. |
-| ⑤ 이 화에서의 맥락 | **23–24턴, 알레시아와 엘레나** / **35턴, 오르넬라** / **69턴, "숲을 바꿔도"** / **75턴, 토마소** / **146턴, 오르넬라의 문자** / **150턴, 토마소.** |
+| ⑤ 이 화에서의 맥락 | **23–24턴, 알레시아와 엘레나** / **35턴, 그라치엘라** / **69턴, "숲을 바꿔도"** / **75턴, 토마소** / **146턴, 그라치엘라의 문자** / **150턴, 토마소.** |
 | | 이 화의 질문은 이 속담이 맞는지, 그리고 그것을 누가 판단하는지다. ① 알레시아가 속담을 꺼내자 엘레나가 묻는다. "우리가 그걸 아는 거야, 생각하는 거야?"(24턴) 기자에게 속담은 가설일 뿐 증거가 아니다. ② 2012년 입찰 조작으로 유죄를 받은 베토니가 10년 동안 '입찰서 작성 지원' 컨설턴트로 일했다. 합법이었다. 토마소의 말로는 "닭장 규칙을 쓰는 늑대"(75턴)다. ③ 결정적 증거는 사건 당일 동료가 자기에게 보낸 메일 속 문장 하나다. "두 달 뒤엔 상황이 바뀝니다. 입찰서는 잘 쓰는 게 모두에게 좋겠죠." 2011년에 쓴 표현과 똑같다(45턴). ④ 마지막 반전은 베토니가 아니라 페시나다. 두 진영의 늑대를 모두 알고 언제 우리 문을 열지 고르는 사람이다(148턴). "어떤 늑대는 털조차 갈지 않는다."(150턴) |
 | | 균형 보도: 엘레나의 원칙은 "누가 뭐라 할지가 아니라 사실인지가 중요하다"(29턴)이다. 시험 질문은 "모란디니 쪽 사람이 했어도 우리가 썼을까?"(80–81턴). 반론권은 두 사람에게 각각 정확한 질문으로 행사하게 하고(83턴), 보도 시점은 유리한 쪽을 골라 정하지 않는다(115턴). 아르나볼디도 같은 질문을 받는다. "모란디니 캠프였다면 뭐라고 하셨겠어요?"(117턴) 그녀는 자기 대답으로 자기를 심판한다. |
 | ⑥ 언어 포인트 | **perdere il pelo / il vizio**: *pelo*는 동물의 털(사람 머리카락은 *capelli*), *vizio*는 버릇·악습(*vizio del fumo*, 흡연 습관). 관련 관용구: *non avere peli sulla lingua*(거침없이 말하다), *cercare il pelo nell'uovo*(흠을 잡다), *per un pelo*(간발의 차로). |

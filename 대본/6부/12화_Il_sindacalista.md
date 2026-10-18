@@ -17,7 +17,7 @@
 1. Teresa: (Porgendo un volantino a un ragazzo con il gilet giallo che passa, con una voce roca di sigarette e di megafoni) Leggilo, fratello. (Pausa) Anche se non leggi l'italiano. (Pausa) Ci sono i disegni.
 2. Ragazzo: (Prendendo il volantino senza fermarsi) Grazie, mamma.
 3. Teresa: (A Luca, che si è fermato accanto al furgone) Mi chiamano tutti mamma. (Pausa) Ho sessantatré anni. (Pausa) Ai trenta mi chiamavano «compagna». Ai quaranta «signora». Ai cinquanta «la Ghidoni». (Pausa) Adesso «mamma». (Pausa) È una carriera.
-4. Luca: (Sorridendo) Luca Moretti. (Pausa) Riflesso.
+4. Luca: (Sorridendo) Luca Moretti. (Pausa) Il Riflettore.
 5. Teresa: (Guardandolo dalla testa ai piedi, soffermandosi sulle scarpe) Lo so chi sei. (Pausa) Socio quarantasette. (Pausa) Me l'ha detto Abdel. (Pausa) E me l'ha detto anche il ragazzo senegalese con la gamba ingessata. (Pausa) E la ragazza dell'ufficio che si è licenziata. (Pausa) Qui fuori, giornalista, si sa tutto prima che dentro.
 6. Luca: (Piano) Allora sa perché sono qui.
 7. Teresa: (Dandogli un volantino) So perché eri dentro. (Pausa) Adesso sei fuori. (Pausa) Fuori è il mio posto. (Pausa) Leggi.

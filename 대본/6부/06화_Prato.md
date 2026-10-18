@@ -132,7 +132,7 @@
 ### 4장면 (101–130턴)
 *오후 4시 30분. 프라토 시내 바로크 건물 2층의 'Studio Galeotti — Consulenza fiscale e societaria'. 루카가 명함을 내밀고 정식으로 기자라고 밝혔다. 비서가 놀라더니 그를 안으로 들인다. 모레노 갈레오티(61)가 금테 안경을 이마에 올리고 서서 맞는다. 사라와 웨는 아래 카페에서 기다린다.*
 
-101. Galeotti: (Senza dargli la mano, restando dietro la scrivania) Riflesso. (Pausa) Milano. (Pausa) Io con i giornalisti non parlo.
+101. Galeotti: (Senza dargli la mano, restando dietro la scrivania) Il Riflettore. (Pausa) Milano. (Pausa) Io con i giornalisti non parlo.
 102. Luca: (Restando in piedi anche lui) Allora le faccio tre domande e lei non risponde. (Pausa) Va bene lo stesso.
 103. Galeotti: (Con un mezzo sorriso, incuriosito suo malgrado) Faccia.
 104. Luca: Prima. (Pausa) Lo studio Galeotti è il commercialista di tre ditte che negli ultimi tre anni hanno avuto sede in via del Ferro ventotto. (Pausa) Una dopo l'altra. (Pausa) Con titolari diversi di ventidue anni. (Pausa) È corretto?

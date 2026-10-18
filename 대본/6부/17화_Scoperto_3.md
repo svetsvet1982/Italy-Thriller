@@ -32,8 +32,8 @@
 14. Toscano: (Girandosi verso Elena, tendendo la mano verso il telefono) Mi dia.
 15. Elena: (Porgendoglielo)
 16. Toscano: (Al telefono) Sono il maresciallo Toscano. (Pausa) Lei è quello del drone?
-17. Leo: Leonardo Galli. (Pausa) Ho l'autorizzazione dell'ENAC per il volo notturno. (Pausa) E il permesso scritto del proprietario del campo. (Pausa) Ottanta metri. (Pausa) Non sorvolo il polo. (Pausa) Guardo da sopra il campo.
-18. Toscano: (Dopo un momento) Va bene, Galli. (Pausa) La prego formalmente di seguire quell'auto con la telecamera. (Pausa) Senza mai sorvolare le persone. (Pausa) Mi dica dove va. (Pausa) Lo scrivo nel verbale: richiesta dell'Arma, ore zero e nove.
+17. Leo: Leonardo Pellegrini. (Pausa) Ho l'autorizzazione dell'ENAC per il volo notturno. (Pausa) E il permesso scritto del proprietario del campo. (Pausa) Ottanta metri. (Pausa) Non sorvolo il polo. (Pausa) Guardo da sopra il campo.
+18. Toscano: (Dopo un momento) Va bene, Pellegrini. (Pausa) La prego formalmente di seguire quell'auto con la telecamera. (Pausa) Senza mai sorvolare le persone. (Pausa) Mi dica dove va. (Pausa) Lo scrivo nel verbale: richiesta dell'Arma, ore zero e nove.
 19. Leo: (Con la voce che trema appena) Ricevuto, maresciallo.
 20. Toscano: (Alla radio) Pisani! (Pausa) Pisani, dove sei?
 21. Pisani: (Alla radio, gracchiando) All'incrocio della cascina Malvezzi. (Pausa) Sulla strada dei campi. (Pausa) Ho spento i lampeggianti come mi ha detto.

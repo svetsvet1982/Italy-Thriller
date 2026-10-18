@@ -19,8 +19,8 @@
 3. Bruno: (Guardando Luca, riconoscendolo, poi abbassando gli occhi sul pacco) Ah. (Pausa) Il ragazzo. (Pausa) Quello del duemilanove.
 4. Luca: (Piano) Buongiorno, Bruno.
 5. Bruno: (Sfilando una copia del «Giorno» dal pacco, guardando la prima pagina, poi aprendola a pagina tre) Tua madre ne comprò dieci. Nel duemilanove. (Pausa) Me lo ricordo. (Pausa) Era la prima volta che comprava dieci copie di qualcosa che non fosse la Gazzetta per i mondiali.
-6. Renato: (Tirando fuori il portafoglio) Oggi ne compro dieci io. (Pausa) Del «Giorno». (Pausa) E dieci di quell'altro. Quello piccolo. (Pausa) Riflesso.
-7. Bruno: (Cercando nel pacco più piccolo) Di Riflesso me ne mandano cinque. (Pausa) Ne vendo due. (Pausa) Uno lo compra il professore del quarto piano. L'altro una signora che fa le parole crociate sul retro.
+6. Renato: (Tirando fuori il portafoglio) Oggi ne compro dieci io. (Pausa) Del «Giorno». (Pausa) E dieci di quell'altro. Quello piccolo. (Pausa) Il Riflettore.
+7. Bruno: (Cercando nel pacco più piccolo) Del Riflettore me ne mandano cinque. (Pausa) Ne vendo due. (Pausa) Uno lo compra il professore del quarto piano. L'altro una signora che fa le parole crociate sul retro.
 8. Renato: Allora prendo le cinque. (Pausa) E la signora le parole crociate le fa sul «Giorno».
 9. Bruno: (Ridendo, poi tornando serio, guardando la pagina tre del «Giorno» sotto la lampadina del chiosco) «Lettera ai lettori.» (Pausa) Di Luca Moretti. (Pausa) Nello stesso posto dove c'era...
 10. Luca: Nello stesso posto.

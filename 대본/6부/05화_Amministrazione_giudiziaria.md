@@ -120,7 +120,7 @@
 92. Pina: (Sorpresa) Io?
 93. Vigorelli: (Con una voce bassa, pratica, senza sorrisi) Sono Clelia Vigorelli. L'amministratrice nominata dal Tribunale. (Pausa) Da oggi, per un anno, la Varenna non decide niente senza di me. (Pausa) E i suoi fornitori nemmeno. (Pausa) Lei ha parlato con il maresciallo. (Pausa) Vorrei che parlasse anche con me. (Pausa) Oggi pomeriggio. In un posto dove non ci sia la segretaria.
 94. Pina: (Guardando Luca, poi Vigorelli) Con lui presente?
-95. Vigorelli: (Guardando Luca per la prima volta, riconoscendolo) Moretti. (Pausa) Riflesso. (Pausa) No. (Pausa) Lui no. (Pausa) Io non parlo con i giornalisti finché non ho capito cosa c'è da capire. (Pausa) Ma lei può leggere il suo giornale. È libera.
+95. Vigorelli: (Guardando Luca per la prima volta, riconoscendolo) Moretti. (Pausa) Il Riflettore. (Pausa) No. (Pausa) Lui no. (Pausa) Io non parlo con i giornalisti finché non ho capito cosa c'è da capire. (Pausa) Ma lei può leggere il suo giornale. È libera.
 96. Luca: (Alzandosi) Dottoressa. Una sola domanda. (Pausa) Non per scriverla. Per capire.
 97. Vigorelli: (Dopo un momento) Una.
 98. Luca: Lei è qui per le borse? (Pausa) O per tutto?

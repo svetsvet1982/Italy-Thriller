@@ -92,7 +92,7 @@
 *오전 9시 58분. 카스텔 산 조반니, 비아 로마. 42번지 건물 1층의 '바 첸트랄레'. 오래된 바텐더 조르다나(60대)가 커피 기계를 닦는다. 바깥 보도 테이블에 토마소가 분홍 신문을 펴고 앉았다. 도로 맞은편에 카라비니에리 순찰차가 '교통 단속' 중이다. 1km 밖 토마토 밭 위에 초록 점멸등이 떠 있다. 안쪽 구석 테이블에 가죽 점퍼의 남자가 등을 벽에 대고 앉아 있다.*
 
 66. Tony: (Alzando gli occhi dal telefono, senza alzarsi, con un sorriso largo, cordiale) Fra'. (Pausa) Puntuale. (Pausa) Mio fratello diceva che i giornalisti arrivano sempre in ritardo.
-67. Luca: (Fermandosi davanti al tavolo, senza sedersi, tirando fuori dalla tasca il registratore, posandolo sul tavolo, accendendolo, la luce rossa che si accende) Buongiorno. (Pausa) Luca Moretti. Riflesso. (Pausa) Sono le dieci. (Pausa) Il registratore è acceso. (Pausa) Se non le va bene, me ne vado.
+67. Luca: (Fermandosi davanti al tavolo, senza sedersi, tirando fuori dalla tasca il registratore, posandolo sul tavolo, accendendolo, la luce rossa che si accende) Buongiorno. (Pausa) Luca Moretti. Il Riflettore. (Pausa) Sono le dieci. (Pausa) Il registratore è acceso. (Pausa) Se non le va bene, me ne vado.
 68. Tony: (Guardando il registratore, poi lui, poi ridendo piano) Il registratore. (Pausa) Bravo. (Pausa) Mi piace. (Pausa) Siediti, fra'. (Pausa) Va bene il registratore. (Pausa) Io non ho niente da nascondere. (Pausa) Giordana! Due caffè!
 69. Luca: (Sedendosi di fronte a lui, guardando le mani: la destra sul tavolo, l'anello d'oro al mignolo, la pietra rossa) Lei è Antonio Scordo.
 70. Tony: (Con un'alzata di spalle) Tony. (Pausa) Antonio è per i notai. (Pausa) Tony per gli amici.

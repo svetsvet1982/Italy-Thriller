@@ -56,7 +56,7 @@
 32. Maresciallo Toscano: (Illuminando l'etichetta su una delle scatole) «Componenti elettronici. (Pausa) Campioni senza valore commerciale.» (Pausa) Dodici scatole. (Pausa) Duecento chili. (Pausa) Campioni senza valore.
 33. Tommaso: (Dalla linea, piano) Duecento chili di campioni senza valore.
 34. Toscano: (Girandosi, guardando Tommaso) Lei è?
-35. Tommaso: Tommaso Ferri. (Pausa) Riflesso.
+35. Tommaso: Tommaso Bertoli. (Pausa) Il Riflettore.
 36. Toscano: (Annuendo) Il fotografo. (Pausa) La dottoressa Fabbri mi ha avvisato. (Pausa) Non fotografi le scatole. (Pausa) È materiale sotto sequestro.
 37. Tommaso: (Abbassando la macchina) Non le fotografo.
 38. Elena: (Con il telefono in mano, avvicinandosi alla linea) Maresciallo. (Pausa) Il nostro collega è dentro. (Pausa) Al magazzino. (Pausa) Ha mandato un segnale. (Pausa) Due vibrazioni lunghe. (Pausa) Significa che ha un problema.

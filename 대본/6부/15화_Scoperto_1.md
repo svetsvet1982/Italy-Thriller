@@ -115,7 +115,7 @@
 86. Ivo: (Allungando la mano verso il taccuino) Il taccuino.
 87. Luca: (Mettendo la mano sul taccuino, prima di lui) Il taccuino è mio. (Pausa) Non è un oggetto pericoloso. (Pausa) È un taccuino.
 88. Ivo: (Con un mezzo sorriso, ritirando la mano) Cosa c'è scritto, nel taccuino?
-89. Luca: (Dopo un momento, ad alta voce, guardando i gialli intorno al tavolo, poi tirando fuori dalla tasca interna il tesserino, posandolo accanto al taccuino) Ci sono scritte le cose che scrive un giornalista. (Pausa) Mi chiamo Luca Moretti. (Pausa) Sono un giornalista. Di Riflesso. (Pausa) Sono stato socio di questa cooperativa per quattro settimane. (Pausa) Ho lavorato davvero. (Pausa) Sette euro l'ora. (Pausa) Stanotte vengo a dire di no. (Pausa) Come Abdel. Come Nicu.
+89. Luca: (Dopo un momento, ad alta voce, guardando i gialli intorno al tavolo, poi tirando fuori dalla tasca interna il tesserino, posandolo accanto al taccuino) Ci sono scritte le cose che scrive un giornalista. (Pausa) Mi chiamo Luca Moretti. (Pausa) Sono un giornalista. Del Riflettore. (Pausa) Sono stato socio di questa cooperativa per quattro settimane. (Pausa) Ho lavorato davvero. (Pausa) Sette euro l'ora. (Pausa) Stanotte vengo a dire di no. (Pausa) Come Abdel. Come Nicu.
 90. Gialli: (Un mormorio. Qualcuno smette di firmare. Una ragazza con il velo, la stessa del volantino di Faith, alza la testa dal foglio)
 91. Ivo: (Dopo un lungo momento, ridendo piano, guardando il tesserino) Lo sapevo. (Pausa) Lo sapevano tutti. (Pausa) Lo sapeva Tony da due settimane. (Pausa) Ma è bello sentirtelo dire. (Pausa) Davanti a tutti.
 92. Luca: (Piano) È per questo che l'ho detto davanti a tutti.

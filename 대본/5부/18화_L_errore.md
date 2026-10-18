@@ -28,7 +28,7 @@
 12. Elena: Fino al sei aprile, niente. (Pausa) Grazie, avvocata.
 13. Carcano: (Chiudendo) Buon lavoro. E Moretti... (Pausa) Si prepari. Dopo il sei aprile, la chiameranno tutti.
 14. Elena: (Spegnendo il vivavoce, alzandosi, andando alla lavagna, toccando la riga scritta) Allora. (Pausa) Il deposito è il sei aprile. (Pausa) Abbiamo tre settimane per decidere una cosa. (Pausa) L'errore.
-15. Davide: (Piano) Quale errore? (Pausa) L'articolo non era nostro. Era del «Giorno». Nel duemilanove. (Pausa) Riflesso non esisteva.
+15. Davide: (Piano) Quale errore? (Pausa) L'articolo non era nostro. Era del «Giorno». Nel duemilanove. (Pausa) Il Riflettore non esisteva.
 16. Elena: (Guardandolo) Esatto. (Pausa) Ed è il primo problema. (Pausa) Luca lavora qui. (Pausa) L'errore l'ha fatto quando lavorava là.
 17. Matteo: Allora la rettifica la deve fare il «Giorno».
 18. Ricci: (Con calma) Giuridicamente sì. (Pausa) La legge sulla stampa dice che la rettifica la pubblica chi ha pubblicato. (Pausa) Ma qui non parliamo di legge. (Pausa) Il fatto è stato giudicato e il «Giorno» non è mai stato chiamato a rettificare niente. (Pausa) Non c'è un obbligo.

@@ -94,7 +94,7 @@
 66. Bianca: (Indicando un ragazzo alto, con un cappellino e una giacca blu, accanto a un telo con dieci Lario nere in fila) È lui. (Pausa) Ieri sera.
 67. Matteo: (Avvicinandosi con calma, fermandosi davanti al telo, senza guardare le borse) Buonasera.
 68. Ousmane: (Guardandolo, poi Bianca, riconoscendola, con un sorriso) Ah! (Pausa) La signorina di ieri. (Pausa) Hai portato le amiche? (Pausa) Due per settanta.
-69. Matteo: (Con il suo modo gentile, l'accento genovese) No, grazie. (Pausa) Mi chiamo Matteo Galli. Sono un giornalista. Di Riflesso. (Pausa) Non compro niente. Non fotografo niente. (Pausa) Vorrei solo farle due domande. (Pausa) Se vuole. Se no, me ne vado.
+69. Matteo: (Con il suo modo gentile, l'accento genovese) No, grazie. (Pausa) Mi chiamo Matteo Galli. Sono un giornalista. Del Riflettore. (Pausa) Non compro niente. Non fotografo niente. (Pausa) Vorrei solo farle due domande. (Pausa) Se vuole. Se no, me ne vado.
 70. Ousmane: (Smettendo di sorridere, guardandosi intorno, verso il fondo del Naviglio, dove passa una macchina dei vigili, lentamente) Giornalista. (Pausa) Per scrivere che i senegalesi vendono le borse false?
 71. Matteo: (Scuotendo la testa) Per scrivere chi le cuce.
 72. Ousmane: (Dopo un momento, guardandolo con attenzione diversa) Chi le cuce. (Pausa) Nessuno chiede mai chi le cuce. (Pausa) Chiedono quanto costano. (Pausa) E se sono uguali alle vere.

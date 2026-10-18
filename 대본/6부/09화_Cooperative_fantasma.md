@@ -51,7 +51,7 @@
 *같은 날 오후 3시, 카스텔 산 조반니 외곽. 토마토 밭 사이 농가. 마당에 녹슨 트랙터, 묶인 개 한 마리, 플라스틱 의자 두 개. 앞치마를 두른 50대 여자가 문을 연다. 로레다나 본비치니(52). 학교 급식 조리사인데 오늘은 쉬는 날이다.*
 
 31. Loredana B.: (Sulla soglia, con le braccia incrociate) Se è per mio padre, non vende niente. (Pausa) Né il terreno né il trattore.
-32. Matteo: (Con i suoi modi garbati, l'accento genovese) No, signora. (Pausa) Siamo di un giornale. Riflesso. Di Milano. (Pausa) Vorremmo parlare con il signor Ermes. (Pausa) Della cooperativa.
+32. Matteo: (Con i suoi modi garbati, l'accento genovese) No, signora. (Pausa) Siamo di un giornale. Il Riflettore. Di Milano. (Pausa) Vorremmo parlare con il signor Ermes. (Pausa) Della cooperativa.
 33. Loredana B.: (Immobile) Quale cooperativa?
 34. Sara: (Piano) La Logistica Val Tidone. (Pausa) Suo padre ne è il presidente.
 35. Loredana B.: (Dopo un lungo silenzio, la faccia che cambia, da sospettosa a incredula) Il presidente? (Pausa) Mio padre? (Pausa) Mio padre non sa usare il telefono.

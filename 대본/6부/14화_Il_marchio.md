@@ -36,7 +36,7 @@
 20. Davide: Quelle sono le peggiori, direttrice. (Pausa) Sanno come si fanno le domande. (Pausa) E come non si risponde.
 21. Elena: (Con un mezzo sorriso) Lo so. (Pausa) Io l'ho fatto per dieci anni. (Pausa) Dall'altra parte.
 22. Luca: (Girandosi, sorpreso) Tu?
-23. Elena: (Posando il pennarello) Due anni. (Pausa) A Roma. Prima di Riflesso. (Pausa) Ufficio stampa di un ministero. (Pausa) Me ne sono andata quando mi hanno chiesto di scrivere un comunicato che diceva «il ministero non era a conoscenza». (Pausa) Era a conoscenza da tre mesi.
+23. Elena: (Posando il pennarello) Due anni. (Pausa) A Roma. Prima del Riflettore. (Pausa) Ufficio stampa di un ministero. (Pausa) Me ne sono andata quando mi hanno chiesto di scrivere un comunicato che diceva «il ministero non era a conoscenza». (Pausa) Era a conoscenza da tre mesi.
 24. Ricci: (Piano) «Non era a conoscenza.»
 25. Elena: (Guardando la lavagna) È la frase che sentiremo domani. (Pausa) In un'altra versione. (Pausa) Più elegante. (Pausa) In francese. (Pausa) «Nous ne savions pas.»
 26. Sara: Noi non sapevamo.

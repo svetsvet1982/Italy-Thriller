@@ -18,7 +18,7 @@
 2. Tommaso: (Accendendosi una sigaretta, guardando la strada vuota) E la chiesa?
 3. Leo: La chiesa no. (Pausa) Il campanile lo riprendo da qui, da terra, col teleobiettivo. (Pausa) Don Luigi ha detto di sì, ma il vescovo non l'ha detto.
 4. Luca: (Sorridendo appena) Prudente.
-5. Leo: (Senza alzare gli occhi) Il drone è registrato a mio nome. Se sbaglio, sbaglio io. (Pausa) Non voglio che domani qualcuno scriva che i giornalisti di Riflesso sono volati sopra una canonica.
+5. Leo: (Senza alzare gli occhi) Il drone è registrato a mio nome. Se sbaglio, sbaglio io. (Pausa) Non voglio che domani qualcuno scriva che i giornalisti del Riflettore sono volati sopra una canonica.
 6. Brusa: (Dal cancello, girando la chiave nel lucchetto arrugginito) Voi siete quelli del giornale. (Pausa) Il fondo mi ha telefonato ieri. Mi ha detto di aprirvi e di stare zitto. (Pausa) La prima la faccio. La seconda vediamo.
 7. Tommaso: (Avvicinandosi, porgendo la mano) Bertoli. (Pausa) Lei è il custode?
 8. Brusa: Custode, guardiano, quello che apre. (Pausa) Ottorino Brusa. (Pausa) Settantaquattro anni. Dal duemilaquindici il fondo mi dà duecento euro al mese per venire due volte alla settimana a vedere che non entrino gli zingari. (Pausa) Che non entrano mai. Non c'è niente da rubare.

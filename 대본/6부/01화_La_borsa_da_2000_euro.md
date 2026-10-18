@@ -75,8 +75,8 @@
 53. Aurora: (Guardandola, poi guardando il direttore che passa in fondo al negozio, poi abbassando la voce) Signora. (Pausa) Lei non è qui per un regalo, vero?
 54. Sara: (Dopo un momento, guardandola dritto) No. (Pausa) È un regalo. (Pausa) Ma per una persona che non c'è.
 55. Aurora: (Immobile, poi con il sorriso professionale che ritorna al suo posto) La prendete?
-56. Luca: (Tirando fuori il portafoglio) La prendiamo. (Pausa) Fattura, per favore. (Pausa) Intestata a Riflesso Editore. Via...
-57. Aurora: (Fermandosi con la penna a mezz'aria) Riflesso. (Pausa) Il giornale. (Pausa) Quello della lettera. Mercoledì.
+56. Luca: (Tirando fuori il portafoglio) La prendiamo. (Pausa) Fattura, per favore. (Pausa) Intestata al Riflettore Editore. Via...
+57. Aurora: (Fermandosi con la penna a mezz'aria) Il Riflettore. (Pausa) Il giornale. (Pausa) Quello della lettera. Mercoledì.
 58. Luca: (Dopo un momento) Sì.
 59. Aurora: (Scrivendo la fattura lentamente) Mia madre l'ha letta. (Pausa) Mi ha mandato la foto della pagina su WhatsApp. (Pausa) Ha scritto: «Questo è un uomo che ha chiesto scusa. Non lo vedevo da anni.»
 60. Sara: (Piano) Sua madre cosa fa?
@@ -125,7 +125,7 @@
 97. Sara: (Prendendole la mano sul tavolo)
 98. Rosetta: (Lasciandosi prendere la mano, guardando la Lario sul tavolo) Sei anni. (Pausa) E l'ultima cosa che ho cucito per loro è stata la mia lettera di licenziamento. (Pausa) Ho dovuto firmarla con la penna di Varenna. Quella che ci davano per i controlli. (Pausa) Avrei voluto firmarla storta.
 99. Luca: (Dopo un lungo silenzio) Signora Bassani. (Pausa) Perché ha scritto a noi?
-100. Rosetta: (Con un mezzo sorriso) Perché mia sorella a Lodi legge Riflesso. (Pausa) Mi ha portato la lettera. Quella sull'uomo di ghiaccio. (Pausa) Ha detto: «Rosetta, questi chiedono scusa quando sbagliano. Vuol dire che controllano prima di scrivere.» (Pausa) E io ho pensato: è gente che rovescia la giacca. (Pausa) Per vedere la cucitura dentro.
+100. Rosetta: (Con un mezzo sorriso) Perché mia sorella a Lodi legge il Riflettore. (Pausa) Mi ha portato la lettera. Quella sull'uomo di ghiaccio. (Pausa) Ha detto: «Rosetta, questi chiedono scusa quando sbagliano. Vuol dire che controllano prima di scrivere.» (Pausa) E io ho pensato: è gente che rovescia la giacca. (Pausa) Per vedere la cucitura dentro.
 
 ---
 

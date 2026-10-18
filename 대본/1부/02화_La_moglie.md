@@ -104,7 +104,7 @@
 83. Luca: Me lo faceva leggere il mio maestro. Diceva che è il verso più vero che Dante abbia mai scritto.
 84. Antonella: Aveva ragione. Ieri sera ho aperto l'album del matrimonio. Le foto rovinate dalla pioggia. Ridevamo, sotto quel temporale. E adesso quel ricordo mi fa più male di qualsiasi altra cosa.
 85. Sara: (Piano) Perché era felice.
-86. Antonella: Perché era felice. E non lo sapevo.
+86. Antonella: Perché era felice. E non lo sapevo. Se l'avessi saputo, me lo sarei goduto di più.
 87. Luca: Signora, posso farle una domanda difficile?
 88. Antonella: Me ne ha già fatte. Una in più non mi ucciderà.
 89. Luca: Vuole che si sappia la verità su quello che è successo a suo marito? Anche se la verità dovesse essere scomoda per lui?
@@ -233,7 +233,7 @@
 | 원과거 | spararono, Lo aspettarono, si aggrappò (31–32) |
 | 미래·전미래 | sarà una testimone (16), Verrò (27), lo scopriremo (115) / Saranno stati dei ragazzini (72), lo avranno ucciso due volte (91) |
 | 조건법 | Potrebbe essere (9), potremmo prenderla (118) / avremmo il suo coraggio (33) |
-| 접속법 4시제 | che la rendano (16), che voglia (41), Vuole che si sappia (89), che io cambi idea (95), Dicono che sia (137), che si fermino (144) / che Dante abbia scritto (83) / chi fossero (6), come se avessi otto anni (42), che mi vedesse (64), che lo vedessimo (70), Pensavo fossero (107) / (대과거형은 다음 화에서) |
-| 가정문 | 1형: Se chiama, posso venire (14), se nota qualcosa, chiami (126) / 미래형: Se scriverete…, lo avranno ucciso (91) / 접속법 미래 뉘앙스: Anche se la verità dovesse essere scomoda (89) |
+| 접속법 4시제 | che la rendano (16), che voglia (41), Vuole che si sappia (89), che io cambi idea (95), Dicono che sia (137), che si fermino (144) / che Dante abbia scritto (83) / chi fossero (6), come se avessi otto anni (42), che mi vedesse (64), che lo vedessimo (70), Pensavo fossero (107) / se l'avessi saputo (86) |
+| 가정문 | 3형: Se l'avessi saputo, me lo sarei goduto di più (86) / 1형: Se chiama, posso venire (14), se nota qualcosa, chiami (126) / 미래형: Se scriverete…, lo avranno ucciso (91) / 접속법 미래 뉘앙스: Anche se la verità dovesse essere scomoda (89) |
 | 명령법 | tu: Contattalo (138) / Lei: Prenda (75), vada da lei, chiami (126), voi: Ascoltatemi, Ricordatevi (16, 30), Sedetevi (40), Venite (93), Fotografate… non portate via (105), Prendetela (119) / noi: cambiamo strada (150) |
 | 기타 | 제룬디오 Indicando, Guardando (지문), Asciugandosi (76) / 수동 의미 si: si vede (2, 7) / 간접화법 Mi ha detto che un amico gli aveva chiesto… (54) / 결합대명사 Me lo dicono (38), Me ne ha già fatte (88), Gliela riporteremo, glielo prometto (118) / 원형의 명사적 용법 ricordarsi (80) |

@@ -5,7 +5,7 @@
 > 유형: 📰 보도형 · 150턴
 > 등장인물:
 > - 엘레나(Elena), 루카(Luca), 토마소(Tommaso), 마테오(Matteo), 사라(Sara), 다비데(Davide), 레오(Leo), 리치 변호사(Ricci)
-> - 파브리 검사(Fabbri), 마르타 시로니(Marta Sironi), 베로니카 판토니(Veronica Fantoni, 조르조의 딸, 전화), 비안카(Bianca), 로사리아 벨란디(Rosaria Bellandi, 67)
+> - 파브리 검사(Fabbri), 마르타 시로니(Marta Sironi), 베로니카 판토니(Veronica Fantoni, 조르조의 딸, 전화), 비안카(Bianca), 로사리아 만테가차(Rosaria Mantegazza, 71)
 > 인용: 속담 "Il tempo è galantuomo"
 
 ---
@@ -172,17 +172,17 @@
 ### 5장면 (136–150턴)
 *밤 10시 40분, 편집국. 다들 퇴근했다. 엘레나와 루카만 남았다. 초인종이 울린다. 문 앞에 회색 외투를 입은 60대 후반 여자가 서 있다. 손에 비닐 파일을 꼭 쥐고 있다.*
 
-136. Rosaria: (Sulla soglia, con la voce stanca ma ferma) Scusate l'ora. (Pausa) Ho preso il treno da Pavia alle otto. Ho letto il vostro articolo sul telefono di mia nipote. (Pausa) Mi chiamo Rosaria Bellandi.
+136. Rosaria: (Sulla soglia, con la voce stanca ma ferma) Scusate l'ora. (Pausa) Ho preso il treno da Pavia alle otto. Ho letto il vostro articolo sul telefono di mia nipote. (Pausa) Mi chiamo Rosaria Mantegazza.
 137. Elena: (Facendola entrare) Prego. Si sieda.
 138. Rosaria: (Sedendosi sul bordo della sedia, con il fascicolo sulle ginocchia) Grazie. (Pausa) Nel vostro articolo c'è una riga. Sul telefono dell'ispettore Neri. (Pausa, leggendo dal telefono) «Fra le cartelle trovate sul telefono, una porta il nome di un vecchio caso: Valdorsa.»
 139. Luca: (Avvicinandosi) Sì.
-140. Rosaria: (Dopo un lungo silenzio) Mio figlio si chiama Stefano. (Pausa) Stefano Bellandi. (Pausa) È in carcere da sedici anni. A Bollate. (Pausa) Per l'omicidio di Valdorsa.
+140. Rosaria: (Dopo un lungo silenzio, guardando Luca, non Elena) Mio figlio si chiama Paolo. (Pausa) Paolo Mantegazza. (Pausa) È in carcere da quindici anni. A Bollate. (Pausa) Per l'omicidio di Valdorsa. (Pausa) Lei lo conosce, dottor Moretti. Lo chiamava «l'amico di ghiaccio».
 141. Elena: (Immobile)
-142. Rosaria: Lo hanno condannato per aver ucciso la sua fidanzata. Nel duemilanove. Aveva ventitré anni. (Pausa) Lui ha sempre detto che non è stato lui. Sempre. In tre processi. In sedici anni. (Pausa) Nessuno gli ha mai creduto. Neanche io, per un po'. (Pausa) Per un anno, Dio mi perdoni, neanch'io. (Pausa) Se gli avessi creduto subito, forse oggi non sarebbe così solo.
-143. Luca: (Piano) Signora...
-144. Rosaria: (Aprendo il fascicolo, tirando fuori un foglio ingiallito) Questo è l'elenco dei reperti del processo. Del duemilanove. (Pausa) L'ispettore che li aveva in custodia si chiamava Sergio Neri. (Pausa) Al processo d'appello, il mio avvocato chiese di vedere una cosa. Una videocassetta. La telecamera di un magazzino davanti alla casa della ragazza. (Pausa) Gli dissero che non era mai stata depositata. Che non esisteva.
+142. Rosaria: Lo hanno condannato a ventun anni per aver ucciso il suo amico. Stefano Zerli. Il farmacista. Nel duemilanove. Paolo ne aveva ventisette. (Pausa) Lui ha sempre detto che non è stato lui. Sempre. In tre processi. In quindici anni. (Pausa) Nessuno gli ha mai creduto. Neanche io, per un po'. (Pausa) Per un anno, Dio mi perdoni, neanch'io. (Pausa) Se gli avessi creduto subito, forse oggi non sarebbe così solo.
+143. Luca: (Immobile, con la voce che non esce) Signora... (Pausa) Sì. Ero io.
+144. Rosaria: (Aprendo il fascicolo, tirando fuori un foglio ingiallito) Questo è l'elenco dei reperti del processo. Del duemilanove. (Pausa) L'ispettore che li aveva in custodia si chiamava Sergio Neri. (Pausa) Al processo d'appello, il mio avvocato chiese di vedere una cosa. Una videocassetta. La telecamera di un magazzino davanti alla cascina degli Zerli. (Pausa) Gli dissero che non era mai stata depositata. Che non esisteva.
 145. Elena: (Prendendo il foglio con delicatezza)
-146. Rosaria: Per sedici anni mi hanno detto che quella cassetta non esisteva. (Pausa) Stamattina, nel vostro giornale, ho letto che l'ispettore Neri aveva una cartella sul telefono. Che si chiama «Valdorsa — reperti».
+146. Rosaria: Per quindici anni mi hanno detto che quella cassetta non esisteva. (Pausa) Stamattina, nel vostro giornale, ho letto che l'ispettore Neri aveva una cartella sul telefono. Che si chiama «Valdorsa — reperti».
 147. Luca: (Guardando Elena, poi Rosaria) Signora. Domani mattina andiamo dalla dottoressa Fabbri. Con lei. E con il nostro avvocato.
 148. Elena: (Il telefono vibra. Un messaggio. Leggendo, la faccia che cambia) Fabbri. (Pausa, leggendo ad alta voce) «Sala. Una cosa sola, poi dormo. Nella cartella Valdorsa del telefono di Neri c'è una riga che non capisco. "VHS magazzino — non depositata — consegnata a corriere — bolla n. 0047." Lei sa cosa vuol dire?»
 149. Rosaria: (Portandosi la mano alla bocca) La cassetta. (Pausa) Esisteva.
@@ -204,7 +204,7 @@
 | | 4부의 매듭: ① 아고스티니는 23:10 키아소를 넘어 루가노로 돌아갔다. 남은 길은 국제 사법공조(*rogatoria*)뿐이다. ② 버려진 체루티의 6시간 진술. 루카 집 비행, 8월 마테오 신분증 탈취, SIM 개통, 로 창고에서 멀티탭 제작, 카모글리에서 슈퍼마켓 봉지에 담아 조르조에게 전달. 모두 아고스티니의 지시였다. ③ 조르조는 변호사 없이 전부 자백했다. "친구는 너무 많았다. 변호사 하나 더는 필요 없다."(12턴) ④ 네리는 침묵한다(로마에서 온 비싼 변호사, "누가 돈을 대는지 짐작한다"). 그러나 휴대폰 포렌식에서 **'Inchiostro 2016' 사진 40장 중 마지막 3장이 커브 직후 약 30m 상공에서 찍혔다. 드론이다**(18–20턴). 파브리가 시로니 사망 사건 재수사를 요청한다. "시간은 신사다." |
 | | 보도의 원칙(📰): 실명 조르조, 동기(빚)는 쓰되 경마는 한 줄, '울티마 노티치아' 농담은 금지("61세 남자의 몰락을 웃음거리로 삼지 않는다", 39턴). 마테오가 50행 「만들어진 범인」을 쓴다. 토마소는 루포 건을 자기 이름으로 싣자고 한다. "남의 이름은 파일로, 우리 이름은 침묵으로 다루면 그들과 같다."(47턴) 엘레나는 손드리오의 약속대로 "변호한 뒤에" 그 부분을 직접 쓴다. 시로니에 대해서는 "살해됐다"고 쓰지 않는다. 리치: "아는 것과 느끼는 것은 다르다."(56턴) 엘레나의 원칙 "Portami fatti, non versi"는 시로니의 1999년 기사에서 루카가 찾은 말이었다. "6년 동안 그를 위해 일한 셈이다."(60턴) 조르조의 딸 베로니카(로카르노 억양)는 "아빠가 연금 서류라고 했다"며 울고 묻는다. "아빠가 나빴나요?" 엘레나: "아니요. 편집국에서 가장 친절한 사람이었어요. 그래서 더 어려워요."(113턴) "그 말 아버지도 했어요. 시간은 신사라고."(124턴) |
 | | 마르타의 해석: "어릴 땐 시간이 모자 쓴 신사인 줄 알았다. 이제는 시간이 혼자 아무것도 안 한다는 걸 안다. 누군가 10년 동안 한 달에 한 상자를 열고, 필름을 현상하고, 둘째 토요일마다 이유도 모르고 달려야 시간이 신사가 된다."(80턴) 40번째 상자는 시로니가 2015년 크리스마스에 남긴 말대로 루카의 몫이다. **"친구 하나를 잃고 다른 하나를 되찾은 날"** 이 바로 어제였지만, 마르타는 아직 주지 않는다. "분노가 다른 것이 됐을 때 와라."(88–95턴) → 9부 '시로니 유품' 복선. |
-| | 5부로: 밤 10:40, 파비아에서 온 **로사리아 벨란디**(67). 아들 **스테파노 벨란디**는 2009년 발도르사 살인으로 16년째 볼라테 교도소에 있다(당시 23세, 세 번의 재판 내내 무죄 주장). 항소심에서 변호인이 요구한 '여자 친구 집 맞은편 창고 CCTV 비디오테이프'는 "제출된 적 없다, 존재하지 않는다"고 했다. 그 증거물 보관 책임자가 네리였다. 파브리의 문자: **"VHS 창고 — 미제출 — 택배로 전달 — 운송장 n. 0047."** "테이프는 있었어요."(149턴) 루카가 칠판의 SPECULA를 지우고 **VALDORSA**라고 쓴다. "이번엔 우리가 시간을 돕는다."(150턴) |
+| | 5부로: 밤 10:40, 파비아에서 온 **로사리아 만테가차**(71). 아들 **파올로 만테가차**는 2009년 발도르사에서 친구인 약사 **스테파노 제를리**를 살해한 혐의로 징역 21년, 15년째 볼라테 교도소에 있다(당시 27세, 세 번의 재판 내내 무죄 주장). 항소심에서 변호인이 요구한 '제를리 농가 맞은편 창고 CCTV 비디오테이프'는 "제출된 적 없다, 존재하지 않는다"고 했다. 그 증거물 보관 책임자가 네리였다. 파브리의 문자: **"VHS 창고 — 미제출 — 택배로 전달 — 운송장 n. 0047."** "테이프는 있었어요."(149턴) 그리고 그녀는 루카에게 말한다. "2009년에 내 아들을 '얼음의 친구'라고 부른 사람이 당신이죠."(140턴) 루카가 칠판의 SPECULA를 지우고 **VALDORSA**라고 쓴다. "이번엔 우리가 시간을 돕는다."(150턴) |
 | ⑥ 언어 포인트 | **galantuomo**: 복수형 *galantuomini*. 형용사 *galante*는 '여성에게 정중한', 원래 뜻은 '고상한, 정직한'이었다. 반대말 *mascalzone*(불한당), *furfante*(악당). *parola di galantuomo*(신사의 약속, '맹세코'). |
 | | **rogatoria internazionale**: 국제 사법공조 요청(외국 사법당국에 증인 신문·증거 수집을 청하는 절차, 1–2턴). *rientrare*(귀국하다), *a disposizione dell'autorità*(당국의 요청에 응할 수 있는). |
 | | 사법 어휘: *riapertura delle indagini*(재수사, 24턴), *avvocato d'ufficio*(국선 변호인, 8턴), *reperto / elenco dei reperti*(증거물 / 증거물 목록, 144턴), *depositare*(법원에 제출하다, 144턴), *processo d'appello*(항소심, 144턴), *bolla di consegna / bolla del corriere*(운송장, 148턴). |

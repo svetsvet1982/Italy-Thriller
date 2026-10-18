@@ -41,7 +41,7 @@
 25. Tommaso: (Accendendo il motore, senza accendere i fari ancora) Chiama Sara.
 26. Luca: (Componendo il numero) Sara. (Pausa) Jun non va a Prato. (Pausa) Viene verso di voi. (Pausa) Con i sei.
 27. Sara: (Al telefono, con la voce tesa, e dietro il rumore di un locale) Lo so. (Pausa) Ha appena chiamato Lili. (Pausa) Ha detto in dialetto: «Tony mi ha dato trecento euro per lasciarli alla stazione di Piacenza. (Pausa) Senza biglietto. (Pausa) Io li porto da te.»
-28. Luca: (Chiudendo gli occhi) Alla stazione di Piacenza. Senza biglietto.
+28. Luca: (Chiudendo gli occhi) Alla stazione di Piacenza. Senza biglietto. (Pausa) Se Jun avesse obbedito, stanotte sarebbero rimasti su una panchina. Senza niente.
 29. Sara: Arriva fra un'ora e mezza. (Pausa) Lili sta già scaldando il brodo.
 30. Tommaso: (Accendendo i fari, uscendo dalla piazzola) Allora andiamo a mangiare il brodo. (Pausa) E Luca... (Pausa) Chiama Ricci. (Pausa) Dovrà mettersi i pantaloni sopra il pigiama.
 
@@ -52,7 +52,7 @@
 
 31. Ricci: (Togliendosi il cappello, guardando i sei ragazzi, poi Lili, piano) Buonanotte. (Pausa) O buongiorno. (Pausa) Non so più.
 32. Lili: (Avvicinandosi) Avvocato. (Pausa) Grazie di essere venuto.
-33. Ricci: (Guardando i suoi pantaloni) Il pigiama è un'idea di Bertoli. (Pausa) Dice che fa meno paura di un vestito.
+33. Ricci: (Guardando i suoi pantaloni) Il pigiama è un'idea di Bertoli. (Pausa) Dice che fa meno paura di un vestito. (Pausa) Se venissi in giacca e cravatta, scapperebbero.
 34. Tommaso: (Dal suo tavolo, senza alzarsi) Funziona sempre.
 35. Ricci: (Sedendosi su una sedia, non al loro tavolo, ma a due metri, come un ospite) Signora Wang. (Pausa) Mi traduca, per favore. (Pausa) Parola per parola. Anche se le sembra inutile.
 36. Lili: (Annuendo)
@@ -99,7 +99,7 @@
 71. Luca: E oggi servono?
 72. Pina: (Guardando il capannone, le auto dei carabinieri) Oggi sì. (Pausa) Sono entrati alle nove. (Pausa) Una signora con un cappotto blu. Un maresciallo. Due carabinieri con la tuta. (Pausa) Hanno chiesto di aprire tutto.
 73. Luca: (Piano) Anche la stanza?
-74. Pina: (Con un mezzo sorriso amaro) La stanza era già aperta. (Pausa) Stamattina. (Pausa) Spalancata. (Pausa) Con le finestre aperte. (Pausa) Vuota. (Pausa) Le pareti ridipinte. Bianche. (Pausa) Si sente ancora l'odore della vernice. E di qualcos'altro. Tipo acido.
+74. Pina: (Con un mezzo sorriso amaro) La stanza era già aperta. (Pausa) Stamattina. (Pausa) Spalancata. (Pausa) Con le finestre aperte. (Pausa) Qualcuno l'aveva ridipinta durante la notte. (Pausa) Vuota. (Pausa) Le pareti ridipinte. Bianche. (Pausa) Si sente ancora l'odore della vernice. E di qualcos'altro. Tipo acido.
 75. Luca: Ridipinte stanotte.
 76. Pina: (Annuendo) Ridipinte stanotte. (Pausa) E sul pavimento i segni di sei tavoli. (Pausa) Sei rettangoli più chiari. (Pausa) La vernice si può dare ai muri. (Pausa) Al pavimento no. Ci vuole tempo.
 77. Luca: (Scrivendo) Sei rettangoli più chiari.
@@ -111,7 +111,7 @@
 83. Luca: (Piano) Pina...
 84. Pina: (Spegnendo la sigaretta sotto la scarpa) Le ho detto la settimana scorsa che io non ho paura di niente. (Pausa) Pensava che fosse un modo di dire?
 85. Luca: No.
-86. Pina: (Guardando lontano, oltre i capannoni, verso i campi) Mio padre faceva il tornitore alla Montedison. A Codogno. (Pausa) Nel sessantanove ha fatto lo sciopero. Quello dell'autunno caldo. (Pausa) Nel settanta hanno fatto la legge. Lo Statuto. (Pausa) Io avevo nove anni. (Pausa) Mi ha portata in piazza a vedere la festa. (Pausa) Mi ha messo sulle spalle. (Pausa) Mi ha detto: «Pinuccia, da oggi in fabbrica non si entra più come pecore.»
+86. Pina: (Guardando lontano, oltre i capannoni, verso i campi) Mio padre faceva il tornitore alla Montedison. A Codogno. (Pausa) Nel sessantanove fece lo sciopero. Quello dell'autunno caldo. (Pausa) Nel settanta hanno fatto la legge. Lo Statuto. (Pausa) Io avevo nove anni. (Pausa) Mi ha portata in piazza a vedere la festa. (Pausa) Mi ha messo sulle spalle. (Pausa) Mi ha detto: «Pinuccia, da oggi in fabbrica non si entra più come pecore.»
 87. Luca: (Commosso) Lo Statuto dei lavoratori.
 88. Pina: (Annuendo) Articolo uno. (Pausa) Me l'ha fatto imparare a memoria. (Pausa) «I lavoratori, senza distinzione di opinioni politiche, sindacali e di fede religiosa, hanno diritto, nei luoghi dove prestano la loro opera, di manifestare liberamente il proprio pensiero.» (Pausa) Nei luoghi dove prestano la loro opera. (Pausa) Stamattina ho manifestato. (Pausa) Nel luogo dove presto la mia opera.
 89. Luca: (Dopo un momento) E adesso?
@@ -138,14 +138,14 @@
 104. Vigorelli: Perché la contabilità della Due Ponti dice che qui lavorano otto persone che fanno quarantamila borse l'anno. (Pausa) Cinquemila borse a persona. (Pausa) Venti al giorno. (Pausa) Con sedici ore l'una. (Pausa) Trecentoventi ore al giorno. A testa.
 105. Pina: (Ridendo amaramente) Nemmeno io sono così brava.
 106. Vigorelli: (Senza ridere) Nemmeno Dio. (Pausa) I bilanci mentono con i numeri. (Pausa) I quaderni come questo dicono la verità con le ore.
-107. Rosetta: (Con la voce che trema) Io ho scritto per sei anni senza sapere perché. (Pausa) Mio marito diceva: «Rosetta, quello che non si scrive non è successo.»
+107. Rosetta: (Con la voce che trema) Io ho scritto per sei anni senza sapere perché. (Pausa) Mio marito diceva: «Rosetta, quello che non si scrive non è successo.» (Pausa) Spero che sia servito a qualcosa.
 108. Vigorelli: (Chiudendo il quaderno, posandoci sopra la mano) Suo marito aveva ragione. (Pausa) Posso tenerlo? (Pausa) Le faccio una ricevuta. (Pausa) E una copia, se vuole.
 109. Rosetta: (Dopo un momento) Lo tenga. (Pausa) La copia la faccio io. (Pausa) A mano. (Pausa) Così ce l'ho due volte.
 110. Vigorelli: (Con un mezzo sorriso, il primo) Va bene.
 111. Pina: (Guardando Vigorelli) Dottoressa. (Pausa) Posso farle io una domanda?
 112. Vigorelli: Faccia.
 113. Pina: Cosa succede alla Varenna, adesso? (Pausa) Chiude?
-114. Vigorelli: (Scuotendo la testa) No. (Pausa) Non chiude. (Pausa) L'amministrazione giudiziaria non è una punizione. (Pausa) È una cura. (Pausa) Per un anno io entro in azienda. (Pausa) Controllo i fornitori. Rifaccio i contratti. Pretendo i registri. Mando gli ispettori dove servono. (Pausa) Se alla fine dell'anno la filiera è pulita, la restituisco ai proprietari. (Pausa) Se non è pulita, il Tribunale decide altro.
+114. Vigorelli: (Scuotendo la testa) No. (Pausa) Non chiude. (Pausa) L'amministrazione giudiziaria non è una punizione. (Pausa) È una cura. (Pausa) Per un anno io entro in azienda. (Pausa) Controllo i fornitori. Rifaccio i contratti. Pretendo i registri. Mando gli ispettori dove servono. (Pausa) Se alla fine dell'anno la filiera è pulita, la restituisco ai proprietari. (Pausa) Se non è pulita, il Tribunale decide altro. (Pausa) Quando avrò finito, scriverò una relazione. E la leggeranno anche a Lussemburgo.
 115. Rosetta: E noi?
 116. Vigorelli: (Guardandole tutte e due) Voi siete la filiera, signora Bassani. (Pausa) Voi e i ragazzi di Prato. (Pausa) La cura è per voi. Non per il marchio.
 117. Pina: (Dopo un lungo silenzio) Il marchio. (Pausa) Mia nonna diceva che il marchio si mette alle mucche.
@@ -218,12 +218,12 @@
 
 | 범주 | 예문 (턴) |
 |---|---|
-| 근과거·반과거 | ha detto (5, 12, 27, 68, 78, 82, 122, 133), Ha appena chiamato (27), mi ha dato (27, 122), ha detto (43), Hai fatto… Ho fatto (48–49), li ho lasciati (49), l'hai rubato (52), ha avuto (54), Le ho già trovato (56), Ha studiato (56), Ho già scritto (58), Sono entrati (72), Hanno chiesto (72), l'ha visto (68), Si è inginocchiata… Li ha toccati… Ha fatto fotografare… ha chiesto (78), sono andata… gli ho detto (80), è diventata… ha fatto cadere (82), mi ha guardata. Mi ha chiesto (82), Gliel'ho detto (82), ha scritto (82), Le ho detto (84), ha fatto (86), hanno fatto (86), Mi ha portata… Mi ha messo… Mi ha detto (86), Me l'ha fatto imparare (88), ho manifestato (88), Lo ha firmato (90), ha parlato (93), ho capito (95), Ho scritto (107), ho visto (122), sono passati… siamo tornate (127), è piaciuta (129–130), è entrata (132), L'hanno visto (137), Sono andati (140), ha preso (144) / c'era (99, 120), Pensava (84), faceva (86), avevo (86), diceva (107, 117, 127), era (101), aveva (108, 118), si lavorava (132), si saldava (122), stavo cercando (91) |
-| 대과거 | → |
-| 원과거 | → |
-| 미래·전미래 | Dovrà mettersi (30), lo leggerà (133), deve essere allargato (141) → / 전미래 → |
-| 조건법 현재·과거 | Vorrei (93) / → |
-| 접속법 4시제 | (현재) che parli la loro lingua (58), dove non ci sia (93) / (과거) → / (반과거) Pensava che fosse (84), come se aspettasse (66), Vorrei che parlasse (93) / (대과거) → |
-| 가정문 | 1형: Se succede qualcosa…, chiamiamo (3), se volete, vi spiego (40), Se non volete, potete andare via (40), solo se qualcuno… sa (54), se vuole (108, 132), Se alla fine dell'anno la filiera è pulita, la restituisco (114), Se non è pulita, il Tribunale decide (114), Se la stanza… è vuota, … adesso è lì (140), se mi riconoscono, esco (150) / 2형 → / 3형 → |
+| 근과거·반과거 | ha detto (5, 12, 27, 68, 78, 82, 122, 133), Ha appena chiamato (27), mi ha dato (27, 122), ha detto (43), Hai fatto… Ho fatto (48–49), li ho lasciati (49), l'hai rubato (52), ha avuto (54), Le ho già trovato (56), Ha studiato (56), Ho già scritto (58), Sono entrati (72), Hanno chiesto (72), l'ha visto (68), Si è inginocchiata… Li ha toccati… Ha fatto fotografare… ha chiesto (78), sono andata… gli ho detto (80), è diventata… ha fatto cadere (82), mi ha guardata. Mi ha chiesto (82), Gliel'ho detto (82), ha scritto (82), Le ho detto (84), hanno fatto (86), Mi ha portata… Mi ha messo… Mi ha detto (86), Me l'ha fatto imparare (88), ho manifestato (88), Lo ha firmato (90), ha parlato (93), ho capito (95), Ho scritto (107), ho visto (122), sono passati… siamo tornate (127), è piaciuta (129–130), è entrata (132), L'hanno visto (137), Sono andati (140), ha preso (144) / c'era (99, 120), Pensava (84), faceva (86), avevo (86), diceva (107, 117, 127), era (101), aveva (108, 118), si lavorava (132), si saldava (122), stavo cercando (91) |
+| 대과거 | l'aveva ridipinta (74) |
+| 원과거 | fece lo sciopero (86) |
+| 미래·전미래 | Dovrà mettersi (30), lo leggerà (133), scriverò… la leggeranno (114) / 전미래 Quando avrò finito (114) |
+| 조건법 현재·과거 | Vorrei (93), scapperebbero (33) / sarebbero rimasti (28) |
+| 접속법 4시제 | (현재) che parli la loro lingua (58), dove non ci sia (93) / (과거) Spero che sia servito (107) / (반과거) Pensava che fosse (84), come se aspettasse (66), Vorrei che parlasse (93), Se venissi (33) / (대과거) Se Jun avesse obbedito (28) |
+| 가정문 | 1형: Se succede qualcosa…, chiamiamo (3), se volete, vi spiego (40), Se non volete, potete andare via (40), solo se qualcuno… sa (54), se vuole (108, 132), Se alla fine dell'anno la filiera è pulita, la restituisco (114), Se non è pulita, il Tribunale decide (114), Se la stanza… è vuota, … adesso è lì (140), se mi riconoscono, esco (150) / 2형: Se venissi in giacca e cravatta, scapperebbero (33) / 3형: Se Jun avesse obbedito, stanotte sarebbero rimasti su una panchina (28) |
 | 명령법 | Lei: Mi traduca (35), gli dica (45), Faccia (112), Lo tenga (109), Dica (143) / voi: Mangiate (47) / tu: Chiama (25, 30), vieni (63), Dimmi (139) / noi: andiamo (30) |
 | 기타 | 수동태 deve essere allargato (141), è intestata (144) / si 구문 Stanotte si mangia. E si dorme (37), si impara (70), Si sente (74), si può dare (76), non si entra (86, 127), non si scrive (107), si mette (117), si lavorava (132), si saldava (122) / 제룬디오 Guardando (5, 31, 35, 37, 40, 57, 61, 66, 72, 78, 86, 91, 94, 99, 102, 111, 116, 120, 125, 147, 150), Regolando (8), Scrivendo (9, 77), Spostando (14), Prendendo (15, 17, 124, 150), Abbassando (16), restituendogli (19), Accendendo (25, 30, 66, 130), Componendo (26), Chiudendo (28, 108, 148), uscendo (30), Togliendosi (31, 62), Avvicinandosi (32, 50, 59, 91), Sedendosi (35, 66), Annuendo (36, 65, 76, 88, 134, 137, 141), Traducendo (38, 41, 46), portandosi (44), posandolo (47), Alzandosi (50, 60, 96, 124, 150), Girandosi (51), prendendogli (59), appoggiandola (62), Mostrando (65), Uscendo (66, 91), attraversando (66), Soffiando (70), Spegnendo (84), sistemandosi (90), riconoscendolo (95), Posando (101), Aprendo… scorrendo (102), Ridendo (105, 118), Scuotendo (114), Tornando (120), Voltandosi (126), sorridendo (130), Contando (132) / 간접화법 Wang ha detto che la macchina scura arriva (5), Dice che fa meno paura (33), Chiede se domani li mandano (39), Dice che la porta della stanza era chiusa… E che è la prima porta (43), Lidia ha detto che l'ha visto (68), una signora mi ha detto che lì si saldava (122), Il decreto dice (99), Lo Statuto… dice che lei può (128) / 결합대명사 Gliel'ho detto (82), Me l'ha fatto imparare (88), ce l'ho (109) |

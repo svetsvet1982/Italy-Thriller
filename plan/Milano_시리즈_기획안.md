@@ -1,4 +1,4 @@
-# INCHIOSTRO E OMBRE — 밀라노 탐사보도 이탈리아어 대화문 시리즈 기획안 (v10 · 10부작)
+# INCHIOSTRO E OMBRE — 밀라노 탐사보도 이탈리아어 대화문 시리즈 기획안 (v11 · 10부작 · 부당 20화)
 
 > **잉크와 그림자**: 진실을 쓰는 잉크와, 그것을 덮으려는 그림자의 싸움
 > v4에서는 **드론이 시리즈 전체를 관통하는 축**이 된다. 교도소에 마약을 나르는 드론부터 공항을 멈추는 드론, 기지를 정찰하는 군집 드론, 그리고 진실을 찍는 기자의 드론까지.
@@ -8,12 +8,13 @@
 > v8: **독립된 세계관의 탐사보도 이야기다.** 네트워크 이름은 'Il Circolo'(치르콜로), 익명 제보자 별명은 'Il Corvo'(일 코르보)로 정했다.
 > v9: **매 화 이탈리아 고전 인용 1~2개**(없으면 속담·역사적 사건)를 넣고, 화 마지막에 **한국어 인용 해설**을 붙인다.
 > v10: 가를라스코 사건에서 **구조만 빌린 허구의 미제 사건 '발도르사'**를 **새 5부**로 넣어 **10부작**이 되었다(기존 5~9부 → 6~10부). 최근 1년 현안 9개도 해당 화에 반영했다.
-> 이전 버전: `_v1`~`_v6`, `_v9`, `부서별_비교안.md`, `8부_9부_사건목록.md`
+> v11: **각 부를 20화로** 늘렸다. 부마다 ☕ 일상 회차 2화, 기존 화를 둘로 나눈 심화 2화, 🗂 단편 사건 1화가 더해졌다.
+> 이전 버전: `_v1`~`_v6`, `_v9`, `_v10`, `부서별_비교안.md`, `8부_9부_사건목록.md`
 
 | 항목 | 내용 |
 |---|---|
 | 배경 | 밀라노(거점), 롬바르디아, 이탈리아 각지, 해외(룩셈부르크·루가노·두바이·시칠리아 해역) |
-| 분량 | **10부 × 15화 = 150화**, 화당 **150턴** → 총 **22,500턴** |
+| 분량 | **10부 × 20화 = 200화**, 화당 **150턴** → 총 **30,000턴** |
 | 형식 | 이탈리아어 대화문 (장면마다 한국어 상황 설명 1~2줄) |
 | 현안 원칙 | 2024~2026년 이탈리아 실제 현안에서 착안한다. **인물·기업·단체·구체적 혐의는 모두 허구로 만든다.** |
 
@@ -44,7 +45,7 @@
 ### 흑막 구조 (확정)
 | 층위 | 누구 | 역할 |
 |---|---|---|
-| 정점 | **아우구스토 발렌티** | 최종 흑막. 10부 14화 말펜사 공항에서 체포되며 이야기가 닫힌다 |
+| 정점 | **아우구스토 발렌티** | 최종 흑막. 10부 19화 말펜사 공항에서 체포되며 이야기가 닫힌다 |
 | 조직 | **Il Circolo** | 발렌티의 네트워크: 시 위원, 주의원, 개발사, 사설탐정 Specula, 트롤 팜 Nebula, '일 콜로넬로'(보안책임자) |
 | 바깥 | **Stormwing**(두바이)과 그 뒤의 제재 대상국 자금, 외국 정보기관 | 발렌티가 기술과 데이터를 파는 **고객이자 거래 상대**. **발렌티의 상부가 아니다** |
 
@@ -78,7 +79,7 @@
 | 이름 | 역할 |
 |---|---|
 | **Augusto Valenti** 아우구스토 발렌티 (68) | **최종 흑막**, Falco Systems의 실소유주, Il Circolo의 정점. 누구의 하수인도 아니다. 정중한 Lei와 접속법·조건법이 많은 우아한 화법 |
-| **Filippo Valenti** 필리포 발렌티 (35) | 아들이자 익명 제보자 'Il Corvo'(일 코르보, '까마귀'. 이탈리아에서 익명 투서자를 부르는 말). 8부 15화에 정체 공개 |
+| **Filippo Valenti** 필리포 발렌티 (35) | 아들이자 익명 제보자 'Il Corvo'(일 코르보, '까마귀'. 이탈리아에서 익명 투서자를 부르는 말). 8부 20화에 정체 공개 |
 | **Ing. Bruno Castelli** 브루노 카스텔리 | Falco Systems CEO. 엔지니어 출신, 냉정한 기술 관료 |
 | **PM Laura Fabbri** 라우라 파브리 검사 | 밀라노 검찰청 |
 | **'Il Colonnello'** 일 콜로넬로 | 전직 정보기관 대령. 7부의 정보원이자 위험인물 |
@@ -92,7 +93,7 @@
 
 ## 3. 분야별 구성 방식과 화 유형
 
-| 분야 | 구성 방식 | 15화의 흐름 |
+| 분야 | 구성 방식 | 20화의 흐름 |
 |---|---|---|
 | 사회 | 옴니버스 누적형 | 화마다 한 사람의 이야기가 쌓이고, 끝에서 하나의 구조로 꿰어진다 |
 | 경제 | 돈줄 추적형 | 화마다 돈이 한 단계씩 이동한다 |
@@ -103,7 +104,7 @@
 | **안보** | **방첩 스릴러형** | 이중 추적: 팀은 드론망을 쫓고, 정보기관은 팀을 지켜본다 |
 | 미디어 | 적 시점 교차형과 붕괴 | 홀수 화는 팀, 짝수 화는 적 잠입자 시점. 후반은 팀 붕괴 |
 | 종합·추적 (9부) | 회수 추적형 | 화마다 1~8부와 시로니 미스터리의 실 하나를 다시 당긴다 |
-| 결전 (10부) | 결전 카운트다운형 | 공개 D-14부터 D-0까지, 마지막 화는 에필로그 |
+| 결전 (10부) | 결전 카운트다운형 | 공개 D-18부터 D-0까지, 마지막 화는 에필로그 |
 
 | 화 유형 | 표기 | 턴 배분 예시 |
 |---|---|---|
@@ -113,6 +114,8 @@
 | 위기형 | ⚡ | 6~8장면 × 15~25턴 (전화·문자·무전) |
 | 관계형 | 🤝 | 3~4장면 × 30~50턴 |
 | 보도형 | 📰 | 법률검토 40 / 반론권 40 / 발행 50 / 반향 20 |
+| **일상형** | ☕ | **신규.** 사건이 잠시 멈추는 밀라노의 하루. 3~4장면 × 35~50턴. 긴장은 낮게, 생활 어휘(시장·식당·은행·학교·집·교통)는 많게. 사건 단서가 하나 슬쩍 섞인다 |
+| **단편형** | 🗂 | **신규.** 한 화로 끝나는 작은 제보 사건. 제보 20 / 취재 60 / 확인 40 / 짧은 기사 30. 팀의 평소 업무를 보여 준다 |
 | **비행형** | 🛸 | **신규.** 드론 비행 중 실시간 교신 장면이 중심이다. 조종석(레오), 지상(토마소), 편집국(다비데)의 3원 교신으로 브리핑 20 / 비행 90 / 영상 분석 25 / 훅 15 |
 
 ---
@@ -142,6 +145,7 @@
 - 시제는 **장면이 요구할 때** 쓴다. 문법을 보여 주려고 억지 대사를 만들지 않는다.
 - 인물마다 말버릇을 준다: 발렌티는 접속법·조건법이 많은 우아한 문장, 레오는 현재형 위주의 빠른 구어에 영어 단어, 토마소는 짧은 명령과 근과거, 노인 증인은 원과거.
 - 쉬운 문장과 어려운 문장을 같은 장면 안에 섞어, 학습자가 한 화 안에서 난이도의 폭을 다 겪게 한다.
+- **☕ 일상 회차(부마다 2화)는 생활 어휘 담당이다.** 시장, 식당, 은행, 학교, 집 구하기, 기차, 이발소처럼 수사 장면에서는 나오지 않는 말을 집중적으로 다룬다.
 
 ### 인용 설계: 매 화 이탈리아 고전 1~2개
 매 화에 **이탈리아 고전 인용을 1~2개** 넣는다. 적절한 고전이 없으면 **이탈리아 속담**이나 **이탈리아 역사적 사건**을 인용한다. 화별 배정은 5장 표의 '인용' 칸에 있다.
@@ -243,17 +247,22 @@
 | 2 | 🤝 | La moglie (아내) | 피살자의 아내. "Ogni notte usciva con quel drone."(밤마다 그 드론을 들고 나갔어요) | 단테 지옥편 5곡 121–123행 "Nessun maggior dolore / che ricordarsi del tempo felice / ne la miseria" |
 | 3 | 🔍 | Il carcere (교도소) | 산 비토레 교도관. 밤마다 창살로 날아드는 휴대폰과 마약. 교도관: "그 휴대폰으로 안에서 밖의 마약 거래를 지휘합니다."(교도소에서 암호 채팅으로 밀매를 지휘한 2026년 사건 착안) | 베카리아 『범죄와 형벌』 "Uno de' più gran freni dei delitti non è la crudeltà delle pene, ma l'infallibilità di esse" |
 | 4 | 🤝 | Il pilota (조종사) | FPV 레이서 레오가 추락 드론을 분석한다. 개조 흔적과 장거리 송신기. 레오가 팀에 합류한다. | 단테 지옥편 26곡 125행 "de' remi facemmo ali al folle volo" (오디세우스의 '미친 비행') |
-| 5 | 🔍 | Il parcheggiatore (주차요원) | 주차장은 이륙 장소였다. 매 경기 현금 상납. 주차·안전요원들은 서류상 존재하지 않는 불법 인력 업체 소속이다. | 속담 "Una mano lava l'altra" |
-| 6 | 🤝 | Il ragazzo della curva (응원석 소년) | 하룻밤 300유로에 드론 운반 알바로 모집된 16세 소년과 그 아버지. | 속담 "Dimmi con chi vai e ti dirò chi sei" |
-| 7 | 🎭 | Il chiosco (매점) | 사라가 매점 직원으로 잠입한다. | 속담 "L'abito non fa il monaco" |
-| 8 | 🛸 | Notte su San Vittore (산 비토레의 밤) | 레오가 합법 고도에서 띄운 팀 드론으로 배달 드론의 경로를 촬영한다. 리치 변호사가 비행금지구역 경계를 정해 준다. | 레오파르디 「축제일 저녁」 "Dolce e chiara è la notte e senza vento" |
-| 9 | 🎭 | Il capo (우두머리) | 사라가 울트라스 우두머리의 눈에 든다. | 마키아벨리 『군주론』 17장 "è molto più sicuro essere temuto che amato" |
-| 10 | 🔍 | Il poliziotto penitenziario (교정 경찰) | 대드론 장비도 예산도 없는 교정 당국. | 속담 "Fatta la legge, trovato l'inganno" |
-| 11 | ⚡ | Derby (더비) | 더비 경기 중 사라의 정체가 발각된다. 경기장 상공에 드론이 떠오른다. | 역사: 2006년 칼치오폴리(Calciopoli) 승부조작 스캔들 |
-| 12 | 🕵 | Il filo (실) | 2~10화의 사람들을 하나로 꿴다. 'ndrangheta 가문, 주차장 운영사, 드론 구매 법인. 교도소 안의 두목이 드론으로 들어간 휴대폰으로 바깥을 지휘하고 있었다. | 속담 "Tutti i nodi vengono al pettine" |
-| 13 | 🤝 | Testimoni (증인들) | 증인들이 실명 증언을 망설인다. 루카는 15년 전 신참 시절 자신이 쓴 '발도르사 사건' 기사를 떠올린다(5부 복선). | 만초니 『약혼자들』 돈 압본디오 "Il coraggio, uno non se lo può dare" |
-| 14 | 📰 | Replica (반론) | 반론권 요청, 압박. | 헌법 제21조 "La stampa non può essere soggetta ad autorizzazioni o censure" |
-| 15 | 📰 | Fischio finale (종료 휘슬) | 보도와 체포. 엔딩에서 드론 부품의 공급처 **Falco Systems**의 이름이 처음 나오고, 구매 법인이 **경기장 개발 컨소시엄**의 지분을 가졌다는 사실이 드러난다. → 2부 | 조반니 팔코네 "La mafia è un fenomeno umano… e avrà quindi anche una fine" |
+| 5 | ☕ | Domenica a pranzo (일요일 점심) | 루카와 아버지의 일요일. 산시로 근처 동네 시장에서 장을 보고 집에서 점심을 먹는다. 생선 가게 주인: "경기 있는 밤엔 하늘이 윙윙거려." 축구, 음식, 가족 어휘. | 속담 "A tavola non s'invecchia" |
+| 6 | 🔍 | Il parcheggiatore (주차요원) | 주차장은 이륙 장소였다. 매 경기 현금 상납. 주차·안전요원들은 서류상 존재하지 않는 불법 인력 업체 소속이다. | 속담 "Una mano lava l'altra" |
+| 7 | 🤝 | Il ragazzo della curva (응원석 소년) | 하룻밤 300유로에 드론 운반 알바로 모집된 16세 소년과 그 아버지. | 속담 "Dimmi con chi vai e ti dirò chi sei" |
+| 8 | 🗂 | Biglietti falsi (가짜 티켓) | 한 화로 끝나는 제보. 온라인 가짜 더비 티켓 사기. 다비데가 판매 계정을 추적하고 짧은 경고 기사를 낸다. | 속담 "Chi va piano va sano e va lontano" |
+| 9 | 🎭 | Il chiosco (매점) | 사라가 매점 직원으로 잠입한다. | 속담 "L'abito non fa il monaco" |
+| 10 | 🛸 | Notte su San Vittore (산 비토레의 밤) | 레오가 합법 고도에서 띄운 팀 드론으로 배달 드론의 경로를 촬영한다. 리치 변호사가 비행금지구역 경계를 정해 준다. | 레오파르디 「축제일 저녁」 "Dolce e chiara è la notte e senza vento" |
+| 11 | 🎭 | Il capo (우두머리) | 사라가 울트라스 우두머리의 눈에 든다. | 마키아벨리 『군주론』 17장 "è molto più sicuro essere temuto che amato" |
+| 12 | ☕ | Aperitivo sui Navigli (나빌리의 아페리티보) | 레오 환영 아페리티보. 처음으로 팀이 다 함께 술잔을 든다. 주문, 잡담, 각자의 사연. 사라가 매점에서 본 우두머리의 문신 이야기를 꺼낸다. | 속담 "L'appetito vien mangiando" |
+| 13 | 🔍 | Il poliziotto penitenziario (교정 경찰) | 대드론 장비도 예산도 없는 교정 당국. | 속담 "Fatta la legge, trovato l'inganno" |
+| 14 | ⚡ | Derby (1) — Primo tempo (더비 전반전) | 더비 전반전. 사라가 매점 뒤 현금 가방의 위치를 확인하고, 레오의 팀 드론이 합법 고도에서 경기장 밖 주차장을 지켜본다. | 역사: 2006년 칼치오폴리(Calciopoli) 승부조작 스캔들 |
+| 15 | ⚡ | Derby (2) — Secondo tempo (더비 후반전) | 후반전. 사라의 정체가 발각된다. 경기장 상공에 드론이 떠오르고, 관중 속을 뚫고 탈출하며 무전이 오간다. | 속담 "Finché c'è vita c'è speranza" |
+| 16 | 🕵 | Il filo (1) — La lavagna (실 1: 화이트보드) | 2~13화의 사람들을 화이트보드에서 하나로 꿴다. 'ndrangheta 가문, 주차장 운영사, 드론 구매 법인. | 속담 "Tutti i nodi vengono al pettine" |
+| 17 | 🕵 | Il filo (2) — Il boss in cella (실 2: 감방 속 두목) | 교도소 안의 두목이 드론으로 들어간 휴대폰으로 바깥을 지휘하고 있었다. 교도관과 다비데가 통화 기록 패턴을 맞춘다. | 속담 "Il pesce puzza dalla testa" |
+| 18 | 🤝 | Testimoni (증인들) | 증인들이 실명 증언을 망설인다. 루카는 15년 전 신참 시절 자신이 쓴 '발도르사 사건' 기사를 떠올린다(5부 복선). | 만초니 『약혼자들』 돈 압본디오 "Il coraggio, uno non se lo può dare" |
+| 19 | 📰 | Replica (반론) | 반론권 요청, 압박. | 헌법 제21조 "La stampa non può essere soggetta ad autorizzazioni o censure" |
+| 20 | 📰 | Fischio finale (종료 휘슬) | 보도와 체포. 엔딩에서 드론 부품의 공급처 **Falco Systems**의 이름이 처음 나오고, 구매 법인이 **경기장 개발 컨소시엄**의 지분을 가졌다는 사실이 드러난다. → 2부 | 조반니 팔코네 "La mafia è un fenomeno umano… e avrà quindi anche una fine" |
 
 ---
 
@@ -266,19 +275,24 @@
 |---|---|---|---|---|
 | 1 | 🔍 | Il socio occulto (숨은 주주) | 드론 구매 법인의 지분을 추적한다. 엘레나가 반부패단체 보고서를 읽는다. "상반기에만 부패 수사 38건, 입건 386명." | 마키아벨리 『군주론』 18장 "Ciascuno vede quello che tu pari, pochi sentono quello che tu se'" |
 | 2 | 🔍 | Visura camerale (등기부) | 다섯 개 법인 체인. 다비데가 앞에 선다. | 속담 "Il diavolo fa le pentole ma non i coperchi" |
-| 3 | 🔍 | Grattacieli in cortile (마당 속 고층빌딩) | 같은 개발사의 안뜰 25층 증축. | 칼비노 『보이지 않는 도시들』 "Le città come i sogni sono costruite di desideri e di paure" |
-| 4 | 🔍 | La commissione (경관위원회) | 위원회 위원의 자문료. | 역사: 1992년 2월 17일 밀라노 마리오 키에자 체포, '마니 풀리테(깨끗한 손)'의 시작 |
-| 5 | 🤝 | L'architetto (건축가) | 내부고발을 망설이는 건축가. TV에서 다리 붕괴 사건 1심 판결 뉴스가 흘러나온다. | 단테 연옥편 5곡 14–15행 "sta come torre ferma, che non crolla / già mai la cima per soffiar di venti" |
-| 6 | 🔍 | Il prezzo dello stadio (경기장의 가격) | 감정가가 시세의 절반. | 마키아벨리 『군주론』 17장 "li uomini sdimenticano più presto la morte del padre che la perdita del patrimonio" |
-| 7 | 🔍 | Manifestazione d'interesse (관심 표명) | 공개입찰 대신 '관심 표명'으로 경쟁자를 배제했다. | 단테 지옥편 3곡 95–96행 "vuolsi così colà dove si puote / ciò che si vuole, e più non dimandare" |
-| 8 | 🎭 | Il fondo (펀드) | 루카가 투자자 대리인으로 위장해 펀드 미팅에 들어간다. | 피란델로 『고(故) 마티아 파스칼』 (다른 사람으로 다시 살기) |
-| 9 | 🔍 | Drone Hub (드론 허브) | 부지 3분의 1이 드론 물류 허브로 용도변경됐다. 공공보조금 4천만 유로, 입주사 Falco. | 베르가 「재산(La roba)」 "Roba mia, vientene con me!" |
-| 10 | 🔍 | Il Corvo (까마귀) | 익명 제보자의 첫 메일. "Il bonifico è partito da Lugano."(송금은 루가노에서 나갔다) | 역사: 1989년 팔레르모 '일 코르보' 익명 투서 사건 (별명의 유래) |
-| 11 | ⚡ | Un ronzio alla finestra (창밖의 윙윙 소리) | 밤마다 루카의 아파트 창밖에 드론이 떠 있다. 광고주가 빠지고 소송 경고장이 온다. 그리고 새벽, **루카의 차 아래에서 폭발물이 터진다.** 다친 사람은 없다. | 속담 "I muri hanno orecchie" |
-| 12 | 🔍 | L'assessore (시 위원) | 시 위원과 Lei 공방. | 안드레오티 "A pensar male si fa peccato, ma spesso ci si indovina" |
-| 13 | 🤝 | L'architetto parla (건축가가 입을 열다) | 실명 증언을 결심한다. "Un ponte è crollato perché qualcuno ha taciuto."(누군가 입을 다물었기 때문에 다리가 무너졌어요) | 그람시 「무관심한 자들」(1917) "Odio gli indifferenti" |
-| 14 | 📰 | Diritto di replica (반론권) | 개발사·펀드·Falco의 반론. 같은 날 폭발물 실행범 두 명이 체포되지만 의뢰인은 입을 열지 않는다. | 속담 "Chi tace acconsente" |
-| 15 | 📰 | La mappa del denaro (돈의 지도) | 보도. 엔딩에서 Falco의 숨은 주주가 **롬바르디아 주의원**으로 드러나고, 주지사 선거가 공고된다. → 3부 | 역사: 1982년 암브로시아노 은행 회장 로베르토 칼비, 런던 블랙프라이어스 다리 사건 |
+| 3 | ☕ | Cercasi bilocale (투룸 구함) | 다비데의 밀라노 집 구하기. 월세, 보증금, 계약서, 관리비. 중개인: "이 동네 곧 재개발돼요. 지금이 마지막 기회예요." 개발 정보가 이미 새고 있다. | 속담 "Casa mia, casa mia, per piccina che tu sia, tu mi sembri una badia" |
+| 4 | 🔍 | Grattacieli in cortile (마당 속 고층빌딩) | 같은 개발사의 안뜰 25층 증축. | 칼비노 『보이지 않는 도시들』 "Le città come i sogni sono costruite di desideri e di paure" |
+| 5 | 🔍 | La commissione (경관위원회) | 위원회 위원의 자문료. | 역사: 1992년 2월 17일 밀라노 마리오 키에자 체포, '마니 풀리테(깨끗한 손)'의 시작 |
+| 6 | 🤝 | L'architetto (건축가) | 내부고발을 망설이는 건축가. TV에서 다리 붕괴 사건 1심 판결 뉴스가 흘러나온다. | 단테 연옥편 5곡 14–15행 "sta come torre ferma, che non crolla / già mai la cima per soffiar di venti" |
+| 7 | 🔍 | Il prezzo dello stadio (경기장의 가격) | 감정가가 시세의 절반. | 마키아벨리 『군주론』 17장 "li uomini sdimenticano più presto la morte del padre che la perdita del patrimonio" |
+| 8 | 🔍 | Manifestazione d'interesse (관심 표명) | 공개입찰 대신 '관심 표명'으로 경쟁자를 배제했다. | 단테 지옥편 3곡 95–96행 "vuolsi così colà dove si puote / ciò che si vuole, e più non dimandare" |
+| 9 | 🎭 | Il fondo (1) — La preparazione (펀드 1: 준비) | 루카의 위장 신분 준비. 다비데가 금융 용어를 특훈하고, 사라가 투자자의 말투와 태도를 가르친다. | 피란델로 『고(故) 마티아 파스칼』 (다른 사람으로 다시 살기) |
+| 10 | 🎭 | Il fondo (2) — La riunione (펀드 2: 미팅) | 루카가 투자자 대리인으로 위장해 펀드 미팅에 들어간다. | 속담 "Chi non risica non rosica" |
+| 11 | 🔍 | Drone Hub (드론 허브) | 부지 3분의 1이 드론 물류 허브로 용도변경됐다. 공공보조금 4천만 유로, 입주사 Falco. | 베르가 「재산(La roba)」 "Roba mia, vientene con me!" |
+| 12 | ☕ | In banca (은행에서) | 은행 창구. 엘레나가 어머니의 연금 계좌 일로 은행에 간다. 계좌, 이체, 수수료 어휘. 창구 직원이 "요즘 그 펀드 상품 많이들 드세요"라며 Falco 관련 펀드를 권한다. | 라틴 격언 "Pecunia non olet" (돈에서는 냄새가 나지 않는다) |
+| 13 | 🔍 | Il Corvo (까마귀) | 익명 제보자의 첫 메일. "Il bonifico è partito da Lugano."(송금은 루가노에서 나갔다) | 역사: 1989년 팔레르모 '일 코르보' 익명 투서 사건 (별명의 유래) |
+| 14 | ⚡ | Un ronzio alla finestra (창밖의 윙윙 소리) | 밤마다 루카의 아파트 창밖에 드론이 떠 있다. 광고주가 빠지고 소송 경고장이 온다. 그리고 새벽, **루카의 차 아래에서 폭발물이 터진다.** 다친 사람은 없다. | 속담 "I muri hanno orecchie" |
+| 15 | 🗂 | La truffa del nipote (손주 사칭 사기) | 한 화로 끝나는 제보. 노인을 노린 '손주 사칭' 전화 사기. 엘레나의 어머니가 당할 뻔한다. 짧은 경고 기사. | 속담 "Uomo avvisato, mezzo salvato" |
+| 16 | 🔍 | L'assessore (시 위원) | 시 위원과 Lei 공방. | 안드레오티 "A pensar male si fa peccato, ma spesso ci si indovina" |
+| 17 | 🤝 | L'architetto parla (1) — La notte prima (건축가 1: 결심의 밤) | 건축가가 아내와 딸에게 증언하겠다고 말하는 밤. 가족의 두려움. | 단테 지옥편 2곡 31–32행 "Ma io, perché venirvi? o chi 'l concede? / Io non Enëa, io non Paulo sono" |
+| 18 | 🤝 | L'architetto parla (2) — Davanti alla telecamera (건축가 2: 카메라 앞에서) | 실명 증언 녹화. "Un ponte è crollato perché qualcuno ha taciuto."(누군가 입을 다물었기 때문에 다리가 무너졌어요) | 그람시 「무관심한 자들」(1917) "Odio gli indifferenti" |
+| 19 | 📰 | Diritto di replica (반론권) | 개발사·펀드·Falco의 반론. 같은 날 폭발물 실행범 두 명이 체포되지만 의뢰인은 입을 열지 않는다. | 속담 "Chi tace acconsente" |
+| 20 | 📰 | La mappa del denaro (돈의 지도) | 보도. 엔딩에서 Falco의 숨은 주주가 **롬바르디아 주의원**으로 드러나고, 주지사 선거가 공고된다. → 3부 | 역사: 1982년 암브로시아노 은행 회장 로베르토 칼비, 런던 블랙프라이어스 다리 사건 |
 
 ---
 
@@ -290,26 +304,31 @@
 | 화 | D-day | 유형 | 제목 | 내용 | 인용 |
 |---|---|---|---|---|---|
 | 1 | D-60 | 🔍 | Il candidato (후보) | 주의원이 유력 후보 캠프의 재정책임자가 된다. 엘레나가 앞에 선다. | 토마시 디 람페두사 『표범』 "Se vogliamo che tutto rimanga come è, bisogna che tutto cambi" |
-| 2 | D-55 | 🤝 | Il portaborse (보좌관) | 지친 보좌관이 정보원이 된다. Lei에서 tu로. | 단테 천국편 17곡 58–60행 "come sa di sale / lo pane altrui…" |
-| 3 | D-50 | 🎭 | Volontario (자원봉사자) | 마테오가 캠프에 잠입한다. | 마치니의 표어 "Pensiero e azione" |
-| 4 | D-45 | 🔍 | Drone Valley (드론 밸리) | 공약 발표 현장. 클러스터 부지와 Falco 공장 계획이 정확히 겹친다. | 속담 "Tra il dire e il fare c'è di mezzo il mare" |
-| 5 | D-40 | 🎭 | La cena elettorale (선거 만찬) | 1인 5천 유로짜리 만찬. **아우구스토 발렌티**와 Falco CEO 카스텔리가 처음 등장한다. | 마키아벨리 『군주론』 18장 "bisogna adunque essere golpe a conoscere e' lacci, e lione a sbigottire e' lupi" (발렌티의 첫 인용) |
-| 6 | D-35 | 🔍 | Il sondaggio (여론조사) | 숫자를 미리 정해 놓은 가짜 여론조사. | 트릴루사 「통계(La statistica)」의 '닭 한 마리' 풍자 (로마 방언 시, 내용 인용) |
-| 7 | D-30 | 🔍 | Fondi esteri (해외 자금) | 두바이 재단을 거친 선거자금. **Stormwing**이 처음 언급된다. | 단테 연옥편 6곡 76–77행 "Ahi serva Italia, di dolore ostello, / nave sanza nocchiere in gran tempesta" |
-| 8 | D-25 | 🛸 | Il comizio (유세) | 유세장 상공의 드론 쇼. 그 행사에 쓰인 군집 드론 기술이 군용 기술과 같다는 것을 레오가 알아챈다. | 유베날리스 "panem et circenses" (빵과 서커스) |
-| 9 | D-20 | ⚡ | Il ricatto (협박) | 보좌관이 협박을 받는다. | 속담 "Chi la fa l'aspetti" |
-| 10 | D-15 | 🔍 | L'altro candidato (다른 후보) | 상대 후보도 깨끗하지 않다. 균형 보도의 고민. | 속담 "Il lupo perde il pelo ma non il vizio" |
-| 11 | D-12 | 📰 | Par condicio (선거 보도 균형) | 선거 보도 규정과 법률 검토. | 속담 "Patti chiari, amicizia lunga" |
-| 12 | D-8 | 🕵 | Bruciato (발각) | 마테오의 정체가 새어 나간다. 누가 넘겼나? | 속담 "Fidarsi è bene, non fidarsi è meglio" |
-| 13 | D-5 | 🔍 | Faccia a faccia (정면 대면) | 후보와 대면 인터뷰. "드론 밸리는 누구의 밸리입니까?" | 마키아벨리 『군주론』 25장 "la fortuna sia arbitra della metà delle azioni nostre" |
-| 14 | D-1 | 📰 | La vigilia (선거 전날) | 선거 전날 보도해도 되는가. 윤리 토론. | 몬탈레 「우리에게 묻지 마라」 "Codesto solo oggi possiamo dirti, / ciò che non siamo, ciò che non vogliamo" |
-| 15 | D-0 | 📰 | Lo spoglio (개표) | 개표 밤 보도. 엔딩에서 마테오의 신분 정보가 **사설탐정사무소의 파일**에서 나왔다는 사실이 드러난다. → 4부 | 역사: 1946년 6월 2일 국민투표, 공화국 탄생과 여성의 첫 전국 투표 |
+| 2 | D-57 | 🤝 | Il portaborse (보좌관) | 지친 보좌관이 정보원이 된다. Lei에서 tu로. | 단테 천국편 17곡 58–60행 "come sa di sale / lo pane altrui…" |
+| 3 | D-54 | ☕ | A scuola (학교에서) | 엘레나가 딸의 학교 상담에 간다. 선생님과의 Lei 대화. 학부모 단체 채팅방에 후보의 '여론조사' 링크가 퍼져 있다. | 속담 "Il buon giorno si vede dal mattino" |
+| 4 | D-51 | 🎭 | Volontario (자원봉사자) | 마테오가 캠프에 잠입한다. | 마치니의 표어 "Pensiero e azione" |
+| 5 | D-48 | 🔍 | Drone Valley (드론 밸리) | 공약 발표 현장. 클러스터 부지와 Falco 공장 계획이 정확히 겹친다. | 속담 "Tra il dire e il fare c'è di mezzo il mare" |
+| 6 | D-45 | 🎭 | La cena elettorale (1) — Gli invitati (선거 만찬 1: 손님들) | 1인 5천 유로짜리 만찬. 마테오가 웨이터 보조로 들어간다. **아우구스토 발렌티**와 Falco CEO 카스텔리가 처음 등장한다. | 마키아벨리 『군주론』 18장 "bisogna adunque essere golpe a conoscere e' lacci, e lione a sbigottire e' lupi" (발렌티의 첫 인용) |
+| 7 | D-45 | 🎭 | La cena elettorale (2) — Il discorso (선거 만찬 2: 연설) | 발렌티의 건배사. 마테오가 테이블 사이에서 들은 한마디, 그리고 들킬 뻔한 순간. | 속담 "Tanto fumo e poco arrosto" |
+| 8 | D-42 | 🔍 | Il sondaggio (여론조사) | 숫자를 미리 정해 놓은 가짜 여론조사. | 트릴루사 「통계(La statistica)」의 '닭 한 마리' 풍자 (로마 방언 시, 내용 인용) |
+| 9 | D-39 | 🔍 | Fondi esteri (해외 자금) | 두바이 재단을 거친 선거자금. **Stormwing**이 처음 언급된다. | 단테 연옥편 6곡 76–77행 "Ahi serva Italia, di dolore ostello, / nave sanza nocchiere in gran tempesta" |
+| 10 | D-36 | 🗂 | Il volantino (전단지) | 한 화로 끝나는 제보. 동네에 뿌려진 익명 비방 전단지. 종이와 잉크로 인쇄소를 찾아낸다. | 속담 "Chi si scusa, s'accusa" |
+| 11 | D-33 | 🛸 | Il comizio (유세) | 유세장 상공의 드론 쇼. 그 행사에 쓰인 군집 드론 기술이 군용 기술과 같다는 것을 레오가 알아챈다. | 유베날리스 "panem et circenses" (빵과 서커스) |
+| 12 | D-30 | ⚡ | Il ricatto (협박) | 보좌관이 협박을 받는다. | 속담 "Chi la fa l'aspetti" |
+| 13 | D-27 | 🔍 | L'altro candidato (다른 후보) | 상대 후보도 깨끗하지 않다. 균형 보도의 고민. | 속담 "Il lupo perde il pelo ma non il vizio" |
+| 14 | D-24 | ☕ | Dal barbiere (이발소에서) | 루카가 동네 이발소에서 정치 수다를 듣는다. 이발사: "드론 밸리 들어선다고 그 동네 땅값 벌써 두 배래." 여론의 맨얼굴. | 로시니 『세비야의 이발사』 "Largo al factotum della città" |
+| 15 | D-20 | 📰 | Par condicio (선거 보도 균형) | 선거 보도 규정과 법률 검토. | 속담 "Patti chiari, amicizia lunga" |
+| 16 | D-12 | 🕵 | Bruciato (발각) | 마테오의 정체가 새어 나간다. 누가 넘겼나? | 속담 "Fidarsi è bene, non fidarsi è meglio" |
+| 17 | D-8 | 🔍 | Faccia a faccia (1) — Le domande (정면 대면 1: 질문지) | 후보 인터뷰를 앞두고 엘레나와 질문지를 다듬는 리허설. 어떤 질문을 먼저 던질 것인가. | 속담 "Chi ben comincia è a metà dell'opera" |
+| 18 | D-5 | 🔍 | Faccia a faccia (2) — L'intervista (정면 대면 2: 인터뷰) | 후보와 대면 인터뷰. "드론 밸리는 누구의 밸리입니까?" | 마키아벨리 『군주론』 25장 "la fortuna sia arbitra della metà delle azioni nostre" |
+| 19 | D-1 | 📰 | La vigilia (선거 전날) | 선거 전날 보도해도 되는가. 윤리 토론. | 몬탈레 「우리에게 묻지 마라」 "Codesto solo oggi possiamo dirti, / ciò che non siamo, ciò che non vogliamo" |
+| 20 | D-0 | 📰 | Lo spoglio (개표) | 개표 밤 보도. 엔딩에서 마테오의 신분 정보가 **사설탐정사무소의 파일**에서 나왔다는 사실이 드러난다. → 4부 | 역사: 1946년 6월 2일 국민투표, 공화국 탄생과 여성의 첫 전국 투표 |
 
 ---
 
 ### 4부 [사법·감시] DOSSIER (사찰 파일) · 밀실 심리전형
 **질문**: 국가 DB를 뒤지고 하늘에서 창문을 찍는 자들은 누구이고, 우리 안의 두더지는 누구인가?
-**드론**: 사설탐정사무소 'Specula'가 감시 드론으로 표적의 집과 차를 찍는다. 2부 11화의 '창밖의 윙윙 소리'가 바로 이것이었다.
+**드론**: 사설탐정사무소 'Specula'가 감시 드론으로 표적의 집과 차를 찍는다. 2부 14화의 '창밖의 윙윙 소리'가 바로 이것이었다.
 **반전**: 인턴 마테오는 해킹 피해자였고, 진짜 두더지는 조르조, 핸들러는 검찰청 수사관 네리였다.
 
 | 화 | 유형 | 제목 | 내용 | 인용 |
@@ -318,17 +337,22 @@
 | 2 | 🔍 | Specula | 사설탐정사무소가 경찰·국세청 DB를 불법 조회해 파일을 판다. 팀원 전원의 파일이 있다. | 역사: 1960년대 SIFAR 불법 사찰 파일 사건 |
 | 3 | 🛸 | Occhi dal cielo (하늘의 눈) | 루카 아파트 창문을 찍은 감시 영상이 파일에 들어 있다. 레오가 역추적 비행으로 Specula의 조종 거점을 찾아낸다. | 속담 "Occhio non vede, cuore non duole" |
 | 4 | 🔍 | Il telefono (휴대폰) | 루카의 휴대폰에서 정부급 스파이웨어의 흔적이 나온다. | 역사: 2006년 텔레콤 이탈리아 불법 신상파일 사건 (밀라노) |
-| 5 | 🕵 | Matteo | 용의자 1, 인턴. | 속담 "Chi va con lo zoppo impara a zoppicare" |
-| 6 | 🕵 | Giorgio | 용의자 2, 경력기자. | 속담 "Dagli amici mi guardi Dio, che dai nemici mi guardo io" |
-| 7 | 🕵 | Tommaso | 용의자 3, 토마소의 수상한 외출. | 속담 "Acqua cheta rovina i ponti" |
-| 8 | 🤝 | Il segreto di Tommaso (토마소의 비밀) | 토마소는 혼자 시로니의 죽음을 추적하고 있었다. 시로니가 마지막에 쫓던 것은 **Falco의 첫 군납 계약**이었다. 그 자료 속에서, 네리가 2009년 '발도르사 사건'의 담당 수사관이었다는 사실도 드러난다. | 페트라르카 『칸초니에레』 35 "Solo et pensoso i più deserti campi / vo mesurando a passi tardi et lenti" |
-| 9 | 🔍 | I clienti (고객들) | 사찰 의뢰인 명단에 기업, 정치인, 그리고 **Falco Systems**가 있다. | 역사: 1981년 3월 17일 카스틸리온 피보키에서 발견된 비밀결사 P2 명단 |
-| 10 | 🕵 | Il canarino (카나리아 트랩) | 사람마다 다른 정보를 흘린다. | 단테 지옥편 27곡 74–75행 "l'opere mie / non furon leonine, ma di volpe" |
-| 11 | 🕵 | L'esca (미끼) | 마테오의 버전이 걸리지만, 그는 해킹 피해자였다. | 만초니 『약혼자들』 10장 "La sventurata rispose" |
-| 12 | 🕵 | Il caricabatterie (충전기) | 마테오에게 충전기를 선물한 사람은 조르조였다. | 베르길리우스 『아이네이스』 2권 49행 "Timeo Danaos et dona ferentes" (선물을 든 그리스인이 두렵다) |
-| 13 | 🎭 | Doppio gioco (이중 게임) | 조르조를 역이용한다. | 골도니 『두 주인을 섬기는 하인』 |
-| 14 | ⚡ | Lo scambio (거래 현장) | 정보를 넘기는 순간을 레오의 드론과 토마소의 망원렌즈가 동시에 포착한다. 핸들러는 네리. | 속담 "Tanto va la gatta al lardo che ci lascia lo zampino" |
-| 15 | 📰 | Due talpe (두 마리 두더지) | 체포와 보도. 네리의 휴대폰에서 **'Inchiostro 2016'** 폴더가 나온다. 같은 휴대폰에서 **'발도르사 증거물 목록'**도 나온다. → 5부 | 속담 "Il tempo è galantuomo" |
+| 5 | ☕ | Il primo stipendio (첫 월급) | 마테오의 첫 월급날. 슈퍼마켓 장보기와 어머니에게 보내는 송금. 그는 자신이 의심받는 줄 모른다. 가방에서 선물받은 새 충전기를 꺼낸다(극적 아이러니). | 속담 "A caval donato non si guarda in bocca" |
+| 6 | 🕵 | Matteo | 용의자 1, 인턴. | 속담 "Chi va con lo zoppo impara a zoppicare" |
+| 7 | 🕵 | Giorgio | 용의자 2, 경력기자. | 속담 "Dagli amici mi guardi Dio, che dai nemici mi guardo io" |
+| 8 | 🗂 | La telecamera del vicino (이웃의 카메라) | 한 화로 끝나는 제보. 아파트 이웃이 공용 복도에 몰래 카메라를 달았다. 사생활과 법에 대한 짧은 기사. | 헌법 제14조 "Il domicilio è inviolabile" |
+| 9 | 🕵 | Tommaso | 용의자 3, 토마소의 수상한 외출. | 속담 "Acqua cheta rovina i ponti" |
+| 10 | 🤝 | Il segreto di Tommaso (토마소의 비밀) | 토마소는 혼자 시로니의 죽음을 추적하고 있었다. 시로니가 마지막에 쫓던 것은 **Falco의 첫 군납 계약**이었다. 그 자료 속에서, 네리가 2009년 '발도르사 사건'의 담당 수사관이었다는 사실도 드러난다. | 페트라르카 『칸초니에레』 35 "Solo et pensoso i più deserti campi / vo mesurando a passi tardi et lenti" |
+| 11 | 🔍 | I clienti (고객들) | 사찰 의뢰인 명단에 기업, 정치인, 그리고 **Falco Systems**가 있다. | 역사: 1981년 3월 17일 카스틸리온 피보키에서 발견된 비밀결사 P2 명단 |
+| 12 | ☕ | La camera oscura (암실) | 토마소의 필름 암실. 레오에게 현상을 가르친다. 아날로그와 디지털, 두 세대의 대화. 오래된 네거티브 한 장이 눈에 띈다. | 속담 "Impara l'arte e mettila da parte" |
+| 13 | 🕵 | Il canarino (카나리아 트랩) | 사람마다 다른 정보를 흘린다. | 단테 지옥편 27곡 74–75행 "l'opere mie / non furon leonine, ma di volpe" |
+| 14 | 🕵 | L'esca (1) — Abbocca (미끼 1: 걸리다) | 마테오에게 준 버전이 상대 쪽에서 나타난다. 충격. | 만초니 『약혼자들』 10장 "La sventurata rispose" |
+| 15 | 🕵 | L'esca (2) — Il ragazzo (미끼 2: 청년) | 마테오를 추궁한다. 그러나 그는 해킹 피해자였다. | 속담 "Non tutto il male vien per nuocere" |
+| 16 | 🕵 | Il caricabatterie (충전기) | 마테오에게 충전기를 선물한 사람은 조르조였다. | 베르길리우스 『아이네이스』 2권 49행 "Timeo Danaos et dona ferentes" (선물을 든 그리스인이 두렵다) |
+| 17 | 🎭 | Doppio gioco (이중 게임) | 조르조를 역이용한다. | 골도니 『두 주인을 섬기는 하인』 |
+| 18 | ⚡ | Lo scambio (1) — L'appostamento (거래 1: 잠복) | 하루 종일 차 안에서의 잠복. 기다림 속의 긴 대화. | 속담 "Chi la dura la vince" |
+| 19 | ⚡ | Lo scambio (2) — Il passaggio (거래 2: 전달) | 정보를 넘기는 순간을 레오의 드론과 토마소의 망원렌즈가 동시에 포착한다. 핸들러는 네리. | 속담 "Tanto va la gatta al lardo che ci lascia lo zampino" |
+| 20 | 📰 | Due talpe (두 마리 두더지) | 체포와 보도. 네리의 휴대폰에서 **'Inchiostro 2016'** 폴더가 나온다. 같은 휴대폰에서 **'발도르사 증거물 목록'**도 나온다. → 5부 | 속담 "Il tempo è galantuomo" |
 
 ---
 
@@ -345,19 +369,24 @@
 |---|---|---|---|---|---|
 | 1 | 현재 | 🤝 | La lettera dal carcere (교도소에서 온 편지) | 수감 15년째인 파올로가 루카에게 편지를 보낸다. "Lei mi ha condannato prima del giudice."(당신은 판사보다 먼저 나를 단죄했소) | 실비오 펠리코 『나의 감옥』(1832) |
 | 2 | 2009 | 🔍 | Il primo morto (첫 사건) | 신참 사건기자 루카가 시로니와 함께 발도르사 현장에 간다. 시로니: 서두르지 마라. | 속담 "La gatta frettolosa fa i gattini ciechi" |
-| 3 | 현재 | 🔍 | Il fascicolo di Neri (네리의 서류철) | 4부에서 나온 증거물 목록과 법원 기록을 대조한다. 물류창고 CCTV 테이프 한 개가 사라졌다. | 라틴 격언 "Verba volant, scripta manent" |
-| 4 | 2009 | 📰 | L'amico di ghiaccio (얼음의 친구) | 루카의 기사 제목이 여론을 만든다. 저녁 토크쇼가 판결보다 먼저 판결한다. | 만초니 『치욕의 기둥 이야기』 (군중 공포 속 무고한 단죄) |
-| 5 | 현재 | 🤝 | La madre (어머니) | 피해자의 어머니가 재조사에 반대한다. "Lasciate in pace mio figlio."(우리 아들을 그만 놓아 주세요) 유족의 고통을 존중하는 화. | 웅가레티 「더 이상 소리치지 마라」 "Cessate d'uccidere i morti, / Non gridate più, non gridate" |
-| 6 | 2009 | 🤝 | Il processo in TV (방송 재판) | 방송에 출연한 루카를 시로니가 꾸짖는다. "Un titolo non è una prova."(제목은 증거가 아니야) | 로시니 『세비야의 이발사』 "La calunnia è un venticello" |
-| 7 | 현재 | 🔍 | Il genetista (법유전학자) | 2009년 증거를 최신 기술로 다시 감정한다. 재감정의 가능성과 한계. | 갈릴레이 『시금자』 "…questo grandissimo libro… è scritto in lingua matematica" |
-| 8 | 현재 | 🛸 | Il magazzino (창고) | 레오가 농가와 창고를 드론으로 촬영해 3D로 재구성한다. 2009년 증언대로라면 볼 수 없었던 것이 보인다. 창고는 1부 주차장 운영사의 전신이었다. | 속담 "Gatta ci cova" |
-| 9 | 2009 | 🤝 | Sironi dubita (시로니의 의심) | 판결 직후 시로니가 수첩에 적는다. "Troppo facile."(너무 쉬워) 이 메모가 2016년 그의 마지막 파일로 이어진다. | 단테 지옥편 11곡 93행 "che, non men che saver, dubbiar m'aggrata" |
-| 10 | 현재 | 🕵 | Il depistaggio (수사 방해) | 수감 중인 네리를 면회한다. 테이프는 '분실'된 것이 아니었다. 그가 지키려던 것은 창고의 화물이었다. | 역사: 1969년 밀라노 폰타나 광장 폭탄 테러와 잘못된 수사 방향 |
-| 11 | 현재 | 🔍 | Il testimone del 2009 (2009년의 증인) | 당시 알리바이 증언을 했던 남자가 15년의 침묵을 깬다. | 속담 "Meglio tardi che mai" |
-| 12 | 현재 | 🕵 | Paolo (파올로) | 교도소 면회. 파올로도 그날 밤 거짓말을 했다(창고 짐을 나르고 있었다). 판결은 절반만 진실이었다. | 피란델로 『그렇다고 생각하면 그렇다(Così è (se vi pare))』 |
-| 13 | 현재 | 📰 | L'errore (오보) | 루카가 자기 기사의 잘못을 공개적으로 인정할 것인가. 엘레나와의 편집 회의. | 라틴 격언 "Errare humanum est, perseverare autem diabolicum" |
-| 14 | 현재 | 📰 | Revisione (재심) | 리치 변호사, 파브리 검사와 재심 청구 절차를 검토한다. 언론이 할 수 있는 일과 해서는 안 되는 일. | 헌법 제24조 "La legge determina le condizioni e i modi per la riparazione degli errori giudiziari" |
-| 15 | 현재 | 📰 | Rettifica (정정) | 루카가 정정 기사와 사과문을 낸다. 재심 청구가 접수된다. 엔딩에서 사라진 테이프 대신 찾은 창고 운송장이 **피아첸차 물류창고와 명품 공급망**을 가리킨다. → 6부 | 단테 연옥편 1곡 1–2행 "Per correr miglior acque alza le vele / omai la navicella del mio ingegno" |
+| 3 | 2009 | ☕ | Il bar della stazione (역 앞 바) | 2009년. 루카와 시로니가 발도르사 역 앞 바에서 늦은 점심을 먹는다. 시로니가 기자의 삶을 이야기한다. 바 주인이 그날 밤 트럭 소리를 들었다고 하지만, 아무도 묻지 않았다. | 속담 "Chi va al mulino s'infarina" |
+| 4 | 현재 | 🔍 | Il fascicolo di Neri (네리의 서류철) | 4부에서 나온 증거물 목록과 법원 기록을 대조한다. 물류창고 CCTV 테이프 한 개가 사라졌다. | 라틴 격언 "Verba volant, scripta manent" |
+| 5 | 2009 | 📰 | L'amico di ghiaccio (얼음의 친구) | 루카의 기사 제목이 여론을 만든다. 저녁 토크쇼가 판결보다 먼저 판결한다. | 만초니 『치욕의 기둥 이야기』 (군중 공포 속 무고한 단죄) |
+| 6 | 현재 | 🤝 | La madre (어머니) | 피해자의 어머니가 재조사에 반대한다. "Lasciate in pace mio figlio."(우리 아들을 그만 놓아 주세요) 유족의 고통을 존중하는 화. | 웅가레티 「더 이상 소리치지 마라」 "Cessate d'uccidere i morti, / Non gridate più, non gridate" |
+| 7 | 2009 | 🤝 | Il processo in TV (방송 재판) | 방송에 출연한 루카를 시로니가 꾸짖는다. "Un titolo non è una prova."(제목은 증거가 아니야) | 로시니 『세비야의 이발사』 "La calunnia è un venticello" |
+| 8 | 현재 | 🔍 | Il genetista (1) — Il laboratorio (법유전학자 1: 의뢰) | 2009년 증거의 재감정을 의뢰하는 절차. 보관 상태와 증거 사슬. | 갈릴레이 『시금자』 "…questo grandissimo libro… è scritto in lingua matematica" |
+| 9 | 현재 | 🔍 | Il genetista (2) — I risultati (법유전학자 2: 결과) | 재감정 결과. 가능성과 한계, 그리고 과학이 말할 수 없는 것. | 속담 "Il diavolo sta nei dettagli" |
+| 10 | 현재 | 🛸 | Il magazzino (창고) | 레오가 농가와 창고를 드론으로 촬영해 3D로 재구성한다. 2009년 증언대로라면 볼 수 없었던 것이 보인다. 창고는 1부 주차장 운영사의 전신이었다. | 속담 "Gatta ci cova" |
+| 11 | 2009 | 🤝 | Sironi dubita (시로니의 의심) | 판결 직후 시로니가 수첩에 적는다. "Troppo facile."(너무 쉬워) 이 메모가 2016년 그의 마지막 파일로 이어진다. | 단테 지옥편 11곡 93행 "che, non men che saver, dubbiar m'aggrata" |
+| 12 | 현재 | ☕ | Il giardino della madre (어머니의 정원) | 피해자의 어머니가 정원을 가꾼다. 사라가 일손을 돕는다. 기사 이야기 없이 아들의 기억만 나눈다. 존중의 화. | 레오파르디 「실비아에게」 "Silvia, rimembri ancora / quel tempo della tua vita mortale" |
+| 13 | 현재 | 🕵 | Il depistaggio (수사 방해) | 수감 중인 네리를 면회한다. 테이프는 '분실'된 것이 아니었다. 그가 지키려던 것은 창고의 화물이었다. | 역사: 1969년 밀라노 폰타나 광장 폭탄 테러와 잘못된 수사 방향 |
+| 14 | 현재 | 🔍 | Il testimone del 2009 (2009년의 증인) | 당시 알리바이 증언을 했던 남자가 15년의 침묵을 깬다. | 속담 "Meglio tardi che mai" |
+| 15 | 현재 | 🗂 | Una vecchia denuncia (오래된 실종 신고) | 한 화로 끝나는 제보. 20년 전 실종 처리된 노인. 서류 착오였고, 실제로는 요양원에서 사망 기록이 있었다. | 속담 "Non c'è peggior sordo di chi non vuol sentire" |
+| 16 | 현재 | 🕵 | Paolo (1) — Il colloquio (파올로 1: 첫 면회) | 교도소 첫 면회. 파올로의 분노. "15년이오." | 속담 "Ognuno ha la sua croce" |
+| 17 | 현재 | 🕵 | Paolo (2) — La verità a metà (파올로 2: 절반의 진실) | 두 번째 면회. 파올로도 그날 밤 거짓말을 했다(창고 짐을 나르고 있었다). 판결은 절반만 진실이었다. | 피란델로 『그렇다고 생각하면 그렇다(Così è (se vi pare))』 |
+| 18 | 현재 | 📰 | L'errore (오보) | 루카가 자기 기사의 잘못을 공개적으로 인정할 것인가. 엘레나와의 편집 회의. | 라틴 격언 "Errare humanum est, perseverare autem diabolicum" |
+| 19 | 현재 | 📰 | Revisione (재심) | 리치 변호사, 파브리 검사와 재심 청구 절차를 검토한다. 언론이 할 수 있는 일과 해서는 안 되는 일. | 헌법 제24조 "La legge determina le condizioni e i modi per la riparazione degli errori giudiziari" |
+| 20 | 현재 | 📰 | Rettifica (정정) | 루카가 정정 기사와 사과문을 낸다. 재심 청구가 접수된다. 엔딩에서 사라진 테이프 대신 찾은 창고 운송장이 **피아첸차 물류창고와 명품 공급망**을 가리킨다. → 6부 | 단테 연옥편 1곡 1–2행 "Per correr miglior acque alza le vele / omai la navicella del mio ingegno" |
 
 **지킬 원칙**: 실제 사건의 인물·지명·피해자 신상·범행 수법·증거 형태는 쓰지 않는다. 실제 사건의 어느 쪽이 옳다는 판단은 담지 않는다. 피해자와 유족을 존중하고, 사건을 자극적으로 소비하지 않는다. 인물 이름(스테파노 제를리, 파올로 만테가차)과 지명(발도르사)은 모두 가상이다.
 
@@ -374,18 +403,23 @@
 | 1 | 🔍 | La borsa da 2.000 euro (2천 유로 가방) | 원가 90유로라는 제보. 5부의 창고 운송장을 따라 들어간 첫 매장. | 속담 "Non è tutto oro quel che luccica" |
 | 2 | 🎭 | Il laboratorio (작업장) | 사라가 검수원으로 들어간다. 재봉틀 옆에 잠긴 방이 있다. | 헌법 제1조 "L'Italia è una Repubblica democratica, fondata sul lavoro" |
 | 3 | 🤝 | Wang (왕) | 중국계 노동자의 증언. "La notte non cuciamo borse. Montiamo motori."(밤에는 가방을 꿰매지 않아요. 모터를 조립해요) | 보카치오 『데카메론』 서문 "Umana cosa è aver compassione degli afflitti" |
-| 4 | 🔍 | Amministrazione giudiziaria (사법관리) | 법원이 브랜드를 사법관리에 둔다. 노동감독관. | 역사: 1970년 노동자헌장(Statuto dei lavoratori) |
-| 5 | 🔍 | Prato (프라토) | 섬유 지구의 하청 체인. | 역사: 2013년 12월 1일 프라토 '테레사 모다' 작업장 화재 (중국인 노동자 7명 사망) |
-| 6 | 🎭 | Turno di notte (야간 근무) | 루카가 피아첸차 물류창고에 잠입한다. | 웅가레티 「병사들」 "Si sta come / d'autunno / sugli alberi / le foglie" |
-| 7 | 🔍 | Cooperative fantasma (유령 협동조합) | 6개월마다 이름을 바꾸는 협동조합. | 속담 "Cambiano i suonatori ma la musica è sempre quella" |
-| 8 | ⚡ | Il caporale (중간착취자) | 중간착취자와 정면으로 부딪힌다. | 속담 "Chi pecora si fa, il lupo se la mangia" |
-| 9 | 🤝 | Il sindacalista (노조원) | 기층 노조원의 투쟁과 생활. | 역사: 1969년 '뜨거운 가을(autunno caldo)' 노동 투쟁 |
-| 10 | 🔍 | Il marchio (브랜드) | 브랜드 본사 임원과 대면한다. "Noi non sapevamo."(우리는 몰랐습니다) | 속담 "L'apparenza inganna" |
-| 11 | ⚡ | Scoperto (발각) | 루카의 정체가 들통나 창고에 갇힌다. | 단테 지옥편 3곡 9행 "Lasciate ogne speranza, voi ch'intrate" |
-| 12 | 🛸 | Il salvataggio (구출) | 레오의 드론이 창고 지붕 위에서 루카의 위치를 찾고, 토마소와 사라가 구출한다. | 속담 "Chi trova un amico trova un tesoro" |
-| 13 | 🔍 | Malpensa Cargo (말펜사 화물) | 화물터미널. 명품 박스 일부의 무게가 맞지 않는다. | 속담 "Le bugie hanno le gambe corte" |
-| 14 | 🤝 | Il dossier Sironi (시로니 파일) | 시로니도 2016년에 같은 루트를 쫓고 있었다. | 몬탈레 「삶의 고통을 자주 만났다」 "Spesso il male di vivere ho incontrato" |
-| 15 | 📰 | L'etichetta (라벨) | 보도. 엔딩에서 박스를 열자 **드론 비행제어기와 열화상 카메라**가 나오고, 행선지는 두바이다. → 7부 | 역사: 1994년 모가디슈에서 무기 밀매를 취재하다 살해된 기자 일라리아 알피와 미란 흐로바틴 |
+| 4 | ☕ | Via Paolo Sarpi (파올로 사르피 거리) | 밀라노 차이나타운에서 사라가 왕의 사촌과 식사한다. 메뉴, 주문, 계산 어휘. 이민 2세의 밀라노 이탈리아어. | 속담 "Tutto il mondo è paese" |
+| 5 | 🔍 | Amministrazione giudiziaria (사법관리) | 법원이 브랜드를 사법관리에 둔다. 노동감독관. | 역사: 1970년 노동자헌장(Statuto dei lavoratori) |
+| 6 | 🔍 | Prato (프라토) | 섬유 지구의 하청 체인. | 역사: 2013년 12월 1일 프라토 '테레사 모다' 작업장 화재 (중국인 노동자 7명 사망) |
+| 7 | 🎭 | Turno di notte (1) — Il colloquio (야간 근무 1: 채용) | 피아첸차 물류창고 일용직 채용. 서류 없는 계약, 현금 일당. | 헌법 제36조 "Il lavoratore ha diritto ad una retribuzione proporzionata alla quantità e qualità del suo lavoro" |
+| 8 | 🎭 | Turno di notte (2) — La prima notte (야간 근무 2: 첫날 밤) | 루카의 첫 야간 근무. | 웅가레티 「병사들」 "Si sta come / d'autunno / sugli alberi / le foglie" |
+| 9 | 🔍 | Cooperative fantasma (유령 협동조합) | 6개월마다 이름을 바꾸는 협동조합. | 속담 "Cambiano i suonatori ma la musica è sempre quella" |
+| 10 | 🗂 | La borsa falsa (짝퉁 가방) | 한 화로 끝나는 제보. 노점의 짝퉁 가방. 진품과 짝퉁의 경계가 생각보다 가깝다. | 속담 "Chi disprezza compra" |
+| 11 | ⚡ | Il caporale (중간착취자) | 중간착취자와 정면으로 부딪힌다. | 속담 "Chi pecora si fa, il lupo se la mangia" |
+| 12 | 🤝 | Il sindacalista (노조원) | 기층 노조원의 투쟁과 생활. | 역사: 1969년 '뜨거운 가을(autunno caldo)' 노동 투쟁 |
+| 13 | ☕ | La prova generale (최종 리허설) | 사라가 옛 극단의 리허설에 들른다. 연기와 위장은 무엇이 다른가. 의상팀 하청이 같은 작업장이라는 말을 듣는다. | 피란델로 『작가를 찾는 여섯 인물』 |
+| 14 | 🔍 | Il marchio (브랜드) | 브랜드 본사 임원과 대면한다. "Noi non sapevamo."(우리는 몰랐습니다) | 속담 "L'apparenza inganna" |
+| 15 | ⚡ | Scoperto (1) — Il sospetto (발각 1: 의심) | 반장이 루카를 의심하고 소지품을 검사한다. | 속담 "La prudenza non è mai troppa" |
+| 16 | ⚡ | Scoperto (2) — Chiuso dentro (발각 2: 갇히다) | 루카의 정체가 들통나 창고에 갇힌다. | 단테 지옥편 3곡 9행 "Lasciate ogne speranza, voi ch'intrate" |
+| 17 | 🛸 | Il salvataggio (구출) | 레오의 드론이 창고 지붕 위에서 루카의 위치를 찾고, 토마소와 사라가 구출한다. | 속담 "Chi trova un amico trova un tesoro" |
+| 18 | 🔍 | Malpensa Cargo (말펜사 화물) | 화물터미널. 명품 박스 일부의 무게가 맞지 않는다. | 속담 "Le bugie hanno le gambe corte" |
+| 19 | 🤝 | Il dossier Sironi (시로니 파일) | 시로니도 2016년에 같은 루트를 쫓고 있었다. | 몬탈레 「삶의 고통을 자주 만났다」 "Spesso il male di vivere ho incontrato" |
+| 20 | 📰 | L'etichetta (라벨) | 보도. 엔딩에서 박스를 열자 **드론 비행제어기와 열화상 카메라**가 나오고, 행선지는 두바이다. → 7부 | 역사: 1994년 모가디슈에서 무기 밀매를 취재하다 살해된 기자 일라리아 알피와 미란 흐로바틴 |
 
 ---
 
@@ -404,19 +438,24 @@
 |---|---|---|---|---|
 | 1 | ⚡ | Malpensa chiusa (말펜사 폐쇄) | 금요일 저녁, 활주로 상공 드론 때문에 공항이 3시간 폐쇄된다. 회항하는 비행기, 공항에 갇힌 사람들, 실시간 속보. 같은 밤 북부 고속철도 선로 두 곳에서 방화와 케이블 절단이 일어난다. 모두가 "외국의 하이브리드 공격"이라고 단정한다. | 역사: 1980년 6월 27일 우스티카 상공 이타비아 DC-9 추락, 하늘의 미스터리 |
 | 2 | 🛸 | Chi li fa volare? (누가 띄우나?) | 레오와 다비데가 목격 영상과 레이더 공개 자료를 분석한다. 취미용 비행이 아니라 정찰 패턴이다. | 속담 "Non si muove foglia che Dio non voglia" |
-| 3 | 🔍 | La base (기지) | 같은 주에 북부 공군기지 상공에도 미확인 드론이 떴다. 군 대변인과의 Lei 인터뷰. | 라틴 격언 "Si vis pacem, para bellum" |
-| 4 | 🤝 | Il ragazzo di Telegram (텔레그램 청년) | 몇백 유로에 "기지 울타리 근처에서 드론만 띄우면 된다"는 제안을 받은 19세 청년. | 콜로디 『피노키오』 여우와 고양이, '기적의 들판' |
-| 5 | 🔍 | Le componenti (부품) | 6부 부품의 경로가 두바이를 거쳐 전쟁 지역의 공격 드론으로 이어진다. 분쟁 지역 무기 조사관을 화상 인터뷰한다. | 속담 "Chi semina vento raccoglie tempesta" |
-| 6 | 🔍 | Falco & Stormwing (팔코와 스톰윙) | Falco와 두바이 Stormwing의 합작 신청. 골든파워 심사, 수출 대상국 제한, 기술 기밀 지정. 경제안보 전문가 인터뷰. 국방부 IT 계약 비리 수사(2026.3 착안)에서 장교가 민간업자에게 민감 정보를 넘긴 정황이 Falco와 겹친다. | 마키아벨리 『군주론』 12장 "Le mercenarie e ausiliarie sono inutili e periculose" |
-| 7 | 🎭 | Il collaudatore (테스트 파일럿) | 레오가 Falco 시험비행장의 테스트 파일럿으로 잠입한다. | 레오파르디 「무한」 "e il naufragar m'è dolce in questo mare" |
-| 8 | 🎭 | Il codice (코드) | 레오가 비행 소프트웨어가 비행 기록을 해외 서버로 보내는 숨은 기능을 발견한다. | 단테 지옥편 9곡 61–63행 "mirate la dottrina che s'asconde / sotto 'l velame de li versi strani" |
-| 9 | 🔍 | Il Colonnello (대령) | 전직 정보기관 대령. "Ci sono ex colleghi che vendono le falle del nostro scudo."(우리 방어막의 구멍을 파는 옛 동료들이 있소) | 역사: 1990년 공개된 비밀 조직 '글라디오(Gladio)' |
-| 10 | 🎭 | Dubai (두바이) | 루카와 토마소가 바이어로 위장해 Stormwing의 실체를 확인한다. | 속담 "Paese che vai, usanza che trovi" |
-| 11 | 🕵 | Controspionaggio (방첩) | 팀이 국내 정보기관의 감시를 받고 있었다. 방첩요원과 대면한다. 협력할 것인가. | 유베날리스 "Quis custodiet ipsos custodes?" (감시자는 누가 감시하나) |
-| 12 | 🛸 | Lo sciame (군집) | 밤, 기지 상공에 군집 드론이 떠오른다. 레오(조종석), 토마소(망원), 다비데(편집국)가 3원 교신으로 실시간 추적한다. 군과 경찰이 개입한다. | 웅가레티 「아침」 "M'illumino / d'immenso" |
-| 13 | 📰 | Segreto di Stato (국가기밀) | 정부가 기지 방어 체계 관련 내용을 빼 달라고 요청한다. 무엇을 쓰고 무엇을 쓰지 않을 것인가. **시리즈의 핵심 윤리 화**. 방첩요원이 흘린 한마디 "Il prossimo bersaglio è sotto il mare."(다음 표적은 바다 밑에 있소)가 **해저케이블의 첫 복선**이 된다. | 파솔리니 「나는 안다(Io so)」(1974) "Io so… Ma non ho le prove" |
-| 14 | ⚡ | Gli arresti (체포) | 간첩망과 조종팀이 체포된다. 그런데 철도 사보타주는 그들의 소행이 아니었다. 국내 무정부주의 조직이 따로 체포된다. 루카: "Abbiamo creduto alla storia più comoda."(우리는 가장 편한 이야기를 믿었어) 레오의 시험비행장 신분이 들통나 탈출한다. | 속담 "Ride bene chi ride ultimo" |
-| 15 | 📰 | Golden power (골든파워) | 보도. 정부가 합작을 거부하고 대사관 무관이 추방된다. 엔딩에서 간첩망 자금 일부가 디지털 에이전시 **Nebula**로 흘러갔다는 사실이 드러난다. → 8부 | 마키아벨리 『군주론』 26장이 인용한 페트라르카 "Virtù contro a furore / prenderà l'arme…" |
+| 3 | 🗂 | Il drone del vicino (이웃집 드론) | 한 화로 끝나는 제보. 이웃이 드론으로 옆집 마당을 찍는다. 레오가 드론 비행 규정을 설명하는 짧은 기사. | 속담 "Ognuno è padrone in casa sua" |
+| 4 | 🔍 | La base (기지) | 같은 주에 북부 공군기지 상공에도 미확인 드론이 떴다. 군 대변인과의 Lei 인터뷰. | 라틴 격언 "Si vis pacem, para bellum" |
+| 5 | 🤝 | Il ragazzo di Telegram (텔레그램 청년) | 몇백 유로에 "기지 울타리 근처에서 드론만 띄우면 된다"는 제안을 받은 19세 청년. | 콜로디 『피노키오』 여우와 고양이, '기적의 들판' |
+| 6 | ☕ | La gara (드론 레이싱 대회) | 레오의 FPV 레이싱 대회. 팀이 응원하러 간다. 레이싱 용어와 응원 표현. 대회 스폰서가 Falco 계열사이고, 레오에게 스카우트 제의가 온다. | 속담 "Volere è potere" |
+| 7 | 🔍 | Le componenti (부품) | 6부 부품의 경로가 두바이를 거쳐 전쟁 지역의 공격 드론으로 이어진다. 분쟁 지역 무기 조사관을 화상 인터뷰한다. | 속담 "Chi semina vento raccoglie tempesta" |
+| 8 | 🔍 | Falco & Stormwing (팔코와 스톰윙) | Falco와 두바이 Stormwing의 합작 신청. 골든파워 심사, 수출 대상국 제한, 기술 기밀 지정. 경제안보 전문가 인터뷰. 국방부 IT 계약 비리 수사(2026.3 착안)에서 장교가 민간업자에게 민감 정보를 넘긴 정황이 Falco와 겹친다. | 마키아벨리 『군주론』 12장 "Le mercenarie e ausiliarie sono inutili e periculose" |
+| 9 | 🎭 | Il collaudatore (1) — La selezione (테스트 파일럿 1: 선발) | Falco 시험비행장의 테스트 파일럿 선발 시험에 레오가 지원한다. | 베르길리우스 『아이네이스』 10권 284행 "Audentes fortuna iuvat" |
+| 10 | 🎭 | Il collaudatore (2) — Il primo volo (테스트 파일럿 2: 첫 비행) | 레오가 Falco 기체로 첫 시험비행을 한다. | 레오파르디 「무한」 "e il naufragar m'è dolce in questo mare" |
+| 11 | 🎭 | Il codice (코드) | 레오가 비행 소프트웨어가 비행 기록을 해외 서버로 보내는 숨은 기능을 발견한다. | 단테 지옥편 9곡 61–63행 "mirate la dottrina che s'asconde / sotto 'l velame de li versi strani" |
+| 12 | 🔍 | Il Colonnello (대령) | 전직 정보기관 대령. "Ci sono ex colleghi che vendono le falle del nostro scudo."(우리 방어막의 구멍을 파는 옛 동료들이 있소) | 역사: 1990년 공개된 비밀 조직 '글라디오(Gladio)' |
+| 13 | 🎭 | Dubai (두바이) | 루카와 토마소가 바이어로 위장해 Stormwing의 실체를 확인한다. | 속담 "Paese che vai, usanza che trovi" |
+| 14 | ☕ | Notte in aeroporto (공항의 밤) | 두바이에서 돌아오는 비행기가 결항한다. 루카와 토마소의 공항 밤샘. 토마소의 경찰 시절 이야기. 옆자리 승객의 가방에 Stormwing 배지가 달려 있다. | 속담 "Tutte le strade portano a Roma" |
+| 15 | 🕵 | Controspionaggio (방첩) | 팀이 국내 정보기관의 감시를 받고 있었다. 방첩요원과 대면한다. 협력할 것인가. | 유베날리스 "Quis custodiet ipsos custodes?" (감시자는 누가 감시하나) |
+| 16 | 🛸 | Lo sciame (1) — L'attesa (군집 1: 기다림) | 기지 근처에서 밤을 기다리는 3원 대기. 레오(조종석), 토마소(망원), 다비데(편집국). | 속담 "La notte porta consiglio" |
+| 17 | 🛸 | Lo sciame (2) — Lo sciame (군집 2: 군집) | 기지 상공에 군집 드론이 떠오른다. 실시간 추적, 군과 경찰의 개입. | 웅가레티 「아침」 "M'illumino / d'immenso" |
+| 18 | 📰 | Segreto di Stato (국가기밀) | 정부가 기지 방어 체계 관련 내용을 빼 달라고 요청한다. 무엇을 쓰고 무엇을 쓰지 않을 것인가. **시리즈의 핵심 윤리 화**. 방첩요원이 흘린 한마디 "Il prossimo bersaglio è sotto il mare."(다음 표적은 바다 밑에 있소)가 **해저케이블의 첫 복선**이 된다. | 파솔리니 「나는 안다(Io so)」(1974) "Io so… Ma non ho le prove" |
+| 19 | ⚡ | Gli arresti (체포) | 간첩망과 조종팀이 체포된다. 그런데 철도 사보타주는 그들의 소행이 아니었다. 국내 무정부주의 조직이 따로 체포된다. 루카: "Abbiamo creduto alla storia più comoda."(우리는 가장 편한 이야기를 믿었어) 레오의 시험비행장 신분이 들통나 탈출한다. | 속담 "Ride bene chi ride ultimo" |
+| 20 | 📰 | Golden power (골든파워) | 보도. 정부가 합작을 거부하고 대사관 무관이 추방된다. 엔딩에서 간첩망 자금 일부가 디지털 에이전시 **Nebula**로 흘러갔다는 사실이 드러난다. → 8부 | 마키아벨리 『군주론』 26장이 인용한 페트라르카 "Virtù contro a furore / prenderà l'arme…" |
 
 ---
 
@@ -428,20 +467,25 @@
 | 화 | 유형 | 제목 | 시점·내용 | 인용 |
 |---|---|---|---|---|
 | 1 | 🤝 | Il freelance (프리랜서) | [팀] 국방 전문 프리랜서 안드레아가 합류한다. | 피란델로 『하나, 아무도 아닌, 십만』 |
-| 2 | 🎭 | L'altra faccia (다른 얼굴) | [적] 안드레아가 핸들러에게 보고한다. | 단테 지옥편 23곡 64–65행 "Di fuor dorate son, sì ch'elli abbaglia; / ma dentro tutte piombo" (위선자의 금박 납 망토) |
-| 3 | ⚡ | Il video (영상) | [팀] 루카의 딥페이크가 퍼지고, 사이트가 디도스로 마비된다. 리치 변호사가 딥페이크 유포죄(형법 612-quater조)로 고소를 준비하지만, 플랫폼에 즉시 삭제를 명령할 규정이 없다. | 콜로디 『피노키오』 17장 '다리가 짧은 거짓말, 코가 긴 거짓말' |
-| 4 | 🎭 | Istruzioni (지시) | [적] 기지 촬영 드론 영상을 편집국 서버와 레오의 장비에 심으라는 지시. | "Il fine giustifica i mezzi" (마키아벨리가 한 적 없는 말: 잘못된 인용 바로잡기) |
-| 5 | 🔍 | Nebula | [팀] 트롤 팜이 "드론은 이민자들이 띄운다"는 가짜뉴스를 퍼뜨리는 동시에 반대 진영에도 정반대의 가짜뉴스를 뿌린다. 7부의 철도 사보타주도 "외국 소행"이라는 이야기로 계속 팔려 나간다. | 움베르토 에코(2015) "I social media danno diritto di parola a legioni di imbecilli" |
-| 6 | 🤝 | Il dubbio (의심) | [적] 레오와 사라에게 동료애가 생기면서 안드레아가 흔들린다. | 페트라르카 『칸초니에레』 134 "Pace non trovo, et non ò da far guerra" |
-| 7 | 🎭 | Dentro Nebula (네뷸라 안으로) | [팀] 사라가 콘텐츠 매니저로 잠입한다. | 역사: 파시즘 시대 대중문화부(MinCulPop)와 '벨리네(veline)' 보도지침 |
-| 8 | ⚡ | In manette (수갑) | 루카가 '간첩' 혐의로 구속되고 레오의 드론 장비가 압수된다. | 역사: 1983년 방송인 엔초 토르토라의 억울한 체포 |
-| 9 | ⚡ | Perquisizione (압수수색) | 편집국 압수수색. 취재원을 지키기 위한 공방. 방송은 루카를, 2009년 그가 '얼음의 친구' 기사로 한 청년을 단죄했던 방식과 똑같이 단죄한다. 거울 같은 미디어 재판. | 헌법 제15조 "La libertà e la segretezza della corrispondenza… sono inviolabili" |
-| 10 | 🔍 | Querela temeraria (봉쇄소송) | Falco가 3천만 유로 소송을 걸고, 투자자가 빠지고, 폐간 위기가 온다. | 만초니 『약혼자들』 아체카가르불리 변호사와 돈 압본디오의 '라티노룸(latinorum)' |
-| 11 | 🕵 | Il sospetto (의심) | 영상 파일의 메타데이터와 안드레아의 동선이 맞아떨어진다. 토마소가 적발한다. | 속담 "Chi mal fa, mal pensa" |
-| 12 | 🕵 | Confessione (고백) | 안드레아가 자백하고 이중스파이로 돌아선다. | 만초니 『약혼자들』 '이름 없는 자(l'Innominato)'의 회심 |
-| 13 | 🕵 | Il segreto di Elena (엘레나의 비밀) | 엘레나가 팀을 지키려고 발렌티 측과 몰래 거래했었다. | 단테 연옥편 3곡 121–123행 "Orribil furon li peccati miei; / ma la bontà infinita ha sì gran braccia…" |
-| 14 | 📰 | L'udienza (심리) | 레오가 비행기록으로 영상 조작을 증명하고, 루카가 석방된다. 딥페이크 유포자는 612-quater조로 기소된다. | 역사: 1633년 갈릴레이 재판과 "Eppur si muove" 전설 |
-| 15 | 🤝 | Il volto del Corvo (코르보의 얼굴) | 익명 제보자의 정체가 드러난다. **필리포 발렌티**. 그가 떠나며 남긴 이름 하나, "Fonte Zero." → 9부 | 만초니 『약혼자들』 8장 "Carneade! Chi era costui?" |
+| 2 | ☕ | La cena di benvenuto (환영 저녁) | [팀] 안드레아 환영 저녁. 레오가 요리에 실패하고 모두가 웃는다. 팀의 따뜻함이 뒤에 올 배신을 더 아프게 만든다. | 속담 "L'ospite è come il pesce: dopo tre giorni puzza" |
+| 3 | 🎭 | L'altra faccia (다른 얼굴) | [적] 안드레아가 핸들러에게 보고한다. | 단테 지옥편 23곡 64–65행 "Di fuor dorate son, sì ch'elli abbaglia; / ma dentro tutte piombo" (위선자의 금박 납 망토) |
+| 4 | ⚡ | Il video (영상) | [팀] 루카의 딥페이크가 퍼지고, 사이트가 디도스로 마비된다. 리치 변호사가 딥페이크 유포죄(형법 612-quater조)로 고소를 준비하지만, 플랫폼에 즉시 삭제를 명령할 규정이 없다. | 콜로디 『피노키오』 17장 '다리가 짧은 거짓말, 코가 긴 거짓말' |
+| 5 | 🎭 | Istruzioni (지시) | [적] 기지 촬영 드론 영상을 편집국 서버와 레오의 장비에 심으라는 지시. | "Il fine giustifica i mezzi" (마키아벨리가 한 적 없는 말: 잘못된 인용 바로잡기) |
+| 6 | 🔍 | Nebula | [팀] 트롤 팜이 "드론은 이민자들이 띄운다"는 가짜뉴스를 퍼뜨리는 동시에 반대 진영에도 정반대의 가짜뉴스를 뿌린다. 7부의 철도 사보타주도 "외국 소행"이라는 이야기로 계속 팔려 나간다. | 움베르토 에코(2015) "I social media danno diritto di parola a legioni di imbecilli" |
+| 7 | 🤝 | Il dubbio (의심) | [적] 레오와 사라에게 동료애가 생기면서 안드레아가 흔들린다. | 페트라르카 『칸초니에레』 134 "Pace non trovo, et non ò da far guerra" |
+| 8 | 🎭 | Dentro Nebula (네뷸라 안으로) | [팀] 사라가 콘텐츠 매니저로 잠입한다. | 역사: 파시즘 시대 대중문화부(MinCulPop)와 '벨리네(veline)' 보도지침 |
+| 9 | ⚡ | In manette (1) — L'arresto (수갑 1: 체포) | 새벽, 루카가 '간첩' 혐의로 체포되고 레오의 드론 장비가 압수된다. | 역사: 1983년 방송인 엔초 토르토라의 억울한 체포 |
+| 10 | ⚡ | In manette (2) — L'interrogatorio (수갑 2: 조사) | 경찰서 조서 작성. 리치 변호사가 접견한다. | 헌법 제27조 "L'imputato non è considerato colpevole sino alla condanna definitiva" |
+| 11 | ⚡ | Perquisizione (압수수색) | 편집국 압수수색. 취재원을 지키기 위한 공방. 방송은 루카를, 2009년 그가 '얼음의 친구' 기사로 한 청년을 단죄했던 방식과 똑같이 단죄한다. 거울 같은 미디어 재판. | 헌법 제15조 "La libertà e la segretezza della corrispondenza… sono inviolabili" |
+| 12 | ☕ | Il bar sotto casa (동네 카페) | [팀] 압수수색으로 편집국을 쓸 수 없게 된 팀이 단골 카페에서 회의한다. 카페 주인이 구석 자리를 내준다. 동네의 연대. | 속담 "Nel bisogno si conosce l'amico" |
+| 13 | 🔍 | Querela temeraria (봉쇄소송) | Falco가 3천만 유로 소송을 걸고, 투자자가 빠지고, 폐간 위기가 온다. | 만초니 『약혼자들』 아체카가르불리 변호사와 돈 압본디오의 '라티노룸(latinorum)' |
+| 14 | 🗂 | La voce clonata (복제된 목소리) | [팀] 한 화로 끝나는 제보. 손자의 복제된 목소리에 속은 할머니. 마테오의 첫 단독 기사. | 속담 "Chi ha orecchie per intendere, intenda" |
+| 15 | 🕵 | Il sospetto (의심) | 영상 파일의 메타데이터와 안드레아의 동선이 맞아떨어진다. 토마소가 적발한다. | 속담 "Chi mal fa, mal pensa" |
+| 16 | 🕵 | Confessione (1) — Alle strette (고백 1: 궁지) | 증거 앞에서 안드레아가 궁지에 몰린다. | 속담 "La verità viene sempre a galla" |
+| 17 | 🕵 | Confessione (2) — La scelta (고백 2: 선택) | 안드레아가 자백하고 이중스파이로 돌아선다. | 만초니 『약혼자들』 '이름 없는 자(l'Innominato)'의 회심 |
+| 18 | 🕵 | Il segreto di Elena (엘레나의 비밀) | 엘레나가 팀을 지키려고 발렌티 측과 몰래 거래했었다. | 단테 연옥편 3곡 121–123행 "Orribil furon li peccati miei; / ma la bontà infinita ha sì gran braccia…" |
+| 19 | 📰 | L'udienza (심리) | 레오가 비행기록으로 영상 조작을 증명하고, 루카가 석방된다. 딥페이크 유포자는 612-quater조로 기소된다. | 역사: 1633년 갈릴레이 재판과 "Eppur si muove" 전설 |
+| 20 | 🤝 | Il volto del Corvo (코르보의 얼굴) | 익명 제보자의 정체가 드러난다. **필리포 발렌티**. 그가 떠나며 남긴 이름 하나, "Fonte Zero." → 9부 | 만초니 『약혼자들』 8장 "Carneade! Chi era costui?" |
 
 ---
 
@@ -459,21 +503,26 @@
 
 | 화 | 유형 | 제목 | 내용 | 회수하는 실 | 인용 |
 |---|---|---|---|---|---|
-| 1 | 🤝 | Il figlio (아들) | 필리포가 처음으로 얼굴을 드러내고 증언한다. 왜 아버지를 배신하는가. 어머니의 죽음과 아버지의 침묵. | 8부 15화 | 속담 "Tale padre, tale figlio" (필리포가 뒤집는 말) |
+| 1 | 🤝 | Il figlio (아들) | 필리포가 처음으로 얼굴을 드러내고 증언한다. 왜 아버지를 배신하는가. 어머니의 죽음과 아버지의 침묵. | 8부 20화 | 속담 "Tale padre, tale figlio" (필리포가 뒤집는 말) |
 | 2 | 🔍 | La chiave (열쇠) | 필리포가 빼낸 암호화 USB. 비밀번호는 시로니의 기사 제목이었다. 같은 날 15개국 기자들이 'Progetto Inchiostro'를 결성한다. | 2부 '일 코르보' | 에코 『장미의 이름』 "Stat rosa pristina nomine, nomina nuda tenemus" |
 | 3 | 🔍 | La baita (산장) | 베르가모 산장에 숨겨진 시로니의 상자: 녹음테이프, 수첩, Falco 첫 군납 계약의 리베이트 장부. 2009년 발도르사 메모 "Troppo facile."(너무 쉬워)의 뒷장도 있다. | 4부 'Inchiostro 2016' | 속담 "Carta canta" |
 | 4 | 🤝 | La voce di Sironi (시로니의 목소리) | 사고 전날 밤의 음성 메모. "Se mi succede qualcosa, cercate Fonte Zero."(나한테 무슨 일이 생기면 폰테 제로를 찾아라) 토마소가 무너진다. | 시로니 미스터리 | 단테 연옥편 1곡 71–72행 "libertà va cercando, ch'è sì cara, / come sa chi per lei vita rifiuta" |
-| 5 | 🔍 | Il patto (거래) | 수감 중인 네리가 감형을 대가로 증언하겠다고 한다. 교도소 면회실. | 4부 | 라틴 법언 "Pacta sunt servanda" |
-| 6 | ⚡ | Cella 14 (14호 감방) | 증언 전날 네리가 감방에서 숨진 채 발견된다. 자살인가 입막음인가. 그날 밤 파브리 검사가 정치 압박으로 사건에서 배제된다. | 4부·8부 | 역사: 1986년 보게라 교도소, 미켈레 신도나의 독이 든 커피 |
-| 7 | 🔍 | Fonte Zero (폰테 제로) | 코모 호숫가의 노인. 2015년 Falco의 첫 군납 계약은 시험비행 기록을 조작해 따낸 것이었다. | 시리즈의 기원 | 만초니 『약혼자들』 1장 "Quel ramo del lago di Como, che volge a mezzogiorno…" |
-| 8 | 🔍 | Lo scudo (방패) | Falco가 유럽 방위 자금이 들어가는 국가 대드론 방어 사업 입찰을 노린다. **자기가 만든 위협을 막는 방패까지 판다.** 평가위원 매수 정황. 국방 IT 계약 비리와 같은 수법(허위 송장으로 만든 비자금)이 드러난다. | 7부 | 속담 "Dare le pecore in guardia al lupo" |
-| 9 | 🎭 | Doppio filo (이중의 실) | 이중스파이 안드레아가 옛 핸들러와 접선한다. 들키면 끝이다. | 8부 | 속담 "Chi gioca col fuoco si brucia" |
-| 10 | 🔍 | La fabbrica (공장) | 골든파워를 피해 Falco가 기술을 옮긴 발칸의 위장 공장, 그리고 비행 데이터가 흘러가는 해외 서버. 현지 기자와 화상 협업. | 7부 | 역사: 1964년 올리베티 전자사업부의 미국 매각, 기술이 나라 밖으로 나간 순간 |
-| 11 | 🤝 | L'amico (친구) | 레오와 삼의 재회. 같은 하늘을 날던 두 사람, 지금은 반대편에 서 있다. | 레오 C플롯 | 웅가레티 「형제들」 "Di che reggimento siete / fratelli?" |
-| 12 | 🛸 | Il cavo (케이블) | 치르콜로가 시칠리아 케이블 상륙국의 유지보수 업체를 몰래 인수하려 한다. 루카와 레오가 합법 범위에서 상륙국 주변을 취재하며 공중 감시의 공백을 확인한다. 대교 사업 승인을 둘러싸고 감사원 심사에 손을 대려 한 로비 흔적도 나온다. | 7부 13화 | 역사: 1901년 마르코니의 대서양 횡단 무선 통신 |
-| 13 | 🔍 | Dieci anni fa (10년 전) | 은퇴한 교통경찰이 "보고서를 다시 쓰라는 지시를 받았다"고 고백한다. 그리고 사고 당일 시로니의 차를 따라가던 **드론 영상** 원본이 나온다. | 시로니 사고 | 라틴 격언 "Veritas filia temporis" (진실은 시간의 딸) |
-| 14 | 🕵 | Il Colonnello (대령) | '일 콜로넬로'는 치르콜로의 보안책임자였다. 엘레나가 발렌티와의 옛 거래 채널을 역이용해 그를 시험한다. 엘레나의 속죄. 2부에서 루카의 차에 폭발물을 설치하라고 의뢰한 사람도 그였다. | 7부·8부 13화 | 마키아벨리 『군주론』 18장 "Non può pertanto uno signore prudente, né debbe, osservare la fede…" |
-| 15 | ⚡ | Adesso si gioca (이제 진짜 게임) | 증인보호 시설로 가던 필리포가 습격당한다. 같은 밤 발렌티가 루카에게 전화한다. "Adesso giochiamo sul serio, dottor Moretti."(이제부터 진짜 게임이오, 모레티 씨) → 10부 | 9부 종합 | 카이사르 "Alea iacta est" |
+| 5 | ☕ | Il treno per Como (코모행 기차) | 루카와 토마소가 폰테 제로를 찾아 코모행 기차를 탄다. 표 사기, 검표원, 창밖의 호수. 토마소가 시로니와의 추억을 꺼낸다. | 시로니 미스터리 | 만초니 『약혼자들』 8장 "Addio, monti sorgenti dall'acque" |
+| 6 | 🔍 | Il patto (거래) | 수감 중인 네리가 감형을 대가로 증언하겠다고 한다. 교도소 면회실. | 4부 | 라틴 법언 "Pacta sunt servanda" |
+| 7 | ⚡ | Cella 14 (14호 감방) | 증언 전날 네리가 감방에서 숨진 채 발견된다. 자살인가 입막음인가. 그날 밤 파브리 검사가 정치 압박으로 사건에서 배제된다. | 4부·8부 | 역사: 1986년 보게라 교도소, 미켈레 신도나의 독이 든 커피 |
+| 8 | 🔍 | Fonte Zero (1) — La ricerca (폰테 제로 1: 찾기) | 코모 호숫가 마을에서 폰테 제로를 찾는다. 그는 쉽게 문을 열지 않는다. | 시리즈의 기원 | 만초니 『약혼자들』 1장 "Quel ramo del lago di Como, che volge a mezzogiorno…" |
+| 9 | 🔍 | Fonte Zero (2) — La testimonianza (폰테 제로 2: 증언) | 노인의 증언. 2015년 Falco의 첫 군납 계약은 시험비행 기록을 조작해 따낸 것이었다. | 시리즈의 기원 | 라틴 법언 "Testis unus, testis nullus" |
+| 10 | 🔍 | Lo scudo (방패) | Falco가 유럽 방위 자금이 들어가는 국가 대드론 방어 사업 입찰을 노린다. **자기가 만든 위협을 막는 방패까지 판다.** 평가위원 매수 정황. 국방 IT 계약 비리와 같은 수법(허위 송장으로 만든 비자금)이 드러난다. | 7부 | 속담 "Dare le pecore in guardia al lupo" |
+| 11 | 🎭 | Doppio filo (이중의 실) | 이중스파이 안드레아가 옛 핸들러와 접선한다. 들키면 끝이다. | 8부 | 속담 "Chi gioca col fuoco si brucia" |
+| 12 | 🗂 | Le regole del parlatorio (면회실의 규칙) | 한 화로 끝나는 독자 제보. 교도소 면회 절차가 바뀌어 가족들이 혼란을 겪는다. 마테오의 실용 기사. | — | 헌법 제27조 "Le pene… devono tendere alla rieducazione del condannato" |
+| 13 | 🔍 | La fabbrica (공장) | 골든파워를 피해 Falco가 기술을 옮긴 발칸의 위장 공장, 그리고 비행 데이터가 흘러가는 해외 서버. 현지 기자와 화상 협업. | 7부 | 역사: 1964년 올리베티 전자사업부의 미국 매각, 기술이 나라 밖으로 나간 순간 |
+| 14 | 🤝 | L'amico (친구) | 레오와 삼의 재회. 같은 하늘을 날던 두 사람, 지금은 반대편에 서 있다. | 레오 C플롯 | 웅가레티 「형제들」 "Di che reggimento siete / fratelli?" |
+| 15 | ☕ | Passeggiata con Filippo (필리포와의 산책) | 안전가옥 근처 산책. 필리포의 어린 시절과 아버지. 아버지를 고발하는 아들의 마음. | 필리포 C플롯 | 파스콜리 「8월 10일」 "San Lorenzo, io lo so perché tanto / di stelle per l'aria tranquilla / arde e cade…" |
+| 16 | 🛸 | Il cavo (케이블) | 치르콜로가 시칠리아 케이블 상륙국의 유지보수 업체를 몰래 인수하려 한다. 루카와 레오가 합법 범위에서 상륙국 주변을 취재하며 공중 감시의 공백을 확인한다. 대교 사업 승인을 둘러싸고 감사원 심사에 손을 대려 한 로비 흔적도 나온다. | 7부 18화 | 역사: 1901년 마르코니의 대서양 횡단 무선 통신 |
+| 17 | 🔍 | Dieci anni fa (1) — Il vigile in pensione (10년 전 1: 은퇴한 경찰) | 은퇴한 교통경찰이 "보고서를 다시 쓰라는 지시를 받았다"고 고백한다. | 시로니 사고 | 속담 "Chi ha la coda di paglia ha paura che gli pigli fuoco" |
+| 18 | 🔍 | Dieci anni fa (2) — Il video (10년 전 2: 영상) | 사고 당일 시로니의 차를 따라가던 **드론 영상** 원본이 나온다. | 시로니 사고 | 라틴 격언 "Veritas filia temporis" (진실은 시간의 딸) |
+| 19 | 🕵 | Il Colonnello (대령) | '일 콜로넬로'는 치르콜로의 보안책임자였다. 엘레나가 발렌티와의 옛 거래 채널을 역이용해 그를 시험한다. 엘레나의 속죄. 2부에서 루카의 차에 폭발물을 설치하라고 의뢰한 사람도 그였다. | 7부·8부 18화 | 마키아벨리 『군주론』 18장 "Non può pertanto uno signore prudente, né debbe, osservare la fede…" |
+| 20 | ⚡ | Adesso si gioca (이제 진짜 게임) | 증인보호 시설로 가던 필리포가 습격당한다. 같은 밤 발렌티가 루카에게 전화한다. "Adesso giochiamo sul serio, dottor Moretti."(이제부터 진짜 게임이오, 모레티 씨) → 10부 | 9부 종합 | 카이사르 "Alea iacta est" |
 
 인턴 마테오의 첫 단독 기사와 재건 사업 리베이트는 2·5·10화의 B플롯으로 녹인다.
 
@@ -486,21 +535,26 @@
 
 | 화 | D-day | 유형 | 제목 | 내용 | 인용 |
 |---|---|---|---|---|---|
-| 1 | D-14 | ⚡ | Dopo l'agguato (습격 이후) | 필리포가 중상을 입는다. 증인보호 프로그램으로 넘길지, 언론이 끝까지 지킬지 갈등한다. | 파올로 보르셀리노(전해지는 말) "Chi ha paura muore ogni giorno, chi non ha paura muore una volta sola" |
-| 2 | D-13 | 🤝 | Mio padre (나의 아버지) | 루카 아버지의 시골집 상공에 밤마다 드론이 뜬다. 처음으로 가족이 표적이 된다. 부자의 tu 대화. | 단테 지옥편 15곡 85행 "m'insegnavate come l'uom s'etterna" |
-| 3 | D-12 | 🔍 | Le voci (목소리들) | 1~8부 증인들의 증언을 영상으로 기록하는 프로젝트: 피살자의 아내, 응원석 소년, 건축가, 보좌관, 발도르사의 파올로, 왕, 텔레그램 청년. | 프리모 레비 『가라앉은 자와 구조된 자』 "È avvenuto, quindi può accadere di nuovo" |
-| 4 | D-11 | 🔍 | Il ministero (장관실) | 정부 고위 인사가 국가안보를 이유로 보도 중단을 요청한다. "대교 사업은 국가 전략 사업이오." 7부 13화보다 훨씬 무거운 압박. | 안드레오티 "Il potere logora chi non ce l'ha" |
-| 5 | D-10 | 📰 | L'ingiunzione (금지명령) | Falco가 법원에 보도금지 가처분을 신청한다. 리치 변호사의 법정 공방. | 칼라만드레이(1955) "La libertà è come l'aria: ci si accorge di quanto vale quando comincia a mancare" |
-| 6 | D-9 | 🎭 | Il gala (갈라) | 루카가 발렌티 재단의 비공개 갈라에 위장 잠입한다. 시리즈 최고 수준의 Lei 대화. | 토마시 디 람페두사 『표범』 "Noi fummo i Gattopardi, i Leoni; quelli che ci sostituiranno saranno gli sciacalletti, le iene" |
-| 7 | D-8 | ⚡ | Il caveau (금고) | 루가노 금고의 문서에 접근한다. 엘레나의 거짓 정보 작전이 결실을 맺는다. | 속담 "Chi cerca trova" |
-| 8 | D-7 | 🤝 | Il piano di volo (비행 계획서) | 삼이 사보타주 작전 날짜가 적힌 비행 계획서를 레오에게 넘긴다. 그의 결단과 대가. 레오가 비행하겠다고 하자 엘레나가 반대한다. | 단테 지옥편 26곡 119–120행 "fatti non foste a viver come bruti, / ma per seguir virtute e canoscenza" |
-| 9 | D-6 | 🕵 | Da che parte stai? (넌 어느 편이야?) | 7부의 방첩요원과 다시 손을 잡는다. 무엇을 넘기고 무엇을 지킬 것인가. 대령의 마지막 선택. | 단테 지옥편 3곡 36행 "che visser sanza 'nfamia e sanza lodo" (중립을 택한 자들) |
-| 10 | D-5 | 🤝 | L'offerta (제안) | 컨소시엄 매체 두 곳이 압력에 굴복해 빠진다. 발렌티가 제안한다. "기사를 내리면 시로니의 진실을 모두 주겠소." 루카의 가장 어려운 선택. | 단테 지옥편 27곡 110행 "lunga promessa con l'attender corto" |
-| 11 | D-4 | 🔍 | Faccia a faccia (정면 대면) | 루카와 발렌티의 최종 인터뷰. "Il cielo non è di nessuno, dottor Moretti."(하늘은 누구의 것도 아니오, 모레티 씨) 시리즈의 핵심 대사 장면. | 단테 연옥편 5곡 13행 "Vien dietro a me, e lascia dir le genti" |
-| 12 | D-3 | 🛸 | Lo sciame finale (마지막 군집) | 상륙국을 향한 사보타주 군집이 뜬다. 레오가 먼저 경보를 보내고, 그의 드론이 증거 영상을 찍는다. 군의 대드론 대응에 레오의 드론까지 격추된다. 영상은 무사한가. 상륙국 근처에 사라가 고립된다. | 단테 지옥편 5곡 31행 "La bufera infernal, che mai non resta" |
-| 13 | D-2 | 📰 | Settantadue ore (72시간) | 필리포가 의회 정보위원회에서 비공개로 증언한다. 15개국 편집국이 실시간으로 엠바고를 조율한다. | 역사: 1848년 3월 18~22일 밀라노 '다섯 날(Cinque giornate)' 봉기 |
-| 14 | D-0 | 📰 | Pubblicazione (공개) | 새벽 6시, 15개국에서 동시에 공개한다. 출국하려던 발렌티가 **말펜사 공항**에서 체포된다. 합작 승인 취소, 의회 조사위원회, 장관 사퇴. | 조반니 팔코네 "Gli uomini passano, le idee restano…" |
-| 15 | 후일 | 🤝 | Inchiostro (잉크) | 에필로그. 시로니 사고 재수사가 결정되고, 팀은 각자의 자리를 찾는다(다비데 복귀, 마테오 정식 기자, 레오의 드론 저널리즘팀). 다시 문을 연 편집국에 새 제보 메일 한 통. 법원이 발도르사 사건의 재심 개시를 결정했다는 소식도 전해진다. 레오의 드론이 시로니의 묘지 위를 지나 밀라노 하늘로 떠오른다. 마지막 장면은 1부 1화처럼 편한 tu 대화로 끝난다. | 단테 지옥편 34곡 139행 "E quindi uscimmo a riveder le stelle" + 칼비노 『보이지 않는 도시들』 "…cercare e saper riconoscere chi e cosa, in mezzo all'inferno, non è inferno, e farlo durare, e dargli spazio" |
+| 1 | D-18 | ⚡ | Dopo l'agguato (습격 이후) | 필리포가 중상을 입는다. 증인보호 프로그램으로 넘길지, 언론이 끝까지 지킬지 갈등한다. | 파올로 보르셀리노(전해지는 말) "Chi ha paura muore ogni giorno, chi non ha paura muore una volta sola" |
+| 2 | D-17 | 🤝 | Mio padre (나의 아버지) | 루카 아버지의 시골집 상공에 밤마다 드론이 뜬다. 처음으로 가족이 표적이 된다. 부자의 tu 대화. | 단테 지옥편 15곡 85행 "m'insegnavate come l'uom s'etterna" |
+| 3 | D-16 | ☕ | Al mercato (시장에서) | 경호 속에서도 루카가 아버지와 동네 시장에 간다. 일상을 지키는 것이 저항이다. | 속담 "Chi ha tempo non aspetti tempo" |
+| 4 | D-15 | 🔍 | Le voci (목소리들) | 1~8부 증인들의 증언을 영상으로 기록하는 프로젝트: 피살자의 아내, 응원석 소년, 건축가, 보좌관, 발도르사의 파올로, 왕, 텔레그램 청년. | 프리모 레비 『가라앉은 자와 구조된 자』 "È avvenuto, quindi può accadere di nuovo" |
+| 5 | D-14 | 🔍 | Il ministero (장관실) | 정부 고위 인사가 국가안보를 이유로 보도 중단을 요청한다. "대교 사업은 국가 전략 사업이오." 7부 18화보다 훨씬 무거운 압박. | 안드레오티 "Il potere logora chi non ce l'ha" |
+| 6 | D-14 | 🗂 | Una nuova segnalazione (새 제보) | 결전 한가운데 들어온 작은 제보(학교 급식 납품 비리). 마테오가 혼자 맡는다. 저널리즘은 멈추지 않는다. | 속담 "Il lavoro nobilita l'uomo" |
+| 7 | D-13 | 📰 | L'ingiunzione (금지명령) | Falco가 법원에 보도금지 가처분을 신청한다. 리치 변호사의 법정 공방. | 칼라만드레이(1955) "La libertà è come l'aria: ci si accorge di quanto vale quando comincia a mancare" |
+| 8 | D-12 | 🎭 | Il gala (1) — La preparazione (갈라 1: 준비) | 턱시도 대여, 식탁 예절, 상류층 화법 특훈. | 카스틸리오네 『궁정인』 "usar in ogni cosa una certa sprezzatura" |
+| 9 | D-12 | 🎭 | Il gala (2) — Il gala (갈라 2: 잠입) | 루카가 발렌티 재단의 비공개 갈라에 위장 잠입한다. 시리즈 최고 수준의 Lei 대화. | 토마시 디 람페두사 『표범』 "Noi fummo i Gattopardi, i Leoni; quelli che ci sostituiranno saranno gli sciacalletti, le iene" |
+| 10 | D-11 | ⚡ | Il caveau (금고) | 루가노 금고의 문서에 접근한다. 엘레나의 거짓 정보 작전이 결실을 맺는다. | 속담 "Chi cerca trova" |
+| 11 | D-10 | 🤝 | Il piano di volo (비행 계획서) | 삼이 사보타주 작전 날짜가 적힌 비행 계획서를 레오에게 넘긴다. 그의 결단과 대가. 레오가 비행하겠다고 하자 엘레나가 반대한다. | 단테 지옥편 26곡 119–120행 "fatti non foste a viver come bruti, / ma per seguir virtute e canoscenza" |
+| 12 | D-9 | 🕵 | Da che parte stai? (넌 어느 편이야?) | 7부의 방첩요원과 다시 손을 잡는다. 무엇을 넘기고 무엇을 지킬 것인가. 대령의 마지막 선택. | 단테 지옥편 3곡 36행 "che visser sanza 'nfamia e sanza lodo" (중립을 택한 자들) |
+| 13 | D-8 | 🤝 | L'offerta (제안) | 컨소시엄 매체 두 곳이 압력에 굴복해 빠진다. 발렌티가 제안한다. "기사를 내리면 시로니의 진실을 모두 주겠소." 루카의 가장 어려운 선택. | 단테 지옥편 27곡 110행 "lunga promessa con l'attender corto" |
+| 14 | D-7 | 🔍 | Faccia a faccia (정면 대면) | 루카와 발렌티의 최종 인터뷰. "Il cielo non è di nessuno, dottor Moretti."(하늘은 누구의 것도 아니오, 모레티 씨) 시리즈의 핵심 대사 장면. | 단테 연옥편 5곡 13행 "Vien dietro a me, e lascia dir le genti" |
+| 15 | D-6 | 🛸 | Lo sciame finale (1) — L'allarme (마지막 군집 1: 경보) | 상륙국을 향한 사보타주 군집이 뜬다. 레오가 먼저 경보를 보내고, 그의 드론이 증거 영상을 찍기 시작한다. | 단테 지옥편 5곡 31행 "La bufera infernal, che mai non resta" |
+| 16 | D-6 | 🛸 | Lo sciame finale (2) — La caduta (마지막 군집 2: 추락) | 군의 대드론 대응에 레오의 드론까지 바다로 떨어진다. 영상은 무사한가. 상륙국 근처에 고립된 사라를 구한다. | 단테 지옥편 26곡 142행 "infin che 'l mar fu sovra noi richiuso" |
+| 17 | D-3 | 📰 | Settantadue ore (72시간) | 필리포가 의회 정보위원회에서 비공개로 증언한다. 15개국 편집국이 실시간으로 엠바고를 조율한다. | 역사: 1848년 3월 18~22일 밀라노 '다섯 날(Cinque giornate)' 봉기 |
+| 18 | D-1 | ☕ | La pizza della vigilia (공개 전야의 피자) | 공개 전날 밤 편집국 피자 회식. 각자 왜 여기 있는지를 말한다. | 레오파르디 「마을의 토요일」 "Questo di sette è il più gradito giorno, / pien di speme e di gioia" |
+| 19 | D-0 | 📰 | Pubblicazione (공개) | 새벽 6시, 15개국에서 동시에 공개한다. 출국하려던 발렌티가 **말펜사 공항**에서 체포된다. 합작 승인 취소, 의회 조사위원회, 장관 사퇴. | 조반니 팔코네 "Gli uomini passano, le idee restano…" |
+| 20 | 후일 | 🤝 | Inchiostro (잉크) | 에필로그. 시로니 사고 재수사가 결정되고, 팀은 각자의 자리를 찾는다(다비데 복귀, 마테오 정식 기자, 레오의 드론 저널리즘팀). 다시 문을 연 편집국에 새 제보 메일 한 통. 법원이 발도르사 사건의 재심 개시를 결정했다는 소식도 전해진다. 레오의 드론이 시로니의 묘지 위를 지나 밀라노 하늘로 떠오른다. 마지막 장면은 1부 1화처럼 편한 tu 대화로 끝난다. | 단테 지옥편 34곡 139행 "E quindi uscimmo a riveder le stelle" + 칼비노 『보이지 않는 도시들』 "…cercare e saper riconoscere chi e cosa, in mezzo all'inferno, non è inferno, e farlo durare, e dargli spazio" |
 
 ---
 

@@ -139,7 +139,7 @@
 106. Tommaso: (Avvicinandosi) Quello l'ho trovato solo la seconda volta. Era incollato alla copertina. (Pausa) Leggi.
 107. Elena: (Leggendo) «N. — Ispettore PG. Lo stesso del caso Valdorsa, 2009. Le prove sparite dal deposito. Chiedere a T. se lo conosce.» (Pausa, alzando gli occhi) T.
 108. Tommaso: T. (Pausa) Io. (Pausa) Alberto voleva chiedermi di Neri. E della sparizione delle prove di Valdorsa. (Pausa) Non ha fatto in tempo.
-109. Elena: (Lentamente) Valdorsa. La ragazza uccisa nel duemilanove. Quella del processo con il fidanzato.
+109. Elena: (Lentamente) Valdorsa. Il giovane farmacista ucciso nel duemilanove. Quello del processo all'amico. Quello dell'«amico di ghiaccio».
 110. Tommaso: Quella. (Pausa) Neri era l'ispettore della PG che aveva in custodia i reperti. Un paio di oggetti sparirono dal deposito prima dell'appello. Nessuno fu mai indagato. (Pausa) Alberto ci era arrivato. Chissà come.
 111. Marta: (Piano) Alberto arrivava sempre. Era il suo difetto.
 112. Elena: (Chiudendo il quaderno, guardando Tommaso) Tommaso. Quante cose ancora non mi hai detto?

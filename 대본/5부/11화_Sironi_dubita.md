@@ -12,7 +12,7 @@
 
 ---
 
-### 1장면 (1–30턴)
+### 1장면 (1–31턴)
 *2009년 11월 28일 토요일 오전 7시 40분, 밀라노 중앙역 주차장. 안개. 시로니의 회색 골프가 시동이 걸린 채 서 있다. 시로니는 로마에서 밤 기차로 막 도착했다. 큰 코트 주머니에서 피스타치오 봉지가 삐져나와 있다. 루카가 커피 두 잔을 들고 조수석 문을 연다.*
 
 1. Sironi: (Prendendo un caffè senza guardarlo) Sali. (Pausa) Guido io. Tu hai la faccia di uno che non dorme da giovedì.
@@ -35,7 +35,7 @@
 18. Luca: (Esitando) Sopra c'è... (Pausa) «Di ghiaccio.» (Pausa) Sottolineato due volte.
 19. Sironi: (Annuendo) Ecco. (Pausa) Due righe. Una sopra l'altra. (Pausa) Sopra, la risposta. Sotto, la domanda. (Pausa) Hai scritto prima la risposta. E solo dopo la domanda.
 20. Luca: (Guardando la pagina)
-21. Sironi: Nel nostro mestiere si fa al contrario. (Pausa) Prima la domanda. Poi si va a cercare. Poi, se va bene, dopo un mese, una risposta. (Pausa) Piccola. Che sta in una riga. E che si può ancora cancellare.
+21. Sironi: Nel nostro mestiere si fa al contrario. (Pausa) Prima la domanda. Poi si va a cercare. Poi, se va bene, dopo un mese, una risposta. (Pausa) Bisogna che la domanda venga prima. Sempre. (Pausa) Piccola. Che sta in una riga. E che si può ancora cancellare.
 22. Luca: (Dopo un momento, prendendo la penna, facendo per tirare una riga su «Di ghiaccio»)
 23. Sironi: (Fermandogli la mano senza guardarlo) No. (Pausa) Non la cancellare. (Pausa) Lasciala lì. (Pausa) Le cose sbagliate si lasciano dove sono. Così ti ricordi dove sei caduto.
 24. Luca: (Chiudendo il taccuino) Lei ha mai sbagliato così?
@@ -81,7 +81,7 @@
 58. Sironi: Perché non lo sa?
 59. Lanfranchi: (Alzando gli occhi) Perché ho cinquantotto anni. Fra due anni vado in pensione. (Pausa) E perché la mattina del quindici, alle nove e dieci, ho capito che in questo caso c'è chi decide cos'è pertinente. (Pausa) E non sono io.
 60. Luca: (Piano) Maresciallo, se lei sa qualcosa...
-61. Lanfranchi: (Interrompendolo, con gentilezza ma duro) Ragazzo. Nel settantatré ho vomitato sulle scarpe del mio comandante, davanti a un annegato nel Ticino. (Pausa) Da allora so una cosa sola. (Pausa) Il giorno che parli, devi avere già deciso cosa ti costa.
+61. Lanfranchi: (Interrompendolo, con gentilezza ma duro) Ragazzo. Nel settantatré vomitai sulle scarpe del mio comandante, davanti a un annegato nel Ticino. (Pausa) Da allora so una cosa sola. (Pausa) Il giorno che parli, devi avere già deciso cosa ti costa.
 62. Sironi: (Alzandosi) E lei non l'ha ancora deciso.
 63. Lanfranchi: (Guardandolo a lungo) Non ancora. (Pausa) Tornate dopo Natale. (Pausa) Magari a gennaio ho deciso.
 64. Sironi: (Lasciando il sacchetto di pistacchi sul tavolo) Torno a gennaio.
@@ -89,7 +89,7 @@
 
 ---
 
-### 3장면 (66–100턴)
+### 3장면 (66–101턴)
 *오전 10시 30분. 지방도 182호선, Logistica Padana 창고 철문 앞. 하역장에서 지게차가 움직인다. 시로니와 루카가 철문 앞에 서 있다. 털 칼라 재킷의 30대 남자가 하역장에서 내려와 천천히 다가온다.*
 
 66. Tano: (Fermandosi dall'altra parte del cancello, con le mani in tasca, con un forte accento calabrese) Cercate qualcuno?
@@ -119,7 +119,7 @@
 90. Luca: (Scrivendo con la mano che trema) «Ventotto undici, dieci e trenta. Caposquadra notte, accento calabrese, giubbotto con pelliccia. "Vai a dormire anche lei."»
 91. Neri: (Dalla strada, scendendo da un'Alfa scura che si è fermata dietro la Golf senza che nessuno la sentisse arrivare) Alberto Sironi. (Pausa) Ti facevo a Roma.
 92. Sironi: (Voltandosi, senza sorpresa) Neri. (Pausa) Ti facevo a Milano.
-93. Neri: (Avvicinandosi, giacca di pelle, capelli corti, con un mezzo sorriso cordiale) Siamo tutti fuori sede, oggi. (Pausa) Quanti anni sono? Dal novantasei. Il caso del tabaccaio di Baggio. (Pausa) Tu scrivevi. Io arrestavo.
+93. Neri: (Avvicinandosi, giacca di pelle, capelli corti, con un mezzo sorriso cordiale) Siamo tutti fuori sede, oggi. (Pausa) Quanti anni sono? Dal novantasei. Il caso del tabaccaio di Baggio. Ci conoscemmo lì. (Pausa) Tu scrivevi. Io arrestavo.
 94. Sironi: Tu arrestavi il nipote del tabaccaio. (Pausa) Che poi è stato assolto.
 95. Neri: (Senza perdere il sorriso) Succede. (Pausa) Si sbaglia tutti. Anche i giornalisti. (Guardando Luca) Vero, ragazzo?
 96. Luca: (Immobile)
@@ -145,7 +145,7 @@
 110. Luca: Quale?
 111. Sironi: (Aprendo il taccuino nero) Ho paura di quanto è facile. (Pausa) Guarda. (Pausa) Un amico che non piange. Una macchina sotto una finestra. Le impronte su un bicchiere. Un debito. Una lite in piazza. (Pausa) Tutto torna. Tutto. (Pausa) Senza un buco.
 112. Luca: E non è una buona cosa?
-113. Sironi: In ventisei anni di cronaca, Luca, non ho mai visto un caso vero senza buchi. (Pausa) Le storie vere sono piene di buchi. Di gente che non ricorda. Di orari che non tornano. Di cose stupide. (Pausa) Quando una storia non ha buchi, vuol dire che qualcuno li ha tappati.
+113. Sironi: In ventisei anni di cronaca, Luca, non ho mai visto un caso vero senza buchi. (Pausa) Le storie vere sono piene di buchi. Di gente che non ricorda. Di orari che non tornano. Di cose stupide. (Pausa) Quando una storia non ha buchi, vuol dire che qualcuno li ha tappati. (Pausa) E temo che qualcuno li abbia tappati in fretta.
 114. Luca: (Piano) Qualcuno.
 115. Sironi: Qualcuno che ha avuto tre ore. Dalle sei e dieci alle nove e dieci. (Pausa) E una cassetta.
 116. Remo: (Avvicinandosi con il caffè, posandolo) Dottore. (Pausa) Lei me l'ha promesso. Il mio nome no.
@@ -155,7 +155,7 @@
 120. Luca: (Guardando Sironi) Lui sa che Remo ha gridato.
 121. Sironi: (Annuendo lentamente) E Remo sa che lui sa. (Pausa) È così che si sta zitti nei paesi. In due.
 122. Luca: (Dopo un silenzio) Lei mi doveva leggere una cosa.
-123. Sironi: (Tirando fuori dalla tasca del cappotto un'edizione tascabile della Commedia, consumata, con la copertina rossa tenuta da un elastico) Dante. (Pausa) Inferno. Canto undicesimo. (Pausa) Dante e Virgilio si fermano dietro un sepolcro, perché la puzza dell'inferno è troppo forte. E mentre aspettano di abituarsi, Virgilio gli spiega tutto. Com'è fatto l'inferno. Chi c'è. Perché. (Pausa) Tutto chiaro. Tutto ordinato.
+123. Sironi: (Tirando fuori dalla tasca del cappotto un'edizione tascabile della Commedia, consumata, con la copertina rossa tenuta da un elastico) Dante. Lo scrisse in esilio, senza più una casa. (Pausa) Inferno. Canto undicesimo. (Pausa) Dante e Virgilio si fermano dietro un sepolcro, perché la puzza dell'inferno è troppo forte. E mentre aspettano di abituarsi, Virgilio gli spiega tutto. Com'è fatto l'inferno. Chi c'è. Perché. (Pausa) Tutto chiaro. Tutto ordinato.
 124. Luca: Come il caso.
 125. Sironi: Come il caso. (Pausa) E Dante, invece di dire «grazie, ho capito», gli fa una domanda. (Pausa) E prima della domanda dice questo. (Leggendo, piano) «O sol che sani ogne vista turbata, / tu mi contenti sì quando tu solvi, / che, non men che saver, dubbiar m'aggrata.»
 126. Luca: (Ripetendo, lentamente) «Non men che saver, dubbiar m'aggrata.»
@@ -167,20 +167,20 @@
 ---
 
 ### 5장면 (131–150턴)
-*2010년 2월 26일 금요일 밤 11시, 비알레 몬테 산토의 「Il Giorno」 편집국. 석 달이 지났다. 저녁 TV 뉴스가 파비아 검찰이 파올로 만테가차를 피의자로 입건했다고 전했다. 사회부에는 시로니와 루카만 남아 있다. 시로니는 검은 수첩에 무언가를 쓰고 있다.*
+*2010년 2월 26일 금요일 밤 11시, 비알레 모란티의 「Il Giorno」 편집국. 석 달이 지났다. 저녁 TV 뉴스가 파비아 검찰이 파올로 만테가차를 피의자로 입건했다고 전했다. 사회부에는 시로니와 루카만 남아 있다. 시로니는 검은 수첩에 무언가를 쓰고 있다.*
 
 131. Luca: (Avvicinandosi alla scrivania di Sironi, con il giubbotto già addosso) È ufficiale. (Pausa) Indagato. (Pausa) La procura dice che ci sono «gravi indizi».
 132. Sironi: (Senza alzare gli occhi, continuando a scrivere) Lo so. (Pausa) Ho sentito.
 133. Luca: (Dopo un momento) E la cassetta?
 134. Sironi: (Posando la penna) Non è nell'elenco delle prove. (Pausa) Ho telefonato in procura stamattina. (Pausa) Mi hanno detto che non esiste nessuna registrazione «utile». (Pausa) «Utile», Luca.
 135. Luca: (Piano) Ma Lanfranchi... il registro... «Già acquisita.»
-136. Sironi: Lanfranchi a gennaio non ha deciso. (Pausa) Mi ha detto: «Quel nome non posso dirlo. Ho due nipoti.» (Pausa) Ha deciso di non decidere. (Pausa) Non gliene faccio una colpa.
+136. Sironi: Lanfranchi a gennaio non ha deciso. (Pausa) Mi ha detto: «Quel nome non posso dirlo. Ho due nipoti.» (Pausa) Ha deciso di non decidere. (Pausa) Non gliene faccio una colpa. (Pausa) Se avesse parlato a gennaio, l'avrebbero trasferito in Sardegna prima di Pasqua.
 137. Luca: (Guardando il taccuino nero aperto sulla scrivania, una pagina nuova, con la data di oggi) Cosa ha scritto?
 138. Sironi: (Dopo una lunga esitazione, girando il taccuino verso di lui) Due parole.
 139. Luca: (Leggendo ad alta voce) «Troppo facile.»
 140. Sironi: (Riprendendo il taccuino) Troppo facile. (Pausa) E sotto. (Indicando con la penna) Una lettera.
 141. Luca: «N.» (Pausa) E una freccia. Verso... «magazzino».
-142. Sironi: (Chiudendo il taccuino, rimettendo l'elastico) Questo non è un articolo, Luca. (Pausa) È un promemoria. (Pausa) Per il giorno in cui avrò le prove. Fra un mese. Fra un anno. Fra dieci.
+142. Sironi: (Chiudendo il taccuino, rimettendo l'elastico) Questo non è un articolo, Luca. (Pausa) È un promemoria. (Pausa) Per il giorno in cui avrò le prove. Fra un mese. Fra un anno. Fra dieci. (Pausa) Quando le avrò trovate, lo riaprirò.
 143. Luca: E se non arrivano?
 144. Sironi: (Alzandosi, infilandosi il cappotto enorme) Se non arrivano, il promemoria resta lì. (Pausa) E qualcuno, un giorno, lo troverà. (Pausa) Le cose scritte restano, Luca. È l'unico vantaggio che abbiamo su quelli come Neri.
 145. Luca: (Dopo un silenzio) Dottore. (Pausa) Quella domanda che le ho fatto a Valdorsa. Al bar. (Pausa) Cosa voleva dirmi, al telefono, prima della galleria.
@@ -188,7 +188,7 @@
 147. Luca: (Con un mezzo sorriso) Non è una risposta.
 148. Sironi: (Dopo un lungo momento) No. Non è una risposta. (Pausa) È un buco. (Pausa) Ricordati che le storie vere hanno dei buchi.
 149. Luca: (Piano) Allora un giorno me lo dirà?
-150. Sironi: (Spegnendo la luce, nel buio della redazione, con il riflesso dei lampioni di viale Monte Santo sulla faccia) Un giorno, Luca. (Pausa) Quando avrò le prove. (Pausa) Torneremo a Valdorsa insieme e te lo dirò lì. (Pausa) Non men che saver, dubbiar m'aggrata. (Pausa) Andiamo. È tardi. E c'è nebbia.
+150. Sironi: (Spegnendo la luce, nel buio della redazione, con il riflesso dei lampioni del viale sulla faccia) Un giorno, Luca. (Pausa) Quando avrò le prove. (Pausa) Torneremo a Valdorsa insieme e te lo dirò lì. (Pausa) Non men che saver, dubbiar m'aggrata. (Pausa) Andiamo. È tardi. E c'è nebbia.
 
 ---
 
@@ -219,12 +219,12 @@
 
 | 범주 | 예문 (턴) |
 |---|---|
-| 근과거·반과거 | Ti ho già sgridato (5), Io l'ho già fatto? (12), Ho scritto (14), hai scritto (17, 19), Te l'ho raccontato (25), Me l'ha raccontato (26), l'ha ritagliata e l'ha attaccata (27), È rimasta (27), hanno affittato (27), Non l'ho mai fatta (29), ha detto (34, 79, 136), è andato… le ha detto (37), le ho detto (38), ha fatto (39), Ho fatto… Ho sentito… Ho scritto… sono tornato (40), l'hanno trovato (48), ha deciso (50, 136), è uscito (56, 82), ho capito (59), ho vomitato (61), l'ha ancora deciso (62), ho deciso (63), L'ho già detto (73), l'ha visto (79), Le ho detto (79), non ha risposto (80), ho scaricato (81), ha gridato… ha risposto (82, 84, 120), è stato assolto (94), ha scritto (97), È venuto (104, 118), L'ho vista (104), ho mai visto (113), ha avuto (115), me l'ha promesso (116), Mi ha chiesto (118), Io ho detto (118), gli ha spiegato (127), Ho sentito (132), Ho telefonato (134), Mi hanno detto (134, 136), le ho fatto (145), Te l'ho detto (146) / Tu hai la faccia → / ci passava (28), Potevo (29), sembrava (34), tornava (32), c'erano (56), c'era (56), sapeva (59), scrivevi… arrestavo (93), arrestavi (94), ti facevo (91, 92), ricordavo… dormivo (118), dormivi (119), voleva dirmi (130, 145), doveva (73, 75, 122) |
+| 근과거·반과거 | Ti ho già sgridato (5), Io l'ho già fatto? (12), Ho scritto (14), hai scritto (17, 19), Te l'ho raccontato (25), Me l'ha raccontato (26), l'ha ritagliata e l'ha attaccata (27), È rimasta (27), hanno affittato (27), Non l'ho mai fatta (29), ha detto (34, 79, 136), è andato… le ha detto (37), le ho detto (38), ha fatto (39), Ho fatto… Ho sentito… Ho scritto… sono tornato (40), l'hanno trovato (48), ha deciso (50, 136), è uscito (56, 82), ho capito (59), l'ha ancora deciso (62), ho deciso (63), L'ho già detto (73), l'ha visto (79), Le ho detto (79), non ha risposto (80), ho scaricato (81), ha gridato… ha risposto (82, 84, 120), è stato assolto (94), ha scritto (97), È venuto (104, 118), L'ho vista (104), ho mai visto (113), ha avuto (115), me l'ha promesso (116), Mi ha chiesto (118), Io ho detto (118), gli ha spiegato (127), Ho sentito (132), Ho telefonato (134), Mi hanno detto (134, 136), le ho fatto (145), Te l'ho detto (146) / ci passava (28), Potevo (29), sembrava (34), tornava (32), c'erano (56), c'era (56), sapeva (59), scrivevi… arrestavo (93), arrestavi (94), ti facevo (91, 92), ricordavo… dormivo (118), dormivi (119), voleva dirmi (130, 145), doveva (73, 75, 122) |
 | 대과거 | quello che mi aveva detto (14), Come mi aveva detto lei (14), l'aveva già presa (37) |
-| 원과거 | → |
-| 미래·전미래 | ci crederà (97), Quando sarà il momento (101), lo troverà (144), me lo dirà? (149), Torneremo… te lo dirò (150) / 전미래 avrò le prove → |
-| 조건법 현재·과거 | sarebbe per me (5) / → |
-| 접속법 4시제 | (현재) se volete scusarmi → / (반과거) Se ti sgridassi (5) / (과거) → / (대과거) → |
-| 가정문 | 1형: Chi dorme…, non fa (3), se va bene (21), se lei sa qualcosa (60), Se non arrivano, il promemoria resta (143–144), Il giorno che parli, devi avere (61) / 2형: Se ti sgridassi di nuovo, sarebbe per me (5) / 3형 → |
+| 원과거 | vomitai (61), Ci conoscemmo (93), Lo scrisse (123) |
+| 미래·전미래 | ci crederà (97), Quando sarà il momento (101), lo troverà (144), me lo dirà? (149), Torneremo… te lo dirò (150), avrò le prove (142), lo riaprirò (142) / 전미래 Quando le avrò trovate (142) |
+| 조건법 현재·과거 | sarebbe per me (5) / l'avrebbero trasferito (136) |
+| 접속법 4시제 | (현재) Bisogna che la domanda venga prima (21) / (과거) temo che qualcuno li abbia tappati (113) / (반과거) Se ti sgridassi (5) / (대과거) Se avesse parlato (136) |
+| 가정문 | 1형: Chi dorme…, non fa (3), se va bene (21), se lei sa qualcosa (60), Se non arrivano, il promemoria resta (143–144), Il giorno che parli, devi avere (61) / 2형: Se ti sgridassi di nuovo, sarebbe per me (5) / 3형: Se avesse parlato a gennaio, l'avrebbero trasferito in Sardegna (136) |
 | 명령법 | tu: Sali (1), Prendi (7), Leggi (15, 46), leggimi (17), non la cancellare. Lasciala (23), Non toccare. Non fotografare. Memorizza (46), Scrivi (89), Saluta… Digli… guida piano (101), Mangia (107, 129), Ricordati (148), Guarda (111) / voi: Mangiate (102), Tornate (63) / Lei: vada a dormire (87) / noi: Andiamo (150) |
 | 기타 | 수동태 è stato assolto (94) / si 구문 si fa al contrario… si va… si può (21), si lasciano (23), si sbaglia tutti (95), si sta zitti (121), si fredda (129) / 제룬디오 Prendendo (1, 8, 22, 36, 65), Sedendosi (2, 35, 57), Uscendo… sgusciando (3), Guardando (5, 30, 36, 40, 57, 69, 77, 117, 120, 137), Tendendogli (7), rigirandolo (8), Aprendo (14, 44, 111), Leggendo (16, 47, 51, 125, 139), Masticando (17, 38), Esitando (18), Annuendo (19, 87, 118, 121), facendo (22), Fermandogli (23), Chiudendo (24, 127, 142), Arrossendo (33), posando (35, 44, 102, 103, 116, 134), Alzandosi… andando… prendendo (42), uscendo (44), avvicinandosi (45, 131), chinandosi (46), Raddrizzandosi, togliendosi (52), Rientrando, chiudendo… rimettendolo (55), Rimettendosi (56), Alzando (59), Interrompendolo (61), Lasciando (64), Fermandosi (66, 83, 118, 146), Sorridendo (68, 129), Irrigidendosi (78), Ridendo (79), Voltandosi (81, 85, 92, 146), scendendo (91), Scrivendo (90), abbassando (97), asciugando (104), Scuotendo (106), Tirando (123), Ripetendo (126), Riprendendo (130, 140), continuando (132), girando (138), Indicando (140), infilandosi (144), Spegnendo (150) / 간접화법 Mia moglie ha detto che sembrava (34), Il guardiano le ha detto che l'aveva già presa (37), Remo dice che c'erano (56), La procura dice che ci sono (131), Mi hanno detto che non esiste (134), Mi ha chiesto se mi ricordavo (118) / 결합대명사 Te l'ho raccontato (25), Me l'ha raccontato (26), ce ne andiamo (35), prendendone (36), ve lo do… ve lo faccio fotografare (42), Ce l'ha (53), Te lo dico (97), rovinargliela (97), me l'ha promesso (116), gliene faccio una colpa (136), te lo dirò (150), me lo dirà (149) |

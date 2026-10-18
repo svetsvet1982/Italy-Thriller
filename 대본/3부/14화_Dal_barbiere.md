@@ -155,11 +155,11 @@
 122. Manuel: (Dopo un momento) Glieli porto oggi. (Esce)
 123. Gino: (Togliendo l'asciugamano caldo dal viso di Leo) Ecco fatto. (Spruzzandogli il dopobarba) Brucia un po'. È normale.
 124. Leo: (Stringendo i denti) Brucia molto.
-125. Gino: (Ridendo) Allora è buono. (Pausa) Venti euro la barba. Quindici la spuntatina. Ma a voi faccio un prezzo.
+125. Gino: (Ridendo) Allora è buono. (Pausa) Venti euro la barba. Quindici la spuntatina. Ma a voi farei un prezzo.
 126. Luca: (Prendendo il portafoglio) Paghiamo tutto. È la regola.
 127. Gino: (Guardandolo) La regola di chi?
 128. Luca: Del nostro giornale. Non accettiamo niente gratis da chi ci racconta qualcosa. Neanche un caffè. Neanche una barba.
-129. Gino: (Prendendo i soldi, colpito) Allora siete onesti. O stupidi. (Pausa) Speriamo onesti. Di stupidi, qui, ne abbiamo già abbastanza.
+129. Gino: (Prendendo i soldi, colpito) Allora siete onesti. O stupidi. (Pausa) Spero che siate onesti. Di stupidi, qui, ne abbiamo già abbastanza.
 130. Ambrogio: (Alzandosi, con il cappello) E di furbi anche.
 
 ---
@@ -178,7 +178,7 @@
 139. Leo: (Grattandosi il collo) Il comune ha un archivio storico. Il barbiere dice che c'è un'ex maestra che lo tiene. Il giovedì.
 140. Elena: Giovedì. (Pausa) E Luca... insider trading sui terreni non esiste come reato, in Italia. Se uno compra terreni sapendo prima un progetto pubblico, è immorale. Ma se le informazioni le ha avute da un pubblico ufficiale...
 141. Luca: È un'altra cosa. Corruzione. O abuso d'ufficio. O rivelazione di segreti.
-142. Elena: Allora la domanda è: chi lo sapeva a ottobre dell'anno scorso? Chi poteva saperlo?
+142. Elena: Allora la domanda è: chi lo sapeva a ottobre dell'anno scorso? Non credo che l'abbiano indovinato per caso.
 143. Luca: Falco. I Morandini. E la Regione, se il progetto era già nei cassetti.
 144. Elena: E Pessina, se è stato lui a dirlo. (Pausa) Bravo. Tornate.
 145. Leo: (Dopo che Luca ha chiuso, guardando la ciminiera del cotonificio sopra i tetti) Luca. Il barbiere ha detto una cosa che mi è rimasta in testa.
@@ -212,7 +212,7 @@
 | Accomodatevi. | 앉으세요(편히 계세요). | (21) |
 | Cosa vi faccio? | 어떻게 해 드릴까요? | (28) |
 | Ecco fatto. | 다 됐습니다. | (123) |
-| Le faccio un prezzo. | 값을 깎아 드리죠. | (125) |
+| Vi farei un prezzo. | 값을 좀 깎아 드리죠. | (125) |
 | Stai fermo. | 움직이지 마. | (28, 110) |
 
 ---
@@ -245,8 +245,8 @@
 | 대과거 | aveva già promesso… le aveva offerto (69), te l'avevo detto (115), Me l'avevi detto (116) |
 | 원과거 | Mio padre aprì… Io ci entrai (26), me ne parlò (48) |
 | 미래·전미래 | ti dirò… te lo dirà (6), Lo terremo presente (13), non la riconoscerete (81), quando partiranno i lavori (83), Scriverà? (118), Scriverò… ci sarà… sapranno (119), varrà (114, 147) |
-| 조건법 현재·과거 | — / non avrebbe dovuto pagare (67, 과거 속 미래), nessuno avrebbe firmato (95), avrebbe capito (96) |
-| 접속법 4시제 | (현재) Speriamo onesti → Speriamo (che siate) — / Se vuole che il suo nome ci sia (119), prima che lo sappia il paese (114), prima che la terra lo sappia (114, 147) / (과거) — / (반과거) prima che lo sapessero i traditi (12), Pensavo che fosse un vecchio sentimentale (105), cosa volesse dire (105), prima che la Drone Valley venisse annunciata (88) / (대과거) se il terreno… avesse cambiato (67), Se l'avessi spiegata (95), Se tu gliel'avessi spiegata (96) |
+| 조건법 현재·과거 | a voi farei un prezzo (125) / non avrebbe dovuto pagare (67, 과거 속 미래), nessuno avrebbe firmato (95), avrebbe capito (96) |
+| 접속법 4시제 | (현재) Spero che siate onesti (129), Se vuole che il suo nome ci sia (119), prima che lo sappia il paese (114), prima che la terra lo sappia (114, 147) / (과거) Non credo che l'abbiano indovinato (142) / (반과거) prima che lo sapessero i traditi (12), Pensavo che fosse un vecchio sentimentale (105), cosa volesse dire (105), prima che la Drone Valley venisse annunciata (88) / (대과거) se il terreno… avesse cambiato (67), Se l'avessi spiegata (95), Se tu gliel'avessi spiegata (96) |
 | 가정문 | 1형: Se vuole, te lo dirà (6), se uno ti offre il doppio, vuol dire (45), se il campo diventa…, tua sorella non vede niente (68), Se vuole…, ci sarà. Se non vuole, no (119), se il terreno diventa edificabile (131), Se uno compra…, è immorale (140) / 3형: Se l'avessi spiegata bene, nessuno avrebbe firmato (95), Mia sorella avrebbe capito. Se tu gliel'avessi spiegata (96) |
 | 명령법 | tu: non farti tagliare (14), stai fermo (28, 110), Siediti (78, 90), Vieni (60), Non firmare (69), Diglielo (121), Verifica (138) / voi: Fatevi fare (12), Accomodatevi (21), Mettete (120), Tornate (144) / Lei: Si sieda (56), Dica (120) |
 | 기타 | 수동태 è stata presentata (51), Nessuno è stato obbligato (93), venisse annunciata (88) / si 구문 Si vede (23), non si parla d'altro (40), Si sente importante (12), non si rimangia la parola (69) / 제룬디오 Guardando (1, 20, 21, 87, 145), Rispondendo (1), Guidando (9), Ridendo (12, 16, 25, 32, 75, 85, 125), Chiudendo (16, 71), Passando (26, 110), togliendo (32, 123), Pulendo (34), Aprendo (37, 150), Finendo… mettendogli (40), Togliendosi (43, 88), Pensandoci (48), Smettendo (52, 100), Riprendendo (54), Sedendosi (25, 57, 63, 79, 91), Mettendogli (58), Prendendo (60, 66, 126, 129), Entrando (61, 77), digitando (66), Vedendo (77), Fischiando (83), Abbassando (95), Cantando (112), Asciugando (114), Ricordando (106), Alzandosi (118, 130), Spruzzandogli (123), Stringendo (124), Grattandosi (139), toccandosi (150) / 간접화법 C'era scritto che se il terreno… avesse cambiato…, la società non avrebbe dovuto (67), mi ha detto: «…» (109) / 결합대명사 te lo dirà (6), me ne parlò (48), Te l'ho sempre detto… Non me l'hai mai detto… Te lo dico (54–56), gliel'ho detto (69), gliel'avessi spiegata (96), te l'avevo detto (115), Me l'avevi detto (116), Diglielo (121), Glieli porto (122), Ce lo dà (133) |

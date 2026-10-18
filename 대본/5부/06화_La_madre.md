@@ -107,11 +107,11 @@
 80. Adele: Al magazzino. (Pausa) Stefano faceva il farmacista. Leggeva le etichette dei farmaci tutto il giorno. (Pausa) Se c'era una cosa che non gli piaceva in un magazzino di «materiale sanitario»...
 81. Sara: (Piano) Erano le etichette.
 82. Adele: (Guardandola, sorpresa) Come?
-83. Luca: (Con delicatezza) Il signor Remo, nel duemilanove, ha detto a un collega che nel magazzino cambiavano le etichette. Bolle di Napoli. Bolle di Milano. Stessa merce.
+83. Luca: (Con delicatezza) Il signor Remo, nel duemilanove, ha detto a me e al mio maestro che nel magazzino cambiavano le etichette. Bolle di Napoli. Bolle di Milano. Stessa merce.
 84. Adele: (Immobile. La mano che si stringe sulla tazza) Remo lo sapeva?
-85. Luca: Lo sapeva. (Pausa) E l'ha detto. Una volta. A un giornalista che l'ha scritto in un taccuino. E non l'ha mai pubblicato. (Pausa) Perché non aveva abbastanza prove.
-86. Adele: (Dopo un lungo silenzio) Quel giornalista era lei?
-87. Luca: No. (Pausa) Era il mio maestro. Alberto Sironi. (Pausa) È morto nel duemilasedici. In un incidente. Che adesso stanno riaprendo.
+85. Luca: Lo sapeva. (Pausa) E l'ha detto. Una volta. Il mio maestro l'ha scritto in un taccuino nero. E non l'ha mai pubblicato. (Pausa) Perché non aveva abbastanza prove. E perché aveva promesso a Remo di non fare il suo nome.
+86. Adele: (Dopo un lungo silenzio) E lei? Perché non l'ha scritto lei?
+87. Luca: Perché io scrivevo di Paolo. (Pausa) Solo di Paolo. (Pausa) Il mio maestro si chiamava Alberto Sironi. (Pausa) È morto nel duemilasedici. In un incidente. Che adesso stanno riaprendo.
 88. Adele: (Piano) Anche lui.
 89. Luca: Anche lui.
 90. Adele: (Alzandosi, andando alla finestra, guardando il magazzino vuoto con gli occhi di chi lo vede per la prima volta in quindici anni) Allora per quindici anni... (Pausa) Per quindici anni ho guardato Bollate. (Pausa) E non ho guardato qui. Davanti alla mia finestra.
@@ -216,7 +216,7 @@
 | 범주 | 예문 (턴) |
 |---|---|
 | 근과거·반과거 | è diventato… si è trasferito (2), L'ho visto (11), Le ha fatte (17), L'ho fatta (17), Me l'ha detto (20), è morto… l'ha preso (21), Ho letto (23), l'ho comprato. L'ho letto… ho pensato (27), mi ha aiutata (29), Ne sono passati (45), me la sono comprata (47), ha detto (53), ho ucciso (58), L'ho ucciso… Ho fatto (58), ha più guardato… Hanno guardato (58), ha guardato (60), sono venuto (60), gli è venuto (72), mi ha detto (74, 76), l'ho mai detta (74), l'ho seppellito (78), ha detto (83), l'ha detto… l'ha scritto… l'ha mai pubblicato (85), ho guardato (90), ho detto (103), ho avuto paura (117), ha sentito (118), Te l'ho letta (121), è cambiato (127), è cresciuto (128–129), sono… invecchiato (129), Abbiamo passato… L'abbiamo trovata (132), ha firmato (142, 144, 146), ha fatto (148) / Lei era un ragazzo (11), venivano (17), Voleva (17, 60), scriveva (27), vedo (27), avevo (43), Era qui (37–38), stava zitto. Non guardava… diceva (68), era un pasticcione. Firmava… voleva (68), rispondeva? (69), era un vecchio scemo (70), dicevano (70), si alzava e andava. Si sedeva… stava (72), Pensavo (76), faceva. Leggeva (80), cambiavano (83), Lo sapeva (85), aveva (85), erano (96), non dormivo. Ero (109), stava morendo (109), si muoveva (111), sapevo (113), uccidevo (121), si fidava (144) |
-| 대과거 | l'aveva trovato (72), io non avevo sentito niente… Lei aveva sentito? (107–108), quello che avevo visto (119) |
+| 대과거 | l'aveva trovato (72), io non avevo sentito niente… Lei aveva sentito? (107–108), quello che avevo visto (119), aveva promesso a Remo (85) |
 | 원과거 | lesse (47), Le piantò (96), Lei mi chiese… Io le dissi… le dissi (105), lo pagò (107), Vidi (111), dissero (113), venne… Mi disse (115) |
 | 미래·전미래 | lo dirà (124), Andrò (148), farà? (147), vorrà (126) |
 | 조건법 현재·과거 | Sarebbe un peccato (115), sarebbe ancora vivo (76) / ne avrebbe parlato (76), non sarebbe stato condannato (117) |

@@ -5,7 +5,7 @@
 > 유형: 🔍 취재형 · 150턴
 > 등장인물:
 > - 엘레나(Elena), 루카(Luca), 토마소(Tommaso), 다비데(Davide), 알레시아(Alessia)
-> - 실비아 아르나볼디(Silvia Arnaboldi, 56, 중도좌파 후보), 렌초 베토니(Renzo Bettoni, 63, 아르나볼디 캠프의 '보건 정책 고문'), 오르넬라 비가노(Graziella Viganò, 60대, 전 병원 구매 담당 직원)
+> - 실비아 아르나볼디(Silvia Arnaboldi, 56, 중도좌파 후보), 렌초 베토니(Renzo Bettoni, 63, 아르나볼디 캠프의 '보건 정책 고문'), 그라치엘라 비가노(Graziella Viganò, 60대, 전 병원 구매 담당 직원)
 > 인용: 속담 "Il lupo perde il pelo ma non il vizio"
 
 ---
@@ -47,7 +47,7 @@
 ---
 
 ### 2장면 (31–70턴)
-*같은 날 오전 11시, 몬차. 공원 옆 오래된 카페. 오르넬라 비가노는 몬차 병원 구매과에서 30년 일하고 작년에 은퇴했다. 서류철을 품에 안고 있다.*
+*같은 날 오전 11시, 몬차. 공원 옆 오래된 카페. 그라치엘라 비가노는 몬차 병원 구매과에서 30년 일하고 작년에 은퇴했다. 서류철을 품에 안고 있다.*
 
 31. Graziella: (Stringendo la cartellina) Voi siete quelli del Riflettore. Quelli che hanno scritto di Dubai.
 32. Alessia: Sì. Io sono Alessia. Lui è Tommaso.

@@ -6,7 +6,7 @@
 > 시점: 2027년 6월 3일 목요일 ~ 6월 7일 월요일
 > 등장인물:
 > - 루카(Luca), 엘레나(Elena), 마테오(Matteo), 토마소(Tommaso), 레오(Leo), 사라(Sara), 리치 변호사(Ricci)
-> - 로세타 바사니(Rosetta Bassani, 제보자), 발테르 브람바티(Walter Brambati, 72, 은퇴한 관세사)
+> - 아우로라(Aurora, 바렌나 플래그십 판매원, 1화), 발테르 브람바티(Walter Brambati, 72, 은퇴한 관세사)
 > - 다니엘레 로타(Daniele Rota, 34, 화물 처리 회사 '티치노 에어 핸들링' 램프 직원), 그의 아내 질리올라(Gigliola)
 > - 파브리 검사(Fabbri), 이레네 발다치(Irene Baldacci, 관세청 말펜사 세관 반부패·위험분석과 공무원)
 > 인용: 속담 "Le bugie hanno le gambe corte"
@@ -34,10 +34,10 @@
 16. Ricci: (Con la voce del giurista) Attenzione. (Pausa) Duecentoquaranta persone. (Pausa) Una di loro, forse, ha guidato una macchina aziendale fino a Castel San Giovanni martedì notte. (Pausa) Le altre duecentotrentanove no. (Pausa) Se scriviamo «Ticino Air Handling» in un titolo, roviniamo duecentotrentanove persone per una.
 17. Elena: (Annuendo) Non scriviamo niente. (Pausa) Cerchiamo.
 18. Luca: (Dopo un momento) E Dubai? (Pausa) Tony ha detto che fra tre anni lui sarebbe stato a Dubai. (Pausa) Ma le scatole dove vanno adesso?
-19. Sara: (Prendendo il telefono) Lo chiedo a Rosetta. (Pausa) Varenna vende a Dubai. (Pausa) Ha una boutique al Dubai Mall. (Pausa) Me l'aveva detto lei, a febbraio. (Pausa) Le spedizioni partono ogni settimana.
+19. Sara: (Prendendo il telefono) Lo chiedo a Aurora. (Pausa) Varenna vende a Dubai. (Pausa) Ha una boutique al Dubai Mall. (Pausa) Me l'aveva detto lei, ad aprile. (Pausa) Le spedizioni partono ogni settimana.
 20. Tommaso: (Piano) Da Malpensa.
 21. Sara: (Annuendo) Da Malpensa.
-22. Elena: (Guardando la lavagna, poi il gruppo) Bene. (Pausa) Sara, Rosetta. (Pausa) Matteo, Ticino Air Handling. (Pausa) Ma solo fonti aperte. (Pausa) Luca...
+22. Elena: (Guardando la lavagna, poi il gruppo) Bene. (Pausa) Sara, Aurora. (Pausa) Matteo, Ticino Air Handling. (Pausa) Ma solo fonti aperte. (Pausa) Luca...
 23. Luca: (Alzando la mano) Lo so. (Pausa) Io sto in redazione.
 24. Elena: (Con un sorriso stanco) No. (Pausa) Tu vai a Cargo City. (Pausa) Con Tommaso. (Pausa) Al bar dei spedizionieri. (Pausa) Un bar è un luogo pubblico. (Pausa) E ho un nome.
 25. Luca: (Sorpreso) Un nome?
@@ -50,37 +50,37 @@
 ---
 
 ### 2장면 (31–60턴)
-*6월 4일 금요일 오후 1시. 몬테나폴레오네 뒤 골목의 작은 바. 로세타 바사니가 점심시간에 왔다. 커다란 선글라스. 가방에서 A4 서류 한 다발을 꺼낸다. 사라 혼자 마주 앉았다.*
+*6월 4일 금요일 오후 1시. 몬테나폴레오네 뒤 골목의 작은 바. 아우로라가 점심시간에 왔다. 커다란 선글라스. 가방에서 A4 서류 한 다발을 꺼낸다. 사라 혼자 마주 앉았다.*
 
-31. Rosetta: (Mettendo i fogli sul tavolino, sotto il menù) Questi non me li hai chiesti. (Pausa) E io non te li ho dati.
+31. Aurora: (Mettendo i fogli sul tavolino, sotto il menù) Questi non me li hai chiesti. (Pausa) E io non te li ho dati.
 32. Sara: (Senza toccarli) Cosa sono?
-33. Rosetta: (Piano) Le liste di imballaggio. (Pausa) Le «packing list». (Pausa) Delle spedizioni a Dubai. (Pausa) Gennaio, febbraio, marzo, aprile. (Pausa) Le vede anche l'ufficio vendite. (Pausa) Io ci lavoro accanto.
+33. Aurora: (Piano) Le liste di imballaggio. (Pausa) Le «packing list». (Pausa) Delle spedizioni a Dubai. (Pausa) Gennaio, febbraio, marzo, aprile. (Pausa) Il negozio ne riceve una copia. (Pausa) Per i trasferimenti di merce.
 34. Sara: (Guardando il primo foglio senza prenderlo) «Lario. (Pausa) Nero. (Pausa) Quaranta pezzi. (Pausa) Peso netto unitario: un chilo e duecento grammi.»
-35. Rosetta: (Annuendo) Un chilo e due.
+35. Aurora: (Annuendo) Un chilo e due.
 36. Sara: (Dopo un momento) E allora?
-37. Rosetta: (Tirando fuori dalla borsa un catalogo di Varenna, lucido, aprendolo a una pagina con un segno) Pagina quattordici. (Pausa) Lario. (Pausa) Nero. (Pausa) Peso: un chilo e centoquaranta.
+37. Aurora: (Tirando fuori dalla borsa un catalogo di Varenna, lucido, aprendolo a una pagina con un segno) Pagina quattordici. (Pausa) Lario. (Pausa) Nero. (Pausa) Peso: un chilo e centoquaranta.
 38. Sara: (Guardando il catalogo, poi la lista, piano) Sessanta grammi.
-39. Rosetta: (Annuendo) Sessanta grammi. (Pausa) Su ogni borsa. (Pausa) Su ogni spedizione a Dubai. (Pausa) Solo su quelle. (Pausa) Le spedizioni a Parigi, a Tokyo, a New York pesano un chilo e centoquaranta. (Pausa) Come il catalogo.
+39. Aurora: (Annuendo) Sessanta grammi. (Pausa) Su ogni borsa. (Pausa) Su ogni spedizione a Dubai. (Pausa) Solo su quelle. (Pausa) Le spedizioni a Parigi, a Tokyo, a New York pesano un chilo e centoquaranta. (Pausa) Come il catalogo.
 40. Sara: (Con la voce che si stringe) Le borse con il bollino verde. (Pausa) Al laboratorio Due Ponti. (Pausa) Pesavano sessanta grammi in più. (Pausa) Me l'aveva detto Lidia. (Pausa) Il primo giorno.
-41. Rosetta: (Guardandola a lungo) Le borse con il bollino verde vanno a Dubai.
-42. Sara: (Dopo un lungo silenzio) Rosetta. (Pausa) Perché lo fa? (Pausa) Adesso. (Pausa) Dopo martedì.
-43. Rosetta: (Togliendosi gli occhiali scuri, con gli occhi rossi) Perché martedì notte hanno chiuso un ragazzo in una gabbia. (Pausa) Per delle borse che io vendo. (Pausa) Con il mio sorriso. (Pausa) A duemila euro. (Pausa) Ho dormito due ore in tre notti.
+41. Aurora: (Guardandola a lungo) Le borse con il bollino verde vanno a Dubai.
+42. Sara: (Dopo un lungo silenzio) Aurora. (Pausa) Perché lo fa? (Pausa) Adesso. (Pausa) Dopo martedì.
+43. Aurora: (Togliendosi gli occhiali scuri, con gli occhi rossi) Perché martedì notte hanno chiuso un ragazzo in una gabbia. (Pausa) Per delle borse che io vendo. (Pausa) Con il mio sorriso. (Pausa) A duemila euro. (Pausa) Ho dormito due ore in tre notti.
 44. Sara: (Piano) Non è colpa sua.
-45. Rosetta: (Rimettendosi gli occhiali) Mia madre diceva: le bugie hanno le gambe corte. (Pausa) Io le ho raccontate per tre anni. (Pausa) A ogni cliente. (Pausa) «Fatta a mano in Italia, signora. Da artigiani.» (Pausa) Vediamo quanto sono corte.
+45. Aurora: (Rimettendosi gli occhiali) Mia madre diceva: le bugie hanno le gambe corte. (Pausa) Io le ho raccontate per tre anni. (Pausa) A ogni cliente. (Pausa) «Fatta a mano in Italia, signora. Da artigiani.» (Pausa) Vediamo quanto sono corte.
 46. Sara: (Sfiorando i fogli con un dito, senza prenderli) Chi è il destinatario a Dubai?
-47. Rosetta: (Girando l'ultimo foglio) Questo è strano. (Pausa) Le spedizioni normali vanno alla boutique. (Pausa) «Varenna Middle East», al Dubai Mall. (Pausa) Queste no. (Pausa) Vanno a un'altra ditta. (Pausa) Guarda.
+47. Aurora: (Girando l'ultimo foglio) Questo è strano. (Pausa) Le spedizioni normali vanno alla boutique. (Pausa) «Varenna Middle East», al Dubai Mall. (Pausa) Queste no. (Pausa) Vanno a un'altra ditta. (Pausa) Guarda.
 48. Sara: (Leggendo) «Consignee: (Pausa) Falcon Gulf Trading FZE. (Pausa) Jebel Ali Free Zone.»
-49. Rosetta: (Piano) Falcon.
+49. Aurora: (Piano) Falcon.
 50. Sara: (Alzando gli occhi, lentamente) Falco.
-51. Rosetta: (Senza capire) Cosa?
-52. Sara: (Dopo un momento) Niente. (Pausa) Un nome che abbiamo già visto. (Pausa) Su delle scatole. (Pausa) In una stanza chiusa a chiave. (Pausa) A febbraio.
-53. Rosetta: (Guardando la vetrina del bar, la gente che passa in via della Spiga con i sacchetti) Una zona franca. (Pausa) Lo so cosa vuol dire. (Pausa) Ho lavorato due anni da Emirates. (Pausa) In una zona franca la merce entra e esce. (Pausa) Senza dogana. (Pausa) Senza domande. (Pausa) Verso dove vuoi.
+51. Aurora: (Senza capire) Cosa?
+52. Sara: (Dopo un momento) Niente. (Pausa) Un nome che abbiamo già visto. (Pausa) Su delle scatole. (Pausa) In una stanza chiusa a chiave. (Pausa) Ad aprile.
+53. Aurora: (Guardando la vetrina del bar, la gente che passa in via della Spiga con i sacchetti) Una zona franca. (Pausa) Lo so cosa vuol dire. (Pausa) Ho lavorato due anni da Emirates. (Pausa) In una zona franca la merce entra e esce. (Pausa) Senza dogana. (Pausa) Senza domande. (Pausa) Verso dove vuoi.
 54. Sara: (Piano) Verso dove vuoi.
-55. Rosetta: (Alzandosi, lasciando venti euro sul tavolo) Non li fotografare qui. (Pausa) Portali via. (Pausa) Sono copie. (Pausa) Se qualcuno mi chiede, dirò che le ho lasciate sulla stampante.
-56. Sara: (Alzandosi anche lei) Rosetta. (Pausa) Se la scoprissero...
-57. Rosetta: (Con un mezzo sorriso) Mi licenzierebbero. (Pausa) Lo so. (Pausa) Ho cinquantaquattro anni. (Pausa) Ho venduto borse a sceicchi e a calciatori. (Pausa) Troverò un'altra vetrina. (Pausa) Ma non avrei trovato un'altra notte per dormire. (Pausa) Se avessi taciuto anche stavolta, non mi sarei più guardata allo specchio.
+55. Aurora: (Alzandosi, lasciando venti euro sul tavolo) Non li fotografare qui. (Pausa) Portali via. (Pausa) Sono copie. (Pausa) Se qualcuno mi chiede, dirò che le ho lasciate sulla stampante.
+56. Sara: (Alzandosi anche lei) Aurora. (Pausa) Se la scoprissero...
+57. Aurora: (Con un mezzo sorriso) Mi licenzierebbero. (Pausa) Lo so. (Pausa) Ho trentasei anni. (Pausa) Ho venduto borse a sceicchi e a calciatori. (Pausa) Troverò un'altra vetrina. (Pausa) Ma non avrei trovato un'altra notte per dormire. (Pausa) Se avessi taciuto anche stavolta, non mi sarei più guardata allo specchio.
 58. Sara: (Mettendo i fogli nella sua borsa, piano) Grazie.
-59. Rosetta: (Già sulla porta, voltandosi) Sara. (Pausa) Quel ragazzo. (Pausa) Luca. (Pausa) Sta bene?
+59. Aurora: (Già sulla porta, voltandosi) Sara. (Pausa) Quel ragazzo. (Pausa) Luca. (Pausa) Sta bene?
 60. Sara: (Dopo un momento, con un sorriso) Ha un orologio nuovo. (Pausa) Blu. (Pausa) Sta bene.
 
 ---
@@ -202,10 +202,10 @@
 | ① 원문 | *Le bugie hanno le gambe corte.* |
 | ② 출처 | 이탈리아 전역의 속담. 『피노키오』(1883)에서 요정이 "**거짓말에는 두 종류가 있다. 다리가 짧은 거짓말과 코가 긴 거짓말**"이라고 말하면서 더 유명해졌다(17장). |
 | ③ 번역 | 거짓말은 다리가 짧다. (거짓말은 멀리 못 간다 / 곧 들통난다.) |
-| ④ 배경 | 아이에게 가장 먼저 가르치는 속담 가운데 하나다. 할머니·어머니의 말투로 인용되는 일이 많다. 이 화에서는 다섯 사람이 쓴다. **로세타**(어머니의 말, "3년 동안 손님마다 '이탈리아 장인 수제'라고 거짓말했다, 얼마나 짧은지 보자")(45턴). **브람바티**("**하지만 공항에서는 짧은 다리도 멀리 간다. 비행기에만 타면**" / 1979년 스위스 시계 밀수 조장이 아내의 모피 코트로 잡힌 일 "**거짓말은 다리가 짧다. 모피는 아니다**")(75·84턴). **바리스타**("**그라파가 그걸 더 짧게 만든다**")(95턴). **질리올라**(할머니의 말)(112턴). 끝에 리치가 뒤집는다. "**하지만 이건 18년을 걸었다**"(148턴) — 2009년 라이나테의 야간 조장 타노(5부)가 2025년 제벨알리 자유무역지대 법인의 대표다. 사라: "**짧은 다리로 목요일까지는 간다**"(150턴). |
+| ④ 배경 | 아이에게 가장 먼저 가르치는 속담 가운데 하나다. 할머니·어머니의 말투로 인용되는 일이 많다. 이 화에서는 다섯 사람이 쓴다. **아우로라**(어머니의 말, "3년 동안 손님마다 '이탈리아 장인 수제'라고 거짓말했다, 얼마나 짧은지 보자")(45턴). **브람바티**("**하지만 공항에서는 짧은 다리도 멀리 간다. 비행기에만 타면**" / 1979년 스위스 시계 밀수 조장이 아내의 모피 코트로 잡힌 일 "**거짓말은 다리가 짧다. 모피는 아니다**")(75·84턴). **바리스타**("**그라파가 그걸 더 짧게 만든다**")(95턴). **질리올라**(할머니의 말)(112턴). 끝에 리치가 뒤집는다. "**하지만 이건 18년을 걸었다**"(148턴) — 2009년 라이나테의 야간 조장 타노(5부)가 2025년 제벨알리 자유무역지대 법인의 대표다. 사라: "**짧은 다리로 목요일까지는 간다**"(150턴). |
 | ⑤ 이 화에서의 맥락 | **45턴** / **75·84턴** / **95턴** / **112턴** / **147–150턴**. |
 | | **6/3 편집국**: 레오 "**말펜사 주변은 비행 금지 구역이다. 몇 킬로미터. 시도도 안 한다. 화요일 밤 이후로 어딘가에 적어 두고 싶다 — 나는 날 수 있는 곳에서만 난다**" → 엘레나가 칠판에 빨간 글씨로 "말펜사: 드론 없음"(2–6턴). 루카의 새 파란 시계(사라의 선물)(7턴). **파브리가 전한 세 가지: ① 토니는 침묵, 변호인은 아르나우디(코르소 베네치아) — 바렌나 이사회와 동시에 ② 1번 밴의 박스 12개는 봉인되어 파르마 RIS(과학수사대)로, 2주 전엔 열지 않는다 ③ 판사가 긴급 체포를 승인, 토니·이보 구금 유지. 흰색 스코다는 번호판 없이 못 찾음 — 기사는 젊고 옆머리를 밀었다**(7–11턴). 마테오: 노란 통행증은 화물 구역 종사자용, 회사 약 60곳, 흰색 차량은 3곳, 스코다는 **티치노 에어 핸들링**(240명)(12–14턴). **리치: "240명 중 한 명일지 모른다. 제목에 쓰면 239명을 망친다" → "아무것도 쓰지 않는다. 찾는다"**(16–17턴). 바렌나는 두바이몰 부티크가 있고 매주 출하(19턴). 엘레나: **브람바티(은퇴 관세사, 말펜사 40년, 엘레나 아버지가 20년 세금 신고를 해 준 사람)**(26턴). "**규칙 1: 연금 생활자와 커피 한 잔, 저녁 전 복귀**" / 사라 "**18:30 알람을 맞췄다**"(28–30턴). |
-| | **6/4 13:00 로세타**: "**네가 요구하지 않았고 나도 준 적 없다**" — 두바이 출하 **포장 명세서**(1~4월)(31–33턴). **명세서 '라리오 검정 40개, 개당 순중량 1,200g' vs 카탈로그 14쪽 1,140g → 60g. 두바이 출하분만, 파리·도쿄·뉴욕은 카탈로그대로**(34–39턴). 사라: "**두에 폰티의 녹색 스티커 가방, 리디아가 첫날 말했다**"(40턴, 6부 2화) → "**녹색 스티커 가방은 두바이로 간다**"(41턴). "**화요일 밤 내가 파는 가방 때문에 청년이 철망에 갇혔다. 사흘 동안 두 시간 잤다**"(43턴). **수하인: 보통은 'Varenna Middle East'(두바이몰), 이것들은 'Falcon Gulf Trading FZE, 제벨알리 자유무역지대' → "Falcon" / "Falco"**(47–52턴, 2월 잠긴 방의 Falco 모터). 로세타(에미레이트 2년 근무): "**자유무역지대는 세관도 질문도 없이 원하는 곳으로**"(53턴). "**여기서 찍지 말고 가져가라, 사본이다, 프린터에 두고 왔다고 하겠다**" / "**들키면?**" / "**해고되겠지. 54살, 셰이크와 축구선수에게 가방을 팔았다, 다른 진열장은 찾겠지만 잘 다른 밤은 못 찾았을 거다**"(55–57턴). "**그 청년, 괜찮아?**" / "**파란 새 시계, 괜찮다**"(59–60턴). |
+| | **6/4 13:00 아우로라**: "**네가 요구하지 않았고 나도 준 적 없다**" — 두바이 출하 **포장 명세서**(1~4월)(31–33턴). **명세서 '라리오 검정 40개, 개당 순중량 1,200g' vs 카탈로그 14쪽 1,140g → 60g. 두바이 출하분만, 파리·도쿄·뉴욕은 카탈로그대로**(34–39턴). 사라: "**두에 폰티의 녹색 스티커 가방, 리디아가 첫날 말했다**"(40턴, 6부 2화) → "**녹색 스티커 가방은 두바이로 간다**"(41턴). "**화요일 밤 내가 파는 가방 때문에 청년이 철망에 갇혔다. 사흘 동안 두 시간 잤다**"(43턴). **수하인: 보통은 'Varenna Middle East'(두바이몰), 이것들은 'Falcon Gulf Trading FZE, 제벨알리 자유무역지대' → "Falcon" / "Falco"**(47–52턴, 4월 잠긴 방의 Falco 모터). 아우로라(에미레이트 2년 근무): "**자유무역지대는 세관도 질문도 없이 원하는 곳으로**"(53턴). "**여기서 찍지 말고 가져가라, 사본이다, 프린터에 두고 왔다고 하겠다**" / "**들키면?**" / "**해고되겠지. 36살, 셰이크와 축구선수에게 가방을 팔았다, 다른 진열장은 찾겠지만 잘 다른 밤은 못 찾았을 거다**"(55–57턴). "**그 청년, 괜찮아?**" / "**파란 새 시계, 괜찮다**"(59–60턴). |
 | | **6/4 16:00 카고 시티 '바 델레 메르치'**: 브람바티(72, 지팡이, 1977년 시작 — 텔렉스, 다섯 부, 먹지)(61–65턴). **"철망 사건의 그 사람이군. 화물 바는 텔렉스보다 빠르다"**(61–63턴). **수출 절차의 큰 틀: 업체가 포장 → 운송주선인이 항공화물운송장(AWB, 송하인·수하인·개수·중량·내용) → 관세사가 수출 신고 → 핸들링 창고에서 계량·검사·항공 팔레트 → 출발**(67–69턴). **"세관은 신고 중량과 실제 중량을 비교한다. 하지만 바렌나 카탈로그는 없다. 가방 하나 무게는 모르고 상자 무게만 안다"**(73턴). "**무슨 말인지 모르고 알고 싶지도 않다**" + 속담(75턴). **스코다는 티치노 에어 핸들링 조장들 차, 걸프행 화물기(두바이·도하·아부다비) 목·일요일, 목요일 두바이행 22:40**(77–79턴). "**박스는 화요일 밤 나왔고 첫 비행은 일요일**"(81턴). **1979년 모피 코트 일화**(82–84턴). "**나라면 누가 모피를 샀는지 보겠다 — 새 차, 새 부엌, 옆머리 민 젊은 조장**" / "**머리는 어떻게 아나?**" / "**화요일 아침 티치노 조장 하나가 5년 만에 처음 결근, 수요일에 장례식 얼굴로 돌아왔다**"(86–88턴). "**이름은 모르고, 알아도 말 안 한다. 바리스타는 안다**"(90턴) → **바리스타: "로타. 다니엘레 로타, 갈라라테. 늘 계피 카푸치노, 수요일부터 아침 7시에 '카페 코레토'(그라파 탄 커피)"**(91–95턴). |
 | | **6/5 갈라라테 연립주택**: 차고 앞 새 흰색 SUV. 임신한 질리올라. "**그 철망의 기자**"(98턴). 다니엘레 "**모른다, 가라**"(101턴). **리치: "경찰이 아니다, 강제할 수 없다, 한 가지만 말하고 간다 — 화요일 밤 티치노의 흰 스코다가 노란 통행증으로 농로를 통해 들어가 박스를 싣고 나왔다. 단지 문에 카메라가 있고 루멘이 출입을 기록한다. 피아첸차 검찰이 어제 그 기록을 요청했다"**(102–104턴). **"친구에게 차를 빌려줬다"** → "**통행증도?**" / "**차에 있었다**"(105–109턴). **질리올라: "화요일 밤 특근이라더니 2시에 하얗게 질려 왔다. 수요일 결근. 새 차는 3월에 현금으로, 생산 보너스라더니. 할머니가 거짓말은 다리가 짧다 했다. 두 달 뒤 딸이 태어난다. 감옥에 있는 아빠를 두고 태어나지 않길 바란다. 말해"**(110–112턴). **다니엘레 자백: 작년 10월부터 매주 수요일 밤 한 번에 500유로, 박스 3~4개 — 처음엔 프라토 창고, 그다음 CSG — 말펜사 티치노 창고로. 목요일 출하 전 바렌나 두바이행 화물에 넣었다, 녹색 스티커 가방에, 하나 건너 하나. "가죽 샘플"이라고 들었다. 섭외한 사람은 토니, 화물 바에서, 돈이 필요한 걸 알고 — 아기와 대출 때문에**(113–117턴). **화요일 밤 박스는 티치노 창고 고가품 철망에 직접 넣었다. 수요일엔 무서워서 안 갔다. 다른 누군가가 일요일에 넣었거나 목요일에 넣을 것**(119턴). **리치(변호사로서): "월요일 아침 자기 변호사와 파브리 검사에게 가라. 검찰이 오기 전에. 스스로 출석하면 다르게 대우받는다"**(120턴). 질리올라: "**체포되면 기다린다. 도망가면 안 기다린다**"(122턴). 루카: "**검찰이 쓰기 전엔 이름을 안 쓰겠다**" / "**내가 나른 박스 때문에 철망에 갇혔는데, 왜?**"(124–125턴). |
 | | **6/7 18:00 화상회의**: 로타가 4시간 진술, 티치노 동료 둘의 이름. **화요일 박스는 아직 말펜사에, 일요일 비행기가 만석이라 6월 10일 목요일 22:40**(126턴). **관세청 이레네 발다치(위험분석과): "목요일 바렌나 두바이 화물은 통상 검사 대상으로 선정된다. 재무경찰·카라비니에리와 함께 우리가 연다. 여러분은 현장에 없고 주차장에도 없다"**(128–131턴). 파브리: "**찾으면 누구보다 먼저 — 보도자료 뒤에. 앞은 아니다**"(134턴). **마테오(공개 등록부): Falcon Gulf Trading FZE, 2025년 등록, 대표 한 명 — 가에타노 스코르도**(136–138턴). **루카: "타노, 2009년 라이나테 야간 조장, 네리가 죽었다고 한 그 사람"**(140턴, 5부). **파브리: "2주 뒤 뮌헨에서 이탈리아로 인도, 롬바르디 사건으로 브레시아에"**(142턴). 사라: "**우리 아버지 사건 — 아니, 파올로 아버지 사건**" / "**둘 다의 사건**"(143–144턴). 칠판 '두바이' 아래 "Falcon Gulf → Tano". 18:30 알람(147–150턴, → 19·20화). |

@@ -38,7 +38,7 @@
 23. Matteo: Il cane di Tommaso ha le pulci e lo deve comprare tu?
 24. Leo: Tommaso oggi non c'è. È sabato... no, è martedì. (Pausa) Comunque non c'è. Ha detto «una cosa personale».
 25. Elena: (Guardando la sedia vuota di Tommaso) Una cosa personale.
-26. Davide: (Piano) Il secondo sabato del mese è fra quattro giorni.
+26. Davide: (Piano) Il secondo sabato del mese è fra undici giorni.
 27. Elena: (Fermandolo con lo sguardo) Davide.
 28. Davide: Scusa.
 29. Matteo: (Infilando la lettera nello zaino, con cura, come una cosa preziosa) Allora vado. (Pausa) Grazie, Elena. Davvero.

@@ -60,19 +60,19 @@
 39. Matteo: (Con la voce bassa) Ascoltava. Tutto.
 40. Ilenia: Tutto quello che succedeva nel raggio di cinque metri. (Pausa) E lo mandava fuori. Con la SIM. In diretta, o a pacchetti ogni ora.
 41. Elena: Da quando?
-42. Ilenia: (Leggendo con una lente un piccolo chip) La scheda ha un registro di accensione. Prima accensione: tre ottobre. (Pausa) Ore quattordici e dieci.
-43. Matteo: (Piano) Il tre ottobre io ero a casa di Leo. Dopo la notte del caricabatterie. Elena mi aveva detto di non venire.
+42. Ilenia: (Leggendo con una lente un piccolo chip) La scheda ha un registro di accensione. Prima accensione: cinque novembre. (Pausa) Ore quattordici e dieci.
+43. Matteo: (Piano) Il cinque novembre io ero a casa di Leo. Dopo la notte del caricabatterie. Elena mi aveva detto di non venire.
 44. Elena: (Annuendo) Ti avevo detto di non venire.
 45. Ricci: Quindi qualcuno ha cambiato la ciabatta mentre la scrivania di Galli era vuota. (Pausa) In pieno giorno. In una redazione con sei persone.
-46. Elena: (Cercando di ricordare) Il tre ottobre. (Pausa) Mercoledì. Io ero da Fabbri, con Ricci. Luca era a Torino da Ilenia. Tommaso... non so. Leo con Matteo. (Pausa) Davide e Sara erano qui.
-47. Davide: (Che è appena entrato, sentendo) Io ero qui. Fino all'una. Poi sono andato in banca. Per il mutuo.
-48. Sara: (Dietro di lui) Io ero alle prove. A teatro. Avevo chiesto il pomeriggio.
-49. Elena: (Lentamente) Quindi dalle due alle sei del tre ottobre... chi c'era in redazione?
+46. Elena: (Cercando di ricordare) Il cinque novembre. (Pausa) Giovedì. Il giorno dopo la colazione a casa mia. Io ero da Fabbri. Ricci, Sara e Davide al bar del palazzo, per il conto lituano. Luca con suo padre, all'ospedale, per la pressione. Tommaso... non so. Leo con Matteo. (Pausa) Poi Davide e Sara sono tornati qui.
+47. Davide: (Che è appena entrato, sentendo) Io sono tornato alle due meno un quarto. Mezz'ora. Poi sono andato in banca. Per il mutuo.
+48. Sara: (Dietro di lui) Io sono passata a prendere il copione e sono andata alle prove. A teatro. Avevo chiesto il pomeriggio.
+49. Elena: (Lentamente) Quindi dalle due alle sei del cinque novembre... chi c'era in redazione?
 50. Davide: (Dopo un momento) Giorgio.
 51. Elena: (Immobile)
 52. Davide: Giorgio. Mi ha detto: «Vai pure, Davide. Resto io. Devo finire il pezzo su Sesto.» (Pausa) Gli ho lasciato le chiavi.
 53. Matteo: (Sedendosi lentamente sulla sedia di Leo) Mentre tutti pensavano che fossi io. Mentre dormivo da Leo. Lui era qui. Sotto la mia scrivania.
-54. Ricci: (Con calma) Galli. Questo non lo sappiamo. (Pausa) Sappiamo che il tre ottobre Fantoni era in redazione. E che il tre ottobre la ciabatta si è accesa. (Pausa) Due fatti. Non una frase.
+54. Ricci: (Con calma) Galli. Questo non lo sappiamo. (Pausa) Sappiamo che il cinque novembre Fantoni era in redazione. E che il cinque novembre la ciabatta si è accesa. (Pausa) Due fatti. Non una frase.
 55. Matteo: (Alzando gli occhi) Avvocato, io ho imparato. Due fatti non sono una frase. (Pausa) Ma due fatti, un caricabatterie e un conto a Camogli, sarebbero quasi una frase.
 56. Ricci: (Con un mezzo sorriso) Quasi.
 57. Ilenia: (Continuando a esaminare il chip, a bassa voce) C'è un'altra cosa. (Pausa) Questo chip... è lo stesso modello del cavo di marzo. E del caricabatterie di maggio. Stesso produttore. Stessa serie. (Pausa) Chi ha costruito questi tre oggetti ha comprato i pezzi tutti insieme.
@@ -107,11 +107,11 @@
 80. Leo: (Che era entrato in silenzio) Anche metà dei ragazzi di Milano.
 81. Fabbri: (Al telefono, senza commentare) E ha firmato il modulo. «M. Galli.»
 82. Tommaso: (Entrando in quel momento, togliendosi il cappello, sentendo l'ultima frase) Il trenta settembre?
-83. Matteo: (Girandosi verso di lui) Il trenta settembre ero... (Pausa, cercando nella memoria) Era martedì. (Pausa) Ero... in redazione. No. Ero dal dentista. No. (Pausa) Non mi ricordo.
+83. Matteo: (Girandosi verso di lui) Il trenta settembre ero... (Pausa, cercando nella memoria) Era martedì. (Pausa) Ero ancora dentro la campagna. In sede? Al volantinaggio? (Pausa) Non mi ricordo.
 84. Tommaso: (Guardandolo a lungo, senza espressione) Non ti ricordi.
 85. Matteo: (Disperato) Era tre settimane fa, Tommaso! Tu ti ricordi cosa facevi tre settimane fa alle... a che ora?
 86. Fabbri: (Al telefono) Alle diciassette e venti.
-87. Tommaso: (Dopo un momento) Alle diciassette e venti del trenta settembre io ero a Sondrio. No, era martedì. Ero in redazione. A sviluppare le foto del furgone. (Pausa) Me lo ricordo perché è il mio lavoro ricordarmelo.
+87. Tommaso: (Dopo un momento) Alle diciassette e venti del trenta settembre io ero in macchina. Davanti alla sede di Morandini, in Porta Venezia. Ci andavo due volte alla settimana, durante la tua infiltrazione. Senza dirlo a nessuno. (Pausa) Me lo ricordo perché è il mio lavoro ricordarmelo. (Pausa) Non mi ricordo se quel giorno sei uscito.
 88. Matteo: (Abbassando gli occhi) Io non sono come te.
 89. Elena: (Con fermezza) Basta. (Pausa) Tommaso. Ti chiedo di non fare il poliziotto con Matteo.
 90. Tommaso: (Rigido) Non faccio il poliziotto. Faccio una domanda.
@@ -223,4 +223,4 @@
 | 접속법 4시제 | (현재) Prima che arrivi chiunque (28) / (과거) Io non penso che lei abbia messo (98), i segni che Leo ci sia stato (6) / (반과거) pensavano che fossi io (53), Prima che arrivasse il cavo (59) / (대과거) Se me l'aveste fatta (92) |
 | 가정문 | 1형: E se dopo… diventa indagato? — Se dopo diventa indagato, glielo dico (97–98), Se Fantoni è il destinatario…, perché la ciabatta? (143), E se non riesco a ricordare? — Allora lo ricostruiamo (149–150) / 3형: Se me l'aveste fatta con questa voce, me ne sarei andato (92) |
 | 명령법 | tu: Abituati (66), Segnatelo (94), Vai pure (52) / Lei: Ascolti (98) |
-| 기타 | 수동태 si cancellano (78), Attivata (71), Alimentato (38) / si 구문 non si vede (120), si sbagliavano (111) / 제룬디오 Leggendo (1, 4, 11, 19, 21, 42, 73), fermandosi (11), Sporgendosi (12), Aspettando (13), Guardando (14, 17, 26, 30, 64, 70, 84, 103, 113, 114, 124, 149), Appoggiandosi (22, 123), Girandosi (24, 83, 127), Prendendo (28, 104), digitando (28), rigirando (36), Svitando (37), Cercando (46, 74, 83), sentendo (47, 82), Sedendosi (53, 129), Alzando (55, 114), Continuando (57), Infilando… scrivendo (60), Firmando (61, 62), Esitando… firmando (63), Togliendosi (64, 82), Componendo (68), Tirando (74), Ricordando (76), Entrando (82), Abbassando (88, 92), Ridendo (105, 111), Posando (106), Avvicinandosi (111), Sorridendo (115), Allontanandosi (117), Tornando (123), bevendo (125), Annuendo (8, 44, 129), Recitando (110), Passando (133), Chiudendo (140) / 간접화법 Il commesso dice: «…» (78), Dice di chiamarla (67), Ilaria mi ha detto: «…» (76), la radio ha detto Valle Olona (125) / 결합대명사 Me la mandano (13), Gli ho lasciato (52), glielo dico (98), poterlo scrivere (98), Me lo ricordo… ricordarmelo (87), Ne sai qualcosa? (121), Ne firmerai (66), se lo ricorda (148) |
+| 기타 | 수동태 si cancellano (78), Attivata (71), Alimentato (38) / si 구문 non si vede (120), si sbagliavano (111) / 제룬디오 Leggendo (1, 4, 11, 19, 21, 42, 73), fermandosi (11), Sporgendosi (12), Aspettando (13), Guardando (14, 17, 26, 30, 64, 70, 84, 103, 113, 114, 124, 149), Appoggiandosi (22, 123), Girandosi (24, 83, 127), Prendendo (28, 104), digitando (28), rigirando (36), Svitando (37), Cercando (46, 74, 83), sentendo (47, 82), Sedendosi (53, 129), Alzando (55, 114), Continuando (57), Infilando… scrivendo (60), Firmando (61, 62), Esitando… firmando (63), Togliendosi (64, 82), Componendo (68), Tirando (74), Ricordando (76), Entrando (82), Abbassando (88, 92), Ridendo (105, 111), Posando (106), Avvicinandosi (111), Sorridendo (115), Allontanandosi (117), Tornando (123), bevendo (125), Annuendo (8, 44, 129), Recitando (110), Passando (133), Chiudendo (140) / 간접화법 Il commesso dice: «…» (78), Dice di chiamarla (67), Ilaria mi ha detto: «…» (76), la radio ha detto Valle Olona (125) / 결합대명사 Me la mandano (13), Gli ho lasciato (52), glielo dico (98), poterlo scrivere (98), Me lo ricordo… ricordarmelo (87), Ci andavo (87), Ne sai qualcosa? (121), Ne firmerai (66), se lo ricorda (148) |

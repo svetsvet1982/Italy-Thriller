@@ -6,7 +6,7 @@
 > 시점: 2009년 11월 15일 일요일
 > 등장인물:
 > - 루카 모레티(Luca, 21, 「일 조르노」 신참), 알베르토 시로니(Alberto Sironi, 47, 같은 신문 사회부 선임)
-> - 오레스테 란프랑키 원사(Maresciallo Oreste Lanfranchi, 58, 발도르사 카라비니에리 분소장), 세르조 네리 경위(Sergio Neri, 38, 밀라노에서 파견된 사법경찰), 피누차 그로시(Pinuccia Grossi, 70대, 이웃), 파올로 만테가차(Paolo, 27, 멀리서)
+> - 오레스테 란프랑키 원사(Maresciallo Oreste Lanfranchi, 58, 발도르사 카라비니에리 분소장), 세르조 네리 경위(Sergio Neri, 38, 밀라노에서 파견된 사법경찰), 피누차 그로시(Pinuccia Grossi, 82, 이웃), 파올로 만테가차(Paolo, 27, 멀리서)
 > 인용: 속담 "La gatta frettolosa fa i gattini ciechi"
 
 ---

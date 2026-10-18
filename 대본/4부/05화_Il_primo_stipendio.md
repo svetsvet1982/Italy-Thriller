@@ -24,7 +24,7 @@
 9. Elena: (Con un tono più serio) Te lo sei guadagnato. Cinque settimane dentro una campagna. Un fascicolo con il tuo nome. Tua nonna fotografata. (Pausa) E non hai mai detto una bugia.
 10. Matteo: (Abbassando gli occhi) Ho taciuto una verità.
 11. Elena: Che è un'altra cosa. Lo hai scritto tu. (Pausa) Oggi pomeriggio sei libero. Vai a fare la spesa. Paga l'affitto. Manda qualcosa a casa. (Pausa) È il primo stipendio. Si festeggia.
-12. Giorgio: (Dal suo angolo, alzando la tazza) Il primo stipendio non si dimentica mai. (Pausa) Il mio fu di trecentomila lire, nel settantanove. Al Giorno. Li spesi tutti in una sera. Una cena per dieci amici e un giradischi.
+12. Giorgio: (Dal suo angolo, alzando la tazza) Il primo stipendio non si dimentica mai. (Pausa) Il mio fu di cinquecentomila lire, nell'ottantatré. Al Giorno. Li spesi tutti in una sera. Una cena per dieci amici e un giradischi.
 13. Matteo: Un giradischi?
 14. Giorgio: Un giradischi. Ce l'ho ancora. Funziona. (Pausa) Le cose che compri con il primo stipendio durano tutta la vita. Scegli bene.
 15. Luca: (Arrivando, con il suo telefono a tasti) Io col mio comprai un dizionario Devoto-Oli e una giacca. La giacca è quella che mi ha sistemato mio padre.
@@ -162,7 +162,7 @@
 129. Matteo: (Dopo qualche minuto, staccando il telefono al venti per cento, mettendo caricabatterie e telefono nello zaino) Giorgio. Grazie. (Pausa) Posso chiederti un'ultima cosa?
 130. Giorgio: Chiedi.
 131. Matteo: Il giradischi del tuo primo stipendio. Cosa ci ascoltavi?
-132. Giorgio: (Dopo un lungo silenzio, guardando fuori dalla finestra le luci di Isola) De André. (Pausa) «Storia di un impiegato.» L'avevano appena fatto uscire. Un disco su un impiegato che diventa bombarolo e poi capisce di aver sbagliato tutto. (Pausa) Lo ascoltavo ogni sera. Pensavo che parlasse di qualcun altro.
+132. Giorgio: (Dopo un lungo silenzio, guardando fuori dalla finestra le luci di Isola) De André. (Pausa) «Storia di un impiegato.» Aveva già dieci anni, ma io l'avevo scoperto solo allora. Un disco su un impiegato che diventa bombarolo e poi capisce di aver sbagliato tutto. (Pausa) Lo ascoltavo ogni sera. Pensavo che parlasse di qualcun altro.
 133. Matteo: E parlava di te?
 134. Giorgio: (Voltandosi verso di lui, con un sorriso strano, stanco) Ragazzo. Alla mia età, tutti i dischi parlano di te. (Pausa) Vai. Buona serata.
 135. Matteo: (Sulla porta) Buona serata, Giorgio.
@@ -241,7 +241,7 @@
 | 범주 | 예문 (턴) |
 |---|---|
 | 근과거·반과거 | Te lo sei guadagnato (9), non hai mai detto (9), Ho taciuto (10), Lo hai scritto (11), mi ha sistemato (15), Non l'ho mai indossato (16), Ha detto (24), Ti ha insegnato (30), Ho premuto (45), ha scritto (46), Ho guardato… non l'ho ancora aperto. L'ho mandato (58), ne ho già tre (66), l'ho dato… mi ha restituito (70), È arrivato (72), Ho appena fatto… Ho comprato (80), Ti ho fatto (82), È già partito (84), Me l'hai detto (84), Te l'ho detto (85), Ti hanno pagato? (90–91), mi ha fotografato (92), Non è più tornato (93), ti sei comprato (96), mi ha detto (99), Mi ha insegnato… mi ha regalato… ho prestato (101), hai comprato (106), ho portato (107), hai mai avuto (111), l'ho lasciato (119), Me l'hanno regalato. Non l'ho mai aperto (120), Me ne hai già regalato (121), ha aperto (139), hai distrutto (141), Non l'hai detto. L'ha sentito (143), non sono stato (144–145), me ne ha regalato… L'ho attaccato (148) / prendevo (6), diceva (77), sognavo… chiedesse… non l'avevo (112), commerciava (122), ascoltavi… ascoltavo… Pensavo (131–132), Prima era in carica (138), era infetto (141), sapeva (143) |
-| 대과거 | Mi ero fatta la piega (94), Era venuta a portarmi (87), quello che mi avevi regalato (119), L'avevano appena fatto uscire (132) |
+| 대과거 | Mi ero fatta la piega (94), Era venuta a portarmi (87), quello che mi avevi regalato (119), l'avevo scoperto (132) |
 | 원과거 | Il mio fu… Li spesi (12), comprai (15), Lo spettacolo saltò (16), pagai (17), comprai… Pesava… La portai (19), feci… Mi finsi (112), ti scoprirono? (113), uscì… mi mandò… la bevvi (114) |
 | 미래·전미래 | Ilenia controllerà (60), Arriverà domani (82), Fra venti minuti sarò (149) |
 | 조건법 현재·과거 | non dovrei (121) / sarebbe stato fiero (77), mi sarei lamentata (85) |

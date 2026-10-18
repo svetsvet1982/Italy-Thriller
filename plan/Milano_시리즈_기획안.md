@@ -600,3 +600,33 @@
 - **사찰·스파이웨어**: [Milano Finanza — Equalize](https://www.milanofinanza.it/news/equalize-chiesto-il-processo-per-74-imputati-oltre-800-presunte-vittime-dei-dossieraggi-202607211714311952), [TechCrunch — Paragon](https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/)
 - **노동**: [L'Espresso — 명품 하청](https://lespresso.it/c/attualita/2025/07/14/loro-piana-caporalato-sfruttamento-lavoratori-amministrazione-giudiziaria/55563)
 - **미디어·사법**: [Il Giorno — 지역경찰 허위 체포](https://www.ilgiorno.it/milano/cronaca/agenti-polizia-locale-arresti-illegali-lyjnjmqc)
+
+---
+
+## v12 추가: 다른 시리즈와의 '느슨한 공유'(B안)
+
+- 같은 세계, 독립된 이야기다. 다른 작품(기자 스릴러, 모델 에이전시, 컨설턴트, 로마 택시)의 주요 인물은 화면에 등장하지 않고 뉴스·문서·대화 속 언급으로만 나온다. 부당 1~2회.
+- 흑막은 독립이다. 발렌티와 Il Circolo는 볼코프·콘소르치오와 연결하지 않는다. 저쪽 사건은 '선례'로만 쓴다.
+- 시점: 전국 정부는 '모레티 정부'(이름만), 로마 시장은 발리. 페라리의 '사르토' 사건은 1~2년 전의 공개된 과거다.
+- 예약 이름(원래 대상만 가리킴): Marco Ferrari, Alessandro Moretti, Enrico Valli, Volkov, Bernardo Conti, Sguardo Aperto, Consorzio Meridiano, Rinaldi Ferrante Advisory, Valerio Ferrara.
+- 성 겹침 처리: 루카 모레티 ↔ 모레티 총리 = "Nessuna parentela col presidente del Consiglio."(3부 1화부터 반복 개그) / 아우구스토 발렌티 ↔ 세르조 발렌티(Confimoda) = 발렌티 본인이 "흔한 성"이라며 부인, 끝까지 확인하지 않음.
+- 실제 정부 결정은 "정부", "의회"로만 표기한다.
+
+| 부 | 접점 |
+|---|---|
+| 3 | Italia Giusta(모레티 총리의 당)의 지지 고민 뉴스 / 상대 캠프가 "로마에서 발리를 당선시킨 밀라노 컨설팅사"를 영입하려다 거절당했다는 소문 |
+| 4 | Specula 파일 목록의 'Sguardo Aperto' 폴더 |
+| 5 | 없음 |
+| 6 | Casa Ferretti 하청 착취 보도를 선례로 언급 |
+| 7 | 총리실 성명, 정보기관 국장 산티니(문서상) |
+| 8 | 독립 매체 연대 성명의 첫 서명 Marco Ferrari |
+| 9 | 시로니 유품 속 'M. Ferrari — consigli' 메모 |
+| 10 | 동시 공개 매체 명단의 Sguardo Aperto, 에필로그 TV 속 로마 시장 발리 |
+
+### 3부 확정 인물 (2부 결말 반영)
+2부에서 란차니가 무너졌으므로 3부 1화의 '재정책임자'는 새 인물이다.
+- **카를로 모란디니**(Carlo Morandini, 49): 전 베르가모 시장, 시민 명부 'Lombardia Avanti' 주지사 후보, '새 얼굴'. 공약 'Lombardia Drone Valley'.
+- **오타비오 페시나**(Ottavio Pessina, 61): 세무사, 모란디니 캠프 재정책임자. Fondazione Lumen 감사, Porta Ovest Sviluppo 감사. 2000년대 로마의 한 정당 회계 부서에서 일했고 엘레나와 구면(8부 '엘레나의 비밀' 복선).
+- **실비아 아르나볼디**(Silvia Arnaboldi, 56): 전 주정부 부지사, 기존 다수파 후보.
+- **시모네 갈비아티**(Simone Galbiati, 34): 모란디니 보좌관 → 정보원(2화).
+- **마테오 갈리**(Matteo Galli, 24): Il Riflettore 인턴, 잠입(4화~).

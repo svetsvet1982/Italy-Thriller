@@ -8,7 +8,7 @@
 > - 루카(Luca), 엘레나(Elena), 다비데(Davide), 토마소(Tommaso), 사라(Sara), 레오(Leo), 마테오(Matteo), 리치 변호사(Ricci), 프랑코(Franco)
 > - 안드레아 비스콘티(Andrea Visconti)
 > - 카라비니에리 특수부대 대위 로셀라 판토(Cap. Rossella Fanto, 40대)
-> - 파브리 검사(PM Fabri, 전화)
+> - 파브리 검사(PM Fabbri, 전화)
 > 인용: 역사 — 1983년 방송인 엔초 토르토라의 체포, "Dunque, dove eravamo rimasti?"
 
 ---
@@ -148,7 +148,7 @@
 112. Ricci: (Al vivavoce, dopo un momento) Lo so, Andrea. (Pausa) Me l'ha detto Elena. (Pausa) Ci serviranno le foto del compleanno. (Pausa) Con i dati. (Pausa) E il numero di tuo zio.
 113. Tommaso: (Dalla finestra, senza girarsi) Il numero ce l'ho io.
 114. Andrea: (Dopo mezzo secondo) Bene.
-115. Ricci: (Con la voce che cambia) Ah. (Pausa) Un'ultima cosa. (Pausa) Fabri mi ha chiamato. (Pausa) Non può toccare il caso. (Pausa) Conflitto di interessi. (Pausa) Ha lavorato con noi troppe volte. (Pausa) Ma mi ha detto una cosa. (Pausa) Fuori verbale. (Pausa) Il fascicolo di Roma è partito da una segnalazione. (Pausa) Anonima. (Pausa) Arrivata il diciassette dicembre.
+115. Ricci: (Con la voce che cambia) Ah. (Pausa) Un'ultima cosa. (Pausa) Fabbri mi ha chiamato. (Pausa) Non può toccare il caso. (Pausa) Conflitto di interessi. (Pausa) Ha lavorato con noi troppe volte. (Pausa) Ma mi ha detto una cosa. (Pausa) Fuori verbale. (Pausa) Il fascicolo di Roma è partito da una segnalazione. (Pausa) Anonima. (Pausa) Arrivata il diciassette dicembre.
 116. Elena: (Immobile, con la penna sospesa) Il diciassette dicembre.
 117. Ricci: (Al vivavoce) Il diciassette. (Pausa) Venerdì. (Pausa) Alle nove di sera. (Pausa) Perché?
 118. Elena: (Dopo un lungo silenzio, posando la penna, con una voce che nessuno le ha mai sentito) Niente. (Pausa) Una data.

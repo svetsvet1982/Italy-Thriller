@@ -2,6 +2,12 @@
 
 기획서: [Hverdag_paa_Noerrebro_기획서.md](Hverdag_paa_Noerrebro_기획서.md) · 설정: [canon.md](canon.md) · 부별 노트: notes_part1–4.md
 
+
+## 다운로드
+- 대화문 PDF: `pdf/` (전체본 + 부별 4권)
+- 문장별 해설서: `해설서/` (부별 .docx 4권, 원고는 `analysis_md/`)
+- 원문 정정 기록: `analysis_md/errata.md`
+
 ## 1부
 - [1부 1화 — Mandag på Jægersborggade — 예게르스보르가데의 월요일](episodes/part1/ep01.md)
 - [1부 2화 — Postkassen er væk — 우체통이 사라졌다](episodes/part1/ep02.md)

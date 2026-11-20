@@ -75,7 +75,7 @@
 - **장소**: 산 시로 경기장, 인테르 vs 밀란 더비 (실시간)
 - **로그라인**: Malaspina의 요구: 시드와 아버지를 교환하자. 장소는 8만 관중의 경기장.
 - **비트**: ① 관중석 함성 속 무전과 전화 교차 ② Beppe와 울트라스 친구들의 도움 — 군중을 무기로 ③ Vitali와의 대면: 스승과 제자, 흔들리는 *Lei/tu* ④ Davide가 가짜 시드를 건넴 ⑤ 하프타임 혼란 속 Ernesto 구출 — 그러나 Beppe가 부상
-- **클리프행어**: Vitali가 혼잣말처럼 남긴다. "Il generale non ha bisogno del vostro seme. Ha già un piano B. Domenica, alla Scala."
+- **클리프행어**: Vitali가 혼잣말처럼 남긴다. "Il generale non ha bisogno del vostro seme. Ha già un piano B. Lunedì, alla Scala."
 
 ### 9화. **Sant'Ambrogio** (성 암브로조) — 135턴
 - **장소**: 산탐브로조 대성당, 지하 묘소(크립트)

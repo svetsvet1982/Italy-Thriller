@@ -116,7 +116,7 @@ NADIA (in cuffia): Nel 1998, in un monastero di benedettine qui a Roma, una cert
 DAVIDE: Lo so.
 NADIA (in cuffia): Come, lo sai?
 DAVIDE: Me l'ha detto lei. Senza dirmelo. Ha preso il registro del 1994 senza guardare l'etichetta. E chiama Vianello per nome.
-NADIA (in cuffia): Madonna mia. La tua suora era l'assistente di Vianello. Trent'anni fa. Nella stessa stanza dove adesso porti il colletto.
+NADIA (in cuffia): Madonna mia. La tua suora era l'assistente di Vianello. Trent'anni fa. Negli stessi corridoi dove adesso giri con il colletto.
 DAVIDE: E stasera mi apre una porta che non dovrebbe aprire. Non so perché. Forse perché aspettava qualcuno da trent'anni. Forse perché non sono io quello che aspettava.
 (Davide si siede sul letto. Si passa le mani sul viso.)
 NADIA (in cuffia): Davide. Stamattina, sul Tevere, hai detto che Dio ha passato la chiamata a Forte Braschi. Non era una battuta, lo so. Ma hai sbagliato. Il tuo rapporto non l'ha passato Dio. L'ho passato io. Sabato notte, alle undici e quaranta. Ho premuto io il tasto.

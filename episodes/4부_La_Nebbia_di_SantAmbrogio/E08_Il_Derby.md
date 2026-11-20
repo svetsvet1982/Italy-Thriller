@@ -173,13 +173,13 @@ ERNESTO: Uno a zero. Ha segnato il nove. Di testa. Bel gol, Fumagalli. Bel gol.
 
 INFERMIERE: Coltellata al fianco sinistro. Non profonda, ma perde sangue. Lo portiamo al San Carlo. Chi viene con lui?
 DAVIDE: Io…
-NADIA: Tu no. Ci sono telecamere, polizia, la Conte a trecento metri. Vado io con lui.
+NADIA: Tu no. Ci sono telecamere, polizia, la Conte a trecento metri. E lui al San Carlo non ci va: al pronto soccorso le coltellate si denunciano. Lo porto io da Wang. Sua zia ha fatto l'infermiera per trent'anni.
 BEPPE (dalla barella): Davide. Vieni qui.
 (Davide si china su di lui.)
 BEPPE: Il bar. Le chiavi sono sotto il vaso del basilico. Dai da mangiare al gatto. E non toccare la macchina del caffè. Quella la sistemo io.
 DAVIDE: Te lo prometto. Beppe… scusa. Per San Vittore. Per tutto.
 BEPPE: Ma va' a ciapà i ratt. Siamo pari. Adesso vai a prendere quel bastardo del tuo generale. E fai gol.
-(Le porte dell'ambulanza si chiudono. Nadia sale davanti. Parte la sirena. Davide resta in piedi accanto al padre, sotto la torre a spirale.)
+(Beppe firma il rifiuto del ricovero con la mano sporca di sangue. Nadia lo carica sul taxi di un cugino di Wang. Il taxi sparisce nella nebbia. Davide resta in piedi accanto al padre, sotto la torre a spirale.)
 ERNESTO: È un brav'uomo, il Fumagalli. Ladro, ma bravo. Come tutti i milanesi veri.
 DAVIDE: Papà. Stai bene? Davvero?
 ERNESTO: Ho perso il cappello. Ho perso le pastiglie delle otto. E ho visto un derby gratis, dopo quarant'anni. Poteva andare peggio.

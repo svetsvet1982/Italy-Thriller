@@ -10,6 +10,7 @@ DAVIDE: "Che anche lei non crede." L'ha detto così, Nadia. Come se lo leggesse 
 NADIA (in cuffia): Lo so. Ho riascoltato l'audio sei volte.
 DAVIDE: Chi lo sa, che non credo? Io stesso non lo so.
 NADIA (in cuffia): Ho le chat di Elia. La Polizia Postale me le ha passate un'ora fa. Il profilo che lo ha agganciato, a febbraio, gli scrive di te.
+DAVIDE: Cosa scrive?
 NADIA (in cuffia): Ascolta: "A Pasqua ci sarà un prete milanese. Ha servito messa da bambino a Sant'Ambrogio. Sua madre era una santa. Lui non crede più. Lui ti capirà."
 (Davide si siede sul letto, piano.)
 DAVIDE: Mia madre. Hanno scritto di mia madre a un ragazzo di diciannove anni.
@@ -34,16 +35,16 @@ ANSELMO: Trentadue anni. Si metta comodo, neh. Abbiamo tempo. Dio ne ha anche di
 DAVIDE: Non sono un prete. Lei lo sa. Non sono mai stato ordinato. Sono qui per un lavoro. Non le posso dire quale.
 ANSELMO: Questo lo so da quella prima mattina. Mi dica quello che non so.
 DAVIDE: Ho celebrato sette Messe. Ho detto le parole sopra il pane. Non tutte: una riga l'ho sempre saltata. Ma ho dato la comunione. A centoquarantadue persone. Le ho contate.
-DAVIDE: Le ho contate perché sono un contabile. E perché volevo sapere quante persone avevo ingannato. Si inginocchiavano, padre. Una vecchia piangeva.
+ANSELMO: Perché le ha contate?
+DAVIDE: Perché sono un contabile. E perché volevo sapere quante persone avevo ingannato. Si inginocchiavano, padre. Una vecchia piangeva.
 DAVIDE: Ho ascoltato le confessioni. Tredici. Una era di un uomo che si chiamava Gianni Ruffo. Mi ha detto che aveva spostato dei soldi, che sarebbe morta della gente. Io l'ho riferito ai miei capi. Due giorni dopo l'hanno tirato fuori dal Tevere.
 (Lunga pausa dietro la grata.)
 ANSELMO: E lei pensa di averlo ucciso.
 DAVIDE: Penso di avergli tolto l'unico posto al mondo dove poteva parlare senza paura. Il sigillo. Io l'ho rotto. Lui credeva che io fossi un prete.
-ANSELMO: Lui ha parlato a Dio. Dio non ha rotto niente. Lei sì. Sono due cose diverse, e la seconda è sua. La tenga.
-ANSELMO: Altro?
+ANSELMO: Lui ha parlato a Dio. Dio non ha rotto niente. Lei sì. Sono due cose diverse, e la seconda è sua. La tenga. Altro?
 DAVIDE: Mercoledì un prete vero è morto tra le mie braccia. Mi ha chiesto l'assoluzione. Io non gliel'ho data. Sarebbe stata falsa. Lui stava morendo, e io non volevo dargli una cosa falsa proprio alla fine. Abbiamo detto l'atto di dolore insieme. L'ho finito da solo.
 (Silenzio. Poi la voce di Anselmo, più bassa.)
-ANSELMO: Sa che quella è stata la cosa più sacerdotale che lei abbia fatto in queste cinque settimane? Non risponda. Vada avanti.
+ANSELMO: Sa che quella è stata la cosa più sacerdotale che lei abbia fatto in queste quattro settimane? Non risponda. Vada avanti.
 DAVIDE: Ieri un ragazzo mi ha chiesto di confessarlo. Avevo in mano la sua vita e quella di migliaia di persone. E non ho detto le parole. Gliel'ho mandato a lei.
 ANSELMO: Il ragazzo l'ho visto. Di quello che mi ha detto non le dirò niente, nemmeno sotto tortura. Ma le dico questo: lei ha fatto bene a mandarmelo.
 DAVIDE: E poi c'è mia madre. Rosa. È morta nel 2011. Mi portava a Sant'Ambrogio alle sei del mattino. Io qui ho indossato il suo Dio come un vestito preso a noleggio.
@@ -73,8 +74,7 @@ ANSELMO: Allora non la dica a me. La chieda a lui. Prima a lui, poi a Dio. Dio �
 
 MEIER: Don… Colombo.
 DAVIDE: Non parli troppo, Meier. I medici mi hanno dato dieci minuti.
-MEIER: Svizzeri. Puntuali. Anche i medici di Roma, quando ci curano, diventano svizzeri.
-MEIER: Le candele. Mi dica delle candele. Huber non mi dice niente, dice che devo riposare. Ja, ja, riposare.
+MEIER: Svizzeri. Puntuali. Anche i medici di Roma, quando ci curano, diventano svizzeri. Le candele. Mi dica delle candele. Huber non mi dice niente, dice che devo riposare. Ja, ja, riposare.
 DAVIDE: La sua lista era giusta. Il terzo camion aveva un doppio fondo. Ieri, in piazza, nessuno è morto. Nessuno, Jonas.
 (Meier chiude gli occhi. Una lacrima gli scende verso l'orecchio.)
 MEIER: Genau. Allora è servito.
@@ -88,7 +88,8 @@ DAVIDE: Deve fare rapporto?
 MEIER: Il regolamento dice che devo fare rapporto su tutto ciò che minaccia la sicurezza del Santo Padre.
 DAVIDE: E lei cosa farà?
 MEIER: Lei non minaccia il Santo Padre. Lei minaccia solo se stesso. Questo non è nel regolamento.
-MEIER: E adesso vada. Preghi per me. Anche se lei non è… ja. Preghi lo stesso. Male non fa.
+DAVIDE: Grazie, Jonas.
+MEIER: Non mi ringrazi. Preghi per me. Anche se lei non è… ja. Preghi lo stesso. Male non fa.
 
 ---
 

@@ -223,6 +223,6 @@ NADIA (in cuffia): Su un'isola. Chiusa dal 1968. Nessuno ci va, nemmeno i pescat
 - Toni는 삼촌 Bortolo가 어릴 때 보여준 Scarpa의 배 보관 장소를 안다고 함 → Davide의 명령을 어기고 혼자 감(E11에서 포로).
 - Ferrin: 금요일(2/20) San Michele 일반인 구역에 매장, 임시 나무 십자가. 장례에는 트레비소의 누나와 경매사 직원 2명, 비.
 - Davide가 Ferrin의 무덤 앞에서 처음으로 본명 "Davide Colombo"를 소리 내어 말함(이어피스를 뺀 상태, 아무도 듣지 않음).
-- 일요일 07:30 개장 직후 Ostrovskij와 Lev(긴 코트, 타르 냄새 궐련)가 브로드스키 묘 방문(묘지 관리인 증언). 묘 위에 봉인된 papirosy 한 갑과 쪽지: "Per il signor Brambilla. L'acqua è uguale al tempo… restituisce tutto, prima o poi. Anche le cose rubate. G. O." Davide는 냄새로 E01 침입자와 같은 담배임을 확인(Lev라는 이름은 아직 모름).
+- 일요일 07:30 개장 직후 Ostrovskij와 Lev(긴 코트, 타르 냄새 궐련)가 브로드스키 묘 방문(묘지 관리인 증언). 묘 위에 봉인된 papirosy 한 갑과 쪽지: "Per il signor Brambilla. L'acqua è uguale al tempo… restituisce tutto, prima o poi. Anche le cose rubate. G. O." Davide는 냄새로 E01 침입자와 같은 담배임을 확인(Lev라는 이름은 E03 요트에서 이미 앎 — Dandolo에겐 말하지 않음).
 - 클리프행어: Toni의 휴대폰에서 텍스트 없는 위치 공유 → 전원 꺼짐, 마지막 기지국 Malamocco, 위치는 **Poveglia**(1968년부터 폐쇄).
 -->

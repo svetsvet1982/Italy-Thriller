@@ -6,7 +6,7 @@
 
 [SCENA 1 — Chioggia, magazzino del mercato del pesce. Domenica notte. Odore di ghiaccio sporco e di gasolio.]
 
-(Davide è legato a una sedia. Scarpa, seduto su una cassa di polistirolo, scorre il telefono di Davide. Si ferma su una foto.)
+(Per la notte, il Moro ha legato di nuovo i polsi di Davide alla sedia. Scarpa, seduto su una cassa di polistirolo, scorre il telefono di Davide. Si ferma su una foto.)
 SCARPA: Bella fia. Milano, vero?
 DAVIDE: È mia figlia. Ha quindici anni. Lasci stare quel telefono.
 SCARPA: Ciò, il restauratore alza la voce. (Gira lo schermo verso di lui.) Guarda che smorfia. Le stesse sopracciglia del papà.
@@ -14,12 +14,12 @@ DAVIDE: Lei vuole un quadro. Il quadro ce l'ho io. Mia figlia non c'entra.
 SCARPA: Tutti c'entrano, sior Brambilla. Anche i fioi. Soprattutto i fioi. È così che la gente diventa onesta.
 (Gli uomini ridono. Scarpa posa il telefono sul tavolo, accanto a una lampada da cantiere.)
 SCARPA: Ho letto anche i messaggi, sai? La versione di greco. Platone. Che fortuna, studiare. Io a quindici anni scaricavo cassette di seppie.
-DAVIDE: Cosa vuole che le dica? Che ha ragione? Ha ragione. Farò quello che mi chiede.
+DAVIDE: Gliel'ho già detto. Farò quello che mi chiede.
 SCARPA: Ripetilo, che i milanesi imparano in fretta ma dimenticano ancora più in fretta.
 DAVIDE: Prima dell'asta faccio il cambio. Il quadro vero a lei. Una copia sul cavalletto della signora Morosini.
 DAVIDE: Ma una copia credibile si fa in un mese. Non in sei giorni.
 SCARPA: Allora non dormi. In sei giorni Dio ha fatto il mondo, e non era nemmeno veneziano.
-SCARPA: Stanotte resti qua. Domattina telefona il Calabrese. Decide lui se fidarsi di te. Io sono solo il fattorino.
+SCARPA: Il Calabrese ha detto sì. Ma il Calabrese cambia idea come il vento, e io sono solo il fattorino. Stanotte resti qua.
 (Lontano, poi sempre più forte, comincia a suonare una sirena. Un suono lungo e piatto, poi quattro note che salgono.)
 UOMO DI SCARPA: Bepi. Quattro note. Centoquaranta.
 SCARPA: Centoquaranta… Ciò. Alzate le casse dal pavimento, prima che il pesce torni a nuoto.

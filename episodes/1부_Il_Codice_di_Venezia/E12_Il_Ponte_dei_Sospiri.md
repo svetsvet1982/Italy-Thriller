@@ -133,13 +133,14 @@ TONI: Sior. Scusi, eh. Ma lei è proprio milanese.
 
 (La mascherera, una donna anziana con gli occhiali sulla punta del naso, dipinge una bauta. Toni e Davide guardano le maschere appese.)
 TONI: Qua sono tutte vere, sior. Cartapesta, colla di farina, carta di giornale. Niente plastica cinese.
-DAVIDE: Mia figlia ha quindici anni. Le ho promesso una maschera vera. È l'unica promessa di questo viaggio che posso mantenere.
-TONI: Quindici anni? Allora niente bauta, è da vecchi. E niente medico della peste, dopo Poveglia. Questa: la Colombina, oro e azzurro, la servetta più furba dei padroni.
-(Davide la prende in mano. Sorride, come per uno scherzo privato.)
-DAVIDE: La Colombina. Va bene. Perfetta.
+DAVIDE: Mia figlia ha quindici anni. Le ho comprato qui una maschera vera, martedì grasso. Adesso voglio farci scrivere il suo nome, dentro. È l'unica promessa di questo viaggio che posso mantenere.
+(Tira fuori dalla scatola la Colombina, oro e azzurro.)
+TONI: Quindici anni? Allora ha scelto bene. Niente bauta, è da vecchi. La Colombina: la servetta più furba dei padroni.
+(Davide la gira tra le mani. Sorride, come per uno scherzo privato.)
+DAVIDE: La Colombina. Sì. Perfetta.
 TONI: Perché ride?
 DAVIDE: Storia di famiglia. Un giorno, forse, te la racconto.
-MASCHERERA: Ciò, il signore ha buon occhio. Quell'azzurro l'ho fatto io, con il lapislazzuli. Un blu onesto.
+MASCHERERA: Ciò, questa la conosco: l'ha venduta mio marito. Ma quell'azzurro l'ho fatto io, con il lapislazzuli. Un blu onesto.
 DAVIDE: Lo vedo. Un blu che non obbedisce a nessuno.
 (Fuori, nel campo. Il sole è pallido. Davide tira fuori dalla borsa un pacco lungo, avvolto in carta marrone.)
 DAVIDE: Questo è per te.

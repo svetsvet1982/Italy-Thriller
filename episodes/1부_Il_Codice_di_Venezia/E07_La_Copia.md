@@ -171,7 +171,7 @@ NADIA (in cuffia): Leggi.
 DAVIDE (legge): "A chi toglierà questa carta: se il blu ti ha parlato, non fidarti di chi te l'ha fatto ascoltare. Vieni a trovarmi. E. V. Burano, via San Mauro, numero 312. Ottobre 1994."
 NADIA (in cuffia): E. V. Ettore Vianello.
 DAVIDE: Il restauratore del '94. Il "Chiamare V." di Ferrin.
-NADIA (in cuffia): Aspetta. Cerco. (Si sente digitare.) Vianello Ettore, nato a Venezia nel 1946. Residente a Burano, via San Mauro. È ancora lì. Settantanove anni. Professione: "ex dipendente del ministero della Difesa". Fine. Il resto della scheda è classificato. Livello che io non vedo.
+NADIA (in cuffia): Aspetta. Cerco. (Si sente digitare.) Il nostro crittografo fantasma. Nato a Venezia nel 1946, settantanove anni. Residente a Burano, via San Mauro: è ancora lì. Il resto della scheda è classificato. Livello che io non vedo.
 DAVIDE: Un restauratore che lavorava per la Difesa.
 NADIA (in cuffia): O uno della Difesa che restaurava quadri. Come qualcuno che conosco.
 (Davide gira il cartoncino. Sul retro, una sola riga, sbiadita.)

@@ -43,7 +43,7 @@ DAVIDE: Posso usare una lente?
 BONALDO: Ho un microscopio portatile. Prego. Non tocchi.
 DAVIDE: Me lo dicono tutti, ultimamente.
 (Davide si china sul microscopio. Un lungo silenzio. Il ronzio del neon.)
-DAVIDE: Ci sono due blu. Uno è lapislazzuli: grani irregolari, con piccoli cristalli dorati di pirite. È il blu antico, quello che costava più dell'oro. L'altro è oltremare artificiale: grani tondi, tutti uguali. Esiste solo dall'Ottocento.
+DAVIDE: Ci sono due blu. Uno è lapislazzuli, il blu antico che costava più dell'oro: grani irregolari, con piccoli cristalli dorati di pirite. L'altro è oltremare artificiale, a grani tondi tutti uguali. Esiste solo dall'Ottocento.
 DANDOLO: E questo cosa significa?
 DAVIDE: Che Ferrin, prima di morire, ha grattato il manto della Madonna. E sotto un blu moderno ha trovato un blu antico. Con le unghie, commissario. Noi usiamo il bisturi: con le unghie si gratta quando si ha fretta, o paura.
 BONALDO: Allora le dico anche il resto. Il livido sulla nuca non viene da una caduta: è un colpo, con un oggetto stretto e pesante. Un remo, o il calcio di una pistola. L'acqua ha solo finito il lavoro.
@@ -90,7 +90,7 @@ DAVIDE: Subito. Con la colla di coniglio, come faceva lui.
 NADIA (in cuffia): Allora? Leggi. Sto morendo.
 DAVIDE: È la scrittura di un uomo che beveva: le lettere si appoggiano una sull'altra. Prima pagina. "Madonna della Laguna. Pioppo, tre assi. Ridipintura del manto: 1994. Vianello."
 NADIA (in cuffia): Di nuovo Vianello.
-DAVIDE: Poi: "Oltremare artificiale sopra lapislazzuli. Perché coprire un blu con un altro blu? Nessuno lo fa." È come riverniciare una Ferrari rossa con un rosso più brutto. Lo fai solo se sotto c'è qualcosa che nessuno deve vedere.
+DAVIDE: Poi: "Oltremare artificiale sopra lapislazzuli. Perché coprire un blu con un altro blu?" È come riverniciare una Ferrari rossa con un rosso più brutto. Lo fai solo se sotto c'è qualcosa che nessuno deve vedere.
 DAVIDE: E in stampatello, sottolineato due volte: "Il blu non è blu." Poi una riga sola: "Sotto la lampada UV il manto si accende a scacchi."
 NADIA (in cuffia): A scacchi. Una griglia?
 DAVIDE: Forse. L'ultima pagina scritta dice: "K. vuole tutto per iscritto. Paga bene. Ma K. non è un collezionista."

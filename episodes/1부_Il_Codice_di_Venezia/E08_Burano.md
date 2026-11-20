@@ -13,7 +13,7 @@ NADIA (in cuffia): Cosa ti ha detto, alla fine?
 DAVIDE: "Stai attento." In quarantasei anni non me l'aveva mai detto. Nemmeno quando sono partito per gli alpini. Il nome l'ha riconosciuto, Nadia. Poi ha cambiato discorso, come fa sempre: mi ha chiesto se mangio.
 (Davide prende il foglietto trovato dentro la cornice. Lo gira sotto la lampada.)
 DAVIDE: Un indirizzo di Burano. Nascosto nel telaio da trent'anni. Chi l'ha messo lì voleva che lo trovasse un restauratore. Non un ladro.
-NADIA (in cuffia): Allora ascolta. Ho trovato il tuo V. Ettore Vianello, settantanove anni, nato a Venezia. Ministero della Difesa dal 1971 al 1996. Ufficio cifra.
+NADIA (in cuffia): Allora ascolta. Ho completato la scheda del tuo V. Ettore Vianello, settantanove anni. Ministero della Difesa dal 1971 al 1996. Ufficio cifra.
 DAVIDE: Un crittografo.
 NADIA (in cuffia): Un crittografo che a un certo punto si mette a restaurare Madonne. Il resto del fascicolo è coperto da omissis: pagine intere nere, sembra un quadro di Burri. Oggi? Pensione minima. Una casa a Burano. Niente cellulare, niente mail, niente conto online. Un fantasma con la bolletta della luce.
 DAVIDE: Allora andiamo a bussare. Come si faceva una volta.

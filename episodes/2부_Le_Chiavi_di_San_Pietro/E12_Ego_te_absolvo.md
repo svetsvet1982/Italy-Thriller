@@ -200,7 +200,7 @@ DAVIDE: Allora andiamo dal nonno.
 (Ore 21.02. Dopo Firenze. Il telefono vecchio vibra una volta. Un messaggio. Numero sconosciuto. Nessuna firma. Ma la punteggiatura è quella di Nadia.)
 NADIA (messaggio): Mi stanno accusando di essere la talpa. Non fidarti di nessuno. Nemmeno di lui.
 (Davide fissa lo schermo. Chiama. Squilla una volta, due. Poi una voce registrata: "Il numero selezionato non è al momento raggiungibile.")
-DAVIDE (tra sé): Nemmeno di lui. Di chi, Nadia? Di lui… o di me?
+DAVIDE (tra sé): Nemmeno di lui. Lui chi, Nadia? Lui chi?
 (Richiama. Silenzio. Richiama ancora. Silenzio. Fuori, la galleria dell'Appennino inghiotte il treno. Nel finestrino nero c'è solo il riflesso di un uomo senza collarino.)
 
 — FINE DELL'EPISODIO 12 —

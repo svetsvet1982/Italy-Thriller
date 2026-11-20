@@ -1,10 +1,10 @@
 # La Nebbia di Sant'Ambrogio — Episodio 4: «Il Magistrato»
 
-> 4부 4화 · 장소: Beppe의 다락방 → 법원 맞은편 산 피에트로 인 제사테 성당 → 포르타 베네치아의 Beppe 밴 → via Melzo의 Chiara 아파트(부엌) · 시점: 12월 1일(화) 밤 11시 ~ 12월 2일(수) 오후 1시 40분
+> 4부 4화 · 장소: Beppe의 다락방 → 법원 맞은편 산 피에트로 인 제사테 성당 → 포르타 베네치아의 Beppe 밴 → via Melzo의 Chiara 아파트(부엌) · 시점: 12월 1일(화) 저녁 6시 반 ~ 12월 2일(수) 아침 7시
 
 ---
 
-[SCENA 1 — Stanza sopra il garage di Beppe. Martedì 1 dicembre, le undici di sera. La stessa luce. Lo schermo del portatile, il nome evidenziato in giallo.]
+[SCENA 1 — Stanza sopra il garage di Beppe. Martedì 1 dicembre, le sei e mezza di sera. La stessa luce. Da sotto, il rumore del bar. Lo schermo del portatile, il nome evidenziato in giallo.]
 
 DAVIDE: Fenice Holding Limited. La Valletta, Malta. Quaranta per cento.
 NADIA: Leggi sotto. Il legale rappresentante.
@@ -31,13 +31,13 @@ DAVIDE: Non mi odia. Mi conosce. È peggio.
 
 ---
 
-[SCENA 2 — Chiesa di San Pietro in Gessate, di fronte al Palazzo di Giustizia. Mercoledì 2 dicembre, le sette e quaranta. Navata buia, qualche candela. Una vecchia che recita il rosario sottovoce. Davide è seduto in un banco laterale, vicino a una cappella affrescata.]
+[SCENA 2 — Chiesa di San Pietro in Gessate, di fronte al Palazzo di Giustizia. Martedì 1 dicembre, le otto meno un quarto di sera. Navata quasi buia, qualche candela. Una vecchia che recita il rosario sottovoce. Il sagrestano fa tintinnare le chiavi: tra un quarto d'ora chiude. Davide è seduto in un banco laterale, vicino a una cappella affrescata.]
 
 (Entra una donna sui quarantacinque, cappotto cammello, borsa di pelle piena di fascicoli. Va dritta al portacandele. Mette una moneta, accende una candela. Rimane un momento in piedi. Poi si gira verso il banco laterale. Si ferma.)
 CHIARA: No.
 DAVIDE: Ciao, Chiara.
 CHIARA: No. No, no, no. (Si guarda intorno. Abbassa la voce.) Sei impazzito?
-DAVIDE: Una candela, ogni mattina, prima di entrare in Procura. Da quando sei in DDA. Per i testimoni. Te lo ricordi che me l'avevi detto?
+DAVIDE: Una candela, ogni sera, quando esci dalla Procura. Da quando sei in DDA. Per i testimoni. Te lo ricordi che me l'avevi detto?
 CHIARA: Me lo ricordo. Non mi ricordo di averti detto in quale chiesa.
 DAVIDE: Non me l'hai detto. Ho guardato dove c'era meno strada da fare dal tuo ufficio. Tu odi perdere tempo.
 CHIARA: Hai trenta secondi. Poi esco e chiamo i carabinieri. Il posto di guardia è a cinquanta metri.
@@ -61,13 +61,13 @@ DAVIDE: Per questo sono venuto da te. Non mi serve un'amica. Mi serve un magistr
 (Chiara si gira a metà. Lo guarda per la prima volta da vicino.)
 CHIARA: Hai la barba di tuo nonno.
 DAVIDE: Me lo dicono tutti.
-CHIARA: Mezzogiorno e mezzo. A casa. Giulia esce da scuola alle due. Se all'una e quarantacinque sei ancora seduto nella mia cucina, chiamo la Conte io stessa.
+CHIARA: Alle undici. A casa. Giulia stanotte dorme da un'amica: domani hanno la verifica di greco. Se alle sette del mattino sei ancora seduto nella mia cucina, chiamo la Conte io stessa.
 DAVIDE: Non chiami prima?
-CHIARA: Ci sto pensando. Ho cinque ore per decidere. Non farmi pentire di avere dormito male.
+CHIARA: Ci sto pensando. Ho tre ore per decidere. Non farmi pentire di essere entrata in chiesa stasera.
 
 ---
 
-[SCENA 3 — Il furgone di Beppe, parcheggiato in una traversa di corso Buenos Aires. Mezzogiorno e un quarto. Pioviggine sottile nella nebbia. Davide è sul sedile del passeggero. Nadia è dietro, tra le casse, con il portatile.]
+[SCENA 3 — Il furgone di Beppe, parcheggiato in una traversa di corso Buenos Aires. Le undici meno un quarto di sera. Pioviggine sottile nella nebbia, sotto i lampioni. Davide è sul sedile del passeggero. Nadia è dietro, tra le casse, con il portatile.]
 
 NADIA: Tieni. (Gli tende un auricolare minuscolo, color carne.) Lo metti, io ascolto, se c'è qualcosa che non va ti dico di uscire.
 DAVIDE: No.
@@ -86,7 +86,7 @@ BEPPE (dal sedile di guida, senza voltarsi): Il caffè fa schifo. E le lenzuola 
 
 ---
 
-[SCENA 4 — Appartamento di Chiara, via Melzo, quarto piano. Mezzogiorno e mezzo. Un corridoio con le librerie piene di codici e romanzi. In fondo, una porta socchiusa: sulla parete della camera di Giulia, una maschera dorata e azzurra. La cucina è piccola, ordinata, con una finestra sui tetti.]
+[SCENA 4 — Appartamento di Chiara, via Melzo, quarto piano. Le undici di sera. Un corridoio con le librerie piene di codici e romanzi. In fondo, una porta socchiusa: sulla parete della camera di Giulia, una maschera dorata e azzurra. La cucina è piccola, ordinata, con una finestra sui tetti.]
 
 (Chiara apre la porta. Non dice niente. Si sposta per lasciarlo passare. Davide si ferma davanti alla camera di Giulia. Guarda la maschera.)
 CHIARA: La Colombina. Dorme con quella sopra la testa. Dice che le fa la guardia.
@@ -97,7 +97,7 @@ CHIARA: Non ringraziarmi. Ti faccio il caffè perché le mani mi servono occupat
 (Silenzio. Il rumore della moka che si avvita. Il gas.)
 CHIARA: Li ho fotografati, a febbraio. Quei due. Ho mandato la targa ai carabinieri. La sera dopo mi ha chiamato un colonnello che non conoscevo. Gentilissimo. Mi ha detto di dimenticarli. "Per la sicurezza della sua famiglia, dottoressa." E lì ho capito.
 DAVIDE: Cosa?
-CHIARA: Cosa facevi. Non chi eri. Quello non l'ho mai capito. Ma cosa facevi, sì. Dopo dodici anni di matrimonio e sei di divorzio. Me l'ha detto uno sconosciuto al telefono.
+CHIARA: Cosa facevi. Non chi eri. Quello non l'ho mai capito. Ma cosa facevi, sì. Dopo sei anni di matrimonio e undici di divorzio. Me l'ha detto uno sconosciuto al telefono.
 DAVIDE: Non potevo dirtelo io.
 CHIARA: Lo so che non potevi. Non è questo. (Si appoggia al lavello, le braccia incrociate.) Sai cosa pensavo, prima? Per due anni ho pensato che avessi un'altra.
 DAVIDE: Chiara…
@@ -105,9 +105,11 @@ CHIARA: Fammi finire. Sono un magistrato, faccio le indagini. Le ho fatte anche 
 DAVIDE: Me lo ricordo. Avevo perso il mio a Beirut. Quello era di un altro.
 CHIARA: Di un altro. (Ride, senza allegria.) Ecco. Non c'era un'altra donna, Davide. C'era un altro uomo. Ed eri tu.
 (La moka comincia a borbottare. Nessuno dei due si muove.)
-CHIARA: Tu eri sempre un altro. Tornavi a casa e ci mettevi tre giorni a tornare davvero. Il primo giorno parlavi come un ingegnere. Il secondo come un avvocato. Il terzo, a volte, eri di nuovo tu. E il quarto ripartivi.
+CHIARA: Te l'ho detto undici anni fa, in questa cucina. Te lo ripeto. Tu eri sempre un altro.
+DAVIDE: Me lo ricordo.
+CHIARA: Tornavi a casa e ci mettevi tre giorni a tornare davvero. Il primo giorno parlavi come un ingegnere. Il secondo come un avvocato. Il terzo, a volte, eri di nuovo tu. E il quarto ripartivi.
 DAVIDE: Non me ne accorgevo.
-CHIARA: Io sì. Giulia anche. A sette anni mi ha chiesto: "Mamma, perché papà ha la voce di un altro?"
+CHIARA: Io sì. Giulia anche. A quattro anni mi ha chiesto: "Mamma, perché papà ha la voce di un altro?"
 (Davide abbassa gli occhi. Chiara spegne il gas. Versa il caffè. Le mani le tremano appena.)
 CHIARA: Non ti ho lasciato perché mentivi. Tutti mentono. Io mento ogni giorno, in aula, per proteggere un testimone. Ti ho lasciato perché non sapevo più a chi stavo dicendo "ti amo". Una sera l'ho detto, e tu hai risposto in un modo che non era tuo. Educato. Perfetto. Come uno che ha studiato la parte.
 DAVIDE: Me lo ricordo anch'io, quella sera.
@@ -123,7 +125,7 @@ DAVIDE: Scomodo. Come una giacca di quando avevo vent'anni. Ma è l'unica che ho
 
 ---
 
-[SCENA 5 — La cucina. Mezzogiorno e cinquanta. Sul tavolo, accanto alle tazzine: una microSD in una bustina di plastica, un vecchio telefono, la fotografia del '94, un foglio stampato.]
+[SCENA 5 — La cucina. Le due di notte. Sul tavolo, accanto alle tazzine: una microSD in una bustina di plastica, un vecchio telefono, la fotografia del '94, un foglio stampato.]
 
 CHIARA: Va bene. Adesso parliamo da magistrato e indagato. Che cosa hai?
 DAVIDE: Questa è una lista. Me l'ha data un russo, a Trieste, in ottobre. Il consiglio di un'organizzazione. Sette persone, sette paesi. Nomi in codice, qualche nome vero. L'ultima riga: "Coordinatore italiano: FENICE."
@@ -156,7 +158,7 @@ CHIARA: Ecco da chi hai preso. (Posa la foto.) Vent'anni di silenzio per amore. 
 
 ---
 
-[SCENA 6 — La cucina. L'una e venticinque. La pioggia è diventata più forte. Chiara ha preso un blocco giallo e scrive, in piedi, appoggiata al frigorifero.]
+[SCENA 6 — La cucina. Le sei del mattino. Fuori è ancora buio. La pioggia è diventata più forte. Chiara ha preso un blocco giallo e scrive, in piedi, appoggiata al frigorifero.]
 
 CHIARA: Allora. Ascoltami bene, perché lo dico una volta sola. Io il tuo fascicolo di Trieste non lo posso toccare. Non è mio. Non ho competenza.
 DAVIDE: Lo so.
@@ -177,21 +179,21 @@ DAVIDE: Questa volta lo dico in fretta perché è vero. Non perché voglio chiud
 (Chiara lo guarda. Strappa il foglio dal blocco. Lo piega in due.)
 CHIARA: Sai qual è la cosa peggiore? Che ti credo. Ti ho creduto in chiesa, al secondo minuto. Mi sono arrabbiata per non crederti, e non ci sono riuscita.
 DAVIDE: Perché?
-CHIARA: Perché in chiesa avevi la voce tua. Quella del terzo giorno. Non la sentivo da otto anni.
+CHIARA: Perché in chiesa avevi la voce tua. Quella del terzo giorno. Non la sentivo da undici anni.
 (Si avvicina. Gli tocca la barba con due dita, come ha fatto Ernesto.)
 CHIARA: E comunque questa barba fa schifo.
 DAVIDE: È ufficiale. Lo dice anche la Procura.
 
 ---
 
-[SCENA 7 — La cucina. L'una e quaranta. Davide si sta mettendo il giaccone. Sul tavolo, il telefono personale di Chiara vibra. Numero privato.]
+[SCENA 7 — La cucina. Le sette del mattino. Fuori è ancora buio. Davide è in piedi accanto alla finestra, nella penombra. Sul tavolo, tra due tazzine vuote, il telefono personale di Chiara vibra. Numero privato.]
 
-(Chiara guarda lo schermo. Esita. Guarda Davide. Risponde.)
+(Chiara guarda lo schermo. Guarda l'orologio del forno: 7:00. Guarda Davide. Preme il tasto del vivavoce e posa il telefono sul tavolo.)
 CHIARA: Pronto. Bassi.
 MALASPINA (al telefono): Dottoressa, buongiorno. Mi scusi l'ora. Sono il generale Ruggero Malaspina. Credo che non ci siamo mai parlati. A febbraio le ha telefonato un mio colonnello, in un'occasione spiacevole.
 CHIARA: Mi ricordo il colonnello. Non mi ricordo il suo nome, generale.
 MALASPINA (al telefono): I nomi non contano. Contano le persone. Lei è una persona seria, e per questo la chiamo io, direttamente.
-(Davide si ferma con un braccio dentro la manica. Chiara alza una mano: zitto.)
+(Davide non si muove dalla finestra. Chiara alza una mano: zitto.)
 MALASPINA (al telefono): Dottoressa Bassi, credo che suo marito sia lì con lei.
 
 — FINE DELL'EPISODIO 4 —
@@ -199,14 +201,14 @@ MALASPINA (al telefono): Dottoressa Bassi, credo che suo marito sia lì con lei.
 <!-- 연속성 메모:
 - **Aurelia Sicurezza 지분 40% = Fenice Holding Limited(몰타, 라 발레타)**, 법정대리인 **"Avvocato Lucio Ferrante"** = AISE 비상선 위장명 'Studio dentistico Ferrante'와 동일(Malaspina가 2006년 직접 지은 이름, 강의 중 "il dentista fa sempre un po' male"라며 웃음). 즉 국가 가공 신분이 민간 회사 등기에 등장 → Chiara: **falso ideologico in atto pubblico**(+ turbativa d'asta 가능성). "Al Capone e le tasse."
 - 브레라 수장고 = 덫(문 열면 로마가 즉시 앎) → 정식 침입 계획 수정 필요.
-- **Chiara**: 매일 아침 출근 전 **San Pietro in Gessate**(법원 맞은편)에서 증인들을 위해 촛불 하나(DDA 이후 습관). 낙타색 코트. 아파트 = **via Melzo**(포르타 베네치아) 4층, 법전·소설 책장, 창 너머 지붕들. Giulia는 Colombina 가면을 머리 위에 걸고 잠("le fa la guardia").
+- **Chiara**: 매일 저녁 퇴근길에 **San Pietro in Gessate**(법원 맞은편)에서 증인들을 위해 촛불 하나(DDA 이후 습관). 12/1 19:45 성당 접근 → 23시 아파트 → 밤새 대화 → 12/2 07:00 Malaspina 전화(5화 콜드 오픈과 연결). 12/1 밤 Giulia는 다음 날 그리스어 시험 때문에 친구 집에서 잠. 낙타색 코트. 아파트 = **via Melzo**(포르타 베네치아) 4층, 법전·소설 책장, 창 너머 지붕들. Giulia는 Colombina 가면을 머리 위에 걸고 잠("le fa la guardia").
 - Chiara의 법적 입장: 트리에스테 GIP의 구속영장(ordinanza di custodia cautelare) 존재, 신고 의무, 형법 378조 favoreggiamento personale(최대 4년). 트리에스테 사건은 관할 밖 → Brera 계약 이행지 밀라노 기준으로 **'modello 45'(atti relativi, 피의자·범죄통지 없음)** 비공식 파일 개설. Guardia di Finanza로 몰타 회사 계좌, 브레라 출입 기록 조회 예정.
 - **Chiara의 4가지 조건**: ① 총기 사용 금지 ② 모든 진술 녹음 ③ **Giulia 배제**(연락·만남 금지) ④ 끝나면 Chiara 본인에게, 진짜 변호사 입회하에 자수. Davide 수락("va bene" — 이번엔 진심).
-- 결혼 생활: 결혼 12년 + 이혼 후 6년(약 2008년 결혼, 2020년 이혼). Chiara는 2년간 '다른 여자'를 의심하고 조사. 단서: 2월에 "브뤼셀"에서 탄 피부로 귀가, **다른 시계**(Davide가 베이루트에서 자기 시계를 잃고 남의 것을 참). 어느 밤 "ti amo"에 낯선 정중한 대답 — 그때 Davide는 머릿속으로 이스탄불 **양탄자 상인** 위장 중(시리아 대령에게 가짜 양탄자 3장 판매). "Tu eri sempre un altro." 귀가 후 1일째 엔지니어, 2일째 변호사, 3일째에야 본인, 4일째 다시 출발. Giulia 7세 때: "Mamma, perché papà ha la voce di un altro?"
+- 결혼 생활: **2009년 결혼(10화와 일치), 결혼 6년, 2015년 이혼 → 11년 전**(5화 "Undici anni fa ti ho detto che eri sempre un altro"와 일치). Chiara는 그때 이 부엌에서 처음 "Tu eri sempre un altro"라 했고 12/1 밤 다시 말함. Chiara는 2년간 '다른 여자'를 의심하고 조사. 단서: 2월에 "브뤼셀"에서 탄 피부로 귀가, **다른 시계**(Davide가 베이루트에서 자기 시계를 잃고 남의 것을 참). 어느 밤 "ti amo"에 낯선 정중한 대답 — 그때 Davide는 머릿속으로 이스탄불 **양탄자 상인** 위장 중(시리아 대령에게 가짜 양탄자 3장 판매). "Tu eri sempre un altro." 귀가 후 1일째 엔지니어, 2일째 변호사, 3일째에야 본인, 4일째 다시 출발. Giulia 4세 때: "Mamma, perché papà ha la voce di un altro?"
 - 2월 사건: Chiara가 요원 2명 촬영 → 다음 날 저녁 '모르는 대령'의 전화("Per la sicurezza della sua famiglia, dottoressa") → 그때 Davide의 직업을 '무엇을 하는지'만 알게 됨. 그 대령은 Malaspina의 부하였음(12/2 Malaspina 본인 언급).
 - Conte가 Chiara에게 로마 신부·트리에스테 손해사정인 위장 사실까지 알려 줌.
 - Davide가 Chiara에게 제시한 것: Ostrovskij 명단(microSD), **Lenzi 음성 메모**(오래된 휴대폰, 바람 소리, "Colombo, se sente questo, avevo ragione io. Il generale…"에서 끊김), Aurelia 등기부, 1994년 사진. Chiara: "Gli onesti dicono sempre quello che hanno, non di più."
 - Davide는 Chiara 면담에 **이어피스를 끼지 않기로** 함("Oggi sono solo io"). Beppe 밴은 corso Buenos Aires 골목에서 대기, Nadia 동승. Beppe: 산 비토레는 "커피 최악, 시트는 사포".
-- Chiara의 "terzo giorno"의 목소리 = Davide 본래 목소리, 성당에서 8년 만에 들음. Chiara도 수염을 만지며 "fa schifo".
-- 12/2 13:40 Chiara 개인 휴대폰으로 Malaspina 전화(비공개 번호, **Lei**): 2월의 대령이 "un mio colonnello"였다고 인정. "Dottoressa Bassi, credo che suo marito sia lì con lei." Giulia 하교 = 14:00 → 5화로 직결.
+- Chiara의 "terzo giorno"의 목소리 = Davide 본래 목소리, 성당에서 11년 만에 들음. Chiara도 수염을 만지며 "fa schifo".
+- 12/2 07:00 Chiara 개인 휴대폰으로 Malaspina 전화(비공개 번호, 스피커폰, 탁자 위 빈 커피잔 2개, Davide는 창가 어둠 속, **Lei**): 2월의 대령이 "un mio colonnello"였다고 인정. "Dottoressa Bassi, credo che suo marito sia lì con lei." → 5화 "Ex marito, generale."로 직결. 조건 ③(Giulia 배제)은 5화에서 위협 때문에 깨짐.
 -->

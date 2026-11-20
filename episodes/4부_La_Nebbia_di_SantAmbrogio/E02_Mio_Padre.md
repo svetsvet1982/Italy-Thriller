@@ -123,7 +123,7 @@ DAVIDE: In un bunker. Sul confine sloveno. In una cartella con il nome di Ettore
 ERNESTO: Madòna. Anche lì.
 DAVIDE: Papà. Cos'hai fatto nel '94?
 (Ernesto chiude gli occhi.)
-ERNESTO: In ottobre Ettore è arrivato qui di notte. Bagnato fradicio. Mi ha detto: "Ernesto, ho fatto una cosa per lo Stato. Una chiave. Una chiave che può spegnere le banche di mezza Europa." L'avevano costruita durante la guerra fredda. Per la guerra che non c'è stata.
+ERNESTO: A febbraio del '94 Ettore è arrivato qui di notte. Bagnato fradicio. Mi ha detto: "Ernesto, ho fatto una cosa per lo Stato. Una chiave. Una chiave che può spegnere le banche di mezza Europa." L'avevano costruita durante la guerra fredda. Per la guerra che non c'è stata.
 DAVIDE: La Chiave Lotto.
 ERNESTO: Lui non la chiamava così. La chiamava "la mia vergogna". Mi ha detto che a Roma certi uomini la volevano per sé. Non per lo Stato. Per sé.
 DAVIDE: E lui l'ha divisa in tre.
@@ -131,15 +131,18 @@ ERNESTO: Un pezzo nel suo Lotto, a Venezia. Un pezzo "dove c'è San Pietro", ha 
 DAVIDE: Che cos'era?
 ERNESTO: Dodici parole. In latino. Un foglio piegato in quattro. Mi ha detto: "Questo è il seme. Senza il seme, gli altri due pezzi non servono a niente."
 DAVIDE: E tu dove l'hai messo?
-ERNESTO: In un cielo. (Sorride appena.) Quell'anno Brera mi aveva dato da restaurare una tavola del Quattrocento. Un San Sebastiano. Lombardo, di un pittore senza nome. Stava nei depositi da cento anni. Nessuno lo guardava. (Pausa.) Ettore mi ha aiutato. Per un mese, tutte le notti. Sotto il cielo, sopra le frecce, ho scritto le dodici parole con la biacca. Lettera per lettera. Poi ho ridipinto il cielo sopra. Un cielo di Lombardia. "Così bello quand'è bello, così splendido, così in pace."
+ERNESTO: In un cielo. (Sorride appena.) Quell'anno Brera mi aveva dato da restaurare una tavola del Quattrocento. Un San Sebastiano. Lombardo, di un pittore senza nome. Stava nei depositi da cento anni. Nessuno lo guardava.
+DAVIDE: Il posto perfetto.
+ERNESTO: Ettore mi ha aiutato. Per sei mesi, tutte le sere dopo le sette. Sotto il cielo, sopra le frecce, ho scritto le dodici parole con la biacca. Lettera per lettera. Poi ho ridipinto il cielo sopra. Un cielo di Lombardia. "Così bello quand'è bello, così splendido, così in pace."
 DAVIDE: Manzoni. (Pausa.) E le dodici parole? Te le ricordi?
-ERNESTO: No. E non è la vecchiaia. Ettore me le dettava una lettera alla volta, mischiate, e io le scrivevo senza leggerle. Come un copista che non sa il latino. Poi ha bruciato il foglio. Lì, in quel lavandino. Mi ha detto solo: "È un salmo. La preghiera di chi lavora senza firmare." E poi trent'anni di silenzio. Ogni anno, il venti gennaio, il giorno di San Sebastiano, andavo a Brera a salutarlo. Il custode mi faceva scendere nel deposito. Io guardavo il cielo e stavo zitto.
+ERNESTO: No. E non è la vecchiaia. Ettore me le dettava una lettera alla volta, dall'ultima alla prima, e io le scrivevo senza leggerle. Come un copista che non sa il latino. Poi ha bruciato il foglio. Lì, in quel lavandino. Mi ha detto solo: "È un salmo. La preghiera di chi lavora senza firmare." E poi trent'anni di silenzio. Ogni anno, il venti gennaio, il giorno di San Sebastiano, andavo a Brera a salutarlo. Il custode mi faceva scendere nel deposito. Io guardavo il cielo e stavo zitto.
 (Pausa lunga. Davide guarda le due fotografie.)
 DAVIDE: Ettore è morto a febbraio.
 ERNESTO: L'ho letto sul giornale. Due righe. "Anziano muore nella laguna." Due righe, per Ettore.
-DAVIDE: Ero lì, papà. È morto davanti a me. Su un'isola, in mezzo al fuoco.
+DAVIDE: Ero lì, papà. Quando è morto, ero lì.
 (Ernesto lo guarda. Le labbra gli tremano.)
-DAVIDE: Le ultime parole le ha dette a me. "Il terzo pezzo… chiedi a Ernesto." Non l'ho mai detto a nessuno. Nemmeno a te. Ho aspettato nove mesi.
+ERNESTO: Non dirmi come. Non oggi.
+DAVIDE: Ti dico solo una cosa. Le ultime parole le ha dette a me. "Il terzo pezzo… chiedi a Ernesto." Non l'ho mai detto a nessuno. Nemmeno a te. Ho aspettato nove mesi.
 ERNESTO: Quel vecchio testone. Fino all'ultimo, a darmi lavoro.
 (Ernesto si copre gli occhi con la mano sinistra. La destra continua a tremare sul tavolo.)
 
@@ -153,9 +156,9 @@ ERNESTO: Anch'io mi ricordo di lui.
 DAVIDE: Da quando?
 ERNESTO: Da Aosta. Giugno del 2005. Il tuo giuramento. Pioveva, ti ricordi? Tua madre aveva l'ombrello rosso.
 DAVIDE: Me lo ricordo.
-ERNESTO: Dopo la cerimonia, nel cortile della caserma, un colonnello è venuto da me. Elegante, gentile. Non era degli alpini. Mi ha stretto la mano e ha detto: "Signor Colombo, suo figlio andrà lontano. Festina lente." Poi mi ha guardato. Come si guarda un quadro prima di comprarlo.
+ERNESTO: Dopo la cerimonia, nel cortile della caserma, un colonnello è venuto da me. Elegante, gentile. Non era degli alpini. Mi ha stretto la mano e ha detto: "Signor Colombo, Lei deve essere molto orgoglioso. Suo figlio andrà lontano." Aveva le mani morbide. Poi mi ha guardato. Come si guarda un quadro prima di comprarlo.
 DAVIDE: Malaspina.
-ERNESTO: Nel '94 Ettore mi aveva detto: "C'è un capitano a Roma, giovane, che parla latino come un prete. Si chiama Ruggero. Se un giorno un romano ti parla in latino e conosce il tuo nome, sta' zitto." E quel giorno, sotto la pioggia, io sono stato zitto.
+ERNESTO: Nel '94 Ettore mi aveva detto: "C'è un capitano a Roma, giovane, con le mani morbide, che parla latino come un prete. Si chiama Ruggero. Se un giorno un romano ti parla in latino e conosce il tuo nome, sta' zitto." E quel giorno, sotto la pioggia, io sono stato zitto.
 (Silenzio. Davide si alza. Cammina fino al lucernario. Si volta.)
 DAVIDE: Tu sapevi. Da vent'anni.
 ERNESTO: Ho sempre saputo cosa facevi, Davide. Non dove. Non come. Ma cosa, sì. E per chi.
@@ -166,11 +169,11 @@ ERNESTO: No. Non è la stessa cosa. Lo so. (La voce gli si incrina, poi torna fe
 DAVIDE: Potevi dirmelo e basta. Potevo fermarlo.
 ERNESTO: A venticinque anni? Con un fucile da alpino e la testa piena di Manzoni? Ti avrebbe mangiato a colazione.
 DAVIDE: E allora hai fatto il vecchio stupido.
-ERNESTO: Vent'anni da vecchio stupido. È stato il restauro più lungo della mia vita. Ogni Natale ti chiedevo se ti avevano promosso. E tu rispondevi la stessa cosa. E io facevo finta di crederci.
+ERNESTO: Vent'anni da vecchio stupido. Mi è venuto bene. Troppo bene. Ogni Natale ti chiedevo se ti avevano promosso. E tu rispondevi la stessa cosa. E io facevo finta di crederci.
 DAVIDE: A febbraio, al telefono. Il falso. Avevi capito tutto.
 ERNESTO: Avevo capito che facevi il lavoro di Ettore. E ti ho insegnato il suo trucco. La biacca con un filo di nero. "Un mio collega." Era Ettore.
 (Pausa.)
-ERNESTO: Tua madre lo aveva capito da sola, sai. Prima di me. Mi diceva: "Non chiedergli perché ha smesso. Se glielo chiedi, dovrà mentirti. Non farlo mentire a casa sua."
+ERNESTO: A tua madre ho detto solo: lavora in un ufficio militare, a Roma. Lei non ha fatto domande. Ma mi diceva: "Non chiedergli perché ha smesso. Se glielo chiedi, dovrà mentirti. Non farlo mentire a casa sua."
 (Davide torna a sedersi. Prende il bicchierino. Lo beve tutto d'un fiato.)
 DAVIDE: Sono stato il suo cane da tartufo. Venezia, Roma, Trieste. Un pezzo alla volta. E l'ultimo pezzo era qui. Da te. Mi ha scelto per questo, papà. Non perché ero bravo. Perché ero tuo figlio. (Pausa.) E non ti perdono.
 ERNESTO: "Dio perdona tante cose, per un'opera di misericordia." Lo dice Lucia all'Innominato. Io non ti chiedo di perdonarmi, Davide. Ti chiedo di finire il lavoro.
@@ -181,7 +184,7 @@ ERNESTO: "Dio perdona tante cose, per un'opera di misericordia." Lo dice Lucia a
 
 ERNESTO: Guarda.
 (La mano destra trema. La punta del pennello disegna nell'aria piccoli cerchi involontari. Ernesto la ferma con la sinistra. Non basta.)
-ERNESTO: Il cielo l'ho chiuso con una vernice mia. Prima di guardare sotto, bisogna toglierla. Un centimetro quadrato alla volta. Solvente, tampone, e il fiato trattenuto. Se sbagli, porti via il cielo e le parole insieme.
+ERNESTO: Il cielo l'ho chiuso con un velo mio. Prima di guardare sotto, bisogna toglierlo. Un centimetro quadrato alla volta. Un tampone, un po' di saliva, e il fiato trattenuto. Se sbagli, porti via il cielo e le parole insieme.
 DAVIDE: Come il bordo della Madonnina. Un centimetro perfetto.
 ERNESTO: Un centimetro perfetto. (Guarda la propria mano.) Io non posso più aprirlo. Tu sì.
 (Davide prende la mano del padre. La tiene ferma, con la sua. Il pennello smette di tremare.)
@@ -219,11 +222,11 @@ VITALI (radio): Qui Vitali. Obiettivo localizzato. Porta Romana.
 - 아버지 집: 포르타 로마나 **via Bergamini** 근처, 옆 건물(갈색 대문) 안뜰에서 시작하는 **지하실 통로** → Ernesto 부엌. Ernesto는 11/26 밤부터 지하실 문을 열어 둠. 경찰(Conte 측) 차량이 정문 앞에 8시간 교대로 상주, AISE는 별도(회색 Fiat, 후방).
 - 공방: 안뜰 1층, 낮은 볼트 천장, 우윳빛 천창. Davide의 어린이용 작업대에 "D.C. 1989" 각인. 9살 때 첫 세척(19세기 작은 마돈나 액자 가장자리 1cm, 3시간).
 - **Ernesto–Vianello**: 1966년 11월 피렌체 홍수 '진흙의 천사들'로 만남(Ernesto 18, Ettore 20). Vianello는 밀라노에 올 때마다 공방 간이침대에서 잠("이탈리아에서 유일하게 도청기 없는 곳"). 같은 1994년 사진 두 장(Ernesto 소장본 + Davide가 벙커에서 가져온 것). 공방에 녹슨 비스킷 깡통(사진·수첩·빈 유리병).
-- **1994년 10월**: 젖은 채 밤에 온 Ettore — 키를 "la mia vergogna"라 부름, "il seme". Brera가 Ernesto에게 맡긴 **15세기 롬바르디아 무명 화가 *San Sebastiano***(100년간 수장고 보관), 한 달간 매일 밤 둘이 작업. **하늘 부분, 화살들 위**에 연백으로 12단어 → 하늘 덧칠 → **Ernesto 자신의 특제 바니시**로 봉함(먼저 1cm²씩 제거해야 적외선 판독 가능). Ernesto는 단어를 **모른다**: Ettore가 섞인 순서로 한 글자씩 불러 줌, 종이는 공방 개수대에서 태움. Ettore: "È un salmo. La preghiera di chi lavora senza firmare." 만초니 "Quel cielo di Lombardia, così bello quand'è bello, così splendido, così in pace."
+- **1994년 2월**: 젖은 채 밤에 온 Ettore(이후 6개월간 매일 저녁 7시 이후 공동 작업) — 키를 "la mia vergogna"라 부름, "il seme". Brera가 Ernesto에게 맡긴 **15세기 롬바르디아 무명 화가 *San Sebastiano***(100년간 수장고 보관) **하늘 부분, 화살들 위**에 연백으로 12단어 → 하늘 덧칠 → **Ernesto 자신의 '베일'(velo)**로 봉함(먼저 탐폰과 침으로 1cm²씩 제거해야 적외선 판독 가능 — 7화와 일치). Ernesto는 단어를 **모른다**: Ettore가 끝 글자부터 거꾸로 한 글자씩 불러 줌, 종이는 공방 개수대에서 태움. Ettore: "È un salmo. La preghiera di chi lavora senza firmare." 만초니 "Quel cielo di Lombardia, così bello quand'è bello, così splendido, così in pace."
 - Ernesto는 매년 **1월 20일(성 세바스티아노 축일)** 브레라 수장고에 가서 그림을 '인사'함(관리인이 내려보내 줌).
-- Davide가 처음으로 Vianello 유언("Il terzo pezzo… chiedi a Ernesto")을 아버지에게 전함. Ernesto는 2월 신문 두 줄로 죽음을 앎.
-- **2005년 6월 아오스타 입대 선서식**(비, 어머니의 빨간 우산): 알피니가 아닌 '대령' Malaspina가 Ernesto에게 악수 — "Signor Colombo, suo figlio andrà lontano. Festina lente." 1994년 Vianello의 경고: "C'è un capitano a Roma, giovane, che parla latino come un prete. Si chiama Ruggero… sta' zitto." Ernesto 침묵 이유: 알면 둘 다 죽음. "Ti ho lasciato vivo." Davide: "E non ti perdono." Ernesto: 만초니 Lucia "Dio perdona tante cose, per un'opera di misericordia." / "Ti chiedo di finire il lavoro."
-- 1부 7화의 '동료'(연백+검정) = Vianello 확인. 어머니 Rosa는 아들의 직업을 스스로 알아챘음("Non farlo mentire a casa sua").
+- Davide가 처음으로 Vianello 유언("Il terzo pezzo… chiedi a Ernesto")을 아버지에게 전함. Ernesto는 2월 신문 두 줄로 죽음을 앎. Davide가 임종 현장에 있었다고 말하자 Ernesto: "Non dirmi come. Non oggi." → **사망 경위는 여전히 모름**(7화와 일치).
+- **2005년 6월 아오스타 입대 선서식**(비, 어머니의 빨간 우산): 알피니가 아닌 '대령' Malaspina가 Ernesto에게 악수 — "Signor Colombo, Lei deve essere molto orgoglioso. Suo figlio andrà lontano." 부드러운 손. 1994년 Vianello의 경고: "C'è un capitano a Roma, giovane, con le mani morbide, che parla latino come un prete. Si chiama Ruggero… sta' zitto." Ernesto 침묵 이유: 알면 둘 다 죽음. "Ti ho lasciato vivo." Davide: "E non ti perdono." Ernesto: 만초니 Lucia "Dio perdona tante cose, per un'opera di misericordia." / "Ti chiedo di finire il lavoro."
+- 1부 7화의 '동료'(연백+검정) = Vianello 확인. Ernesto는 Rosa에게 "로마의 군 사무실"이라고만 말함, Rosa는 묻지 않았고 "Non chiedergli perché ha smesso… Non farlo mentire a casa sua"라고 함.
 - 11/26 공중전화의 "Nessuno ti vedrà"는 도청을 의식한 연기이자 진심.
 - Davide가 25세에 복원을 그만둔 이유: "모든 그림이 이미 아버지의 것이었다." Ernesto: "Allora adesso usa il tuo [nome]… Non è un granché, come nome. Ma è nostro."
 - Vitali(35, 짧은 머리) 첫 등장: 회색 Fiat, "Niente con lui è facile. Me l'ha insegnato lui." 11/28 16시 무전 "Obiettivo localizzato. Porta Romana."

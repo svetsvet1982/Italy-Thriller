@@ -10,7 +10,7 @@ NADIA: Sono venti minuti che tieni quella cartella come un messale. Me la fai ve
 DAVIDE: Carte vecchie. Fotocopie, appunti di Vianello. Te le faccio vedere con la luce. Se leggo in macchina mi viene la nausea.
 (Davide chiude la cartella. Sotto il palmo, a faccia in giù, c'è la fotografia.)
 DAVIDE: Nadia. Kovačič è rimasto là per noi.
-NADIA: Lo so. Mi ha nascosta per sei mesi. Mi ha dato da mangiare, mi ha prestato i libri, mi ha insegnato tre parolacce in sloveno. E stanotte l'ho lasciato in un bosco con quattro uomini armati.
+NADIA: Lo so. Mi ha nascosta quando non avevo più nessuno. Mi ha dato da mangiare, mi ha prestato i libri, mi ha insegnato tre parolacce in sloveno. E stanotte l'ho lasciato in un bosco con quattro uomini armati.
 DAVIDE: L'ho lasciato io. Tu guidavi e basta.
 NADIA: Non fare il cavaliere. Alle cinque del mattino non ti riesce.
 (Silenzio. Un cartello stradale scivola nel buio: TRIESTE 9.)
@@ -67,7 +67,7 @@ NADIA (in cuffia): Confermo. La randa nera si vede anche senza binocolo. Si è i
 DAVIDE: Cosa fa?
 FURLAN (radio): Niente di sportivo. Vele da crociera, sei uomini a bordo. Nessuno guarda il vento. Guardano il telefono, tutti e sei.
 NADIA (in cuffia): Sto ascoltando i canali nautici. Sedici, settantadue… Sul settantadue c'è qualcuno che parla serbo. Aspetta.
-ILIĆ (radio, intercettato): …dopo la boa. Quando gira il vento. Non prima.
+DRAGAN (radio, intercettato): …dopo la boa. Quando gira il vento. Non prima.
 NADIA (in cuffia): È lui. Giuro, è la voce del magazzino. "Dopo la boa, quando gira il vento."
 DAVIDE (piano): Quale boa?
 BRUNO: Ciò, perito, con chi parla? Col Padreterno?

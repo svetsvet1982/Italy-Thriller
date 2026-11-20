@@ -234,5 +234,5 @@ DAVIDE: …Allora lo dico io, da oggi.
 - Claire 엽서(파리, 이브 클랭의 청색 모노크롬 그림): "Ufficio senza finestre, come previsto. Ma vicino c'è un museo con un blu grosso… Brilla perché è un po' rozzo. Hai una faccia che torna. Io forse no. Forse sì. C." Davide: "Una collega."
 - Nadia 음성 메시지(나폴리 Ciro 빵집): 배지 복권·서면 사과·창문 있는 사무실 제안, "생각 중"(열린 결말). Vitali 1월 밀라노에서 증언. Conte는 카놀리를 보내며 "다음 체포는 우정으로". Wang이 싱가포르의 Il Nido 계좌 추가 발견.
 - **Il Nido 나머지 6인**: 2명 체포(빈, 브뤼셀), 1명 네덜란드에서 협조, **3명 미체포 — 코드명만 있고 얼굴 없음**(속편 여지).
-- Anselmo 편지: 산 비토레로 Malaspina 면회 → 다시 고해 요청, 이번엔 말없이 무릎 꿇음, "처음으로 이기지 못했다", 답은 비밀("gesuita, non giornalista"). "Si ricordi la penitenza." → Davide는 Giulia가 "Davide"라 불러도 끝까지 고치지 않음(보속 이행) → **Giulia가 스스로 처음 "papà"라고 부름**: "E adesso cosa farai, papà?" (확정 마지막 대사 그대로).
+- Anselmo 편지: 산 비토레로 Malaspina 면회 → 다시 고해 요청, 이번엔 말없이 무릎 꿇음, "처음으로 이기지 못했다", 답은 비밀("gesuita, non giornalista"). "Si ricordi la penitenza." → Davide는 Giulia가 "Davide"라 불러도 끝까지 고치지 않음(보속 이행) → **Giulia가 스스로 다시 "papà"라고 부름**(4부 내내 거둬들였던 호칭의 회복): "E adesso cosa farai, papà?" (확정 마지막 대사 그대로).
 -->

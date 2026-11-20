@@ -1,6 +1,6 @@
 # La Bora — Episodio 4: «Il Carso»
 
-> 3부 4화 · 장소: Albergo Miramonti 바 → 베르살리에리 부두(무자행 여객선) → 무자 항구 → 카르소 Samatorza의 오스미차 → 돌담 오솔길 → 사냥꾼 오두막 → 동굴 옛 수직 입구 · 시점: 10월 4일(일) 아침 ~ 오후
+> 3부 4화 · 장소: Albergo Miramonti 바 → 베르살리에리 부두(무자행 여객선) → 무자 항구 → 카르소 Samatorza의 오스미차 → 돌담 오솔길 → 사냥꾼 오두막 → 동굴 옛 수직 입구 → 밤의 오두막 · 시점: 10월 4일(일) 아침 ~ 밤
 
 ---
 
@@ -131,7 +131,7 @@ MARIJA: Questa la apriamo quando torna. Con lei.
 
 ---
 
-[SCENA 5 — Muggia, il mandracchio. La stessa ora. Barche da pesca, case veneziane color pastello, il campanile del duomo. Lenzi è in piedi sul molo, il cappotto aperto per la prima volta.]
+[SCENA 5 — Muggia, il mandracchio. Qualche ora prima: le undici del mattino, mentre Davide sale in corriera verso il Carso. Barche da pesca, case veneziane color pastello, il campanile del duomo. Lenzi è in piedi sul molo, il cappotto aperto per la prima volta.]
 
 (Il marinaio della motonave gli tende un piccolo disco nero, tenendolo con due dita, come una cosa bagnata.)
 MARINAIO: Era questo che cercava? Nella cassa dei salvagente, dentro un giubbotto. Lampeggiava.
@@ -141,7 +141,7 @@ MARINAIO: Distratto? Ciò. Uno che mette le sue cose nei salvagente non è distr
 LENZI (tra sé): Al primo squillo, Colombo. Le avevo detto al primo squillo.
 (Il suo telefono vibra. Sul display: un numero di Roma senza nome.)
 MALASPINA (al telefono): Dottor Lenzi. Buona domenica. Dov'è Colombo?
-(Lenzi guarda il telefono di Davide. Poi il mare. Una pausa di due secondi.)
+(Lenzi guarda il disco nero nel palmo della mano. Poi il mare. Una pausa di due secondi.)
 LENZI: A Muggia, generale. Lo vedo da qui. È seduto al bar del porto e mangia sardoni.
 MALASPINA (al telefono): Sardoni, di domenica mattina. Che uomo pratico. E la donna?
 LENZI: Nessuna traccia. Una pista del libraio. Credo che sia falsa.
@@ -185,44 +185,64 @@ TINA: Lo dici malissimo. Come lei. Adijo!
 
 [SCENA 7 — La lovska koča, nel bosco di roverelle. Poco dopo. Una casetta di pietra e legno, la porta socchiusa. Dentro, la penombra.]
 
-(Davide spinge la porta. Un letto da campo con una coperta grigia piegata con cura. Un tavolo, una sedia, una candela consumata. Su un fornelletto da campeggio, una moka piccola, da una tazza. Odore di caffè bruciato.)
+(Davide spinge la porta. Un letto da campo con una coperta grigia piegata con cura. Un tavolo, una sedia, una candela consumata, una torcia appesa a un chiodo. Su un fornelletto da campeggio, una moka piccola, da una tazza. Odore di caffè bruciato.)
+DAVIDE (a voce alta): Nadia? Sono io.
+(Nessuna risposta. Un ghiro scappa sotto il tetto.)
 DAVIDE (tra sé): Una moka da una tazza. Nessuno al mondo si porta una moka in un bosco. Tranne una napoletana.
 (Tocca la cera della candela. Cede sotto il dito.)
-DAVIDE (tra sé): Morbida. Sei stata qui ieri. Forse stamattina.
+DAVIDE (tra sé): Morbida. Sei stata qui ieri sera. Forse stamattina.
 (Su un chiodo vicino alla porta, appeso a un filo rosso, un piccolo cornetto di corallo. Davide lo guarda senza toccarlo.)
 DAVIDE (tra sé): Il cornetto contro il malocchio. Te lo sei dimenticato? O l'hai lasciato per me?
 (Sul tavolo, sotto una pietra, un foglio strappato da un quaderno. Colonne di date e di orari, di marzo e di aprile, scritte con una grafia veloce, inclinata a destra. Accanto a ogni riga, la stessa frase, sottolineata due volte: NON ERO IO.)
 DAVIDE (tra sé): "Non ero io." Lo so, Nadia. L'ho detto in commissione. Mi hanno mandato in archivio per averlo detto.
-(Si siede sul letto da campo. Si passa le mani sulla faccia.)
-DAVIDE (tra sé): Sei mesi. Ho ascoltato il tuo messaggio tutte le sere. "Nemmeno di lui." Avevi ragione. Non fidarti di nessuno. Ma io sono venuto a piedi, con una bottiglia di vino e senza telefono. Più disarmato di così…
-(Dalla finestrella, Davide vede delle impronte nel fango, tra le foglie: piccole, leggere, che si allontanano verso il fondo del bosco. Verso una macchia scura tra le rocce.)
+(Rimette il foglio sotto la pietra, esattamente com'era. Dalla finestrella vede delle impronte nel fango, tra le foglie: piccole, leggere, che si allontanano verso il fondo del bosco. Verso una macchia scura tra le rocce.)
 DAVIDE (tra sé): Dove vai, scugnizza?
 
 ---
 
-[SCENA 8 — Il fondo del bosco. Un vecchio pozzo d'accesso, scavato nella roccia: uno degli ingressi dei primi esploratori della Grotta Gigante, dimenticato da tutti. Una grata di ferro arrugginita. Aria fredda che sale dal buio.]
+[SCENA 8 — Il fondo del bosco. Pomeriggio inoltrato. Un vecchio pozzo scavato nella roccia: uno degli ingressi dei primi esploratori della Grotta Gigante, dimenticato da tutti. Una grata di ferro arrugginita. Aria fredda che sale dal buio.]
 
-(Il lucchetto della grata è aperto, appeso a un anello. Dal buco sale un respiro umido, minerale. Davide si china. Tra le foglie, ai piedi della grata, qualcosa di piccolo, lucido: una carta di caramella, verde e nera. Menta e liquirizia.)
+(Il lucchetto della grata è chiuso, nuovo, lucido. Dal buco sale un respiro umido, minerale. Davide si china. Tra le foglie, ai piedi della grata, qualcosa di piccolo e lucido: una carta di caramella, verde e nera. Menta e liquirizia.)
 DAVIDE (tra sé): Menta e liquirizia.
 (La raccoglie. La liscia tra le dita.)
 DAVIDE (tra sé): La Settimana Santa, a Roma. Le notti senza fine. Nelle cuffie, ogni mezz'ora, il rumore di questa carta. Le dicevo: smettila, mi sembra di avere un topo nell'orecchio.
 DAVIDE (tra sé): E lei: "Il topo ti tiene sveglio, Meneghino. Ringrazia il topo."
-(Davide sorride. Mette la carta in tasca. Si alza, guarda il buio della grotta.)
-DAVIDE (verso il pozzo, a voce bassa): Nadia? Sono io. Sono solo.
-(Nessuna risposta. Solo l'aria fredda. Poi, alle sue spalle, tra le roverelle, un clic metallico. Il rumore secco di un carrello che scorre: un colpo in canna.)
-(Davide si irrigidisce. Non si volta.)
+(Davide sorride. Mette la carta in tasca, insieme al tovagliolo di giovedì. Guarda il lucchetto nuovo.)
+DAVIDE (verso il pozzo, a voce bassa): Nadia? Sono solo. Ho portato il vino. L'ho lasciato a Marija.
+(Solo l'aria fredda gli risponde. Lontano, sulla strada provinciale, passa una macchina. Poi più niente.)
+DAVIDE (tra sé): Va bene, va bene. Aspetto. Sei mesi li ho aspettati in archivio. Qualche ora la aspetto in un bosco.
+
+---
+
+[SCENA 9 — La lovska koča. Le diciannove e trenta. Buio. Fuori, la luna a pezzi tra le querce. Dentro, solo il riflesso dello schermo di un telefono sulla faccia di Davide.]
+
+(Davide è seduto sul letto da campo, la schiena contro il muro di pietra. Sullo schermo, sette chiamate perse: LENZI. Le cancella. Poi apre il registratore vocale. Esita. Preme.)
+DAVIDE (a bassa voce, al telefono): Giulia. Sono papà. Non è una chiamata, è… un messaggio che forse non ti mando.
+DAVIDE (a bassa voce, al telefono): Oggi una signora di settantotto anni mi ha detto che le figlie scoprono tutto. E che poi non perdonano il ritardo. Allora te lo dico prima. Io non vendo assicurazioni. Non le ho mai vendute.
+DAVIDE (a bassa voce, al telefono): Il resto te lo racconto a Milano. Davanti a una pizza. Tu una margherita, io una diavola. Come sempre.
+(Si ferma. Ascolta la propria voce, registrata, nel silenzio del bosco. Poi tiene il dito sul tasto: Elimina. Non lo preme. Salva il file, senza inviarlo.)
+DAVIDE (tra sé): Un'altra cosa che rimando a domani. Come Zeno con le sigarette.
+(Fuori, tra le foglie bagnate, un rumore. Un ramo che si spezza. Poi niente. Davide si alza, prende la torcia appesa al chiodo e la accende. Esce.)
+DAVIDE: C'è qualcuno?
+(Il fascio di luce attraversa le querce, le pietre, il muretto. Nessuno. Davide fa qualche passo sul sentiero. La torcia illumina le foglie bagnate ai suoi piedi.)
+DAVIDE (tra sé): Un capriolo. O un ghiro con le scarpe.
+(Poi, alle sue spalle, a tre metri, un clic metallico. Il rumore secco di un cane che si arma.)
+(Davide si ferma. Non si volta. Il fiato gli resta in gola.)
 NADIA: Ciao, Meneghino. Mani dove le vedo.
 
 — FINE DELL'EPISODIO 4 —
 
 <!-- 연속성 메모:
 - 10/4(일) 07시: Bepi가 호텔 저장고의 **Sassella(Valtellina) 2016**을 줌(2019년 손드리오 손님이 숙박비 대신 두고 간 병, "냅킨 아가씨 계산으로"). Davide는 엽서를 세면대에서 태움.
-- Lenzi 따돌리기: 07:15 거짓 보고("4월 나폴리 억양 여자가 무자 mandracchio 신문 가판대에서 매일 신문을 샀다고 서점 주인이 말함") → 09:30 Molo dei Bersaglieri발 무자행 여객선. Lenzi는 회색 **Lancia**로 리바에서 감시. Davide는 켜진 휴대전화를 하갑판 **구명조끼 상자**에 넣고 독일인 자전거 여행객들 사이로 하선. Lenzi는 해안도로로 배를 따라감. 이후 Davide는 휴대전화 없음(카르소에서 연락 수단 없음).
-- **Lenzi가 Malaspina에게 거짓말**(11:04, 무자 항구): "A Muggia… mangia sardoni." Malaspina: "Colombo ha le gambe lunghe. Gli alpini camminano anche quando dormono." + Luka 건에 대해 "Ottimo lavoro… Peccato, poi." / "Il mare, a Trieste. Non perdona nessuno." Lenzi 수첩: «Ore 11.04. G.: "Peccato". Non riferito: C. assente.» Lenzi는 Davide의 휴대전화를 보관 중(안주머니). → Lenzi가 독자적으로 Malaspina를 의심하기 시작했다는 숨은 신호(9화 '두더지 Lenzi' 조작과 병행 가능).
+- Lenzi가 Davide의 갈색 울 재킷 옷깃에 **단추 크기의 검은 GPS 추적기**를 꿰매 둠 → Davide가 10/4 새벽 3시 발견, 면도날로 뜯어냄.
+- Lenzi 따돌리기: 07:15 거짓 보고("4월 나폴리 억양 여자가 무자 mandracchio 신문 가판대에서 매일 신문을 샀다고 서점 주인이 말함") → 09:30 Molo dei Bersaglieri발 무자행 여객선. Lenzi는 회색 **Lancia**로 리바에서 감시. Davide는 추적기를 하갑판 **구명조끼 상자** 속 구명조끼 주머니에 넣고 독일인 자전거 여행객들 사이로 하선. Lenzi는 해안도로로 배를 따라감. **휴대전화는 Davide가 계속 소지(켜 둔 채)** — Lenzi의 전화(낮 동안 7통 부재중)를 받지 않음. 저녁 19:40경 Nadia가 휴대전화를 깡통에 넣게 함(5화).
+- **Lenzi가 Malaspina에게 거짓말**(11:04, 무자 항구): "A Muggia… mangia sardoni." Malaspina: "Colombo ha le gambe lunghe. Gli alpini camminano anche quando dormono." + Luka 건에 대해 "Ottimo lavoro… Peccato, poi." / "Il mare, a Trieste. Non perdona nessuno." Lenzi 수첩: «Ore 11.04. G.: "Peccato". Non riferito: C. assente.» Lenzi는 추적기를 안주머니에 보관. Lenzi가 Davide에게 건 전화는 6번 울리고 무응답("Al primo squillo, Colombo"). → Lenzi가 독자적으로 Malaspina를 의심하기 시작했다는 숨은 신호(9화 '두더지 Lenzi' 조작과 병행 가능).
 - 오스미차: **Samatorza**, 장대에 거꾸로 매단 frasca + 붉은 화살표. **Kralj 가족**: Marija(78, 1948년 이 집에서 출생 — 당시 트리에스테 자유지역, 아버지는 오스트리아 출생, 남편 사망·사냥꾼), 아들 **Boris**(50대, 과묵), 손녀 **Tina**(10, 땋은 머리, 개 한 마리). 메뉴: pršut, 살라미, jajca(삶은 달걀), 치즈, **teran**("Fa bene al sangue e male ai segreti"). 접선 확인 = 와인 지참 + "고양이 Zeno". Sassella는 "그녀와 함께 돌아오면 연다"며 남편 사진 옆 선반에 보관.
 - Nadia 흔적: 5월 오스미차에 도보로 옴, 마르고 화나 있었음, 달걀값을 동전으로 두 번 세어 냄, Tina에게 "hvala"를 배우며 단 한 번 웃음. 지금도 가끔 새벽에 빵을 가져가고 창턱에 동전 두 개를 둠. Tina에게 "scugnizza"를 가르침, "밀라노에 말수 적고 형편없이 먹는 친구가 있다"고 말함.
 - 길: 돌리나 뒤 돌담 세 개 → 세 번째 돌담의 붉은 옻나무(sommaco) → roverella(참나무) 숲 → **lovska koča**(Marija 남편의 노루 사냥 오두막).
-- 오두막 흔적: 군대식으로 갠 회색 담요, 1인용 모카포트(탄 커피 냄새), 아직 무른 양초(어제~오늘 아침), 문 옆 못에 **붉은 끈의 산호 cornetto**, 돌 아래 쪽지 — 3~4월 날짜·시각 목록마다 두 줄 밑줄 "**NON ERO IO**".
-- 동굴: Grotta Gigante 초기 탐험가들의 잊힌 **옛 수직 입구**, 녹슨 철창, 자물쇠 열려 있음. 철창 앞 **초록·검정 박하감초 사탕 포장지** — 2부 성주간 밤 이어피스로 들리던 포장지 소리("Il topo ti tiene sveglio, Meneghino. Ringrazia il topo."). (5화는 이 입구로 동굴 내부 진입 가능.)
-- 클리프행어: 뒤쪽 참나무 숲에서 슬라이드 당기는 소리. Nadia 첫 실물 대사 "Ciao, Meneghino. Mani dove le vedo." Davide는 돌아보지 않음.
+- 오스미차에서 Lenzi 전화를 엎어 둠 — Marija: "Gli avvocati di domenica sono come le vipere di ottobre. Lenti, ma mordono."
+- 오두막 흔적: 정성껏 갠 회색 담요, 못에 걸린 손전등, 1인용 모카포트(탄 커피 냄새), 아직 무른 양초(어제~오늘 아침), 문 옆 못에 **붉은 끈의 산호 cornetto**, 돌 아래 쪽지 — 3~4월 날짜·시각 목록마다 두 줄 밑줄 "**NON ERO IO**".
+- 동굴: 오두막 아래 숲 끝, Grotta Gigante 초기 탐험가들의 잊힌 **옛 수직 입구**, 녹슨 철창에 **새 자물쇠(잠김)**. 철창 앞 **초록·검정 박하감초 사탕 포장지** — 2부 성주간 밤 이어피스로 30분마다 들리던 포장지 소리("Il topo ti tiene sveglio, Meneghino. Ringrazia il topo."). Davide는 포장지를 'Nun te fidà' 냅킨과 함께 주머니에 보관.
+- 19:30 오두막: Davide가 Giulia에게 보내지 않은 음성 메모 녹음·저장("Io non vendo assicurazioni. Non le ho mai vendute." / "Tu una margherita, io una diavola") — 미전송, 삭제하지 않음.
+- 클리프행어(19:40경, 밤): 나뭇가지 소리 → Davide가 오두막 손전등을 들고 나가 오솔길의 젖은 낙엽을 비춤 → 뒤 3m에서 공이치기 소리. Nadia 첫 실물 대사 "Ciao, Meneghino. Mani dove le vedo." Davide는 돌아보지 않음. (5화 cold open과 연결: 오두막 앞, 손전등.)
 -->

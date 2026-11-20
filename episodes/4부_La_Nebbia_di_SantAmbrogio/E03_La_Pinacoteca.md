@@ -1,6 +1,6 @@
 # La Nebbia di Sant'Ambrogio — Episodio 3: «La Pinacoteca»
 
-> 4부 3화 · 장소: 포르타 로마나 감시 차량·아버지 공방 → 브레라 미술관(안뜰·유리 복원실·전시실) → Beppe의 다락방 → 밀라노 국립대(via Festa del Perdono) 열람실·회랑 · 시점: 11월 28일(토) 오후 4시 ~ 12월 1일(화) 밤
+> 4부 3화 · 장소: 포르타 로마나 감시 차량·아버지 공방 → 브레라 미술관(안뜰·유리 복원실·전시실) → Beppe의 다락방 → 밀라노 국립대(via Festa del Perdono) 열람실·회랑 · 시점: 11월 28일(토) 오후 4시 ~ 12월 1일(화) 저녁 6시
 
 ---
 
@@ -33,9 +33,9 @@ ERNESTO: Io resto. Sono vecchio, ho il Parkinson e la Gazzetta da finire. E ragi
 DAVIDE: Finché non lo trovo, sei al sicuro.
 ERNESTO: E dopo?
 DAVIDE: Dopo ci penso io.
-ERNESTO: "Ghe pensi mi." Lo diceva tuo nonno, e poi ci pensava tua nonna. (Gli mette in mano un mazzo di chiavi vecchie.) La bottega. La cantina. E questa, piccola, è quella dell'armadio. Dentro c'è il mio vecchio solvente, quello buono. E i tamponi.
-DAVIDE: Lo porto via?
-ERNESTO: No. Lo prendi quando serve. Adesso va' a vedere il tuo santo. Ti sta aspettando da trent'anni.
+ERNESTO: "Ghe pensi mi." Lo diceva tuo nonno, e poi ci pensava tua nonna. (Gli mette in mano un mazzo di chiavi vecchie.) La bottega. La cantina. Così torni quando vuoi, senza passare dal portone.
+DAVIDE: E gli attrezzi?
+ERNESTO: La mia cassetta la porto io, quando sarà ora. Adesso va' a vedere il tuo santo. Ti sta aspettando da trent'anni.
 
 ---
 
@@ -165,7 +165,7 @@ NADIA: In biblioteca non si urla, e noi l'abbiamo fatto. Mangia, Meneghino.
 [SCENA 7 — Il Cortile della Ghiacciaia, dentro la Ca' Granda. Mezzogiorno. Studenti che fumano sotto i portici. Davide e Nadia camminano lentamente, dividendo la sfogliatella.]
 
 NADIA: Allora. Il quadro.
-DAVIDE: Un San Sebastiano lombardo del Quattrocento. Deposito tre, a Brera. Le dodici parole sono sotto il cielo, coperte da una vernice di mio padre. Bisogna toglierla un centimetro alla volta e guardare con l'infrarosso.
+DAVIDE: Un San Sebastiano lombardo del Quattrocento. Deposito tre, a Brera. Le dodici parole sono sotto il cielo, coperte da un velo di mio padre. Bisogna toglierlo un centimetro alla volta e guardare con l'infrarosso.
 NADIA: E tuo padre?
 DAVIDE: Viene con me. Lui sa dove. Io so come.
 NADIA: Un vecchio di settantotto anni con il Parkinson, in un sotterraneo, di notte. Che bel piano.
@@ -181,7 +181,7 @@ WANG (al telefono): Tutti hanno bisogno di me. Pochi lo dicono con quella voce. 
 NADIA: Sì. Con un amico.
 WANG (al telefono): L'amico è quello del telegiornale? Il Colombo?
 NADIA: Come fai a…
-WANG (al telefono): Sono nato al Fatebenefratelli, Rinaldi. Conosco la mia città. E un milanese ricercato, a Milano, chiede aiuto a una napoletana. È statistica. Giovedì. A pranzo. Via Paolo Sarpi, il ristorante con il drago rotto sull'insegna. Ravioli al vapore. Paga lui.
+WANG (al telefono): Sono nato alla Mangiagalli, Rinaldi. Conosco la mia città. E un milanese ricercato, a Milano, chiede aiuto a una napoletana. È statistica. Giovedì. A pranzo. Via Paolo Sarpi, il ristorante con il drago rotto sull'insegna. Ravioli al vapore. Paga lui.
 DAVIDE (verso il telefono): Paga lei, signor Wang?
 WANG (al telefono): Ué, Colombo. Pago io se l'Inter vince il derby. Altrimenti paghi tu. In contanti.
 (Clic. Nadia guarda Davide.)
@@ -190,7 +190,7 @@ DAVIDE: Mi riconoscono tutti, in questa città. È un incubo.
 
 ---
 
-[SCENA 8 — Stanza sopra il garage di Beppe. Martedì 1 dicembre, le undici di sera. Nadia è seduta per terra con un portatile sulle ginocchia, collegato al telefono di Beppe. Davide è alla finestra. Beppe dorme di sotto: si sente russare.]
+[SCENA 8 — Stanza sopra il garage di Beppe. Martedì 1 dicembre, le sei di sera. Nadia è seduta per terra con un portatile sulle ginocchia, collegato al telefono di Beppe. Davide è alla finestra. Da sotto arriva il rumore del bar: bicchieri, voci, la macchina del caffè.]
 
 NADIA: Ho trovato il contratto. Era pubblico, sul sito del Ministero. Gara d'appalto, aprile. "Adeguamento sistemi di sicurezza dei depositi della Pinacoteca di Brera."
 DAVIDE: Chi l'ha vinta?
@@ -206,7 +206,7 @@ NADIA: Il sistema di sicurezza di Brera l'ha aggiornato una ditta romana. Indovi
 
 <!-- 연속성 메모:
 - 11/28 16:05 Malaspina–Vitali 통화(Malaspina는 Vitali에게 **Lei**): "Colombo è un cane da tartufo… il tartufo è ancora sotto terra." 진입 금지, 미행만. Vitali: "Niente, signore. È un obiettivo." → Malaspina: "Bugia. Ma una bugia ben detta."
-- Ernesto는 집에 남음(감시받는 상태, 그림 위치를 아는 유일한 사람이라 안전하다는 논리). Davide에게 공방·지하실·**옷장 열쇠**(옛 특제 솔벤트와 탐폰 보관) 꾸러미를 줌 → 7화 도구. Davide는 11/28 밤 지하실로 빠져나와 Beppe의 다락방으로 복귀.
+- Ernesto는 집에 남음(감시받는 상태, 그림 위치를 아는 유일한 사람이라 안전하다는 논리). Davide에게 공방·지하실 열쇠 꾸러미를 줌. 공구함(cassetta)은 "때가 되면 내가 가져간다" → 6·7화. Davide는 11/28 밤 지하실로 빠져나와 Beppe의 다락방으로 복귀.
 - 11/29(일) 브레라 정찰: 안뜰 나폴레옹 동상, 아카데미 6호 강의실(교수 **Arrigoni**: "Colombo, il restauro non è un'opinione!"), 유리벽 공개 복원실에서 아이에게 **rigatino** 설명("il restauro deve dire la verità, ma senza disturbare").
 - **custode Arturo Galli**(64, 브레라 25년, 12/31 은퇴): Davide를 Ernesto의 아들로 알아봄, 신고하지 않음. Ernesto가 매년 1/20 **deposito tre**에 내려가 *San Sebastiano* 앞에서 30분 침묵. 2026년 1월엔 계단을 못 내려가 위에서 문만 봄: "Va bene così, Arturo. Lui sa che sono qui." Ernesto는 1994년경 Arturo의 아들을 2년간 공방에 받아 줌. 24번 전시실(타조알 걸린 그림 앞 벤치)에서 대화.
 - **수장고 보안(2026년 4월 교체)**: 개인 배지+코드, 신형 카메라, 안뜰 쪽 문 폐쇄, 옛 서비스 계단(나폴레옹 홀 뒤) 사용 불가. 야간 경비 2명, **40분마다 순찰**, 카메라는 현지가 아닌 **로마의 관제센터**에서 감시. deposito tre는 via Fiori Oscuri 쪽 지하.
@@ -214,7 +214,7 @@ NADIA: Il sistema di sicurezza di Brera l'ha aggiornato una ditta romana. Indovi
 - **Nadia 첫 만남(2018년 11월)**: 국립대(via Festa del Perdono, Ca' Granda) 열람실 셋째 테이블 창가. Nadia(당시 26세)는 15세 때 받은 라틴어 4점을 '고치려고' 성인 야간 라틴어 강좌를 수강 중. Malaspina가 Davide를 보내 "affidabile인지" 평가하게 함. Davide의 첫 거짓말 "Scusi, è libero questo posto?" → 12/1 같은 대사로 재회, 암호처럼 "rosa, rosae" 격변화. Davide의 보고서 문구: "Intelligenza eccezionale, carattere impossibile, lealtà assoluta."(Nadia가 2021년 그의 파일을 열람해 읽음).
 - Nadia 현재: 짧게 어둡게 염색한 머리, 큰 스웨터, 눈썹에 새 흉터. 3부 이후 6주간 **프로치다**의 인터넷 없는 집(레몬 파는 노파와 고양이). AISE 접근권 전무.
 - Nadia는 **벙커에서 Davide가 사진을 숨긴 것을 봤다**고 밝힘. Davide는 Nadia에게 사진·1994년·아오스타 선서식 사실을 모두 공개, 사진을 함께 공유. Nadia: "No. Non ancora."(용서 보류) + 3일 된 나폴리 **sfogliatella**.
-- **Wang Lei**: Fatebenefratelli 병원 출생. 2019년 베를린 해커 대회에서 Nadia를 이김(그 뒤로 Nadia에게 맥주 한 잔 빚짐). 전화로 '수배된 밀라노 남자가 나폴리 여자에게 도움을 청한다 = 통계'라며 Davide 동행을 추리. 만남 약속: **12/3(목) 점심, via Paolo Sarpi '부러진 용 간판' 만둣집**. 내기: 더비에서 인테르가 이기면 Wang이, 아니면 Davide가 계산.
+- **Wang Lei**: Mangiagalli 병원 출생(6화와 일치). 2019년 베를린 해커 대회에서 Nadia를 이김(그 뒤로 Nadia에게 맥주 한 잔 빚짐). 전화로 '수배된 밀라노 남자가 나폴리 여자에게 도움을 청한다 = 통계'라며 Davide 동행을 추리. 만남 약속: **12/3(목) 점심, via Paolo Sarpi '부러진 용 간판' 만둣집**. 내기: 더비에서 인테르가 이기면 Wang이, 아니면 Davide가 계산.
 - **Aurelia Sicurezza S.r.l.**(로마, 2023년 설립): 2026년 4월 브레라 수장고 보안 입찰 수주, 같은 해 국가기록보관소 한 곳·토리노 은행 한 곳도 수주. 브레라 출입 기록·카메라가 로마로 실시간 전송 → 수장고는 '덫'. 사업자 등기에 이름 2개, 하나가 노란색 강조(정체는 4화에서).
 - 장소: 국립대 내부 **Cortile della Ghiacciaia**.
 -->

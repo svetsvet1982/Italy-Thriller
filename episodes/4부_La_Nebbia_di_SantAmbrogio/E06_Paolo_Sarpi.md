@@ -174,7 +174,7 @@ CLAIRE: Con le parole del seme nella tua testa, in una stanza bianca, con dei si
 DAVIDE: E neutralizzare non lo traduco.
 CLAIRE: Non serve.
 (Silenzio. Il vapore sale dai cestini tra loro. Claire prende un raviolo e lo intinge nell'aceto nero.)
-CLAIRE: Ti do una cosa, gratis. Così poi non potrai dire che la Francia è avara. La ditta di Roma che ha aggiornato la sicurezza di Brera, lo sai già. Ma il suo socio è una holding di Lussemburgo. Stesso indirizzo, stesso notaio, stesso piano di Fenix Capital.
+CLAIRE: Ti do una cosa, gratis. Così poi non potrai dire che la Francia è avara. La ditta di Roma che ha aggiornato la sicurezza di Brera, e il suo socio di Malta, li conosci già. Ma Malta è solo una cassetta delle lettere. La holding ha un secondo indirizzo in Lussemburgo. Stesso notaio, stesso piano di Fenix Capital.
 DAVIDE: Quindi a Brera il sistema lo conoscono meglio di noi.
 CLAIRE: E tuo padre ha settantotto anni e le mani che tremano. Lo porti con te, stanotte?
 DAVIDE: Chi ti ha detto stanotte?

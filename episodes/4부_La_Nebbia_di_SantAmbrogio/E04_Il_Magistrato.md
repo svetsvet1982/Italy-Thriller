@@ -8,9 +8,9 @@
 
 DAVIDE: Fenice Holding Limited. La Valletta, Malta. Quaranta per cento.
 NADIA: Leggi sotto. Il legale rappresentante.
-DAVIDE (legge): "Avvocato Lucio Ferrante." (Si ferma.) Ferrante.
+DAVIDE (legge): "Avvocato Lucio Ferraris." (Si ferma.) Ferraris.
 NADIA: Come il tuo dentista.
-DAVIDE: Lo studio dentistico Ferrante non esiste. È il numero d'emergenza. Il nome l'ha scelto lui, nel 2006. Ce l'ha raccontato a un corso, ridendo. "Ferrante, perché il dentista fa sempre un po' male."
+DAVIDE: Lo studio dentistico Ferraris non esiste. È il numero d'emergenza. Il nome l'ha scelto lui, nel 2006. Ce l'ha raccontato a un corso, ridendo. "Ferraris, come le macchine: veloce e non si ferma mai."
 NADIA: E nessuno a Roma ha mai controllato un registro delle imprese?
 DAVIDE: Nessuno guarda i registri, Nadia. Tutti guardano i satelliti.
 NADIA: Allora il deposito tre è una tagliola. Appena apri la porta, Roma lo sa. E il generale non deve nemmeno sporcarsi le mani: manda Vitali, prende il quadro, prende tuo padre, prende te.
@@ -142,9 +142,9 @@ DAVIDE: Lo so.
 CHIARA: Ma io non sono in aula. (Riascolta la registrazione, con gli occhi chiusi.) Ha detto "avevo ragione io". Non "ho le prove". Era uno onesto. Gli onesti dicono sempre quello che hanno, non di più. Poi?
 DAVIDE: Poi c'è questa. (Le passa il foglio stampato.) La visura di una società romana. Aurelia Sicurezza. Ha rifatto in aprile tutto il sistema di sicurezza dei depositi di Brera. Telecamere controllate da Roma.
 CHIARA: E allora? Ci sono mille società così.
-DAVIDE: Leggi il socio. Fenice Holding, Malta. Legale rappresentante: avvocato Lucio Ferrante.
+DAVIDE: Leggi il socio. Fenice Holding, Malta. Legale rappresentante: avvocato Lucio Ferraris.
 CHIARA: E chi è?
-DAVIDE: Nessuno. Ferrante non esiste. È un nome di copertura dei servizi. L'ha inventato Malaspina vent'anni fa per il numero d'emergenza. Lo usiamo… lo usavamo per fingere di chiamare un dentista.
+DAVIDE: Nessuno. Ferraris non esiste. È un nome di copertura dei servizi. L'ha inventato Malaspina vent'anni fa per il numero d'emergenza. Lo usiamo… lo usavamo per fingere di chiamare un dentista.
 (Chiara rilegge il foglio. Lentamente. Cambia espressione: è la faccia che ha in aula, quando trova la crepa.)
 CHIARA: Quindi un'identità fittizia dello Stato compare come rappresentante legale in una società privata. Che ha vinto un appalto pubblico del Ministero della Cultura. A Milano.
 DAVIDE: Sì.
@@ -199,7 +199,7 @@ MALASPINA (al telefono): Dottoressa Bassi, credo che suo marito sia lì con lei.
 — FINE DELL'EPISODIO 4 —
 
 <!-- 연속성 메모:
-- **Aurelia Sicurezza 지분 40% = Fenice Holding Limited(몰타, 라 발레타)**, 법정대리인 **"Avvocato Lucio Ferrante"** = AISE 비상선 위장명 'Studio dentistico Ferrante'와 동일(Malaspina가 2006년 직접 지은 이름, 강의 중 "il dentista fa sempre un po' male"라며 웃음). 즉 국가 가공 신분이 민간 회사 등기에 등장 → Chiara: **falso ideologico in atto pubblico**(+ turbativa d'asta 가능성). "Al Capone e le tasse."
+- **Aurelia Sicurezza 지분 40% = Fenice Holding Limited(몰타, 라 발레타)**, 법정대리인 **"Avvocato Lucio Ferraris"** = AISE 비상선 위장명 'Studio dentistico Ferraris'와 동일(Malaspina가 2006년 직접 지은 이름, 강의 중 "il dentista fa sempre un po' male"라며 웃음). 즉 국가 가공 신분이 민간 회사 등기에 등장 → Chiara: **falso ideologico in atto pubblico**(+ turbativa d'asta 가능성). "Al Capone e le tasse."
 - 브레라 수장고 = 덫(문 열면 로마가 즉시 앎) → 정식 침입 계획 수정 필요.
 - **Chiara**: 매일 저녁 퇴근길에 **San Pietro in Gessate**(법원 맞은편)에서 증인들을 위해 촛불 하나(DDA 이후 습관). 12/1 19:45 성당 접근 → 23시 아파트 → 밤새 대화 → 12/2 07:00 Malaspina 전화(5화 콜드 오픈과 연결). 12/1 밤 Giulia는 다음 날 그리스어 시험 때문에 친구 집에서 잠. 낙타색 코트. 아파트 = **via Melzo**(포르타 베네치아) 4층, 법전·소설 책장, 창 너머 지붕들. Giulia는 Colombina 가면을 머리 위에 걸고 잠("le fa la guardia").
 - Chiara의 법적 입장: 트리에스테 GIP의 구속영장(ordinanza di custodia cautelare) 존재, 신고 의무, 형법 378조 favoreggiamento personale(최대 4년). 트리에스테 사건은 관할 밖 → Brera 계약 이행지 밀라노 기준으로 **'modello 45'(atti relativi, 피의자·범죄통지 없음)** 비공식 파일 개설. Guardia di Finanza로 몰타 회사 계좌, 브레라 출입 기록 조회 예정.

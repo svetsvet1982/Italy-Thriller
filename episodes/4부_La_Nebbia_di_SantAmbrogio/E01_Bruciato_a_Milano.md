@@ -56,7 +56,7 @@ DAVIDE: Gente di Roma.
 BARISTA: Come lo sa?
 DAVIDE: A Milano lo scontrino lo lasciamo sul piattino.
 (Davide tira fuori un vecchio telefono senza marca, comprato in Istria. Compone un numero a memoria.)
-VOCE (al telefono): Studio dentistico Ferrante, buongiorno.
+VOCE (al telefono): Studio dentistico Ferraris, buongiorno.
 DAVIDE: Buongiorno. Vorrei spostare un appuntamento. Meneghini. Devitalizzazione.
 VOCE (al telefono): Un attimo che controllo. (Pausa.) Signor Meneghini, il suo appuntamento risulta annullato. La sua tessera non è più valida.
 DAVIDE: Allora me ne serve una nuova. È urgente.
@@ -230,7 +230,7 @@ BEPPE: Minga. Peggio. (Pausa.) C'è una ragazzina giù. Dice che è tua figlia.
 <!-- 연속성 메모:
 - 11/27(금) 05:45 람브라테 화물역 도착: 베로나발 강철 코일 화차. 철도 조차원 **Sabino**(지암벨리노 출신, 아버지가 1962년 풀리아에서 화물열차로 상경)가 주황색 형광 조끼를 빌려줌. 화물역 출구(via Rombon)에 Polfer 검문(전날 밤부터, "로마의 명령"). 경찰관 **Gariboldi**(밀란 팬)를 더비 농담으로 통과 — **12/5 더비 첫 언급**.
 - AISE 밀라노 안전가옥: 치타 스투디의 60년대 건물 3층, 신호 = 녹색 셔터 '반쯤' 내림이 안전. 11/27엔 완전히 내려가 있음(오염). '가스 점검' 흰 밴에 요원 2명.
-- 비상선 = "Studio dentistico Ferrante", 가명 "Meneghini, devitalizzazione". 코드 폐기 통보 후 **Malaspina가 직접 받음, tu**: "Ciao, Davide. Bentornato a casa." Malaspina는 **11/26 밤 Ernesto와의 공중전화 통화를 도청**했음. "Salutamelo. Digli che Ruggero si ricorda di lui." Davide는 일부러 **Lei**를 고수: "Il tu lo do agli amici. Ai nemici, il Lei. Come ai funerali." 이스트리아에서 산 전화는 분리수거함에 버림.
+- 비상선 = "Studio dentistico Ferraris", 가명 "Meneghini, devitalizzazione". 코드 폐기 통보 후 **Malaspina가 직접 받음, tu**: "Ciao, Davide. Bentornato a casa." Malaspina는 **11/26 밤 Ernesto와의 공중전화 통화를 도청**했음. "Salutamelo. Digli che Ruggero si ricorda di lui." Davide는 일부러 **Lei**를 고수: "Il tu lo do agli amici. Ai nemici, il Lei. Come ai funerali." 이스트리아에서 산 전화는 분리수거함에 버림.
 - 나빌리오 그란데 Scodellino 다리 근처 신문 가판대 **la sciura Pina**(80, 보라색 숄): Davide를 어릴 때부터 앎("Te set el fioeu de la Rosa"), 할아버지 이름 **Gaetano**. Ernesto는 40년간 그곳에서 Gazzetta를 삼; 11/26(목) Corriere 3부 구매("하나는 읽고, 하나는 화내고, 하나는 묘지의 Rosa에게"). Corriere 1면: "Trieste, funzionario dello Stato ricercato per due omicidi".
 - **Bar "Da Beppe"**: Alzaia Naviglio Pavese, 오후 5시 개점(아페리티보 바), 인테르 머플러 장식. 비밀 노크 = 세 번, 두 번. Beppe의 어머니 **2026년 3월 사망**(Davide는 로마에 있어 불참, 남이 쓴 카드와 꽃만 보냄). Beppe는 매일 아침 어머니 몫 커피를 만든다(사실). Beppe 독신.
 - **1998년 via Lombroso 창고 절도**: Davide와 Beppe 함께, Beppe만 잡혀 18세에 **산 비토레 18개월**(8화와 일치), Davide 이름을 끝내 말하지 않음 → Davide는 브레라 아카데미로. Davide의 갚지 못한 빚.

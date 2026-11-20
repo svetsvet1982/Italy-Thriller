@@ -38,7 +38,7 @@ NADIA (in cuffia): Voi milanesi avete regole per tutto, tranne che per le cose i
 DAVIDE: Chi trasloca davanti a un liceo?
 NADIA (in cuffia): Nessuno. E poi c'è uno che fuma vicino alla fermata del tram. Giaccone blu, sui quaranta. Si è acceso la terza sigaretta senza finire la seconda.
 (Davide abbassa il giornale di un centimetro. Guarda l'uomo alla fermata.)
-DAVIDE: Lo conosco. Sergio Ferri. Ex paracadutista. L'ho avuto in un corso, sette anni fa. A Pasqua, a Roma, guidava l'auto che portava via Sala. E ha preso la strada sbagliata. Apposta.
+DAVIDE: Lo conosco. Sergio Ferri. Ex paracadutista. L'ho avuto in un corso, sette anni fa. In Settimana Santa, a Roma, guidava l'auto che portava via Sala. E ha preso la strada sbagliata. Apposta.
 NADIA (in cuffia): Agenzia?
 DAVIDE: Non più. L'hanno mandato via per una storia di soldi, nel '21. Adesso lavora per chi paga. Sono i più pericolosi: non hanno una bandiera, hanno un IBAN.
 (Suona la campanella. Un fiume di ragazzi con zaini e cuffie si riversa sul marciapiede. Risate, motorini, un clacson. Davide cerca con gli occhi.)

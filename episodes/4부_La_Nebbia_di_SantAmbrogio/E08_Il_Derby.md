@@ -65,8 +65,8 @@ BEPPE: Allora era la pioggia dentro. (Ride, poi smette.) Davide. Ti devo dire un
 DAVIDE: Dimmi.
 BEPPE: Quando ero dentro, a San Vittore. Nel '98. Diciotto mesi. Tutti sono venuti a trovarmi. Mia madre, la Luisa, perfino il prete. Tu no.
 DAVIDE: Lo so.
-BEPPE: Io ti ho odiato, sai. Per un anno. Dicevo: quello lì fa il signore a Roma e si vergogna dell'amico ladro.
-DAVIDE: Ero in Bosnia, Beppe. Con un altro nome. Non potevo neanche scriverti.
+BEPPE: Io ti ho odiato, sai. Per un anno. Dicevo: quello lì studia a Brera e si vergogna dell'amico ladro.
+DAVIDE: Avevo paura, Beppe. Diciotto anni e la paura che venissero a prendere anche me. Poi sono partito militare e ho fatto finta che tu non esistessi.
 BEPPE: Adesso lo so. Prima no. (Si ferma davanti a un baracchino.) Ecco. Te l'ho detto. Adesso mi sento più leggero. Due salamelle, capo. Con le cipolle.
 DAVIDE: Io non ho fame.
 BEPPE: Al derby la fame non c'entra. È liturgia. Come la messa per tua madre.

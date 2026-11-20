@@ -97,5 +97,5 @@
 ### 12화. **Bruciato** (소각) — 135턴
 - **장소**: 트리에스테 탈출 — 화물열차, 국도, 휴게소
 - **로그라인**: 살인 누명, 모든 신분 말소. '소각된' 요원의 도주.
-- **비트**: ① 부두 탈출(짧은 턴 연속) ② Furlan의 마지막 도움 — 군인의 선택 ③ Nadia와의 분리: "Milano. Tra dieci giorni. Dove sai tu." ④ 휴게소 TV — 뉴스에 뜬 자신의 얼굴 ⑤ 화물열차 안 독백, 사진 속 아버지
+- **비트**: ① 부두 탈출(짧은 턴 연속) ② Furlan의 마지막 도움 — 군인의 선택 ③ Nadia와의 분리: "Milano. Il primo dicembre. Dove sai tu." ④ 휴게소 TV — 뉴스에 뜬 자신의 얼굴 ⑤ 화물열차 안 독백, 사진 속 아버지 → 이스트리아에서 6주 잠적(짧은 몽타주) → 11월 26일 밀라노 근교
 - **클리프행어**: 공중전화. "Papà… sono io. Cos'hai fatto nel '94?" — 긴 침묵. "Vieni a casa, Davide. C'è la nebbia. Nessuno ti vedrà."

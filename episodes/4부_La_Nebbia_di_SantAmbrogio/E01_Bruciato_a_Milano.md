@@ -30,7 +30,7 @@ MANOVRATORE: Perché mio padre è arrivato qui dalla Puglia su un treno come que
 [SCENA 2 — Cancello dello scalo, via Rombon. Le sei e dieci. Un gruppo di operai in giubbotto arancione esce dal turno di notte. Davide è in mezzo a loro, il cappuccio alzato.]
 
 POLIZIOTTO: Documenti. Tutti, uno alla volta. E non guardarmi così, Sabino: ordini da Roma.
-MANOVRATORE: Da Roma. Ci vedi tutte le mattine da dieci anni, Ferri.
+MANOVRATORE: Da Roma. Ci vedi tutte le mattine da dieci anni, Gariboldi.
 POLIZIOTTO (punta la torcia): Lui no. Lui non l'ho mai visto.
 DAVIDE: Io invece ti vedo bene. Hai l'adesivo del Diavolo sulla radio. Sabato prossimo c'è il derby: goditi questa settimana, poi per un mese guarderai per terra.
 POLIZIOTTO: Ma va' a ciapà i ratt, va'. L'anno scorso vi abbiamo fatto piangere due volte.
@@ -125,7 +125,7 @@ BEPPE: A Roma. Sempre a Roma. Le hai mandato i fiori, questo sì. Belli. Con un 
 DAVIDE: Non potevo venire, Beppe. Non potevo nemmeno dire dov'ero.
 BEPPE: E adesso puoi?
 DAVIDE: Adesso non ho più niente da nascondere. Mi hanno tolto tutto. Il nome, il lavoro, il tesserino. Mi è rimasta solo la faccia. E la faccia, qui, la conoscono tutti.
-BEPPE: Allora parla. Ma parla come al tempo del magazzino di via Lombroso. Otto mesi a San Vittore, a diciannove anni. Io me lo ricordo per tutti e due. E il tuo nome non l'ho mai detto a nessuno. Né ai carabinieri, né al giudice, né alla mia mamma.
+BEPPE: Allora parla. Ma parla come al tempo del magazzino di via Lombroso. Diciotto mesi a San Vittore, a diciott'anni. Io me lo ricordo per tutti e due. E il tuo nome non l'ho mai detto a nessuno. Né ai carabinieri, né al giudice, né alla mia mamma.
 DAVIDE: Io sono andato all'Accademia di Brera. Tu sei andato in galera. Non te l'ho mai restituito.
 BEPPE: E chi te l'ha chiesto? (Si siede di fronte a lui.) Va bene, va bene. Cosa ti serve?
 DAVIDE: Un letto. Una settimana, forse dieci giorni. E nessuna domanda.
@@ -154,7 +154,7 @@ DAVIDE: Allora l'ispettrice Conte è una che sceglie le parole. Non si fida nean
 (La porta si apre. Entra una donna sui cinquant'anni, piumino blu, capelli corti grigi. Non si toglie i guanti. Si avvicina al bancone.)
 CONTE: Fumagalli Giuseppe?
 BEPPE: Dipende. Se è per lo spritz, sono io. Se è per le tasse, è mio cugino.
-CONTE: Ispettrice Conte. Squadra Mobile. (Mostra il tesserino, senza fretta.) Classe 1980. Furto aggravato nel '99, in un magazzino di via Lombroso. Otto mesi.
+CONTE: Ispettrice Conte. Squadra Mobile. (Mostra il tesserino, senza fretta.) Classe 1980. Furto aggravato nel '98, in un magazzino di via Lombroso. Diciotto mesi.
 BEPPE: Ha letto il mio curriculum. Brava. Vuole lavorare qui? Cerco una cameriera.
 CONTE: Io cerco un amico suo. Davide Colombo. Stessa classe, stessa scuola media, stesso oratorio. Stessa curva a San Siro, mi dicono.
 BEPPE: A San Siro siamo in ottantamila, ispettrice. Siamo tutti amici, la domenica.
@@ -165,11 +165,11 @@ CONTE: E l'altro?
 (Pausa. Beppe asciuga un bicchiere, lentamente.)
 BEPPE: L'altro è della mia mamma. È morta a marzo. Ogni mattina le faccio il caffè, come prima. Poi lo bevo io, freddo. Lo so che è da pirla. Ma non riesco a smettere.
 (Conte lo guarda. Per un secondo la sua faccia cambia.)
-CONTE: Mia madre la caffettiera la lasciava sempre sul fuoco. Ce l'ho ancora, a Catania. Non la uso.
+CONTE: Mia madre la caffettiera la lasciava sempre sul fuoco. Ce l'ho ancora, a Mazara. Non la uso.
 BEPPE: Allora mi capisce.
 CONTE: La capisco. Non le credo. Sono due cose diverse, Fumagalli.
 BEPPE: Qui a Milano sono la stessa cosa. Si capisce e si tira avanti.
-CONTE: A Catania invece si capisce e si aspetta. (Posa un biglietto da visita sul bancone.) Se lo vede, gli dica una cosa da parte mia.
+CONTE: In Sicilia invece si capisce e si aspetta. (Posa un biglietto da visita sul bancone.) Se lo vede, gli dica una cosa da parte mia.
 CONTE: Gli dica che io non sono Roma. Io i morti li conto. E quando i conti non tornano, è una camurrìa che non mi fa dormire. (Si volta sulla porta.) E quel salame, lo tagli più fino. Così è da muratori.
 (Esce. La porta si chiude. Beppe resta fermo. Dal magazzino, Davide parla piano, attraverso la tenda.)
 DAVIDE: La caffettiera di tua madre è vera?
@@ -201,7 +201,7 @@ BEPPE: Quella con i topi grandi come gatti. Me la ricordo. Ci ho lasciato un den
 DAVIDE: Domani. O dopodomani. Prima devo dormire. Non so più come si fa.
 BEPPE: Ghe pensi mi. Sopra il garage c'è la stanza dove dormiva il mio papà quando litigava con la mamma. Cioè sempre. Il letto è duro, ma è un letto.
 DAVIDE: Beppe. Se vengono a cercarmi qui, tu non sai niente. Hai capito? Non fare un altro San Vittore per me.
-BEPPE: Davide. Io a diciannove anni ero un pirla. Adesso ne ho quarantasei. Sono un pirla con esperienza. Va' a dormire.
+BEPPE: Davide. Io a diciott'anni ero un pirla. Adesso ne ho quarantasei. Sono un pirla con esperienza. Va' a dormire.
 
 ---
 
@@ -228,14 +228,14 @@ BEPPE: Minga. Peggio. (Pausa.) C'è una ragazzina giù. Dice che è tua figlia.
 — FINE DELL'EPISODIO 1 —
 
 <!-- 연속성 메모:
-- 11/27(금) 05:45 람브라테 화물역 도착: 베로나발 강철 코일 화차. 철도 조차원 **Sabino**(지암벨리노 출신, 아버지가 1962년 풀리아에서 화물열차로 상경)가 주황색 형광 조끼를 빌려줌. 화물역 출구(via Rombon)에 Polfer 검문(전날 밤부터, "로마의 명령"). 경찰관 **Ferri**(밀란 팬)를 더비 농담으로 통과 — **12/5 더비 첫 언급**.
+- 11/27(금) 05:45 람브라테 화물역 도착: 베로나발 강철 코일 화차. 철도 조차원 **Sabino**(지암벨리노 출신, 아버지가 1962년 풀리아에서 화물열차로 상경)가 주황색 형광 조끼를 빌려줌. 화물역 출구(via Rombon)에 Polfer 검문(전날 밤부터, "로마의 명령"). 경찰관 **Gariboldi**(밀란 팬)를 더비 농담으로 통과 — **12/5 더비 첫 언급**.
 - AISE 밀라노 안전가옥: 치타 스투디의 60년대 건물 3층, 신호 = 녹색 셔터 '반쯤' 내림이 안전. 11/27엔 완전히 내려가 있음(오염). '가스 점검' 흰 밴에 요원 2명.
 - 비상선 = "Studio dentistico Ferrante", 가명 "Meneghini, devitalizzazione". 코드 폐기 통보 후 **Malaspina가 직접 받음, tu**: "Ciao, Davide. Bentornato a casa." Malaspina는 **11/26 밤 Ernesto와의 공중전화 통화를 도청**했음. "Salutamelo. Digli che Ruggero si ricorda di lui." Davide는 일부러 **Lei**를 고수: "Il tu lo do agli amici. Ai nemici, il Lei. Come ai funerali." 이스트리아에서 산 전화는 분리수거함에 버림.
 - 나빌리오 그란데 Scodellino 다리 근처 신문 가판대 **la sciura Pina**(80, 보라색 숄): Davide를 어릴 때부터 앎("Te set el fioeu de la Rosa"), 할아버지 이름 **Gaetano**. Ernesto는 40년간 그곳에서 Gazzetta를 삼; 11/26(목) Corriere 3부 구매("하나는 읽고, 하나는 화내고, 하나는 묘지의 Rosa에게"). Corriere 1면: "Trieste, funzionario dello Stato ricercato per due omicidi".
 - **Bar "Da Beppe"**: Alzaia Naviglio Pavese, 오후 5시 개점(아페리티보 바), 인테르 머플러 장식. 비밀 노크 = 세 번, 두 번. Beppe의 어머니 **2026년 3월 사망**(Davide는 로마에 있어 불참, 남이 쓴 카드와 꽃만 보냄). Beppe는 매일 아침 어머니 몫 커피를 만든다(사실). Beppe 독신.
-- **1999년 via Lombroso 창고 절도**: Davide와 Beppe 함께, Beppe만 잡혀 19세에 **산 비토레 8개월**, Davide 이름을 끝내 말하지 않음 → Davide는 브레라 아카데미로. Davide의 갚지 못한 빚.
+- **1998년 via Lombroso 창고 절도**: Davide와 Beppe 함께, Beppe만 잡혀 18세에 **산 비토레 18개월**(8화와 일치), Davide 이름을 끝내 말하지 않음 → Davide는 브레라 아카데미로. Davide의 갚지 못한 빚.
 - 어린 시절 신호: Davide는 거짓말할 때 귀를 긁었음(지금은 안 긁음).
-- **Isp. Rosaria Conte**: 카타니아 출신, 50대, 짧은 회색 머리, 파란 패딩. 11/27 기자회견("un'impronta digitale" — 증거라는 말을 피함), 18시 Beppe의 바 방문, 명함 남김. "Io non sono Roma. Io i morti li conto." 어머니의 모카포트를 카타니아에 보관. Beppe를 믿지 않지만 이해함.
+- **Isp. Rosaria Conte**: 시칠리아 출신(어머니의 모카포트를 **마차라**에 보관 — 10화 '마차라 델 발로 어부 아버지'와 일치), 50대, 짧은 회색 머리, 파란 패딩. 11/27 기자회견("un'impronta digitale" — 증거라는 말을 피함), 18시 Beppe의 바 방문, 명함 남김. "Io non sono Roma. Io i morti li conto." Beppe를 믿지 않지만 이해함.
 - Ernesto 집 지하실이 안뜰 밑으로 이어짐(어린 시절 놀이터, Beppe가 이빨 하나 잃음) → 2~3화 탈출로.
 - Beppe 차고 위 방(아버지가 부부싸움 때 자던 방), 철제 침대·군용 담요, 나빌리오가 보이는 작은 창. 3부 이후 첫 잠.
 - Davide 소지품: Kovačič 벙커의 **1994년 사진**(뒷면 "Milano, '94. E. e E."), 수염 6주.

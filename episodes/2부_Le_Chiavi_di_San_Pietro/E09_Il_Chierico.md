@@ -43,7 +43,7 @@ NADIA (in cuffia): Agende. Riunioni del consiglio della banca. Chi pranza con ch
 DAVIDE: Chi conosce l'agenda di Brennan ora per ora?
 NADIA (in cuffia): Brennan. Dio. E il suo segretario.
 DAVIDE: Don Matteo Sala.
-NADIA (in cuffia): Trentotto anni, di Como. Dottorato in teologia morale alla Gregoriana. Parla quattro lingue. Ha una voce da conduttore radiofonico.
+NADIA (in cuffia): Te lo ripeto, adesso che lo guardiamo con occhi nuovi. Trentotto anni, di Bergamo. Dottorato in teologia morale alla Gregoriana. Parla quattro lingue. Ha una voce da conduttore radiofonico.
 DAVIDE: L'ho sentito cantare il Prefazio. Era bravo. Troppo bravo.
 NADIA (in cuffia): ORGANISTA. Uno che suona mentre gli altri cantano. Spiritoso, chi ha scelto il nome.
 DAVIDE (piano): Nadia. Se Sala è il Chierico, ha preso i soldi della banca e li ha mandati a gente che ammazza. Con i nostri soldi in tasca, ogni mese.
@@ -210,4 +210,4 @@ SALA: Un regalo. Domenica, piazza piena. Diecimila candele.
 
 — FINE DELL'EPISODIO 9 —
 
-<!-- 연속성 메모: Pace 시신은 3/28(토) 아침 카타콤베 관리인이 발견, Davide는 공식적으로 현장에 없었음(이마에 성호 — 어머니의 몸짓). AISE 아지트 = 트라스테베레 via dei Genovesi 아파트(체크무늬 커튼). Sala의 AISE 정보원 코드명 = 'ORGANISTA'(2019년부터 활동, 바티칸 경제 부문), 담당관(referente) 필드는 '디렉션 등급'으로 잠겨 Nadia도 열람 불가. Sala: 38세, 코모 출신, 그레고리오 대학 윤리신학 박사, 4개 국어, 라디오 진행자 같은 목소리. Pace는 1월 Brennan 면담을 요청했으나 Brennan이 더블린 출장 중이라 Sala가 대신 받음("La Chiesa ha i suoi tempi"). Sala 단말에서 Piccoli Fratelli 계좌 야간 접속 11회(매번 송금 전날), 총액 약 430만 유로/2년. Livia: Pace는 Sala를 "quello co' la voce bella"라 불렀음, 3/28 아침 7시 사망 통보. Anselmo가 Davide에게 작년 종려 가지(마른 올리브)를 줌 — Davide 숙소 창가에 둠. Davide 어린 시절 재의 수요일 재 그릇 담당, 일부러 cotta를 더럽힘. Malaspina 라틴어: "Etiam capillus unus habet umbram". 요원 Bruno·Ferri(AISE)가 Sala 체포(종려주일 만과 후). Sala는 Ruffo의 고해를 알고 있었고 '캐논 1379(성사 가장)'로 Davide를 조롱. Nadia: 돌아오면 Ciro 빵집 첫 코르네토는 자기가 산다고 약속. -->
+<!-- 연속성 메모: Pace 시신은 3/28(토) 아침 카타콤베 관리인이 발견, Davide는 공식적으로 현장에 없었음(이마에 성호 — 어머니의 몸짓). AISE 아지트 = 트라스테베레 via dei Genovesi 아파트(체크무늬 커튼). Sala의 AISE 정보원 코드명 = 'ORGANISTA'(2019년부터 활동, 바티칸 경제 부문), 담당관(referente) 필드는 '디렉션 등급'으로 잠겨 Nadia도 열람 불가. Sala: 38세, 베르가모 출신, 그레고리오 대학 윤리신학 박사, 4개 국어, 라디오 진행자 같은 목소리. Pace는 1월 Brennan 면담을 요청했으나 Brennan이 더블린 출장 중이라 Sala가 대신 받음("La Chiesa ha i suoi tempi"). Sala 단말에서 Piccoli Fratelli 계좌 야간 접속 11회(매번 송금 전날), 총액 약 430만 유로/2년. Livia: Pace는 Sala를 "quello co' la voce bella"라 불렀음, 3/28 아침 7시 사망 통보. Anselmo가 Davide에게 작년 종려 가지(마른 올리브)를 줌 — Davide 숙소 창가에 둠. Davide 어린 시절 재의 수요일 재 그릇 담당, 일부러 cotta를 더럽힘. Malaspina 라틴어: "Etiam capillus unus habet umbram". 요원 Bruno·Ferri(AISE)가 Sala 체포(종려주일 만과 후). Sala는 Ruffo의 고해를 알고 있었고 '캐논 1379(성사 가장)'로 Davide를 조롱. Nadia: 돌아오면 Ciro 빵집 첫 코르네토는 자기가 산다고 약속. -->

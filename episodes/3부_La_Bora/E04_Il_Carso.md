@@ -15,15 +15,17 @@ DAVIDE: Me ne serve una bottiglia. Una sola. È importante.
 BEPI: Sassella. Valtellina. Duemilasedici. L'ha lasciata un cliente di Sondrio nel '19, per pagare un conto. Nessuno l'ha mai voluta.
 DAVIDE: Perfetta. La metta sul conto della camera.
 BEPI: La metto sul conto della signora del tovagliolo. Mi pare giusto.
-(Davide sorride. Poi va in camera. Brucia la cartolina nel lavandino e lascia scorrere l'acqua. Le ventidue di ieri sono passate; adesso telefona alle sette e un quarto.)
+DAVIDE: Bepi, lei sa più cose di quante ne dice.
+BEPI: Sior, io faccio il barista da cinquant'anni. Se dicessi quello che so, a Trieste non resterebbe in piedi neanche il municipio.
+(Davide sorride. Poi va in camera. Brucia la cartolina nel lavandino e lascia scorrere l'acqua. Dal colletto della giacca di lana marrone scuce, con una lametta, un piccolo disco nero, grande come un bottone. L'ha trovato alle tre di notte, cercando il portafoglio. Lo mette in tasca. Poi telefona.)
 LENZI (al telefono): Lenzi.
 DAVIDE: Buongiorno, dottore. Novità. Il libraio, ieri, dopo gli scacchi. Dice che ad aprile una ragazza con l'accento napoletano comprava il giornale tutte le mattine a Muggia. All'edicola del mandracchio.
 LENZI (al telefono): Ieri sera non me l'ha detto.
 DAVIDE: Ieri sera non ci credevo. Stanotte ci ho pensato. Vado a Muggia con la motonave delle nove e mezza.
 LENZI (al telefono): Vengo con lei.
 DAVIDE: No. Se ci vede in due, scappa. Lei ha la faccia da ispettore, anche quando dorme.
-LENZI (al telefono): Il telefono acceso. Sempre. Voglio vederla sulla mappa ogni minuto.
-DAVIDE: Sempre acceso. E dopo l'edicola vado a messa. Il duomo di Muggia è del Duecento.
+LENZI (al telefono): Il telefono acceso. Sempre. E risponda al primo squillo.
+DAVIDE: Sempre acceso. E sulla sua mappa mi vedrà benissimo, dottore. Non ho dubbi. E dopo l'edicola vado a messa. Il duomo di Muggia è del Duecento.
 LENZI (al telefono): Lei non va a messa, Colombo.
 DAVIDE: Oggi sì. Ho delle cose da farmi perdonare.
 
@@ -42,8 +44,8 @@ DAVIDE: Mi saluti, dottore.
 LENZI (al telefono): Le acque del golfo sono piatte, oggi. Buon viaggio.
 DAVIDE: Grazie. Ci sentiamo dall'edicola.
 (Chiude. Scende la scaletta verso il ponte inferiore, dalla parte del mare. Nessuno lo vede dalla Riva: tra lui e la città c'è tutta la nave. Accanto alla panca, una cassa di legno con la scritta SALVAGENTE.)
-DAVIDE (tra sé): Scusami, dottore. Anche il telefono ha diritto a una gita al mare.
-(Apre la cassa. Infila il telefono acceso tra due giubbotti arancioni. La richiude.)
+DAVIDE (tra sé): Scusami, dottore. Anche il tuo bottone ha diritto a una gita al mare.
+(Apre la cassa. Infila il piccolo disco nero nella tasca di un giubbotto arancione. La richiude.)
 MARINAIO (da prua): Si molla! Si molla!
 (La passerella di poppa è ancora a terra: due ciclisti in ritardo spingono le bici a bordo. Davide scende in senso contrario, tra le ruote e le borse, con la testa bassa.)
 CICLISTA: Entschuldigung! Ma… lei scende?
@@ -83,7 +85,11 @@ MARIJA: Il suo vino lo beviamo dopo. Prima beve il nostro. In casa nostra si com
 BORIS: Teran.
 MARIJA: Terra rossa del Carso. Ha il ferro dentro. Fa bene al sangue e male ai segreti. Na zdravje.
 DAVIDE: Na zdravje.
-(Beve. Il vino è aspro, violento, poi improvvisamente dolce.)
+(Nella tasca di Davide il telefono vibra. Lo tira fuori: LENZI. Lo guarda squillare. Lo gira a faccia in giù sul tavolo.)
+MARIJA: Non risponde?
+DAVIDE: È il mio avvocato.
+MARIJA: Gli avvocati di domenica sono come le vipere di ottobre. Lenti, ma mordono.
+(Davide beve. Il vino è aspro, violento, poi improvvisamente dolce.)
 DAVIDE: È come la bora. Prima ti schiaffeggia, poi ti accarezza.
 MARIJA: No. La bora non accarezza mai. Il teran sì. Per questo lo beviamo.
 
@@ -127,11 +133,13 @@ MARIJA: Questa la apriamo quando torna. Con lei.
 
 [SCENA 5 — Muggia, il mandracchio. La stessa ora. Barche da pesca, case veneziane color pastello, il campanile del duomo. Lenzi è in piedi sul molo, il cappotto aperto per la prima volta.]
 
-(Il marinaio della motonave gli tende un telefono, tenendolo con due dita, come una cosa bagnata.)
-MARINAIO: L'abbiamo trovato nella cassa dei salvagente. Squillava. Ha risposto il mio collega e ha sentito lei che diceva "Sironi, Sironi".
+(Il marinaio della motonave gli tende un piccolo disco nero, tenendolo con due dita, come una cosa bagnata.)
+MARINAIO: Era questo che cercava? Nella cassa dei salvagente, dentro un giubbotto. Lampeggiava.
 LENZI: Grazie. È di un collega. Distratto.
-MARINAIO: Distratto? Ciò. Uno che mette il telefono nei salvagente non è distratto. È uno che non vuole essere salvato.
-(Il marinaio se ne va. Lenzi resta solo sul molo, il telefono di Davide in una mano, il suo nell'altra. Il suo squilla. Sul display: un numero di Roma senza nome.)
+MARINAIO: Distratto? Ciò. Uno che mette le sue cose nei salvagente non è distratto. È uno che non vuole essere salvato.
+(Il marinaio se ne va. Lenzi chiama il numero di Davide. Squilla a vuoto, sei volte. Nessuna risposta.)
+LENZI (tra sé): Al primo squillo, Colombo. Le avevo detto al primo squillo.
+(Il suo telefono vibra. Sul display: un numero di Roma senza nome.)
 MALASPINA (al telefono): Dottor Lenzi. Buona domenica. Dov'è Colombo?
 (Lenzi guarda il telefono di Davide. Poi il mare. Una pausa di due secondi.)
 LENZI: A Muggia, generale. Lo vedo da qui. È seduto al bar del porto e mangia sardoni.
@@ -142,7 +150,7 @@ LENZI: Ricevuto, generale.
 MALASPINA (al telefono): Ah, Lenzi. Ottimo lavoro venerdì sera, il rapporto sul marittimo. Peccato, poi.
 LENZI: Peccato, generale?
 MALASPINA (al telefono): Il mare, a Trieste. Non perdona nessuno. Buona domenica, dottore.
-(La linea si chiude. Lenzi resta immobile. Poi tira fuori il taccuino nero e scrive, con la matita, lentamente: «Ore 11.04. G.: "Peccato". Non riferito: C. assente.» Chiude il taccuino. Si infila il telefono di Davide nella tasca interna, vicino al cuore.)
+(La linea si chiude. Lenzi resta immobile. Poi tira fuori il taccuino nero e scrive, con la matita, lentamente: «Ore 11.04. G.: "Peccato". Non riferito: C. assente.» Chiude il taccuino. Si infila il disco nero nella tasca interna, vicino al cuore.)
 
 ---
 
@@ -162,6 +170,11 @@ DAVIDE: Credo di sì.
 TINA: Lei diceva che aveva un amico a Milano che parlava poco e mangiava male. Sei tu?
 DAVIDE: Mangio benissimo. Il risotto alla milanese, per esempio…
 TINA: Sei tu.
+DAVIDE: E che altro diceva, la signora di Napoli?
+TINA: Che a Trieste il caffè lo chiamano con nomi strani. E che la nona fa le uova più buone del mondo, dopo sua nonna. Però sua nonna è morta, quindi vince la mia.
+DAVIDE: È una logica impeccabile.
+TINA: Che cosa vuol dire impeccabile?
+DAVIDE: Vuol dire che non si può dire niente contro.
 (Il secondo muretto. Poi il terzo. Un cespuglio di sommaco, rosso come una ferita. Tina si ferma di colpo.)
 TINA: Terzo muretto. Io torno indietro. La nona mi conta i muretti dalla finestra.
 DAVIDE: Grazie, scugnizza. Hvala.

@@ -10,7 +10,7 @@ ERNESTO: Non quello. Quello è nero. Alla Prima vanno tutti in nero, sembrano un
 DAVIDE: Papà, è il papillon che mi ha prestato Chiara. Era di suo padre.
 ERNESTO: Appunto. Era di un avvocato. (Apre la scatola. Tira fuori un papillon di seta blu scuro, un po' sbiadito.) Questo era il mio. Il giorno del matrimonio. Tua madre diceva che il nero è per i camerieri.
 DAVIDE (lo prende): Blu di Prussia.
-ERNESTO: Blu di Prussia. Te lo ricordi ancora, i nomi. Brava la testa. Vediamo le mani.
+ERNESTO: Blu di Prussia. Te li ricordi ancora, i nomi. Brava la testa. Vediamo le mani.
 (Davide prova a fare il nodo. Sbaglia. Riprova. Sbaglia ancora.)
 DAVIDE: Non l'ho mai fatto. A Roma li compravo già annodati.
 ERNESTO: A Roma comprano tutto già fatto. Anche le opinioni. Vieni qui.

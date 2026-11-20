@@ -32,17 +32,13 @@ CLAIRE (gli lascia la mano): Allora vai. E torna. Hai una faccia che torna, rico
 NADIA (in cuffia): Quanti sono?
 DAVIDE: Duecentocinquanta. Più o meno. L'ultima volta li ho fatti a dieci anni, con mio padre. Lui davanti, io dietro, che contavo ad alta voce.
 NADIA (in cuffia): E in cima cosa c'era?
-DAVIDE: Lei. La Madonnina. Rame dorato, più di quattro metri. Mio padre mi ha detto: a Milano nessun palazzo deve essere più alto di lei. È una regola.
-NADIA (in cuffia): E l'avete rispettata?
-DAVIDE: Fino al grattacielo Pirelli. Poi, per chiederle scusa, sul tetto del Pirelli ci hanno messo una copia piccola. Noi milanesi siamo così. Prima ti scavalchiamo, poi ti chiediamo scusa con un regalo.
+DAVIDE: Lei. La Madonnina. Rame dorato, più di quattro metri. Mio padre mi ha detto: a Milano nessun palazzo deve essere più alto di lei. È una regola. L'abbiamo rispettata fino al grattacielo Pirelli. Poi, per chiederle scusa, sul tetto del Pirelli ci hanno messo una copia piccola. Noi milanesi siamo così. Prima ti scavalchiamo, poi ti chiediamo scusa con un regalo.
 NADIA (in cuffia): Mi piace. A Napoli prima ti chiediamo scusa e poi ti scavalchiamo.
 (Davide si ferma su un pianerottolo. Appoggia la fronte al muro freddo.)
 NADIA (in cuffia): Davide? Stai bene?
 DAVIDE: Pensavo al ragazzino che contava gli scalini. Lui voleva fare il restauratore. Pulire le cose vecchie finché non tornano a essere quello che erano.
 NADIA (in cuffia): E l'hai fatto, no? In un certo senso. Stanotte hai pulito una cosa vecchia.
 DAVIDE: Non ancora. Il lavoro sporco è sempre alla fine. Lo diceva mio padre: l'ultima vernice è la più difficile.
-NADIA (in cuffia): Allora salta l'ultima vernice e torna giù.
-DAVIDE: Non si può. Senza l'ultima vernice, il quadro si rovina in un anno.
 
 ---
 
@@ -60,9 +56,7 @@ MALASPINA: Non è per te. Se avessi voluto, l'avrei fatto a Trieste. È per me. 
 DAVIDE: Allora parliamo bene.
 MALASPINA: Parliamo bene. Ti ho fatto salire qui perché è l'unico posto di Milano dove si vede tutto e non si è visti da nessuno. Nella nebbia, quassù, siamo come i santi sulle guglie. Tutti ci guardano, nessuno ci riconosce.
 DAVIDE: I santi sulle guglie hanno un nome, generale. Ognuno ha il suo. Tremila statue, e ognuna ha il suo nome scritto da qualche parte nei registri della Fabbrica.
-MALASPINA: Lo so. Ma chi li legge, i registri? (Beve.) Stanotte la tua napoletana mi ha chiuso la porta in faccia. Elegante. Pulita. Presto, ma pulito. Le farei i complimenti, se mi rispondesse al telefono.
-DAVIDE: Non le risponderà.
-MALASPINA: E la francese. Due accendini nella valigetta di Pace. Pace non fuma, sai? Non ha mai fumato. Ci ha messo un'ora a capire cos'erano.
+MALASPINA: Lo so. Ma chi li legge, i registri? (Beve.) Stanotte la tua napoletana mi ha chiuso la porta in faccia. Elegante. Pulita. Presto, ma pulito. Le farei i complimenti, se mi rispondesse al telefono. (Pausa.) E la francese. Due accendini nella valigetta di Pace. Pace non fuma, sai? Non ha mai fumato. Ci ha messo un'ora a capire cos'erano.
 DAVIDE: E lei quanto ci ha messo?
 MALASPINA: Un secondo. Ho visto la sua faccia quando ha aperto la valigetta, dal corridoio. E sono uscito. Quarant'anni di mestiere: si esce sempre prima del finale.
 DAVIDE: Anche stavolta?
@@ -132,7 +126,6 @@ CHIARA: Davide. Stai bene?
 DAVIDE: Sto bene. La pistola è sulla panca. Lui non la toccherà.
 (Un agente prende la pistola. Conte si avvicina a Malaspina con le manette.)
 CONTE: Generale Ruggero Malaspina, la arresto per concorso nell'omicidio di Tommaso Lenzi e di Milo Kovačič, per sequestro di persona e per attentato alla sicurezza dei sistemi finanziari. E per quello che la dottoressa Bassi aggiungerà oggi pomeriggio.
-CHIARA: La lista è lunga, ispettore. Mi servirà un caffè.
 (Malaspina porge i polsi. Con calma. Poi si volta verso Davide. Il tono è cambiato: è di nuovo morbido, distante, romano.)
 MALASPINA: Dottoressa Bassi. Ispettore. Vi prego di trattare bene il signor Colombo. Lui non ha nessuna colpa, in tutto questo. Solo il talento.
 (Si ferma davanti a Davide, ammanettato.)
@@ -192,8 +185,10 @@ GIULIA: Una collega. Sì, certo. E io sono la regina d'Inghilterra.
 ERNESTO: Il blu buono è grosso. Questa donna ascolta. Mi piace.
 (Il telefono sul tavolo vibra. Un messaggio vocale. Davide fa segno a Giulia. Lei preme il tasto. Rumore di una pasticceria affollata, voci napoletane, un forno.)
 NADIA (messaggio vocale): Buon Natale, Meneghino. Sono da Ciro. Ciro ti saluta e dice che sei magro. Notizie: mi hanno ridato il badge. Pulito. Con le scuse scritte, pensa. E un ufficio con la finestra. Ho detto che ci penso. Ci penso qui, con una sfogliatella. Vitali testimonia a gennaio, a Milano. Conte ti manda i cannoli e dice che il prossimo arresto è per amicizia. E Wang ha trovato un altro conto del Nido a Singapore. Tu non pensarci, eh. Almeno stasera. Gira il risotto.
-BEPPE: Chi è questa? Mi piace già.
-DAVIDE: È quella che ti ha cucito la ferita per telefono. Più o meno.
+GIULIA: Chi è Ciro?
+DAVIDE: Un pasticcere di Napoli. Fa le sfogliatelle migliori del mondo. Un giorno ti ci porto.
+GIULIA: Tipo promesso?
+DAVIDE: Promesso. E stavolta senza portachiavi.
 GIULIA: E il Nido? Tipo, i cattivi? La mamma ieri ha detto che ne hanno presi solo alcuni.
 DAVIDE: Due arrestati. Uno a Vienna, uno a Bruxelles. Uno collabora, in Olanda. Gli altri tre… non lo sappiamo. Hanno nomi in codice e nessuna faccia.
 GIULIA: Che ansia.

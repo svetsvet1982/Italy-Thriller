@@ -38,7 +38,7 @@ NADIA (in cuffia): Voi milanesi avete regole per tutto, tranne che per le cose i
 DAVIDE: Chi trasloca davanti a un liceo?
 NADIA (in cuffia): Nessuno. E poi c'è uno che fuma vicino alla fermata del tram. Giaccone blu, sui quaranta. Si è acceso la terza sigaretta senza finire la seconda.
 (Davide abbassa il giornale di un centimetro. Guarda l'uomo alla fermata.)
-DAVIDE: Lo conosco. Sergio Ferri. Ex paracadutista. L'ho avuto in un corso, sette anni fa. Mai capito come sia passato alle selezioni.
+DAVIDE: Lo conosco. Sergio Ferri. Ex paracadutista. L'ho avuto in un corso, sette anni fa. A Pasqua, a Roma, guidava l'auto che portava via Sala. E ha preso la strada sbagliata. Apposta.
 NADIA (in cuffia): Agenzia?
 DAVIDE: Non più. L'hanno mandato via per una storia di soldi, nel '21. Adesso lavora per chi paga. Sono i più pericolosi: non hanno una bandiera, hanno un IBAN.
 (Suona la campanella. Un fiume di ragazzi con zaini e cuffie si riversa sul marciapiede. Risate, motorini, un clacson. Davide cerca con gli occhi.)
@@ -221,7 +221,7 @@ DAVIDE: E adesso mi sta parlando.
 
 <!-- 연속성 메모:
 - 12/2 아침 7시 Malaspina→Chiara 통화(E04 클리프 직후 연속): Chiara "Ex marito… Lo dice anche la sentenza." Malaspina는 Giulia의 그날 그리스어 시험(5교시, 플라톤)을 알고 있었음. Chiara는 통화를 녹음했다고 말함(녹음 여부는 미확정으로 둘 것). Chiara는 9시 'ndrangheta 예비심문(피고 12명)에 정상 출석.
-- 납치 실행자: **Sergio Ferri**(약 40, 전 공수부대, 7년 전 Davide의 교육생, 2021년 돈 문제로 AISE에서 퇴출 → 청부). 금발의 장신 공범 1명. 흰 승합차 "Traslochi Lombardi", 로마 장기렌트 회사 명의(지배주주 = 3화의 '로마 회사' 측과 연결 암시, 실명 미공개).
+- 납치 실행자: **Sergio Ferri**(약 40, 전 공수부대, 7년 전 Davide의 교육생, 2부 10화에서 Sala 호송차를 운전하며 '잘못된 경로'를 택한 AISE 요원 Ferri와 동일 인물 — 4월 이후 AISE를 떠나 Malaspina의 사적 청부). 금발의 장신 공범 1명. 흰 승합차 "Traslochi Lombardi", 로마 장기렌트 회사 명의(지배주주 = 3화의 '로마 회사' 측과 연결 암시, 실명 미공개).
 - 트램(옛 Ventotto, 주황색)에서 Davide는 말로 Ferri를 흔들고, **Giulia가 "소매치기!"라고 외쳐 승객들이 Ferri를 붙잡게 함**(밀라노 방언 sciura: "Ma va' a ciapà i ratt"). 둘은 Cairoli 전 정류장에서 하차 → 스포르체스코성 → 셈피오네 공원.
 - 셈피오네 공원 Ponte delle Sirenette: 어릴 때 Davide가 Giulia를 데려가 "밤에 인어들이 말한다"고 함.
 - 벤치 고백: AISE 21년 근무 사실, 'Meneghino' 코드네임을 Giulia가 앎. Kovačič·Lenzi 살해 부인. "한 번, 네가 태어나기 전" 사람을 죽인 적 있다고 인정 — 세부는 "언젠가 다시 물으면" 말하기로 약속(미회수 약속).

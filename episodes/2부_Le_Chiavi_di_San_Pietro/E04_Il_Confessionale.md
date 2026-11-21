@@ -7,42 +7,42 @@
 [SCENA 1 — Torrione, terzo piano. Venerdì 13 marzo, venti e quarantasette. Luci di emergenza verdi.]
 
 (Davide scatta l'ultima foto al foglio. Lo rimette nella busta, la busta sotto il doppio fondo, il fondo nel cassetto.)
-NADIA (in cuffia): Ricevute. Sei foto. Si legge tutto. Anche l'uccello.
-DAVIDE: Una fenice, Nadia. Disegnata da un contabile che ha paura.
-NADIA (in cuffia): O da un contabile che si annoia al telefono. Mia zia disegna gufi.
-DAVIDE: Tua zia non nasconde i gufi in un doppio fondo.
-NADIA (in cuffia): Tre minuti. Esci.
+NADIA (in cuffia): Le ho ricevute, sono sei foto e si legge tutto, anche i numeri più sbiaditi. Si vede bene persino l'uccello nell'angolo.
+DAVIDE: È una fenice, Nadia, non un uccello qualsiasi. E l'ha disegnata un contabile che aveva paura, con la mano ferma di chi ci ha pensato a lungo.
+NADIA (in cuffia): O l'ha disegnata un contabile che si annoiava al telefono, come tutti. Mia zia, quando parla con mia madre, riempie i quaderni di gufi.
+DAVIDE: Tua zia però non nasconde i gufi in un doppio fondo, accanto a diciassette numeri di conto e a una data di due giorni prima di sparire.
+NADIA (in cuffia): Su questo hai ragione, ma ne parliamo dopo. Ti restano tre minuti prima che finisca il loop: esci di lì.
 (Davide si alza. La porta a vetri dell'open space si apre. Non è il vigilante. È Gianni Ruffo, con il cappotto addosso e il pacchetto di sigarette in mano.)
-RUFFO: Don. Lei.
-DAVIDE: Signor Ruffo. Pensavo di essere l'ultimo.
-RUFFO: Avevo dimenticato le sigarette. Quella è la scrivania di Sandro.
-DAVIDE: Cercavo una calcolatrice. La mia è morta. Lui ne ha tre, nel primo cassetto.
+RUFFO: Don, è lei? Con queste luci verdi l'avevo preso per un ladro, e stavo per chiamare il vigilante.
+DAVIDE: Signor Ruffo, buonasera. Pensavo di essere l'ultimo rimasto nel Torrione, a quest'ora di venerdì.
+RUFFO: Avevo dimenticato le sigarette sulla scrivania, e senza non arrivo a domattina. Ma quella dove sta seduto lei è la scrivania di Sandro.
+DAVIDE: Cercavo una calcolatrice, perché la mia è morta proprio stasera. Lui ne ha tre, nel primo cassetto, e ne ho presa una in prestito.
 (Ruffo guarda il cassetto. Poi guarda Davide. Tossisce.)
 RUFFO: Sandro non prestava mai niente. Nemmeno una penna. Diceva che le penne tornano sempre sbagliate.
-DAVIDE: Allora gliela restituisco lunedì, così non se ne accorge.
-RUFFO: Lunedì. Va bene. Lunedì.
+DAVIDE: Allora gliela restituisco lunedì mattina, prima che torni, così non se ne accorge e non si arrabbia con nessuno.
+RUFFO: Lunedì, va bene. Lunedì. Se torna, lunedì, gliela rimette al suo posto, e nessuno dirà niente.
 (Ruffo resta fermo un momento di troppo. Poi indica il cartellino appeso sulla bacheca del corridoio: un foglio della Penitenzieria.)
 RUFFO: Ho visto che domani confessa, Don. Alla fine c'è il suo nome. Dalle tre alle sei.
-DAVIDE: Me l'hanno chiesto. Non ho potuto dire di no.
-RUFFO: Nessuno può dire di no, qui dentro. Buonanotte, Don Davide.
+DAVIDE: Me l'hanno chiesto ieri, e non ho potuto dire di no. Un prete nuovo, in Quaresima, non rifiuta un confessionale.
+RUFFO: Nessuno può dire di no, qui dentro, Don, nemmeno quando vorrebbe. Buonanotte, Don Davide, e non faccia troppo tardi.
 
 ---
 
 [SCENA 2 — Casa del Clero, la stanza al terzo piano. Sabato 14 marzo, otto del mattino. Il cielo è bianco.]
 
-MALASPINA (al telefono): Una fenice. Ho visto le foto. La signorina Rinaldi è molto rapida.
-DAVIDE: Lei cosa ne pensa, generale?
+MALASPINA (al telefono): Una fenice. Ho visto le foto. La signorina Rinaldi è molto rapida, e lei è stato molto fortunato con quel cassetto.
+DAVIDE: Lei cosa ne pensa, generale? Non mi dica che è una coincidenza, perché a Venezia di coincidenze ne abbiamo contate troppe.
 MALASPINA (al telefono): Penso che un uccello disegnato a matita non sia una prova. I contabili disegnano. Lo fanno anche i generali, alle riunioni.
 DAVIDE: Pace l'ha nascosto in un doppio fondo, accanto ai diciassette conti. E l'ultima data è due giorni prima che sparisse.
 (Un silenzio breve dall'altra parte. Poi la voce torna, gentile come sempre.)
 MALASPINA (al telefono): Lo archivi. Rinaldi farà le sue ricerche. Lei pensi ai soldi. I soldi sono reali. Gli uccelli, a Roma, sono soprattutto gabbiani.
-DAVIDE: Generale, oggi pomeriggio devo confessare. In Basilica. Tre ore.
-MALASPINA (al telefono): Lo so. È un'ottima occasione.
-DAVIDE: È un sacramento. Non sono un prete. Ogni persona che si inginocchia lì davanti…
+DAVIDE: Generale, c'è un'altra cosa. Oggi pomeriggio devo confessare in Basilica, per tre ore, e non so se ne ho il diritto.
+MALASPINA (al telefono): Lo so, me l'hanno detto ieri sera. Ed è un'ottima occasione, Colombo, molto migliore di quanto pensi.
+DAVIDE: È un sacramento, generale, non un'occasione. Io non sono un prete. Ogni persona che si inginocchia lì davanti…
 MALASPINA (al telefono): Ogni persona che si inginocchia lì davanti vedrà un prete. Un prete che rifiuta il confessionale in Quaresima è un prete che si fa notare. Lei non si fa notare, Colombo. Mai.
-DAVIDE: E se qualcuno mi confessa un reato?
+DAVIDE: E se qualcuno mi confessa un reato, generale? Cosa devo fare, alzarmi e chiamare la Gendarmeria dal confessionale?
 MALASPINA (al telefono): Lei non è un prete. Il sigillo non la riguarda. Mi riferisca tutto.
-DAVIDE: Tutto.
+DAVIDE: Tutto, generale? Anche quello che una vecchia signora mi dirà di sua nuora, o un ragazzino del suo compito in classe?
 MALASPINA (al telefono): Tutto quello che serve. "Dum Romae consulitur, Saguntum expugnatur." Mentre a Roma si discute, Sagunto cade. Buona confessione, Don Davide.
 
 ---
@@ -50,69 +50,69 @@ MALASPINA (al telefono): Tutto quello che serve. "Dum Romae consulitur, Saguntum
 [SCENA 3 — Basilica di San Pietro, navata sinistra. Sabato, quindici e dieci. Una fila lunga davanti ai confessionali. Sul cartellino di uno: «Don Davide Colombo — Italiano».]
 
 (Dentro il confessionale, Davide indossa la stola viola. La grata di legno davanti a lui. Una vecchia signora romana, cappotto di astrakan, si inginocchia sbuffando.)
-SORA INES: Sia lodato Gesù Cristo. Lei è nuovo. Che fine ha fatto padre Gregorio?
-DAVIDE: Sempre sia lodato. Non lo so, signora. Io sono qui solo per oggi.
+SORA INES: Sia lodato Gesù Cristo. Lei è nuovo, se sente subito. Che fine ha fatto padre Gregorio, che stava sempre qua il sabato?
+DAVIDE: Sempre sia lodato. Non lo so, signora, mi dispiace. Io sono qui solo per oggi, a dare una mano per la Quaresima.
 SORA INES: Peccato. Padre Gregorio è sordo, ce se confessava bene. Allora. Ho detto a mi' nuora che cucina come 'na capra.
-DAVIDE: Ah. E cucina come una capra?
-SORA INES: Peggio. Ma nun se dice, lo so. Davanti a mio fijo, poi. Lui ha fatto la faccia triste. E io me so' sentita 'na strega.
-DAVIDE: Per penitenza, domani dica una cosa gentile a sua nuora. Una sola. Anche piccola.
-SORA INES: Una? E se nun me viene?
-DAVIDE: Allora le dica che il sugo era buono.
-SORA INES: Pure se era 'na schifezza?
-DAVIDE: Soprattutto se era una schifezza. Così vale doppio.
+DAVIDE: Ah, capisco. E mi dica la verità, signora, visto che siamo qui per questo: sua nuora cucina davvero come una capra?
+SORA INES: Peggio, Don, molto peggio. Ma nun se dice, lo so. Davanti a mio fijo, poi. Lui ha fatto la faccia triste. E io me so' sentita 'na strega.
+DAVIDE: Allora per penitenza, domani, dica una cosa gentile a sua nuora. Una sola, anche piccola, ma che la senta anche suo figlio.
+SORA INES: Una sola? E se nun me viene, Don? Io so' de Testaccio, a me le cose gentili me escono storte.
+DAVIDE: Allora le dica che il sugo era buono. È la cosa più semplice del mondo, e a Roma vale più di un complimento sul vestito.
+SORA INES: Pure se era 'na schifezza? Nun è 'n'altra bugia, quella, da venì a confessà sabato prossimo?
+DAVIDE: Soprattutto se era una schifezza, signora. Così vale doppio, e il Signore la segna nella colonna giusta.
 (Sora Ines ride piano, coprendosi la bocca. Davide alza la mano destra. La voce si abbassa, quasi si spezza.)
 DAVIDE: Dio, Padre di misericordia, ti conceda il perdono e la pace. E io… ti assolvo dai tuoi peccati nel nome del Padre e del Figlio e dello Spirito Santo.
-SORA INES: Amen. Lei ha una bella voce, Don. Un po' triste. Mangi di più.
+SORA INES: Amen. Lei ha una bella voce, Don, ma un po' triste, come quella de mi' marito buonanima. Mangi di più, che è tutto ossa.
 (La vecchia se ne va. Davide resta un attimo con la mano ancora alzata. La abbassa lentamente.)
-NADIA (in cuffia): Davide? Tutto bene?
-DAVIDE (in un sussurro): Spegni, Nadia. Qui dentro non entri.
+NADIA (in cuffia): Davide? Tutto bene? Ti sento respirare come uno che ha appena fatto tre piani di scale.
+DAVIDE (in un sussurro): Spegni, Nadia, e non riaccendere finché non esco. Qui dentro non entri, né tu né il generale.
 (Davide toglie l'auricolare e lo chiude nel pugno. Il confessionale ora è solo suo. Un bambino di otto anni, spinto dalla madre, si inginocchia. Arriva appena alla grata.)
-TOMMASO: Mi chiamo Tommaso. Ho otto anni. Ho detto una bugia.
-DAVIDE: Che bugia, Tommaso?
+TOMMASO: Mi chiamo Tommaso e ho otto anni. La mamma dice che devo dirlo subito, perché sennò poi non lo dico più: ho detto una bugia.
+DAVIDE: Hai fatto bene a dirlo subito, Tommaso, è la parte più difficile. Adesso raccontami che bugia hai detto, con calma.
 TOMMASO: Ho rotto il vaso blu della nonna col pallone. E ho detto che è stato il gatto. E il gatto l'hanno chiuso in balcone tutta la notte.
-DAVIDE: E il gatto come sta?
-TOMMASO: Mi guarda male. Da tre giorni.
-DAVIDE: Ha ragione. Ha preso la colpa al posto tuo. Allora devi chiedere scusa a due persone.
-TOMMASO: Due?
-DAVIDE: La nonna. E il gatto.
-TOMMASO: Al gatto? Ma il gatto non capisce.
-DAVIDE: I gatti capiscono tutto, Tommaso. Fanno solo finta di no. Come i grandi.
+DAVIDE: Povero gatto, una notte intera fuori a marzo. E adesso come sta, il gatto? Ti parla ancora, o ce l'ha con te?
+TOMMASO: Mi guarda male, da tre giorni. Quando passo in corridoio si gira dall'altra parte, e non viene più a dormire sul mio letto.
+DAVIDE: E ha ragione lui, sai, perché ha preso la colpa al posto tuo. Allora devi chiedere scusa a due persone, non a una.
+TOMMASO: A due persone? Ma il vaso era solo della nonna, non era di nessun altro.
+DAVIDE: Sì, a due: alla nonna, per il vaso, e al gatto, per la notte in balcone. Tutti e due si meritano le tue scuse.
+TOMMASO: Al gatto? Ma il gatto non capisce le parole, Don, è un gatto, mica una persona.
+DAVIDE: I gatti capiscono tutto, Tommaso. Fanno solo finta di no. Come i grandi, che fanno finta di non capire per non doversi scusare.
 (Il bambino ride. La madre, fuori, lo chiama. La fila avanza. Una donna sui cinquant'anni si inginocchia in silenzio. Per un lungo momento non dice niente.)
 VEDOVA: Non so cosa devo confessare. Mio marito è morto a gennaio. In ospedale, al Gemelli. Da allora non riesco più a pregare. Sono arrabbiata con Dio.
-DAVIDE: Da quanto tempo non lo dice a nessuno?
+DAVIDE: Da quanto tempo non lo dice a nessuno, signora? Mi sembra una cosa che porta dentro da molto, da sola.
 VEDOVA: Da gennaio. Le mie figlie pensano che stia bene. Il parroco mi ha detto di avere fede. Io ho fede, padre. È per questo che sono arrabbiata. Se non ci credessi, con chi me la prenderei?
 (Davide si appoggia alla grata. Quando parla, la voce è diversa. Non è quella del prete.)
 DAVIDE: Mia madre è morta quindici anni fa. Anche lei in ospedale. Io non sono riuscito ad arrabbiarmi con Dio. Mi sono arrabbiato con tutti gli altri. Con i medici, con mio padre. Con me.
-VEDOVA: E poi?
+VEDOVA: E poi, padre, cosa è successo? Le è passata, un giorno, o se la porta ancora dietro come me?
 DAVIDE: E poi ho capito che lei, signora, ha fatto meglio di me. Lei ha litigato con l'unico che poteva sopportarlo. Questo non è un peccato. È una preghiera. Solo, a voce alta.
 (La donna piange, senza rumore. Poi si asciuga gli occhi con il dorso della mano.)
-VEDOVA: Nessuno me l'aveva detto così.
-DAVIDE: Torni a parlargli. Anche urlando. Lui ha tempo.
+VEDOVA: Nessuno me l'aveva detto così, padre, in due mesi. Tutti mi dicevano di stare tranquilla, e io mi sentivo sempre più sbagliata.
+DAVIDE: Torni a parlargli, signora, anche urlando, anche di notte in cucina. Lui ha tempo, e non si offende.
 (Le ore passano. La luce nella Basilica si sposta. Davide pronuncia la formula ancora, e ancora. Ogni volta, sulla parola «io», la voce si fa più bassa.)
 
 ---
 
 [SCENA 4 — Lo stesso confessionale. Diciassette e cinquanta. La fila è quasi finita. Un uomo si inginocchia. Non dice il saluto. Respira forte.]
 
-PENITENTE: Non mi assolva subito. Prima mi ascolti.
-DAVIDE: La ascolto.
+PENITENTE: Non mi assolva subito, Don, la prego. Prima mi ascolti fino in fondo, perché se mi interrompe non ho il coraggio di ricominciare.
+DAVIDE: La ascolto, con tutto il tempo che le serve. Nessuno ci mette fretta, e la fila fuori è quasi finita.
 PENITENTE: Ho spostato dei soldi. Per anni. Da conti di frati morti. Martedì scorso ne ho spostati altri. Quasi quattrocentomila, a pezzetti. E morirà della gente.
 (Davide si irrigidisce. L'auricolare spento è sul legno, accanto alla sua mano. Non lo tocca.)
-DAVIDE: Come fa a saperlo?
+DAVIDE: Come fa a saperlo, che morirà della gente? Glielo chiedo perché devo capire se è una paura sua o una cosa che le hanno detto.
 PENITENTE: Perché me l'ha detto chi mi fa firmare. Ha riso. Ha detto: "Tranquillo, i soldi non ammazzano nessuno. Sono le persone che ammazzano." E poi ha detto che presto si vedrà dove vanno. Che si vedrà in tutte le televisioni.
-DAVIDE: Chi le dà gli ordini?
-PENITENTE: Non le dico il nome. Lei lo conosce. Lo vede tutti i giorni.
+DAVIDE: E chi è, questa persona che le dà gli ordini e ride? Non le chiedo di accusarlo, le chiedo solo di aiutarmi a capire.
+PENITENTE: Non le dico il nome, Don, non me lo chieda più. Lei lo conosce. Lo vede tutti i giorni.
 (Una tosse secca, da fumatore. Davide chiude gli occhi.)
 PENITENTE: Io eseguo e basta. Trent'anni che eseguo. Ma Sandro voleva parlare. E adesso Sandro non c'è più.
-DAVIDE: È morto?
-PENITENTE: Non lo so. Spero che sia scappato. Io non ho il coraggio di scappare. Ho tre figli. Il più piccolo fa la cresima a maggio.
-DAVIDE: Lei deve smettere. E deve parlare con qualcuno che può proteggerla. Non solo con Dio.
-PENITENTE: Io sto parlando con lei. Lei è l'unico a cui posso dirlo senza morire.
+DAVIDE: Vuol dire che Sandro è morto? Me lo dica, se lo sa, perché c'è una donna a Roma che lo aspetta ogni giorno.
+PENITENTE: Non lo so, giuro. Spero che sia scappato. Io non ho il coraggio di scappare. Ho tre figli. Il più piccolo fa la cresima a maggio.
+DAVIDE: Lei deve smettere di firmare, subito. E deve parlare con qualcuno che può proteggerla davvero, lei e i suoi figli. Non solo con Dio.
+PENITENTE: Io sto parlando con lei. Lei è l'unico a cui posso dirlo senza morire, perché quello che dico qui resta qui.
 (Silenzio. Davide stringe la stola tra le dita.)
 PENITENTE: Lei non lo può dire a nessuno, vero? È il sigillo. Neanche al Papa.
 DAVIDE (dopo un lungo momento): Il sigillo… è inviolabile.
-PENITENTE: Allora mi assolva.
-DAVIDE: Non posso assolverla, se lunedì torna a firmare. Lo sa anche lei. Ci vuole il proposito.
+PENITENTE: Allora mi assolva, Don, adesso. Ho detto tutto quello che potevo dire, e non ce la faccio a tenerlo dentro un altro giorno.
+DAVIDE: Non posso assolverla, se lunedì torna a firmare. Lo sa anche lei. Ci vuole il proposito, e lei non me l'ha promesso.
 PENITENTE: Lo so. Mia madre me l'ha insegnato a sette anni. Allora non mi assolva. Ma preghi per me, Don. Lei che ha la faccia nuova.
 (L'uomo si alza. Attraverso la grata, Davide vede passare una giacca sformata, una cravatta allentata. Un uomo che si allontana verso l'uscita, curvo, e si accende una sigaretta prima ancora di arrivare alla porta di bronzo.)
 DAVIDE (tra sé): Ruffo.
@@ -123,23 +123,23 @@ DAVIDE (tra sé): Ruffo.
 
 (Davide cammina tra i venditori di braccialetti. Ha rimesso l'auricolare.)
 NADIA (in cuffia): Finalmente. Mi hai spento per tre ore. Ero a un passo dal mandare la Gendarmeria.
-DAVIDE: Te l'avevo detto. Lì dentro non entri.
-NADIA (in cuffia): Allora, com'è andata la fabbrica dei peccati?
-DAVIDE: Una signora che odia la nuora. Un bambino col gatto. Una vedova.
-NADIA (in cuffia): E basta?
-DAVIDE: E basta.
+DAVIDE: Te l'avevo detto prima di cominciare, Nadia. Lì dentro non entri, e non è una questione di fiducia, è una questione di rispetto.
+NADIA (in cuffia): Va bene, rispetto. Allora raccontami almeno com'è andata la fabbrica dei peccati, senza i nomi.
+DAVIDE: C'era una signora che odia la nuora, un bambino che ha incolpato il gatto e una vedova arrabbiata con Dio. Gente normale, Nadia.
+NADIA (in cuffia): E basta? Tre ore di confessionale e mi racconti solo tre persone, una nuora e un gatto?
+DAVIDE: E basta, sì. Il resto erano vecchiette e turisti, come aveva promesso Brennan, e non c'è niente da scrivere nel rapporto.
 (Davide si ferma al parapetto. Guarda l'acqua che corre veloce sotto gli archi.)
 NADIA (in cuffia): Stai mentendo. Lo sento da come respiri. Lo facevi anche a Venezia, dopo Poveglia. Quando ti ho chiesto cosa ti aveva detto Vianello.
 (Un attimo. Davide non risponde. Nella sua testa, per un secondo, la voce roca del vecchio: «Chiedi a Ernesto». La scaccia.)
-DAVIDE: Nadia. Se una persona ti dice una cosa perché crede che tu sia un altro… quella cosa è tua?
-NADIA (in cuffia): Dipende. Se la cosa può far morire qualcuno, è di tutti.
-DAVIDE: E se dirla può far morire lui?
-NADIA (in cuffia): Davide. Cos'hai sentito in quel confessionale?
-DAVIDE: Dammi un'ora.
+DAVIDE: Nadia, rispondimi sinceramente. Se una persona ti dice una cosa perché crede che tu sia un altro… quella cosa è tua?
+NADIA (in cuffia): Dipende. Se la cosa può far morire qualcuno, è di tutti, e non c'è segreto che tenga.
+DAVIDE: E se dirla può far morire proprio lui, quello che te l'ha detta? Allora di chi è, quella cosa?
+NADIA (in cuffia): Davide, adesso basta giri di parole. Cos'hai sentito in quel confessionale? Dimmelo e basta.
+DAVIDE: Dammi un'ora, Nadia, solo un'ora. Poi ti dico tutto, te lo prometto, ma prima devo capire una cosa.
 NADIA (in cuffia): Un'ora. Poi chiamo il generale e gli chiedo perché ti ha messo in quella scatola di legno senza di me.
-DAVIDE: Un'ora. Devo parlare con qualcuno.
-NADIA (in cuffia): Con chi? Qui l'unica che ti ascolta sono io.
-DAVIDE: Con uno che ascolta meglio di te.
+DAVIDE: Va bene, un'ora. Devo parlare con qualcuno prima di parlare con te, e non è il generale.
+NADIA (in cuffia): Con chi, scusa? Qui l'unica che ti ascolta davvero sono io, giorno e notte, anche quando non vorrei.
+DAVIDE: Con uno che ascolta meglio di te, Nadia. E non mi chiedere chi, perché lo sai già.
 
 ---
 
@@ -147,56 +147,56 @@ DAVIDE: Con uno che ascolta meglio di te.
 
 (Padre Anselmo è seduto su una sedia di plastica accanto alla Pietà, il breviario sulle ginocchia. Un sampietrino lo saluta e si allontana con le chiavi.)
 ANSELMO: Mi hanno detto che un prete milanese mi cercava. I sampietrini sanno tutto. Sono peggio delle suore.
-DAVIDE: Lei mi ha detto di tornare.
-ANSELMO: No. Le ho detto che sarebbe tornato. È diverso.
-DAVIDE: Oggi ho confessato. Tre ore.
+DAVIDE: Sono venuto perché lei mi ha detto di tornare, padre, mercoledì, su quella panca accanto alla lampada.
+ANSELMO: No. Le ho detto che sarebbe tornato. È diverso, e lei, che conta le righe, dovrebbe saperlo meglio di me.
+DAVIDE: Oggi ho confessato, padre, per tre ore, in quel confessionale con il mio nome sul cartellino. E non so cosa ho fatto.
 ANSELMO: Lo so. Ho visto la sua fila. Le vecchiette amano le facce nuove. Si sieda. Le sedie di plastica sono l'unica cosa moderna che ho accettato in sessant'anni.
 (Davide si siede. Guarda la Madonna di marmo con il figlio morto sulle ginocchia.)
-DAVIDE: Un uomo mi ha detto una cosa. Grave. Se la dico, forse salvo delle persone. O forse ne uccido una.
-ANSELMO: E vuole sapere se il sigillo vale anche per lei.
-DAVIDE: Sì.
-ANSELMO: Vuole la risposta del teologo o quella del vecchio?
-DAVIDE: Tutte e due.
+DAVIDE: Un uomo mi ha detto una cosa grave, padre. Se la dico, forse salvo delle persone. O forse ne uccido una, e proprio lui.
+ANSELMO: E vuole sapere se il sigillo vale anche per lei, che non è prete. È questa la domanda che si porta dietro da tre ore.
+DAVIDE: Sì, è proprio questa. Me l'hanno già risolta in due parole stamattina, ma la risposta non mi è piaciuta.
+ANSELMO: Allora scelga lei: vuole la risposta del teologo o quella del vecchio? Sono diverse, e di solito la gente sceglie quella sbagliata.
+DAVIDE: Le voglio tutte e due, padre, se ha la pazienza di darmele. Prima il teologo, e poi il vecchio.
 ANSELMO: Il teologo dice: lei non è sacerdote. Non c'è stato sacramento. Quindi non c'è sigillo. Il diritto canonico non le chiederà conto di quel silenzio. Gliene chiederà, e duramente, di tutto il resto.
-DAVIDE: E il vecchio?
+DAVIDE: E il vecchio, invece, cosa dice? Perché il teologo l'ho già sentito, con un'altra voce e molto meno garbo.
 ANSELMO: Il vecchio le fa una domanda. Se lei non è un prete, quella confessione a chi è stata fatta?
-DAVIDE: A me. A un bugiardo con il colletto.
+DAVIDE: L'ha fatta a me, padre. A un bugiardo con il colletto, che non aveva nessun diritto di sedersi in quel posto.
 ANSELMO: No. Quell'uomo non si è inginocchiato davanti a lei. Si è inginocchiato davanti a Dio. Lei era il legno. La grata. Dio ha ascoltato lo stesso, anche se il legno era falso.
-DAVIDE: Allora il segreto è di Dio.
+DAVIDE: Allora il segreto appartiene a Dio, e io dovrei soltanto tacere, come se non avessi sentito niente?
 ANSELMO: Il segreto è di quell'uomo. E Dio non tradisce nessuno. Ma lei non è Dio, figliolo. E nemmeno il legno. Lei è un uomo che ha saputo una cosa.
-DAVIDE: Lei cosa farebbe?
+DAVIDE: E lei, padre, al mio posto, cosa farebbe? Me lo dica senza teologia, come lo direbbe a un nipote.
 ANSELMO: Io sono un prete. Io starei zitto, e porterei quel peso fino alla tomba. L'ho fatto altre volte. È il mio voto, ed è anche il mio privilegio. Lei non ha fatto voti. Ha fatto un giuramento, immagino. A qualcun altro.
-DAVIDE: Allo Stato.
-ANSELMO: Ah. E lo Stato lo proteggerà, quell'uomo?
-DAVIDE: Dovrebbe.
+DAVIDE: Ho giurato allo Stato, padre, molti anni fa, con mio padre in prima fila che non capiva bene cosa stessi facendo.
+ANSELMO: Ah. E lo Stato lo proteggerà, quell'uomo? Me lo dica lei, che lo conosce meglio di me.
+DAVIDE: Dovrebbe proteggerlo, sì. È scritto nelle regole, ed è per questo che esistiamo, almeno sulla carta.
 ANSELMO: "Dovrebbe." Lei dice "dovrebbe" come i miei penitenti dicono "domani smetto".
 (Davide si piega in avanti, i gomiti sulle ginocchia. Si guarda le mani.)
-DAVIDE: Mia madre diceva che il confessionale è l'unico posto al mondo dove nessuno mente.
+DAVIDE: Mia madre diceva che il confessionale è l'unico posto al mondo dove nessuno mente, e io ci ho creduto fino a oggi.
 ANSELMO: Sua madre era un'ottimista. Io ci ho sentito mentire vescovi, mariti, ragazzini. Ma non mentono mai a lungo. Lì dentro, prima o poi, la verità esce. Come l'umidità dai muri.
-DAVIDE: Se parlo, lo tradisco. Se sto zitto, forse muore della gente.
+DAVIDE: Se parlo, lo tradisco, perché lui si è fidato del mio colletto. Se sto zitto, forse muore della gente che non c'entra niente.
 ANSELMO: Allora parli. Ma parli per proteggerlo, non per usarlo. Alla fine, è l'unica differenza tra un confessore e una spia. Che cosa fai di quello che sai.
-DAVIDE: Lei sa cosa sono, padre. Vero?
+DAVIDE: Lei sa cosa sono, padre, vero? Non me l'ha mai chiesto, ma l'ha capito dal primo giorno.
 ANSELMO: So cosa non è. Mi basta. Quando avrà parlato, torni a dirmi chi ha protetto. Ma non stanotte. Alla mia età si dorme alle dieci, e Dio non se la prende.
 
 ---
 
 [SCENA 7 — Casa del Clero, la stanza. Sabato, ventitré. La finestra è aperta sui tetti. Davide è seduto sul letto, ancora con il colletto.]
 
-DAVIDE: Nadia. Ascoltami e non interrompere.
-NADIA (in cuffia): Ti ascolto.
+DAVIDE: Nadia, ascoltami e non interrompere, per favore. Quello che sto per dirti non lo ripeto, e non voglio domande finché non ho finito.
+NADIA (in cuffia): Ti ascolto, e non dico una parola finché non hai finito. Vai pure, ho già il blocco aperto.
 DAVIDE: Gianni Ruffo. Ufficio bonifici del Torrione. È lui che esegue gli ordini sui conti di San Zaccaria. Martedì ha spostato quasi quattrocentomila euro.
-NADIA (in cuffia): Come lo sai?
+NADIA (in cuffia): Scusa, lo so che avevo promesso, ma devo chiedertelo: come lo sai? Per il rapporto mi serve almeno una fonte.
 DAVIDE: Lo so. Non chiedermi come. Ha paura. Ha tre figli. Dice che chi gli dà gli ordini lo vedo tutti i giorni. E che presto si vedrà dove vanno i soldi. "In tutte le televisioni."
-NADIA (in cuffia): Maronna. Lo passo subito al generale. Priorità uno.
-DAVIDE: Nadia. Non come una fonte da spremere. Come una persona da proteggere. Lo scrivi così. Con queste parole.
-NADIA (in cuffia): Lo scrivo così. "Soggetto a rischio. Richiesta protezione immediata." Va bene?
-DAVIDE: Va bene.
+NADIA (in cuffia): Maronna. Lo passo subito al generale, con priorità uno, prima ancora di chiudere questa chiamata.
+DAVIDE: Nadia, aspetta. Non come una fonte da spremere. Come una persona da proteggere. Lo scrivi così. Con queste parole.
+NADIA (in cuffia): Lo scrivo così, te lo leggo mentre lo scrivo: "Soggetto a rischio. Richiesta protezione immediata." Va bene, così?
+DAVIDE: Va bene così, Nadia. Grazie. E mettici anche che ha tre figli, perché a volte le parole da sole non bastano.
 (Passano quaranta minuti. Davide non si muove. Il telefono di servizio vibra. Un messaggio cifrato. Nadia lo legge ad alta voce.)
 NADIA (in cuffia): Dal generale. "Ricevuto. La fonte è già stata neutralizzata. Non se ne occupi più. Buonanotte, Don Davide. M."
-DAVIDE: Neutralizzata.
+DAVIDE: Neutralizzata, ha scritto? Che parola è, Nadia, per un uomo con tre figli e una cresima a maggio?
 NADIA (in cuffia): Nel nostro gergo vuol dire messa al sicuro. Fuori gioco. Lo prelevano stanotte, lo portano in un appartamento protetto, lontano dal Torrione.
-DAVIDE: Già? In quaranta minuti?
-NADIA (in cuffia): Il generale è veloce. Lo sai. Dormi, Davide. Stavolta hai fatto la cosa giusta.
+DAVIDE: Già fatto, in quaranta minuti, di sabato notte? A Venezia, per una macchina di scorta, abbiamo aspettato mezza giornata.
+NADIA (in cuffia): Il generale è veloce quando vuole, lo sai anche tu. Dormi, Davide. Stavolta hai fatto la cosa giusta.
 (Davide si toglie il colletto. Lo posa sul comodino, accanto al breviario che non sa leggere. Spegne la luce. Non dorme.)
 
 ---
@@ -204,8 +204,8 @@ NADIA (in cuffia): Il generale è veloce. Lo sai. Dormi, Davide. Stavolta hai fa
 [SCENA 8 — Lungotevere degli Anguillara, sopra l'Isola Tiberina. Lunedì 16 marzo, sette e venti. Nebbia leggera sul fiume. Lampeggianti blu. Un nastro bianco e rosso della polizia.]
 
 (Domenica è passata in silenzio. Nessuna notizia. «Il generale non dà dettagli», ha detto Nadia. Davide ha chiamato suo padre, come promesso. Ha parlato del tempo. Ora il telefono vibra. Un numero romano.)
-LIVIA (al telefono): Prete. Sei sveglio?
-DAVIDE: Signora Carrà. Come ha avuto questo numero?
+LIVIA (al telefono): Prete, sono Livia. Sei sveglio? Perché quello che ti devo dire non si può dire a uno che dorme.
+DAVIDE: Signora Carrà, buongiorno. Come ha avuto questo numero? Non l'ho dato a nessuno, a Roma, tranne che all'ufficio.
 LIVIA (al telefono): Dalla portineria della Casa del Clero. Ho detto che ero tua cugina di Milano. Il portiere è un tesoro. Ti chiamo dal fisso di una tabaccheria. Senti bene. Stamattina all'alba un canottiere ha visto un uomo nel Tevere. Incastrato contro la briglia, sotto l'Isola Tiberina.
 (Davide è già lì. Lo vede dalla scalinata: un telo grigio sulla banchina, due agenti, un canottiere avvolto in una coperta termica.)
 LIVIA (al telefono): Lavorava al Torrione. Cinquantacinque anni, tre figli. Si chiamava Gianni Ruffo. Tu lo conoscevi?

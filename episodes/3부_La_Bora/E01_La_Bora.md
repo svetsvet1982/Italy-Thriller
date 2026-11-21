@@ -7,25 +7,25 @@
 [SCENA 1 — Trieste, Piazza Unità d'Italia. 1° ottobre, primo pomeriggio. Bora scura: raffiche a centoventi all'ora. Lungo i marciapiedi, corde tese tra i pali della luce.]
 
 (Il vento urla tra i palazzi. Il mare, oltre la piazza, è bianco di schiuma. Davide trascina un trolley e cammina piegato in avanti. Davanti a lui, una signora anziana avanza aggrappata alla corda, il foulard che le frusta la faccia.)
-SIGNORA: Ciò, giovanotto! Non molli la corda, che questa la porta via!
-DAVIDE: Giovanotto è un complimento generoso. Vuole il mio braccio?
-SIGNORA: Il braccio no. La corda sì. La corda non mi ha mai tradito.
+SIGNORA: Ciò, giovanotto! Non molli la corda per nessun motivo, che con questo vento la porta via come un foglio di giornale!
+DAVIDE: Giovanotto è un complimento generoso, signora, ma lo accetto volentieri. Vuole appoggiarsi al mio braccio finché non arriviamo all'angolo?
+SIGNORA: Il braccio no, grazie, che i bracci degli uomini vanno e vengono. La corda sì: in ottant'anni la corda non mi ha mai tradito.
 (Una raffica. Il trolley di Davide si rovescia e scivola sulla pietra bagnata, verso il mare.)
-DAVIDE: Ué! Ferma… ferma!
-SIGNORA: Lo lasci andare, mona! Meglio la valigia che lei!
+DAVIDE: Ué! Ferma… ferma! Lì dentro ci sono tutti i miei documenti!
+SIGNORA: Lo lasci andare, mona! Meglio la valigia che lei: le valigie si ricomprano, le teste rotte no.
 (Davide si aggrappa alla corda con tutte e due le mani. Respira a fatica.)
-SIGNORA: Non si spaventi. Questa no xe bora. Questo xe un refolo. La bora vera è stata stanotte.
-DAVIDE: Peggio di così?
-SIGNORA: La bora è come certi uomini. Prima ti spettina, poi ti spoglia. Alla fine ti lascia solo le ossa.
+SIGNORA: Non si spaventi, che questa no xe bora, questo xe un refolo. La bora vera è stata stanotte, e ha fatto ballare anche le navi in rada.
+DAVIDE: Mi sta dicendo che stanotte era peggio di così? Allora sono proprio contento di aver preso il treno e non la nave.
+SIGNORA: La bora è come certi uomini. Prima ti spettina, poi ti spoglia. Alla fine ti lascia solo le ossa, e nemmeno quelle tutte intere.
 (Il trolley, in fondo alla piazza, urta contro le scarpe di un uomo fermo. Cappotto scuro, guanti di pelle. È l'unico in tutta la piazza che non sembra spettinato. Blocca la valigia con un piede.)
-LENZI: Suo, credo.
-DAVIDE: Dottor Lenzi. Lei non doveva arrivare stasera?
-LENZI: Ho preso il volo delle nove. Lei è in ritardo di sedici minuti sul programma.
-DAVIDE: C'è vento.
-LENZI: Il vento era nelle previsioni. Il ritardo no.
-SIGNORA: Ciò, el xe un suo amico, questo qua?
-DAVIDE: Un collega.
-SIGNORA: Ah. Allora stia attento lo stesso.
+LENZI: Suo, credo. Le consiglio di tenerlo più stretto, signor Sironi: dentro ci sono cose che non devono finire in mare.
+DAVIDE: Dottor Lenzi, buongiorno. Credevo che lei arrivasse stasera, quando io avrei già avuto il tempo di sistemarmi.
+LENZI: Ho preso il volo delle nove. Lei è in ritardo di sedici minuti sul programma, e naturalmente ne ho preso nota.
+DAVIDE: C'è vento, dottore, nel caso non se ne fosse accorto. Qui la gente cammina aggrappata alle corde come sul ponte di una nave.
+LENZI: Il vento era nelle previsioni, signor Sironi, l'ho letto sul bollettino di ieri sera. Il ritardo no.
+SIGNORA: Ciò, el xe un suo amico, questo qua? Ha la faccia di uno che conta anche i piccioni in piazza.
+DAVIDE: Un collega di lavoro, signora. Amico è una parola grossa, e ci conosciamo da troppo poco per usarla.
+SIGNORA: Ah, un collega. Allora stia attento lo stesso, giovanotto, perché a Trieste i colleghi sono peggio della bora.
 (La signora si allontana lungo la corda, un passo alla volta, senza voltarsi.)
 
 ---
@@ -33,44 +33,44 @@ SIGNORA: Ah. Allora stia attento lo stesso.
 [SCENA 2 — Roma, Forte Braschi, sede dell'AISE. Nove ore prima: le sei e un quarto del mattino. L'ufficio del generale Malaspina. Fuori piove.]
 
 (Una lampada verde sulla scrivania. Una caffettiera d'argento. Malaspina, in maniche di camicia, versa due tazzine. Tommaso Lenzi è in piedi vicino alla finestra, una cartellina sotto il braccio.)
-MALASPINA: Entri, Colombo. Il caffè è ancora caldo. Il dottor Lenzi lo conosce già.
-DAVIDE: Di vista. Mi ha interrogato tre volte, ad aprile.
-LENZI: Quattro. L'ultima il quattordici aprile, alle sedici e dieci. Lei se n'è andato prima della fine.
-DAVIDE: Avevo finito le risposte. Lei non aveva finito le domande.
+MALASPINA: Entri, Colombo, e chiuda la porta. Il caffè è ancora caldo, l'ho fatto io stesso. Il dottor Lenzi lo conosce già, immagino.
+DAVIDE: Di vista, generale, e da una distanza che non mi è piaciuta. Mi ha interrogato tre volte, ad aprile, sempre nella stessa stanza senza finestre.
+LENZI: Quattro. L'ultima il quattordici aprile, alle sedici e dieci. Lei se n'è andato prima della fine, e il verbale è rimasto senza firma.
+DAVIDE: Avevo finito le risposte. Lei non aveva finito le domande. È una differenza che nel suo verbale, temo, non compare.
 MALASPINA: Si sieda. Sei mesi in archivio le hanno tolto il colore dalla faccia, ma non la lingua. Bene. Le servirà.
 (Spinge sul tavolo una fotografia sgranata. Una donna con il cappuccio, una borsa a tracolla, il viso a metà nell'ombra.)
-MALASPINA: Stazione Centrale di Trieste, ventisette settembre, ore diciannove e quaranta. Telecamera del binario tre.
-DAVIDE: Potrebbe essere chiunque.
+MALASPINA: Stazione Centrale di Trieste, ventisette settembre, ore diciannove e quaranta. Telecamera del binario tre. Il riconoscimento facciale dice settantuno per cento.
+DAVIDE: Potrebbe essere chiunque. Settantuno per cento vuol dire che quasi una volta su tre la macchina sbaglia, e quella è una donna con un cappuccio.
 MALASPINA: Ha ragione. Una foto da sola non è niente. Ma stanotte, alle due, una nave alla fonda ha arato il fondale davanti a Santa Croce, a nord di Trieste. Bora a centocinquanta. Un cavo sottomarino tranciato.
-DAVIDE: Con la bora succede.
+DAVIDE: Con la bora succede, generale. Le navi arano, i cavi si spezzano e le assicurazioni pagano: non è la prima volta e non sarà l'ultima.
 MALASPINA: Succede. Ma il punto esatto, Colombo, lei lo conosce. L'ha letto anche lei, ad aprile. Su un registro del Seicento.
 (Silenzio. La pioggia batte sui vetri.)
-DAVIDE: Le coordinate.
+DAVIDE: Le coordinate del registro di Santo Spirito. Le avevamo noi, in archivio, e nessuno fuori da questo palazzo doveva sapere che cosa indicavano.
 MALASPINA: Le coordinate. E una donna che somiglia a Nadia Rinaldi nella stessa città, quattro giorni prima. Due fili che si toccano. E quando due fili si toccano, di solito c'è una scintilla.
-DAVIDE: Che cosa vuole da me?
-MALASPINA: Voglio che me la porti. Viva, possibilmente. Pulita, se si può.
-DAVIDE: E se non è colpevole?
+DAVIDE: E che cosa vuole da me, esattamente? Sei mesi fa mi ha tolto tutto, e adesso mi offre un caffè con la caffettiera d'argento.
+MALASPINA: Voglio che me la porti. Viva, possibilmente. Pulita, se si può. Non voglio sparatorie, non voglio giornalisti e non voglio un altro funerale.
+DAVIDE: E se non è colpevole? Se qualcuno l'ha messa in quella foto apposta, come si mette un'esca sull'amo per vedere chi abbocca?
 MALASPINA: Allora me la porti viva, e lo dimostrerà davanti alla commissione. Se è colpevole, me la porti viva lo stesso. I morti non firmano verbali.
-DAVIDE: Perché proprio io? Lei ha cinquanta agenti più freschi di me.
+DAVIDE: Perché proprio io? Lei ha cinquanta agenti più freschi di me, e io ho passato sei mesi a leggere fotocopie in un sotterraneo.
 MALASPINA: Perché lei la conosce. Perché lei la difende ancora. E perché, se Rinaldi si fida ancora di qualcuno al mondo, si fida di lei. Amicus Plato, sed magis amica veritas.
 DAVIDE: Platone è amico, ma la verità di più. Lo diceva anche mio padre. Di solito prima di dirmi che avevo sbagliato un colore.
-MALASPINA: Un uomo saggio. Come sta, suo padre?
-DAVIDE: Gli trema la mano destra. Lui dice che è il caffè. Non sapevo che lo conoscesse.
-MALASPINA: Conosco tutti i padri dei miei uomini, Colombo. È un vizio da vecchio. Dottor Lenzi, prego.
+MALASPINA: Un uomo saggio, e un grande restauratore, da quel che so. Come sta, suo padre? Lo vede ancora, la domenica, a Milano?
+DAVIDE: Gli trema la mano destra, ma lui dice che è colpa del caffè. Non sapevo che lei lo conoscesse, generale.
+MALASPINA: Conosco tutti i padri dei miei uomini, Colombo. È un vizio da vecchio. Dottor Lenzi, prego, tocca a lei.
 (Lenzi apre la cartellina e posa sul tavolo un passaporto, una tessera aziendale, dei biglietti da visita.)
 LENZI: Davide Sironi, perito di Assicurazioni Tirrene, Genova. Tirrene assicura lo scafo della nave, la Marianne K. Documenti, tessera, biglietti da visita. Una camera all'Albergo Miramonti, vicino a piazza Unità.
-DAVIDE: Sironi. Come il pittore.
+DAVIDE: Sironi, come il pittore. Immagino che la scelta non sia stata casuale, generale: lei non fa mai niente per caso.
 MALASPINA: Un sardo diventato milanese, che dipingeva periferie tristi. Mi è sembrato adatto. Il dottor Lenzi viene con lei: ufficio legale di Tirrene, per chi chiede. Per noi, l'Ufficio Ispettivo.
-DAVIDE: Mi manda a caccia con il guardiacaccia.
+DAVIDE: Mi manda a caccia con il guardiacaccia. Così, se trovo la lepre, c'è già qualcuno pronto a metterla nel carniere.
 LENZI: Lei è ancora sotto procedimento disciplinare, Colombo. Articolo dodici del regolamento interno. Un agente sotto procedimento non opera senza controllo.
 MALASPINA: Lo prenda come un onore. Non mando Lenzi con chiunque. Il suo treno parte alle sette e cinque. Il dottor Lenzi prende l'aereo. Arrivate separati, lavorate insieme. Festina lente, Colombo.
-DAVIDE: Affrettati lentamente. Me lo dice da dieci anni, generale.
-MALASPINA: E lei da dieci anni fa il contrario. Vada.
+DAVIDE: Affrettati lentamente. Me lo dice da dieci anni, generale, e io non ho ancora capito come si fa, in pratica.
+MALASPINA: E lei da dieci anni fa il contrario, ed è per questo che è ancora vivo. Vada, adesso, e mi telefoni solo quando avrà qualcosa da dirmi.
 
 (Corridoio del terzo piano. Neon, linoleum, una macchinetta del caffè spenta. Lenzi raggiunge Davide davanti all'ascensore.)
 LENZI: Colombo. Una cosa sola. La sua copertura risulta registrata il ventitré settembre. La nave ha arato il fondale stanotte. Non trova strano avere un perito pronto per un sinistro che non era ancora successo?
-DAVIDE: Il generale si prepara sempre prima che piova.
-LENZI: Sì. Così dicono tutti.
+DAVIDE: Il generale si prepara sempre prima che piova. È per questo che lui ha fatto carriera e noi siamo ancora qui ad aspettare l'ascensore.
+LENZI: Sì, così dicono tutti, quasi con le stesse parole. È curioso quanto si somiglino le frasi di chi lavora per lui.
 (Lenzi scrive qualcosa in un piccolo taccuino nero, con una matita. Le porte dell'ascensore si chiudono tra loro.)
 
 ---
@@ -80,38 +80,38 @@ LENZI: Sì. Così dicono tutti.
 (L'ingegner Sergio Benussi, sessant'anni, baffi grigi, maglione sotto la giacca. Sulla parete, una carta nautica del golfo piena di spilli colorati.)
 BENUSSI: Assicurazioni Tirrene. Siete veloci, voi genovesi. La nave ha arato stanotte e lei è già qui con la cravatta.
 DAVIDE: I genovesi sono veloci solo quando c'è da pagare poco, ingegnere. Sironi. Il collega è l'avvocato Lenzi, del nostro ufficio legale.
-LENZI: Buongiorno.
-BENUSSI: Un avvocato. Allora la faccenda è già brutta. Accomodatevi. Un caffè? Un nero?
-DAVIDE: Un macchiato, grazie.
+LENZI: Buongiorno, ingegnere. Non si preoccupi per me, sono qui soltanto per ascoltare e prendere qualche appunto.
+BENUSSI: Un avvocato. Allora la faccenda è già brutta. Accomodatevi. Un caffè? Un nero? Con questo vento ci vuole qualcosa di caldo, anche dentro gli uffici.
+DAVIDE: Un macchiato, grazie, se non è troppo disturbo. Ho dormito poco sul treno e mi serve qualcosa che mi tenga in piedi.
 BENUSSI: Un capo, vuol dire. A Trieste il macchiato si chiama capo. Se chiede un macchiato qui, le portano una tazza di latte con dentro l'idea di un caffè.
 BENUSSI: Si vede che è appena arrivato. Ha ancora i capelli a posto. Allora: Marianne K., bandiera maltese, portacontainer da milleottocento TEU. Armatore Kestrel Maritime, La Valletta. Era alla fonda in rada da domenica, in attesa di banchina.
-DAVIDE: In attesa di banchina da domenica? Con il porto mezzo vuoto?
-BENUSSI: Ritardi del noleggiatore, dicono. Documenti doganali. Io non chiedo, io registro.
-DAVIDE: E stanotte?
+DAVIDE: In attesa di banchina da domenica? Con il porto mezzo vuoto? Mi sembra una pazienza strana, per un armatore che paga ogni giorno di fermo.
+BENUSSI: Ritardi del noleggiatore, dicono, e qualche problema con i documenti doganali. Io non chiedo, io registro: è il mio mestiere da trent'anni.
+DAVIDE: E stanotte, che cosa è successo esattamente? Mi racconti tutto dall'inizio, anche i dettagli che le sembrano inutili.
 BENUSSI: Alle ventitré la bora supera i cento all'ora. All'una e mezza arriva a centocinquanta. Sette navi in rada. Sei tengono. La Marianne K. no.
 (Benussi gira lo schermo del computer. Una linea rossa attraversa il golfo.)
 BENUSSI: Ha arato per quasi tre miglia. Davanti a Santa Croce ha agganciato il cavo AD-2 di Adriacavi. Tranciato di netto.
-DAVIDE: Tre miglia. E il comandante non ha dato fondo alla seconda ancora?
-BENUSSI: Dice che il verricello si è bloccato.
+DAVIDE: Tre miglia. E il comandante non ha dato fondo alla seconda ancora? È la prima cosa che si fa, me lo insegnano anche in ufficio.
+BENUSSI: Dice che il verricello si è bloccato, e che l'equipaggio ha lavorato tutta la notte per sbloccarlo. Così è scritto nel giornale di bordo.
 (Davide si alza e si avvicina allo schermo. Segue la linea rossa con un dito, senza toccare il vetro.)
-DAVIDE: Ingegnere, mi corregga se sbaglio. La bora soffia da est-nord-est.
-BENUSSI: Da quando esiste Trieste.
+DAVIDE: Ingegnere, mi corregga se sbaglio, perché il mare non è il mio mestiere. La bora soffia da est-nord-est, giusto?
+BENUSSI: Da quando esiste Trieste, signor Sironi, e anche da prima. Qui i bambini imparano la rosa dei venti prima dell'alfabeto.
 DAVIDE: Allora una nave che ara dovrebbe scendere verso ovest-sud-ovest. Verso il mare aperto. Questa linea va verso nord. Verso la costa. Verso Santa Croce.
 (Pausa. Benussi si toglie gli occhiali e li pulisce con la cravatta.)
-BENUSSI: Lei è il primo che lo dice ad alta voce.
+BENUSSI: Lei è il primo che lo dice ad alta voce. Io ci ho pensato stamattina alle cinque, ma ho preferito tenerlo per me.
 DAVIDE: Sono pagato per notare quello che costa. E una nave che ara controvento costa molto. A qualcuno.
 BENUSSI: Il comandante dice che in rada il vento gira. Io sono triestino, signor Sironi: la bora non gira. È l'unica cosa onesta di questa città.
-LENZI: Chi ha dato l'allarme, stanotte?
+LENZI: Chi ha dato l'allarme, stanotte? Vorrei sapere l'ora esatta e il nome della persona che ha chiamato.
 BENUSSI: Adriacavi. Alle tre meno dieci. Una loro ingegnera di turno, una certa Petrič, ha visto il cavo morire sullo schermo. Ci ha chiamato urlando. In tre lingue.
-DAVIDE: Quale delle tre era la più chiara?
-BENUSSI: Lo sloveno. Ma non lo posso ripetere in ufficio.
-LENZI: Il cavo è già in riparazione?
+DAVIDE: E quale delle tre lingue era la più chiara, ingegnere? Chiedo per curiosità professionale: le persone spaventate dicono la verità nella lingua della mamma.
+BENUSSI: Lo sloveno. Ma non lo posso ripetere in ufficio. Diciamo che ha descritto la madre del comandante con molta precisione.
+LENZI: Il cavo è già in riparazione? E chi ha avuto accesso al punto della rottura, dopo l'incidente?
 BENUSSI: La posacavi arriva lunedì. Le banche non se ne sono neanche accorte. Ma stamattina alle sette la Marina Militare ha mandato i suoi palombari su quel punto. Per un cavo civile, capisce?
-DAVIDE: Chi li ha mandati?
+DAVIDE: E chi li ha mandati, i palombari? Un cavo civile non è affare della Marina, a meno che qualcuno non abbia paura di qualcosa.
 BENUSSI: Un capitano di fregata. Una donna. Furlan. Friulana, dura come il legno di gelso. Domani la troverà sotto la nave, se vuole salire a bordo.
-DAVIDE: Voglio salire a bordo. Domattina.
+DAVIDE: Voglio salire a bordo domattina, ingegnere, prima che l'equipaggio abbia il tempo di mettere in ordine i ricordi e il giornale di bordo.
 BENUSSI: Se la bora cala sotto i settanta, la pilotina parte alle otto dal molo della Sacchetta. Il comandante si chiama Bonnici. Maltese. Molto gentile.
-DAVIDE: Gentile come?
+DAVIDE: Gentile in che senso? Detto da lei, ingegnere, sembra quasi un difetto di fabbrica.
 BENUSSI: Troppo gentile. Uno che ha appena arato tre miglia di fondale non dovrebbe sorridere così.
 
 ---
@@ -119,93 +119,93 @@ BENUSSI: Troppo gentile. Uno che ha appena arato tre miglia di fondale non dovre
 [SCENA 4 — Canal Grande di Trieste, Ponte Rosso. Tramonto. La statua di bronzo di James Joyce cammina sul ponte, il cappello in testa, indifferente alla bora.]
 
 (Davide e Lenzi camminano lungo il canale. Le barche ballano agli ormeggi. Lenzi tiene le mani in tasca, i guanti ancora addosso.)
-DAVIDE: Lei non ha detto una parola di diritto per un'ora intera. Un avvocato strano.
-LENZI: Ho detto "buongiorno". È già più di quanto dicono molti avvocati.
+DAVIDE: Lei non ha detto una parola di diritto per un'ora intera. Per essere un avvocato, dottore, è un avvocato molto strano.
+LENZI: Ho detto "buongiorno". È già più di quanto dicono molti avvocati, soprattutto quando sono pagati a ore.
 (Si ferma. Si volta verso Davide.)
 LENZI: Colombo, chiariamo subito una cosa. Ogni sera alle ventidue lei mi fa rapporto: ogni contatto, ogni nome, ogni telefonata. Se Rinaldi la contatta, me lo dice entro un'ora. Se non lo fa, considero il silenzio una forma di complicità.
-DAVIDE: Complicità. Lei parla come una sentenza.
-LENZI: Parlo come un regolamento. Le sentenze le scrivono altri.
-DAVIDE: Lei pensa che io la aiuterò a scappare.
+DAVIDE: Complicità, addirittura. Lei parla come una sentenza di Cassazione, dottore, anche quando passeggia lungo un canale.
+LENZI: Parlo come un regolamento. Le sentenze le scrivono altri. Io mi limito a raccogliere i fatti che le rendono possibili.
+DAVIDE: Lei pensa che io la aiuterò a scappare. Lo pensa da aprile, e finora non me l'ha mai detto in faccia.
 LENZI: Penso che lei abbia lavorato con Rinaldi per sei anni. Che l'abbia difesa in commissione contro tutte le prove. E che per questo la sua carriera sia finita in un archivio.
-DAVIDE: Detto così, sembro un idiota.
+DAVIDE: Detto così, sembro un idiota che ha buttato via dieci anni per una donna che non risponde nemmeno al telefono.
 LENZI: Detto così, sembra un uomo leale. Per il mio ufficio è peggio. Io la sorveglio, Colombo. Non è personale.
 DAVIDE: Tutto è personale, dottore. Anche il regolamento. Qualcuno lo ha scritto, con una penna, una sera.
 (Si fermano accanto alla statua di bronzo. Davide la guarda.)
-DAVIDE: Lo conosce?
+DAVIDE: Lo conosce, questo signore di bronzo? Sembra l'unico in città che riesce a camminare dritto con la bora.
 LENZI: Joyce. Ha vissuto qui più di dieci anni. Insegnava inglese, beveva, non pagava l'affitto.
-DAVIDE: Un uomo che non pagava l'affitto. Lei lo avrebbe arrestato?
-LENZI: Lo avrei sorvegliato.
-DAVIDE: Lei crede davvero che Nadia sia la talpa?
+DAVIDE: Un uomo che non pagava l'affitto e scriveva libri che nessuno capiva. Lei lo avrebbe arrestato, dottore?
+LENZI: No. Lo avrei sorvegliato. È diverso, e molto più utile, anche se nessuno lo apprezza mai.
+DAVIDE: Mi dica la verità, adesso che non c'è nessuno ad ascoltarci. Lei crede davvero che Nadia sia la talpa?
 LENZI: Io non credo. Io verifico. Le carte dicono che Don Sala era una sua fonte, registrata con le sue credenziali. Le carte dicono che lei è sparita appena è stato aperto il fascicolo. Gli innocenti di solito restano.
 DAVIDE: Gli innocenti di solito non sanno chi ha scritto le carte. E una donna che fa questo mestiere da quando aveva quindici anni non lascia le sue credenziali in giro come le chiavi della macchina.
 (Lenzi lo guarda a lungo. Una raffica fa sbattere le drizze delle barche, tutte insieme, come un applauso.)
-LENZI: Questo lo scrivo.
-DAVIDE: Che cosa scrive?
-LENZI: Che lei ha un'opinione. È la prima cosa utile che mi dice oggi.
+LENZI: Questo lo scrivo, se non le dispiace. Parola per parola, come l'ha detto.
+DAVIDE: Che cosa scrive, esattamente? Che difendo ancora una latitante davanti all'Ufficio Ispettivo, in mezzo alla strada?
+LENZI: Che lei ha un'opinione. È la prima cosa utile che mi dice oggi, e la prima che non suona preparata.
 (Lenzi chiude il taccuino. Si volta verso la piazza.)
-LENZI: Alle ventidue. Mi chiami. Niente messaggi. Voglio sentire la sua voce.
-DAVIDE: Perché la voce?
-LENZI: Perché la voce mente peggio della scrittura.
+LENZI: Alle ventidue mi chiami, puntuale. Niente messaggi, niente mail: voglio sentire la sua voce.
+DAVIDE: Perché proprio la voce? I messaggi almeno restano, e lei potrebbe archiviarli in ordine alfabetico.
+LENZI: Perché la voce mente peggio della scrittura. Si sente il respiro, si sentono le pause, mentre le parole scritte hanno sempre il tempo di pettinarsi.
 
 ---
 
 [SCENA 5 — Albergo Miramonti, camera 412. Sera. Le persiane sbattono contro il muro. Sul letto, il trolley aperto e mezzo bagnato.]
 
 (Le ventidue in punto. Davide è seduto sul bordo del letto, il telefono all'orecchio.)
-LENZI (al telefono): Lenzi.
-DAVIDE: Rapporto. Nessun contatto. Nessun nome nuovo. Ho mangiato un panino. Fine.
-LENZI (al telefono): Che panino?
+LENZI (al telefono): Lenzi. È puntuale, Sironi, e questo è già un buon inizio. Mi dica tutto.
+DAVIDE: Rapporto delle ventidue: nessun contatto, nessun nome nuovo, nessuna telefonata. Ho mangiato un panino e sono tornato in camera. Fine del rapporto.
+LENZI (al telefono): Che panino? Le ho detto ogni contatto, e anche un cameriere è un contatto.
 DAVIDE: Cotto caldo, con senape e cren. In un buffet vicino alla Borsa. Il cameriere mi ha chiamato "mulo". Credo sia affettuoso.
-LENZI (al telefono): È affettuoso. Lo dicono ai ragazzi.
-DAVIDE: Allora lo prendo come un complimento. Come "giovanotto".
-LENZI (al telefono): Domattina alle sette e mezza, colazione. Buonanotte, Sironi.
+LENZI (al telefono): È affettuoso. Lo dicono ai ragazzi: a Trieste "mulo" vuol dire ragazzo, l'animale non c'entra.
+DAVIDE: Allora lo prendo come un complimento, come il "giovanotto" della signora in piazza. Questa città, a quanto pare, mi ringiovanisce.
+LENZI (al telefono): Domattina alle sette e mezza, colazione al piano terra, poi andiamo insieme al molo. Buonanotte, Sironi.
 (Lenzi chiude. Davide resta con il telefono in mano. Poi apre una vecchia cartella audio. Una data: 7 aprile. Preme play.)
 (Un respiro corto. Rumore di traffico. Una porta che si chiude.)
 NADIA (messaggio vocale): Mi stanno accusando di essere la talpa. Non fidarti di nessuno. Nemmeno di lui.
 (Davide riavvolge. Lo ascolta di nuovo. E una terza volta. Si ferma sull'ultima frase.)
-DAVIDE (tra sé): Nemmeno di lui. Lui chi, Nadia? Il generale? Lenzi? Io?
+DAVIDE (tra sé): Nemmeno di lui. Lui chi, Nadia? Il generale? Lenzi? O stavi parlando di me, e non hai avuto il coraggio di dirlo?
 (Dalla tasca interna del trolley, dentro una guida turistica, tira fuori una fotocopia piegata in quattro. Una pagina a quadretti, scritta a mano con una grafia minuta, antica.)
 DAVIDE (tra sé, leggendo): "Trieste. Il Molo. M.K. Chiedere l'Ulisse numero milleuno."
 (In fondo alla fotocopia, il timbro dell'archivio di Forte Braschi e una riga a penna: «Quaderno Vianello, sequestro Burano. Consultato da: Rinaldi N., fine marzo».)
-DAVIDE (tra sé): Il quaderno di Ettore. L'hai letto tu, prima di me. Ci sei arrivata prima tu. Come sempre.
+DAVIDE (tra sé): Il quaderno di Ettore. L'hai letto tu, prima di me. Ci sei arrivata prima tu. Come sempre, del resto, da quando ci conosciamo.
 (Spegne la luce. La bora continua a battere sulle persiane, come qualcuno che non ha nessuna fretta di entrare.)
-DAVIDE (tra sé): Va bene, va bene. Sono qui. Adesso fatti trovare.
+DAVIDE (tra sé): Va bene, va bene, ho capito. Sono qui, Nadia, come volevi tu. Adesso fatti trovare, prima che ti trovino loro.
 
 ---
 
 [SCENA 6 — Bar dell'Albergo Miramonti. Mezzanotte meno un quarto. Velluto verde, legno scuro, fotografie di velieri alle pareti. Il barista, Bepi, settant'anni, asciuga i bicchieri.]
 
-BEPI: Ancora sveglio, sior? Con questa bora non dorme nessuno. Nemmeno i morti.
-DAVIDE: Una grappa. Di quelle che non fanno domande.
+BEPI: Ancora sveglio, sior? Con questa bora non dorme nessuno. Nemmeno i morti, che almeno avrebbero il diritto di riposare.
+DAVIDE: Una grappa, per favore. Di quelle che non fanno domande e che al mattino non raccontano niente a nessuno.
 BEPI: Le grappe del Carso non fanno domande. Danno risposte. Ma bisogna saperle ascoltare.
 (Versa. Il bicchiere è piccolo, spesso, senza stelo.)
-DAVIDE: Quanto dura, di solito?
+DAVIDE: E il vento, quanto dura di solito? Mi hanno detto tre giorni, ma a Trieste nessuno sembra d'accordo su niente.
 BEPI: La bora? Tre giorni. Uno per arrivare, uno per restare, uno per andarsene. Qualche volta sette. E il settimo giorno qualcuno impazzisce.
-DAVIDE: Ne ha visti tanti, impazzire?
+DAVIDE: Ne ha visti tanti, impazzire, dietro questo bancone? Immagino che un barista di notte veda più cose di un prete.
 BEPI: Una volta, a Trieste, se c'era bora il giudice ascoltava con più pazienza. Era un'attenuante, la bora. Mio nonno diceva: con questo vento, anche un santo prende il coltello.
-DAVIDE: Suo nonno era un uomo pratico.
-BEPI: Mio nonno era in galera. Per questo lo sapeva.
+DAVIDE: Suo nonno era un uomo pratico, a quanto pare. Uno che conosceva bene il vento e anche i tribunali.
+BEPI: Mio nonno era in galera. Per questo lo sapeva. Ci è rimasto due anni per una lite in osteria, guarda caso in un febbraio di bora.
 (Entra Lenzi. Si siede all'altra estremità del bancone, senza togliersi i guanti. Il bar è quasi vuoto: tra loro, sei sgabelli e uno specchio lungo.)
-LENZI: Un'acqua tonica, per favore. Senza gin.
-BEPI: Senza gin. Come un funerale senza morto.
-DAVIDE: Lei non beve, dottore?
-LENZI: In servizio, no.
-DAVIDE: E fuori servizio?
-LENZI: Non lo sono mai.
+LENZI: Un'acqua tonica, per favore. Senza gin, e senza ghiaccio, se possibile: domani ho una giornata lunga.
+BEPI: Senza gin. Come un funerale senza morto. Va bene, sior, il cliente ha sempre ragione, anche quando ha torto.
+DAVIDE: Lei non beve, dottore? Nemmeno un bicchiere, a mezzanotte, in una città dove tutti bevono per non sentire il vento?
+LENZI: In servizio, no. È una regola che mi sono dato io, molto prima che la scrivesse qualcun altro.
+DAVIDE: E quando è fuori servizio, che cosa beve? Me lo dica, così stasera imparo almeno una cosa di lei.
+LENZI: Non lo sono mai, Sironi. Non da quando ho accettato questo incarico, e forse nemmeno da prima.
 (Bepi porta la tonica a Lenzi. Poi torna da Davide e gli cambia il sottobicchiere. Sotto il bicchiere di grappa, adesso, c'è un tovagliolo di carta piegato in due.)
-BEPI (a bassa voce): Questo è per lei. Me l'ha lasciato una signora, martedì sera.
-DAVIDE (a bassa voce): Martedì? Io sono arrivato oggi.
+BEPI (a bassa voce): Questo è per lei. Me l'ha lasciato una signora, martedì sera, e ha detto di darlo soltanto a lei.
+DAVIDE (a bassa voce): Martedì? Ma è impossibile: io sono arrivato oggi, e martedì non sapevo nemmeno di venire a Trieste.
 BEPI: Lo so. La signora mi ha detto: giovedì arriva un signore di Genova, si chiama Sironi, ma ha la faccia di uno di Milano. Gli dia questo con la prima grappa.
-DAVIDE: Com'era, questa signora?
+DAVIDE: Com'era, questa signora? Si ricorda qualcosa, un dettaglio, una parola, il colore del cappotto?
 BEPI: Giovane. Capelli corti, neri. Parlava veloce, come chi ha paura di finire il tempo. Ha bevuto un caffè in piedi e ha lasciato la mancia giusta. Né di più né di meno.
-LENZI: Problemi, Sironi?
-DAVIDE: Il barista dice che ho la faccia di Milano.
-LENZI: Il barista ha ragione.
+LENZI: Problemi, Sironi? Lei e il barista parlate a bassa voce da cinque minuti.
+DAVIDE: Il barista dice che ho la faccia di Milano. Pare che a Trieste sia una specie di diagnosi.
+LENZI: Il barista ha ragione, e non è nemmeno la cosa più evidente che si legge sulla sua faccia.
 (Davide fa scivolare il tovagliolo sotto il bancone. Lo apre sulle ginocchia. Inchiostro blu. Tre parole, una grafia veloce, inclinata a destra. La riconosce subito.)
 DAVIDE (tra sé): Martedì. A Roma hanno scritto il mio nome falso mercoledì scorso. Io l'ho saputo stamattina. E tu lo sapevi martedì. Prima della bora. Prima della nave.
 (Alza gli occhi. Nello specchio lungo, Lenzi lo sta guardando. Non beve. Non si muove.)
-BEPI: Tutto bene, sior? È diventato bianco.
-DAVIDE: È la grappa. Dà risposte.
+BEPI: Tutto bene, sior? È diventato bianco come la schiuma del mare là fuori.
+DAVIDE: È la grappa. Dà risposte. Me l'aveva detto lei, Bepi, ma non pensavo che fossero così veloci.
 (Davide abbassa lo sguardo sul tovagliolo. Legge, senza voce, solo con le labbra.)
 DAVIDE (tra sé): «Nun te fidà.»
 

@@ -6,14 +6,14 @@
 
 [SCENA 1 — Piazza San Pietro. Domenica di Pasqua, ore 6.30. La piazza è ancora vuota. I giardinieri sistemano migliaia di fiori sul sagrato: tulipani, giacinti, rose. Transenne, metal detector, furgoni della Polizia.]
 
-NADIA (in cuffia): Buona Pasqua, Meneghino.
-DAVIDE: Buona Pasqua. Hai dormito?
+NADIA (in cuffia): Buona Pasqua, Meneghino. Ti sento camminare sui sampietrini, quindi immagino che sei già in piazza da un pezzo.
+DAVIDE: Buona Pasqua anche a te, Nadia. Sono qui da mezz'ora a guardare i fiori. Tu hai dormito almeno un po', stanotte?
 NADIA (in cuffia): Ho dormito con le coordinate. Tre notti. È un rapporto stabile, ormai. E non mi dicono niente di bello. Lì sotto, sulle carte nautiche, c'è solo mare. Mare e cavi. Passano dei cavi sul fondale, Davide. Telefonia. Dati.
-DAVIDE: Un vecchio crittografo non nasconde coordinate per indicarci un bel posto per fare il bagno.
-NADIA (in cuffia): No. Ma Trieste può aspettare. Oggi abbiamo sessantamila persone e diecimila candele.
+DAVIDE: Un vecchio crittografo non nasconde coordinate per indicarci un bel posto per fare il bagno. Se Ettore ha scelto quel punto, c'è un motivo preciso.
+NADIA (in cuffia): Lo so, ma Trieste può aspettare qualche giorno. Oggi abbiamo sessantamila persone e diecimila candele, e la mia testa non ce la fa a tenere tutto.
 (Davide guarda i fiori. Un giardiniere gli sorride, si toglie il cappello: "Buongiorno, padre." Davide risponde con un cenno.)
 NADIA (in cuffia): Ti dico una cosa e poi non ne parliamo più. Stanotte, alle due, l'Ispettorato interno ha chiesto il registro dei miei accessi. Controllo di routine, dicono.
-DAVIDE: Di Pasqua? Alle due di notte?
+DAVIDE: Un controllo di routine il giorno di Pasqua, alle due di notte? Nadia, questa è la cosa meno di routine che abbia sentito da mesi.
 NADIA (in cuffia): Appunto. A Napoli diciamo che la routine, di notte, non esiste. Esiste solo chi non dorme e pensa a te. Ne parliamo dopo pranzo, se c'è un pranzo. Va' al varco. I camion arrivano alle sette.
 
 ---
@@ -21,27 +21,27 @@ NADIA (in cuffia): Appunto. A Napoli diciamo che la routine, di notte, non esist
 [SCENA 2 — Varco di Porta Sant'Anna, area di controllo dei mezzi. Ore 7.05. Tre camion bianchi con la scritta "Cereria Santa Lucia s.r.l. — dal 1958". Guardie svizzere, gendarmi vaticani, un cane antiesplosivo.]
 
 HUBER: Don Colombo. Sergente Huber. Il caporale Meier ci ha lasciato la sua lista, prima di… ja. Prima. Dorme ancora. I medici dicono che sente le voci. Io gli ho detto che oggi controlliamo i suoi camion. Spero che abbia sentito.
-CORSI: Ispettore Corsi, Gendarmeria. Padre, con tutto il rispetto, lei qui cosa fa?
-DAVIDE: Conto le candele, ispettore. È il mio mestiere.
-CORSI: Le candele le contiamo noi. Lei preghi.
-CLAIRE: Lasci che le conti anche lui, ispettore. Due che contano sbagliano meno di uno.
+CORSI: Ispettore Corsi, Gendarmeria vaticana. Padre, con tutto il rispetto per l'abito, mi spiega che cosa fa lei qui, a un varco di sicurezza?
+DAVIDE: Conto le candele, ispettore, perché è il mio mestiere. Sono un revisore dei conti, e quelle candele sono state pagate da una banca che conosco bene.
+CORSI: Le candele le contiamo noi, padre, ne abbiamo l'elenco completo. Lei, se vuole rendersi utile, vada in basilica e preghi.
+CLAIRE: Lasci che le conti anche lui, ispettore. Due che contano sbagliano meno di uno, e oggi non possiamo permetterci un errore.
 (Claire Duval arriva con un pass della sala stampa al collo. Occhiali scuri, impermeabile chiaro.)
-CORSI: E lei chi è?
-CLAIRE: Una giornalista francese molto curiosa. Ho tutti i permessi. Anche quelli che non le mostro.
-DAVIDE (a bassa voce): Buona Pasqua, Claire.
-CLAIRE (a bassa voce): Joyeuses Pâques. Hai la faccia di chi non dorme da una settimana.
+CORSI: E lei chi sarebbe, signora? Questa zona non è aperta alla stampa, e il suo pass non vale qui.
+CLAIRE: Sono una giornalista francese molto curiosa, ispettore. Ho tutti i permessi necessari. Anche quelli che non le mostro.
+DAVIDE (a bassa voce): Buona Pasqua, Claire. Non pensavo di vederti qui stamattina, ma sono contento che tu ci sia.
+CLAIRE (a bassa voce): Joyeuses Pâques. Hai la faccia di chi non dorme da una settimana, e il collarino storto.
 (Il cane gira intorno al primo camion. Niente. Al secondo, niente. Gli agenti aprono i portelloni: casse di candele bianche, ordinate, profumate di cera.)
-CORSI: Visto? Candele. Cera vergine, come da contratto.
-DAVIDE: Il terzo.
+CORSI: Visto, padre? Sono candele e basta. Cera vergine, come da contratto, e il cane non ha fatto una piega.
+DAVIDE: Manca ancora il terzo camion, ispettore. Facciamolo controllare con la stessa calma degli altri due.
 (Il terzo camion è mezzo vuoto. Il cane si siede vicino a una paratia di legno, sul fondo. Si siede e guarda il suo conduttore.)
-HUBER: Er hat etwas. Ha trovato qualcosa.
+HUBER: Er hat etwas. Ha trovato qualcosa. Quando si siede così, non sbaglia mai, è addestrato da quattro anni.
 (Gli agenti staccano la paratia. Dietro, un doppio fondo. Vuoto. Solo polvere e un pezzo di nastro adesivo grigio.)
-CLAIRE: Vuoto adesso. Il cane non si siede per la polvere.
-DAVIDE (all'autista): Lei. Come si chiama?
-AUTISTA: Mario. Mario Tosi. Padre, io guido e basta. Lo giuro sulla Madonna.
-DAVIDE: Non giuri, Mario. Mi dica solo chi è salito su questo camion stanotte.
+CLAIRE: Adesso è vuoto, ma prima non lo era. Il cane non si siede per un po' di polvere e un pezzo di nastro.
+DAVIDE (all'autista): Mi scusi, lei è l'autista di questo camion? Mi dice come si chiama, per favore?
+AUTISTA: Mario, Mario Tosi. Padre, io guido e basta, non so niente di doppi fondi. Lo giuro sulla Madonna.
+DAVIDE: Non giuri, Mario, non serve, le credo. Mi dica solo chi è salito su questo camion stanotte, oltre a lei.
 AUTISTA: Nessuno. Cioè… il ragazzo. Quello della ditta di lavoro a giornata. Ci aiuta a scaricare, ogni tanto. È sceso a Porta Cavalleggeri. Alle sei. Ha detto che andava a fare colazione. Aveva lo zaino. Giovane. Magro. Felpa grigia, col cappuccio. Non parlava mai. Una volta mi ha chiesto se credevo in Dio. Io gli ho detto: "Io credo nella Roma."
-NADIA (in cuffia): Agenzia di lavoro a giornata. Ci sono. Dammi due minuti.
+NADIA (in cuffia): Agenzia di lavoro a giornata, perfetto, ho il nome della ditta. Dammi due minuti e ti dico chi è.
 CLAIRE: Davide. Se è sceso alle sei con lo zaino, è già dentro. È passato dai varchi prima che li accendessero.
 
 ---
@@ -51,45 +51,45 @@ CLAIRE: Davide. Se è sceso alle sei con lo zaino, è già dentro. È passato da
 NADIA (in cuffia): Ce l'ho. Elia R., diciannove anni. Residente in un paese della Tuscia. Tre mesi di contratti a giornata. Ti mando la foto della carta d'identità.
 (Sul telefono di Davide: un ragazzo pallido, capelli corti, uno sguardo che non guarda l'obiettivo.)
 NADIA (in cuffia): Nessuna denuncia. Nessun gruppo. Nessuna moschea, nessuna chiesa, nessun partito. Niente. Due anni chiuso in camera, a giudicare dalla sua vita digitale. E una chat criptata dove qualcuno gli rispondeva alle quattro di notte.
-DAVIDE: Chi?
-NADIA (in cuffia): Profili vuoti. Server che rimbalzano. Gente che sa fare il proprio lavoro.
-DE ANGELIS (radio): Qui De Angelis, Questura. Abbiamo la foto. Propongo di cominciare a svuotare i settori laterali.
-DAVIDE: No. Se cominciate a svuotare, lui se ne accorge. E sessantamila persone che scappano tutte insieme si ammazzano da sole, nella calca.
-DE ANGELIS (radio): E chi parla, scusi?
-CORSI (radio): È il prete. Il prete milanese.
-DE ANGELIS (radio): Ah. Benissimo. Adesso i preti dirigono le operazioni.
+DAVIDE: Chi gli rispondeva, Nadia? Dimmi almeno da dove arrivavano i messaggi, un paese, un server, qualsiasi cosa.
+NADIA (in cuffia): Profili vuoti e server che rimbalzano da un continente all'altro. È gente che sa fare il proprio lavoro, e lo fa da molto tempo.
+DE ANGELIS (radio): Qui De Angelis, Questura. Abbiamo ricevuto la foto del soggetto. Propongo di cominciare a svuotare i settori laterali, partendo dal lato del Sant'Uffizio.
+DAVIDE: No, commissario, non lo faccia. Se cominciate a svuotare, lui se ne accorge. E sessantamila persone che scappano tutte insieme si ammazzano da sole, nella calca.
+DE ANGELIS (radio): Qui De Angelis. Chi sta parlando su questo canale? Non ho nessun nominativo registrato con questa voce.
+CORSI (radio): Qui Corsi, commissario. È il prete che era con noi al varco, il revisore milanese.
+DE ANGELIS (radio): Ah, benissimo, ricevuto. Adesso anche i preti dirigono le operazioni di ordine pubblico, ci mancava solo questo.
 MALASPINA (al telefono): Commissario De Angelis, buongiorno. Qui Malaspina. Il prete ha ragione. Lo ascolti come ascolterebbe me.
 (Silenzio sulla radio. Poi un brusio.)
-DE ANGELIS (radio): Ricevuto, generale. Agenti in borghese nei settori. Nessuna evacuazione per ora.
-MALASPINA (al telefono): Colombo. Decida lei. Lei è sul campo.
+DE ANGELIS (radio): Ricevuto, generale. Mando agenti in borghese in tutti i settori, e per ora non procediamo con nessuna evacuazione.
+MALASPINA (al telefono): Colombo. Decida lei. Lei è sul campo, e io da qui vedo soltanto le mappe.
+DAVIDE: Grazie, generale, per avermi coperto con la Questura. Le prometto che farò di tutto per non farle rimpiangere questa telefonata.
 MALASPINA (al telefono): Non mi ringrazi. Me lo trovi. Vivo, se può.
 (Clic. Davide guarda la folla. Migliaia di zaini, migliaia di felpe.)
-CLAIRE: Io prendo il lato sinistro. Tu il destro. Ci incontriamo all'obelisco ogni venti minuti.
-DAVIDE: Se lo trovi, non avvicinarti.
-CLAIRE: Se lo trovo, ti chiamo. Sono francese, non suicida.
+CLAIRE: Io prendo il lato sinistro della piazza e tu quello destro. Ci incontriamo all'obelisco ogni venti minuti, senza eccezioni.
+DAVIDE: Va bene, ma se lo trovi tu, non avvicinarti per nessun motivo. Promettimelo, Claire, almeno questa volta.
+CLAIRE: Se lo trovo, ti chiamo e basta. Sono francese, non suicida, e ho ancora un articolo da finire.
 NADIA (in cuffia): Le telecamere della piazza sono tutte mie. Ma con i cappucci, gli ombrelli e le bandiere, vedo solo teste.
-DAVIDE: Cerca una testa che non guarda la basilica. Oggi tutti guardano la basilica. Lui guarderà per terra.
+DAVIDE: Allora cerca una testa che non guarda la basilica. Oggi tutti guardano la basilica. Lui guarderà per terra.
 
 ---
 
 [SCENA 4 — Nella folla, vicino all'obelisco. Ore 9.40. Canti di un coro polacco, bandiere del Brasile, una famiglia filippina che fa merenda seduta per terra.]
 
-CLAIRE: Niente a sinistra. Tre felpe grigie. Un seminarista tedesco, due ragazzi di Bergamo. Ho chiesto i documenti al seminarista. Mi ha benedetta.
-DAVIDE: Niente anche a destra.
+CLAIRE: Niente a sinistra. Tre felpe grigie. Un seminarista tedesco, due ragazzi di Bergamo. Ho chiesto i documenti al seminarista. Mi ha benedetta. È la prima volta in vita mia, e non mi è dispiaciuto.
+DAVIDE: Anche a destra niente, solo pellegrini e famiglie. Ho guardato in faccia un centinaio di ragazzi e nessuno era lui.
 CLAIRE: Posso farti una domanda sincera, mentre camminiamo? Adesso. Dopo, non so se ci sarà un dopo. Tu ci credi? A tutto questo?
 (Indica intorno: la folla, la basilica, i fiori.)
-DAVIDE: Io credo a loro. Alla vecchia lì, col rosario. Credo che lei ci creda. Per oggi mi basta.
-CLAIRE: È una risposta da gesuita.
-CLAIRE: A Venezia avevi un altro viso. Più cinico. Qui sembri… stanco in un modo diverso.
-DAVIDE: A Venezia mentivo sui quadri. Qui mento su Dio. Pesa di più.
+DAVIDE: Io credo a loro. Alla vecchia lì, col rosario. Credo che lei ci creda. Per oggi mi basta. La mia fede, se c'è, la cerco domani.
+CLAIRE: È una risposta da gesuita, lo sai? A Venezia avevi un altro viso. Più cinico. Qui sembri… stanco in un modo diverso.
+DAVIDE: A Venezia mentivo sui quadri. Qui mento su Dio. Pesa di più. E la sera, quando mi tolgo il collarino, il peso resta lì.
 (Claire lo guarda. Gli sistema il collarino, storto, con un gesto rapido. Poi ritira la mano.)
-CLAIRE: Ecco. Adesso sembri vero.
-NADIA (in cuffia): Davide! Settore C, vicino alla fontana di destra. Felpa grigia, zaino nero.
+CLAIRE: Ecco, adesso va meglio. Adesso sembri vero, almeno da fuori, e oggi è quello che conta.
+NADIA (in cuffia): Davide! Settore C, vicino alla fontana di destra. Felpa grigia, zaino nero, cammina da solo verso il colonnato.
 (Davide si gira. Spinge tra la gente. Un ragazzo con felpa grigia e zaino si volta: ha quindici anni, il fazzoletto degli scout al collo.)
-SCOUT: Padre? Serve qualcosa?
-DAVIDE: No. Scusa. Pensavo fossi un altro. Buona Pasqua.
-NADIA (in cuffia): Falso allarme. Mi dispiace.
-CLAIRE: Respira, Davide. Ogni falso allarme è un'ora di vita in più.
+SCOUT: Padre? Serve qualcosa? Si è perso il suo gruppo? Noi siamo qui con la parrocchia di Frosinone.
+DAVIDE: No, scusa, non serve niente. Pensavo fossi un altro ragazzo che sto cercando. Buona Pasqua a te e alla tua parrocchia.
+NADIA (in cuffia): Falso allarme, mi dispiace tanto. Con quella felpa e quello zaino era identico, almeno dalla telecamera.
+CLAIRE: Respira, Davide. Ogni falso allarme è un'ora di vita in più, per lui e per tutti quelli che sono qui.
 
 ---
 
@@ -97,22 +97,22 @@ CLAIRE: Respira, Davide. Ogni falso allarme è un'ora di vita in più.
 
 PELLEGRINA: Padre! Padre, scusi. Me la benedice 'sta coroncina? L'ho comprata ieri, a via della Conciliazione.
 (Una donna anziana, romana, gli tende un rosario di legno ancora nella bustina.)
-DAVIDE: Signora…
-PELLEGRINA: È per mi' nipote. È in ospedale. Una benedizione sola, padre. Ce mette un secondo.
+DAVIDE: Signora, mi scusi, io adesso sto cercando una persona, e non so se è il momento giusto per…
+PELLEGRINA: È per mi' nipote, padre. È in ospedale da un mese. Una benedizione sola, padre. Ce mette un secondo.
 (Davide guarda il rosario. La mano gli si alza, si ferma a metà.)
 DAVIDE: Signora, alla fine della Messa il Santo Padre benedice tutti. Anche i rosari. Tenga la bustina aperta, verso la loggia. Vale molto più della mia.
-PELLEGRINA: Davvero? Pure da qua in fondo?
-DAVIDE: Pure da qua. La benedizione non conosce le transenne.
-PELLEGRINA: Grazie, padre. Lei è bravo. Se vede che è un prete buono.
+PELLEGRINA: Davvero, padre? Pure da qua in fondo, che il balcone manco se vede bene?
+DAVIDE: Sì, anche da qui in fondo, glielo assicuro. La benedizione non conosce le transenne, e arriva fino all'ultima fila.
+PELLEGRINA: Grazie, padre. Lei è bravo. Se vede che è un prete buono. Glielo dico pure a mi' nipote, che ho incontrato un prete onesto.
 (La donna si allontana. Davide resta fermo un momento.)
-NADIA (in cuffia): Perché non l'hai benedetto?
-DAVIDE: Perché non è mio, da dare.
-NADIA (in cuffia): Davide, è un rosario da cinque euro.
-DAVIDE: Per suo nipote no. Per suo nipote vale tutto. Non ci metto le mani sopra io.
+NADIA (in cuffia): Perché non l'hai benedetto, quel rosario? Ci avresti messo due secondi, e lei sarebbe stata contenta.
+DAVIDE: Perché non è mio, da dare. Una benedizione falsa, per suo nipote, sarebbe un furto.
+NADIA (in cuffia): Davide, è un rosario da cinque euro comprato su una bancarella. Nessuno ti avrebbe giudicato.
+DAVIDE: Per suo nipote no. Per suo nipote vale tutto. Non ci metto le mani sopra io. Ci sono cose che non si toccano, Nadia, nemmeno per gentilezza.
 NADIA (in cuffia): Va bene. Va bene. Ti sento il cuore da qui, lo sai? Batte come quando eri in laguna.
-DAVIDE: Allora contami i battiti. Se si fermano, avvisa il generale.
-NADIA (in cuffia): Non è divertente.
-DAVIDE: No. Infatti. Aspetta.
+DAVIDE: Allora contami i battiti, se proprio ti avanza il tempo. Se si fermano, avvisa il generale per primo.
+NADIA (in cuffia): Non è divertente, Davide, per niente. Non scherzare su queste cose oggi, ti prego.
+DAVIDE: Hai ragione, non lo è affatto. Aspetta un momento, Nadia, non dire niente.
 (Sotto il porticato del Braccio di Carlo Magno, seduto sul gradino tra due colonne, c'è un ragazzo con la felpa grigia. Non guarda la basilica. Guarda per terra. Lo zaino è appoggiato contro la sua gamba. Nella mano destra stringe un telefono.)
 DAVIDE (piano): Lo vedo.
 
@@ -120,94 +120,94 @@ DAVIDE (piano): Lo vedo.
 
 [SCENA 6 — Braccio di Carlo Magno, sotto il colonnato. Ore 10.50. L'ombra delle colonne. La folla a pochi metri, girata dall'altra parte. Dagli altoparlanti, il Vangelo: "Il primo giorno della settimana, Maria di Màgdala si recò al sepolcro di mattino…"]
 
-NADIA (in cuffia): Corsi e De Angelis lo hanno. Tiratori sul colonnato. Stanno aspettando un tuo segnale.
-DAVIDE (piano): Nessuno spara. Nessuno si avvicina. Se si avvicinano, preme.
+NADIA (in cuffia): Corsi e De Angelis lo hanno inquadrato. Ci sono tiratori sul colonnato, e stanno aspettando un tuo segnale.
+DAVIDE (piano): Nessuno spara e nessuno si avvicina, dillo a tutti. Se si avvicinano, lui preme, e allora è finita.
 (Davide si siede sul gradino, a due metri dal ragazzo. Non lo guarda. Guarda la piazza.)
-DAVIDE: C'è un bel sole, oggi. L'anno scorso pioveva, mi hanno detto.
-ELIA: Se ne vada, padre.
-DAVIDE: Sono stanco. Mi siedo cinque minuti. Ho le scarpe nuove, mi fanno male.
-ELIA: Se ne vada. Lo dico per lei.
-DAVIDE: Lo so che lo dici per me. Per questo resto. Come ti chiami?
-ELIA: Non importa.
-DAVIDE: A me importa. Io sono Davide.
+DAVIDE: C'è un bel sole, oggi. L'anno scorso a Pasqua pioveva, mi hanno detto, e la gente stava sotto gli ombrelli.
+ELIA: Se ne vada, padre. Vada da un'altra parte, la piazza è grande e qui non c'è niente per lei.
+DAVIDE: Sono stanco, e mi siedo solo cinque minuti. Ho le scarpe nuove, e mi fanno un male cane.
+ELIA: Se ne vada, la prego. Lo dico per lei, non per me.
+DAVIDE: Lo so che lo dici per me. Per questo resto. Come ti chiami? Non devi dirmelo per forza, ma mi farebbe piacere.
+ELIA: Non importa come mi chiamo. Non è mai importato a nessuno, quindi non deve importare neanche a lei.
+DAVIDE: A me importa, invece. Io sono Davide, e vengo da Milano, anche se non lo dico mai volentieri a Roma.
 (Lunga pausa. Il ragazzo stringe il telefono. Il pollice trema.)
-ELIA: Elia.
-DAVIDE: Elia. Come il profeta.
-ELIA: L'ha scelto mia nonna. Lei andava in chiesa. Io no.
-DAVIDE: Elia è quello che sale in cielo su un carro di fuoco.
-ELIA: Appunto.
+ELIA: Mi chiamo Elia. Ecco, adesso lo sa, e non cambia niente.
+DAVIDE: Elia, come il profeta. È un nome importante da portare, soprattutto oggi.
+ELIA: L'ha scelto mia nonna. Lei andava in chiesa tutte le domeniche. Io no, mai.
+DAVIDE: Elia è quello che sale in cielo su un carro di fuoco. Te l'avrà raccontato, tua nonna.
+ELIA: Appunto, padre. Proprio quello, il carro di fuoco.
 (Davide sente la parola cadere come una pietra. Respira.)
 DAVIDE: Sì. Ma Elia sale vivo, Elia. Non muore. È l'unico, in tutta la Bibbia. Quelli del fuoco non te l'hanno raccontato, questo dettaglio.
-ELIA: Lei non sa niente di loro.
-DAVIDE: È vero. Raccontami tu. Chi sono?
+ELIA: Lei non sa niente di loro. Non sa chi sono e non sa cosa mi hanno dato.
+DAVIDE: È vero, non lo so, e non faccio finta di saperlo. Raccontami tu chi sono, se vuoi.
 ELIA: Sono gli unici che mi hanno risposto. Due anni, padre. Due anni in camera. Mia madre fa le pulizie, torna alle nove di sera, non mi vede. Io scrivevo alle quattro di notte e loro rispondevano. Sempre.
-DAVIDE: Cosa ti dicevano?
+DAVIDE: E cosa ti dicevano, alle quattro di notte? Cosa ti scrivevano, quando nessun altro era sveglio?
 ELIA: Che non sono nessuno. Che il mondo è fatto per quelli come lei, con l'abito, con le parole giuste. E che una volta, solo una volta, anche uno come me poteva fare in modo che tutti guardassero.
-DAVIDE: E oggi tutti guardano.
-ELIA: Oggi guardano il balcone. A mezzogiorno, quando esce lui, guarderanno me.
-NADIA (in cuffia): Mezzogiorno. La benedizione Urbi et Orbi. Abbiamo un'ora e dieci.
+DAVIDE: E oggi tutti guardano da questa parte, è vero. Sessantamila persone con gli occhi alzati.
+ELIA: Oggi guardano il balcone. A mezzogiorno, quando esce lui, guarderanno me. Per una volta sarò io la notizia, non quello là sopra.
+NADIA (in cuffia): Mezzogiorno, la benedizione Urbi et Orbi. Abbiamo un'ora e dieci, Davide, non di più.
 DAVIDE: Elia, ti dico una cosa che non dico mai. Io da bambino servivo messa. A Milano, a Sant'Ambrogio. Alle sei di mattina. Mia madre mi ci portava al buio, d'inverno, con la nebbia. Una mattina le ho chiesto: "Mamma, e se Dio non c'è?" E lei mi ha risposto: "Allora siamo qui per questo signore che tossisce in prima fila. Lui c'è di sicuro."
 (Elia, suo malgrado, alza gli occhi.)
-ELIA: E che vuol dire?
+ELIA: E che vuol dire, questa storia? Non capisco cosa c'entra un vecchio che tossisce con me.
 DAVIDE: Vuol dire che anche nei giorni in cui non sai se c'è qualcuno lassù, sotto c'è sempre qualcuno. Guarda lì. La vecchia col rosario per il nipote in ospedale. La famiglia che mangia per terra. Il ragazzino scout. Sono sotto, Elia. Tutti.
-ELIA: Io non li conosco.
+ELIA: Io non li conosco, padre. Non so niente di loro, e loro non sanno niente di me.
 DAVIDE: Neanche loro conoscono te. È questo che ti fa male. Non che sono felici. Che nessuno di loro sa come ti chiami.
 (Il ragazzo abbassa la testa. Le spalle gli tremano.)
-ELIA: Lei non può capire.
+ELIA: Lei non può capire, con quell'abito addosso. Lei è sempre stato qualcuno, per qualcuno.
 DAVIDE: Forse no. Ma so cosa vuol dire essere nessuno. Io sono nessuno da vent'anni. Ogni mattina mi sveglio e mi metto la faccia di un altro.
-ELIA: Lei è un prete.
-DAVIDE: Oggi sono un uomo seduto su un gradino che non vuole che tu muoia. Il resto conta poco.
-ELIA: E se premo? Cosa succede a lei?
-DAVIDE: Muoio con te. Così almeno non sei solo. Ma preferirei pranzare.
+ELIA: Ma lei è un prete, padre. I preti non sono mai nessuno, la gente li saluta per strada.
+DAVIDE: Oggi sono un uomo seduto su un gradino che non vuole che tu muoia. Il resto conta poco. L'abito me lo tolgo stasera, e domani sarò ancora qui.
+ELIA: E se premo adesso? Cosa succede a lei, che è seduto qui accanto a me?
+DAVIDE: Muoio con te. Così almeno non sei solo. Ma preferirei pranzare, se devo essere sincero. A Trastevere c'è un'osteria che fa l'abbacchio come Dio comanda.
 (Elia ride. Una risata strozzata, da bambino. Poi piange.)
-ELIA: Mi confessa, padre? Prima. Prima di tutto.
+ELIA: Mi confessa, padre? Prima di tutto il resto. Prima di decidere qualsiasi cosa, voglio confessarmi.
 (Davide chiude gli occhi. Silenzio lungo. In cuffia, solo il respiro di Nadia.)
 DAVIDE: Ti ascolto, Elia. Tutto quello che vuoi dire, lo ascolto. Ma il perdono vero non è mio. Non è di nessun prete, in realtà. Noi lo portiamo soltanto. E io te lo voglio portare da uno che lo porta meglio di me. Oggi stesso.
 ELIA: Me lo giura?
-DAVIDE: Non giuro mai. Te lo prometto. È meglio.
-ELIA: Ho paura che se mollo il telefono loro… loro lo sanno.
+DAVIDE: Non giuro mai, Elia, l'ho detto anche stamattina a un autista. Te lo prometto, che è meglio di un giuramento.
+ELIA: Ho paura che se mollo il telefono loro… loro lo sanno. Mi hanno detto che vedono tutto.
 DAVIDE: Loro non sanno niente di te, Elia. Lo hai detto tu: ti rispondevano alle quattro di notte. Ma oggi, quando avevi freddo alle sei, dov'erano?
-ELIA: E mia madre? Cosa le diranno, a mia madre?
-DAVIDE: Che oggi suo figlio ha scelto di non farlo. Le diranno prima di tutto questo. Se vuoi, glielo dico io.
+ELIA: E mia madre, padre? Cosa le diranno, a mia madre, quando la chiameranno?
+DAVIDE: Che oggi suo figlio ha scelto di non farlo. Le diranno prima di tutto questo. Se vuoi, glielo dico io. Prendo il treno e vado da lei, con le mie scarpe nuove.
 (Silenzio. Dagli altoparlanti arriva una frase dell'omelia: «…e videro che la pietra era stata tolta dal sepolcro.»)
 DAVIDE: Adesso fai una cosa sola. Mi dai il telefono. Piano. Lo metti nella mia mano, come se mi dessi un pezzo di pane. Lo zaino lo lasci qui, sul gradino. Non lo tocchi più. Poi ti alzi e vieni con me. Senza correre.
 (Lunghissima pausa. Elia allunga la mano. Il telefono passa da una mano all'altra. Davide lo tiene immobile, come un'ostia.)
 DAVIDE (piano): Nadia. Ce l'ho.
-NADIA (in cuffia, con la voce rotta): Ti ho sentito. Dio santo, ti ho sentito.
+NADIA (in cuffia, con la voce rotta): Ti ho sentito, Davide. Dio santo, ti ho sentito, e non riesco a smettere di tremare.
 
 ---
 
 [SCENA 7 — Braccio di Carlo Magno, retro, area chiusa. Ore 11.58. Artificieri in tuta, transenne. La Messa è finita. La folla, a cento metri, non sa niente: guarda la loggia e aspetta.]
 
-ARTIFICIERE: Padre, il telefono. Lo appoggi qui, piano. Bravo. Adesso si allontani.
-DE ANGELIS: Il ragazzo è con noi, padre. Ammanettato, ma tranquillo. Non dice una parola.
-CLAIRE: Davide. Siediti. Sei bianco come una candela.
-DAVIDE: Candela vergine. Come da contratto.
+ARTIFICIERE: Padre, il telefono. Lo appoggi qui, piano. Bravo. Adesso si allontani di almeno venti metri e non si volti.
+DE ANGELIS: Il ragazzo è con noi, padre, in un furgone qui dietro. È ammanettato, ma tranquillo, e non dice una parola.
+CLAIRE: Davide, siediti un attimo su questa cassa. Sei bianco come una candela, e non lo dico per fare una battuta.
+DAVIDE: Una candela di cera vergine, allora. Come da contratto, avrebbe detto l'ispettore Corsi.
 (Le mani di Davide tremano adesso, violentemente. Claire gliele stringe tra le sue.)
-CLAIRE: Hai parlato un'ora con un ragazzo e una bomba. Senza pistola.
-DAVIDE: Un'ora e cinque. Chi conta.
+CLAIRE: Hai parlato un'ora con un ragazzo e una bomba, senza pistola e senza giubbotto. Ti rendi conto di cosa hai fatto?
+DAVIDE: Un'ora e cinque minuti, per l'esattezza. Ma chi è che conta, oggi, a parte me?
 DE ANGELIS: Padre, devo chiederle una dichiarazione. Il generale Malaspina dice che lei non esiste. Io come scrivo il rapporto?
 DAVIDE: Scriva che un sacerdote ha parlato con il ragazzo. Che il ragazzo si è arreso. Il resto non serve.
-DE ANGELIS: Nessun sacerdote parla così, padre. Lo sa?
-DAVIDE: Lo so, commissario. Lo so meglio di lei.
-NADIA (in cuffia): Davide. Il generale vuole vederti alle tre. Gli ho detto che stavi pregando.
-DAVIDE: Digli che è vero.
+DE ANGELIS: Nessun sacerdote che conosco parla così, padre. Lo sa anche lei, vero?
+DAVIDE: Lo so, commissario. Lo so meglio di lei, e me lo ripeto ogni mattina davanti allo specchio.
+NADIA (in cuffia): Davide, il generale vuole vederti alle tre in punto. Gli ho detto che in questo momento stavi pregando.
+DAVIDE: Digli che è vero, Nadia. Per una volta, in tutta questa storia, non hai detto una bugia per me.
 
 ---
 
 [SCENA 8 — Via di Porta Angelica, accanto a un furgone della Polizia. Ore 12.05. Dalla piazza, attraverso le mura, arriva la voce del Santo Padre: "Urbi et Orbi". Poi il boato della folla. Poi le campane, tutte insieme.]
 
-NADIA (in cuffia): Senti? Le campane. Sono per tutti. Anche per te, oggi.
-DAVIDE: Sono per lui, Nadia. Per il ragazzo.
+NADIA (in cuffia): Senti le campane? Suonano per tutti quelli che sono in piazza. Oggi suonano anche per te, che tu ci creda o no.
+DAVIDE: No, Nadia, sono per lui. Sono per il ragazzo, che oggi ha deciso di restare vivo.
 (Il portellone del furgone è aperto. Elia è seduto dentro, tra due agenti. Alza la testa e vede Davide.)
-ELIA: Padre. Padre, venga un attimo.
-AGENTE: Non si può, padre.
-DAVIDE: Due minuti. Resto qui fuori. Non lo tocco.
+ELIA: Padre. Padre, venga un attimo, la prego. Devo dirle una cosa prima che mi portino via.
+AGENTE: Non si può, padre, mi dispiace. Il ragazzo è in stato di fermo e non può parlare con nessuno.
+DAVIDE: Mi dia due minuti soltanto. Resto qui fuori, sulla strada, e non lo tocco nemmeno con un dito.
 (L'agente esita. Poi si scosta. Davide si avvicina al portellone.)
-ELIA: Lei me l'ha promesso. Il prete che porta il perdono meglio di lei.
-DAVIDE: Te lo porto. Stasera. Si chiama padre Anselmo. Ha ottantun anni e non ha paura di niente.
+ELIA: Lei me l'ha promesso, padre, non se lo dimentichi. Il prete che porta il perdono meglio di lei.
+DAVIDE: Te lo porto stasera, te lo prometto ancora. Si chiama padre Anselmo. Ha ottantun anni e non ha paura di niente.
 (Elia annuisce. Guarda le campane, lassù, oltre il muro. Poi abbassa la voce, come in un confessionale.)
-ELIA: Padre. Devo dirle un'ultima cosa. Loro mi avevano parlato di lei.
+ELIA: Padre, devo dirle un'ultima cosa, e poi basta. Loro mi avevano parlato di lei, prima di oggi.
 DAVIDE: Di me?
 ELIA: Sì. Mi hanno detto che lei avrebbe capito. Che anche lei non crede.
 (Il portellone si chiude. Il furgone parte. Davide resta in mezzo alla strada, nel suono delle campane.)

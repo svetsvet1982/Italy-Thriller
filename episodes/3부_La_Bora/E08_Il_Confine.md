@@ -7,44 +7,44 @@
 [SCENA 1 — Carso, il vecchio confine tra Italia e Slovenia. Venerdì 9 ottobre, le undici di sera. Un cippo di pietra bianca nel bosco: da una parte una "I", dall'altra una "J" consumata.]
 
 (Davide e Milo Kovačič camminano in silenzio tra i ginepri. Milo ha settantasei anni, un bastone di nocciolo e uno zaino militare più vecchio di Davide.)
-MILO: Ecco. Fermati. Metti una mano qui.
-DAVIDE: Su un sasso?
+MILO: Ecco, siamo arrivati, fermati qui. Metti una mano su questa pietra, mulo, e dimmi cosa senti.
+DAVIDE: Su un sasso, nel bosco, a mezzanotte? Milo, con tutto il rispetto, non mi sembra il momento per i riti.
 MILO: Su un confine. Di qua la "I", di là la "J". Jugoslavija. Un paese che non c'è più, scritto su una pietra che c'è ancora.
 (In fondo alla valle, due fari bianchi scivolano lenti su una strada sterrata. Milo abbassa Davide a terra con una mano sulla spalla.)
-MILO: Giù. Policija.
-NADIA (in cuffia): Pattuglia slovena. Una sola macchina. Fanno il giro delle undici, ogni venerdì.
-DAVIDE (sottovoce): Siamo in Europa. Non abbiamo bisogno di nasconderci.
+MILO: Giù, subito, abbassati. È la policija.
+NADIA (in cuffia): È una pattuglia slovena, una sola macchina con due agenti. Fanno il giro delle undici, ogni venerdì, e non scendono mai dall'auto.
+DAVIDE (sottovoce): Siamo in Europa, Milo, i confini non esistono più da vent'anni. Non abbiamo bisogno di nasconderci come contrabbandieri.
 MILO (sottovoce): Mulo, un vecchio con uno zaino e un milanese senza passaporto, di notte, nel bosco. Anche in Europa si fanno delle domande.
-DAVIDE (sottovoce): Come sa che sono senza passaporto?
+DAVIDE (sottovoce): E lei come fa a sapere che sono senza passaporto? Non gliel'ho detto, e Nadia giura di non averlo fatto.
 MILO (sottovoce): Perché il tuo passaporto dice Sironi. E stanotte tu non sei Sironi. Sei solo un mulo nel bosco.
 (I fari passano. Il rumore del motore si spegne oltre la collina.)
 MILO: Bon. Andiamo. Prima qui c'era un muro che non si vedeva. Adesso c'è un'Europa che non si vede. Io preferivo il muro. Almeno sapevi dov'era.
-DAVIDE: Quanto manca?
+DAVIDE: Quanto manca al bunker? Glielo chiedo adesso, perché dopo non avrò più fiato per fare domande.
 MILO: Due ore, alla mia velocità. Un'ora e mezza alla tua. Ma tu non sai la strada, quindi due ore.
-NADIA (in cuffia): Io sono sulla forestale, a due chilometri dal punto. Vi sento bene. Fin troppo.
+NADIA (in cuffia): Io sono sulla forestale, a due chilometri dal punto, con il motore spento. Vi sento bene. Fin troppo, soprattutto quando Milo filosofeggia.
 
 ---
 
 [SCENA 2 — Sei ore prima. Trieste, un bar davanti alla stazione centrale. Venerdì pomeriggio. Il rumore dei treni regionali, i pendolari, il bancone di zinco.]
 
-LENZI: Lei va a Gorizia stasera.
-DAVIDE: Un armatore che ha una polizza con noi. Vuole parlare della Marianne K. Solo di sera, solo a cena. Gli armatori sono timidi.
-LENZI: E la Rinaldi?
-DAVIDE: Muggia non ha dato niente. Una donna con lo zaino al traghetto, ma era una turista austriaca. Ho controllato.
-LENZI: Ha controllato. Bene. Il telefono resterà acceso?
-DAVIDE: Acceso e in tasca. Come vuole il disciplinare.
-NADIA (in cuffia): Acceso, sì. Su un camion di frutta che va a Gorizia. L'autista è il nipote di Milo.
+LENZI: Mi risulta che lei vada a Gorizia stasera, Colombo. Vorrei sapere perché, prima di firmare il foglio di servizio.
+DAVIDE: C'è un armatore che ha una polizza con noi. Vuole parlare della Marianne K. Solo di sera, solo a cena. Gli armatori sono timidi.
+LENZI: E la Rinaldi? Il generale mi chiederà anche di lei, stasera alle undici, e non voglio rispondergli con un armatore.
+DAVIDE: Muggia non ha dato niente, purtroppo. Una donna con lo zaino al traghetto, ma era una turista austriaca. Ho controllato di persona.
+LENZI: Ha controllato di persona, bene, lo annoto. E il telefono resterà acceso tutta la notte, come previsto dal disciplinare?
+DAVIDE: Acceso e in tasca, come vuole il disciplinare. Se vuole, le mando anche la posizione ogni ora.
+NADIA (in cuffia): Acceso, sì, ma non nella tua tasca. Su un camion di frutta che va a Gorizia. L'autista è il nipote di Milo.
 (Lenzi gira il cucchiaino nel caffè. Non lo beve. Lo fa sempre.)
-LENZI: Colombo, le faccio una domanda accademica.
-DAVIDE: Le domande accademiche mi preoccupano più di quelle vere.
+LENZI: Colombo, prima che vada, le faccio una domanda accademica. Non è un interrogatorio, è pura curiosità professionale.
+DAVIDE: Le domande accademiche mi preoccupano più di quelle vere, dottor Lenzi. Di solito arrivano prima delle accuse.
 LENZI: A Roma, chi può emettere un codice di autorizzazione operativa della Marina per un'operazione in acque civili? Senza passare dallo Stato maggiore?
 (Davide non risponde subito. Guarda il treno che parte, dietro il vetro.)
-DAVIDE: Perché lo chiede a me?
+DAVIDE: Perché lo chiede proprio a me? Io mi occupo di una collega scomparsa, non di codici della Marina.
 LENZI: Perché lei ha bevuto un bianco con la comandante Furlan, mercoledì sera, alla Sacchetta. E il giorno dopo la comandante Furlan ha chiesto una settimana di licenza. In ventidue anni di servizio non ha mai preso un giorno di ferie.
-DAVIDE: Una licenza.
-LENZI: Leggo tutto, Colombo. Anche quello che non mi mandano. È il mio difetto.
-DAVIDE: E la risposta alla sua domanda accademica?
-LENZI: Poche persone. Pochissime. E nessuna, in teoria, al di fuori della Difesa. In teoria.
+DAVIDE: Una licenza, dopo ventidue anni. Non sapevo nemmeno che la comandante avesse una vita fuori dalla capitaneria.
+LENZI: Leggo tutto, Colombo. Anche quello che non mi mandano. È il mio difetto, e qualcuno a Roma lo considera un vizio.
+DAVIDE: E la risposta alla sua domanda accademica, allora? Se l'ha fatta, immagino che la conosca già.
+LENZI: Poche persone, pochissime, si contano sulle dita di una mano. E nessuna, in teoria, al di fuori della Difesa. In teoria.
 (Lenzi si alza. Lascia due euro sul bancone, esatti.)
 LENZI: Non è un'accusa. È una domanda. Le domande sono gratuite, Colombo. Le risposte, a volte, costano la carriera. Buona cena a Gorizia.
 
@@ -53,29 +53,29 @@ LENZI: Non è un'accusa. È una domanda. Le domande sono gratuite, Colombo. Le r
 [SCENA 3 — Bosco di carpini, lato sloveno. Mezzanotte passata. Doline, muretti a secco crollati, l'odore della resina. Il vento comincia a girare da nord-est.]
 
 MILO: Senti l'aria? Sta tornando la bora. Domani, forse domenica. Proprio per la regata. Il Carso ha senso dell'umorismo.
-DAVIDE: Lei viene spesso da questa parte?
+DAVIDE: Lei viene spesso da questa parte del confine? Cammina come uno che conosce ogni radice a memoria.
 MILO: Ci sono nato, da questa parte. A due chilometri da qui. Poi il confine si è spostato, e io sono rimasto dov'ero. Così sono diventato straniero senza muovermi.
 DAVIDE: Mio padre dice che è il modo più comune di diventarlo.
-MILO: Tuo padre è un uomo saggio. Cosa fa?
+MILO: Tuo padre è un uomo saggio, allora. Dimmi, cosa fa nella vita, a parte dire cose sagge al figlio?
 DAVIDE: Restaurava quadri. Adesso gli trema la mano destra e guarda le partite dell'Inter.
-MILO: E lui lo sa, cosa fai tu?
+MILO: E lui lo sa, cosa fai tu davvero? Oppure anche a lui racconti di essere un perito?
 DAVIDE: Crede che io lavori per una società di consulenza, a Roma. Ogni Natale mi chiede se mi hanno promosso.
 MILO: Allora è un uomo saggio e infelice. La combinazione più frequente.
 (Camminano. Milo si ferma a riprendere fiato, appoggiato al bastone.)
 MILO: Voi giovani credete nelle procedure. Io credevo in qualcosa. In Tito, nella fratellanza, nell'operaio che diventa direttore. Era una bugia, ma era una bugia grande. Ci si poteva dormire dentro.
-DAVIDE: E noi?
-MILO: Voi avete bugie piccole. Moduli, protocolli, disciplinari. Non ci si dorme dentro. Ci si annoia.
-DAVIDE: Giovani? Ho quarantasei anni, Milo.
+DAVIDE: E noi, invece? In cosa crediamo, secondo lei, noi che siamo venuti dopo?
+MILO: Voi avete bugie piccole. Moduli, protocolli, disciplinari. Non ci si dorme dentro. Ci si annoia, e la noia è peggio della fede.
+DAVIDE: Giovani, dice? Ho quarantasei anni, Milo, e stanotte le ginocchia me li ricordano tutti.
 MILO: Per me sei un mulo. Uno che è nato quando le guerre erano già finite e il Muro stava ancora in piedi. Avete avuto la pace e non sapete cosa farne.
-DAVIDE: Abbiamo avuto anche le Torri Gemelle. E la Bosnia, qui dietro.
+DAVIDE: Abbiamo avuto anche le Torri Gemelle, Milo. E la Bosnia, qui dietro, a poche ore di macchina da casa sua.
 MILO: Hai ragione. Scusami. I vecchi parlano come se le guerre fossero solo loro. È l'unica proprietà che ci resta.
-DAVIDE: Ha mai pensato di andarsene? A Lubiana, a Vienna?
+DAVIDE: Ha mai pensato di andarsene da qui? A Lubiana, a Vienna, in un posto dove i confini stanno fermi?
 MILO: Una volta, nel novantuno. Poi ho capito che chi nasce su un confine non sa vivere in mezzo a un paese. Gli manca l'aria.
 (Davide gli offre la borraccia. Milo beve, si asciuga i baffi.)
 MILO: Saba diceva che Trieste ha una scontrosa grazia. Come un ragazzo cresciuto troppo in fretta, con le mani troppo grandi per regalare un fiore.
-DAVIDE: Lei ha regalato fiori, Milo?
-MILO: Ho regalato segreti. È il fiore delle spie. Profuma poco e appassisce subito.
-NADIA (in cuffia): Milo, quanto manca? Davide ha già finito le domande intelligenti.
+DAVIDE: E lei, Milo, ha mai regalato fiori a qualcuno, con quelle mani da confine?
+MILO: Io ho regalato segreti. È il fiore delle spie. Profuma poco e appassisce subito, ma chi lo riceve non se lo dimentica.
+NADIA (in cuffia): Milo, quanto manca ancora? Davide ha già finito le domande intelligenti, e adesso comincia con quelle sentimentali.
 MILO: Signorina, mezz'ora. E il tuo milanese non ha ancora cominciato le domande intelligenti.
 
 ---
@@ -83,30 +83,30 @@ MILO: Signorina, mezz'ora. E il tuo milanese non ha ancora cominciato le domande
 [SCENA 4 — Una casita, la capanna di pietra dei pastori del Carso. Verso l'una. Il tetto è a tholos, di lastre sovrapposte. Si siedono dentro, al riparo dal vento.]
 
 MILO: Prima di entrare nel bunker, ti devo una verità. Quella che ti ho raccontato in libreria era una mezza verità.
-DAVIDE: Su Vianello?
+DAVIDE: Una mezza verità su Vianello? Mi ha detto che vi siete scambiati una valigia al confine, nell'ottantanove.
 MILO: Su di me. L'ottantanove, il confine, la valigia. Era tutto vero. Ma non ti ho detto per chi lavoravo, quella notte.
-DAVIDE: Per Belgrado. Per l'UDBA.
+DAVIDE: Lavorava per Belgrado, per l'UDBA. Questo l'avevo capito da solo, dal modo in cui guarda le porte.
 MILO: Per Belgrado, sì. E per Roma. Tutti e due. Dal 1983 fino alla fine.
 (Silenzio. Fuori, il vento passa sui muretti con un fischio lungo.)
-DAVIDE: Doppio gioco.
-MILO: Doppio gioco. A te sembra una parola brutta. A me sembrava onesta: almeno dicevo la verità a due persone, invece che a nessuna.
+DAVIDE: Quindi faceva il doppio gioco, per tutti quegli anni. E nessuno dei due se n'è mai accorto.
+MILO: Doppio gioco, sì. A te sembra una parola brutta. A me sembrava onesta: almeno dicevo la verità a due persone, invece che a nessuna.
 DAVIDE: E cosa vi siete scambiati, davvero, quella notte?
 MILO: La valigia, sì. Ma dentro c'erano due vite, la sua e la mia. Ognuno teneva l'altro per il collo, con gentilezza.
 (Milo si sfrega le mani per il freddo. Continua più piano.)
 MILO: Ettore era il mio contatto. Io gli davo i cifrari jugoslavi, lui mi dava abbastanza segreti italiani da tenermi vivo a Belgrado. Segreti veri, ma vecchi. Come le tue briciole a Lenzi.
-DAVIDE: Lei sa delle briciole?
+DAVIDE: Lei sa delle briciole che lascio a Lenzi? Pensavo che lo sapessimo solo io e Nadia.
 MILO: La tua signorina me l'ha raccontato. Mi è piaciuto. È un metodo antico, si usava già con l'imperatore.
-DAVIDE: Perché l'ha fatto?
+DAVIDE: Ma perché l'ha fatto, Milo? Rischiava la vita da tutte e due le parti, e per cosa?
 MILO: Per soldi, all'inizio. Poi per Ettore. Era l'unico uomo, di qua o di là, che mi parlasse di libri invece che di fedeltà. Mi portava Svevo e mi chiedeva cosa ne pensavo. Nessuno, a Belgrado, mi ha mai chiesto cosa ne pensavo.
-DAVIDE: Lo sapeva qualcuno?
+DAVIDE: E lo sapeva qualcuno, a parte voi due? Un segreto così di solito ha più di due custodi.
 MILO: Lo sapevano due uomini. Uno è morto a Poveglia. L'altro sono io.
-DAVIDE: E Roma? I suoi capi italiani?
+DAVIDE: E Roma, allora? I suoi capi italiani avranno pure avuto un fascicolo su di lei, con un nome in codice.
 MILO: Ettore non mi ha mai registrato. Non c'è un fascicolo Kovačič, a Roma. Diceva che i fascicoli sono le prime cose che si vendono, quando cade un muro.
-DAVIDE: Aveva ragione.
-MILO: Aveva sempre ragione. Per questo è morto.
+DAVIDE: Aveva ragione, purtroppo. Ho visto cosa si vende a Roma, e i fascicoli vanno via per primi.
+MILO: Aveva sempre ragione, Ettore. Per questo è morto, perché chi ha sempre ragione prima o poi dà fastidio a qualcuno.
 (Milo tira fuori dalla tasca una chiave di ferro, grossa, antica.)
 MILO: Nel novantaquattro è venuto a trovarmi con una cartella. Mi ha detto: "Milo, tienila dove non la cerca nessuno. Nel paese che non c'è più." Io sapevo dov'era il paese che non c'è più. Era sottoterra.
-DAVIDE: Un bunker.
+DAVIDE: Sottoterra, quindi in un bunker. Qui sul Carso ce ne sono più delle osterie, mi dicevano.
 MILO: Dell'esercito jugoslavo. Anni Cinquanta. Abbandonato nel novantuno, quando i soldati sono tornati a casa e hanno scoperto che la casa era diventata un altro paese.
 
 ---
@@ -114,57 +114,57 @@ MILO: Dell'esercito jugoslavo. Anni Cinquanta. Abbandonato nel novantuno, quando
 [SCENA 5 — Il bunker. Verso le due. Una porta di ferro arrugginita, mezza coperta di rovi, in fondo a una dolina. Dentro, cemento, umidità, vecchie scritte in cirillico e in latino sui muri.]
 
 (La chiave gira a fatica. La porta si apre con un gemito. L'aria dentro è ferma da anni.)
-MILO: Attento allo scalino. Il terzo non c'è.
-DAVIDE: Come fa a ricordarselo?
-MILO: L'ho tolto io, nel novantaquattro. Per chi arriva senza sapere.
+MILO: Attento allo scalino, mulo, guarda dove metti i piedi. Il terzo non c'è.
+DAVIDE: Come fa a ricordarselo, dopo tutti questi anni? Io non ricordo nemmeno il codice del mio portone.
+MILO: L'ho tolto io, nel novantaquattro, con un piede di porco. Per chi arriva senza sapere.
 (In fondo al corridoio, una stanza bassa. Milo conta i mattoni di una parete, dal basso. Sette. Ne spinge uno. Dietro, una cassetta per munizioni verde, sigillata con il nastro.)
-MILO: Trentadue anni. Non l'ho mai aperta. Era una promessa.
-DAVIDE: Allora la apra lei.
-MILO: No. Ettore l'ha scritta per qualcuno che sarebbe venuto dopo. Io sono venuto prima.
+MILO: Sono trentadue anni che sta lì dentro. Non l'ho mai aperta, nemmeno una volta. Era una promessa, e io le promesse le mantengo.
+DAVIDE: Allora la apra lei, adesso. È giusto che sia lei, dopo tutto questo tempo.
+MILO: No, non tocca a me. Ettore l'ha scritta per qualcuno che sarebbe venuto dopo. Io sono venuto prima.
 (Davide apre la cassetta. Dentro, una cartella di cartone grigio, legata con lo spago. Una busta più piccola, gialla, incollata. Una pagina scritta a mano, con una grafia piccola e ordinata.)
-DAVIDE: È la sua scrittura. Di Vianello. La riconosco dal registro di Venezia.
-NADIA (in cuffia): Leggi, Davide.
+DAVIDE: È la sua scrittura, quella di Vianello. La riconosco dal registro di Venezia, con le stesse "t" tagliate di traverso.
+NADIA (in cuffia): Leggi, Davide, ad alta voce. Voglio sentire ogni parola, anche quelle che fanno male.
 DAVIDE: "Trieste, 3 novembre 1994. A chi troverà questa cartella. La chiave non appartiene a nessun governo. Per questo l'ho divisa."
 DAVIDE: "La chiave è in tre parti. La prima dorme sotto un manto azzurro, a Venezia. La seconda l'ho affidata ai banchieri dello Spirito Santo, che non chiudono mai i conti."
-NADIA (in cuffia): Venezia e Roma. Le due che abbiamo. Vai avanti.
+NADIA (in cuffia): Venezia e Roma, le due che abbiamo già. Vai avanti, ti prego, non fermarti adesso.
 DAVIDE: "La terza l'ha nascosta, con le sue mani, il mio amico restauratore di Milano."
 (Davide si ferma. La torcia trema appena sul foglio.)
-NADIA (in cuffia): Restauratore di Milano. Davide…
-DAVIDE: A Milano, nel '94, i restauratori erano duecento.
-NADIA (in cuffia): Continua.
+NADIA (in cuffia): Un restauratore di Milano. Davide… tuo padre a Milano restaurava quadri, nel '94.
+DAVIDE: A Milano, nel '94, i restauratori erano duecento. Lo so perché mio padre li conosceva quasi tutti.
+NADIA (in cuffia): Va bene, lascia stare, non era una domanda. Continua a leggere.
 DAVIDE: "Il suo nome non lo scrivo. Chi deve sapere, sa. E chi vuole la chiave non ha bandiera. Ma uno di loro porta la nostra divisa, e io gli ho stretto la mano."
-DAVIDE: "La nostra divisa." Un militare. Un italiano.
-NADIA (in cuffia): Oppure uno dei nostri. Per Vianello era la stessa cosa.
-MILO: Ettore. Sempre elegante, anche quando aveva paura.
+DAVIDE: "La nostra divisa." Vuol dire un militare, e un italiano. Qualcuno a cui Vianello si fidava abbastanza da stringergli la mano.
+NADIA (in cuffia): Oppure uno dei nostri, uno del Servizio. Per Vianello era la stessa cosa, la stessa divisa.
+MILO: Questo è Ettore, tutto intero. Sempre elegante, anche quando aveva paura, anche quando scriveva a un morto.
 (Davide infila la busta gialla, senza aprirla, nella tasca interna della giacca. La cartella la mette nello zaino.)
-MILO: Le fotografie guardale dopo. Le fotografie sono per quando si è soli.
-DAVIDE: Come sa che ci sono fotografie?
-MILO: Perché le ho scattate io. Nel novantaquattro. A Milano.
+MILO: Le fotografie guardale dopo, non qui. Le fotografie sono per quando si è soli.
+DAVIDE: Come sa che ci sono fotografie? Ha detto di non aver mai aperto la cassetta.
+MILO: Perché le ho scattate io, mulo. Nel novantaquattro. A Milano.
 
 ---
 
 [SCENA 6 — Il bunker e la dolina. Pochi minuti dopo.]
 
-NADIA (in cuffia): Fermi. Due fuoristrada sulla forestale nord. Fari spenti. Si sono fermati sopra la dolina.
-DAVIDE: Quanti?
-NADIA (in cuffia): Sei, forse sette. Uno è grosso. Cammina come Ilić.
+NADIA (in cuffia): Fermi tutti e due. Ci sono due fuoristrada sulla forestale nord, a fari spenti. Si sono fermati sopra la dolina.
+DAVIDE: Quanti sono? Dimmi quanti uomini sono scesi, e se hanno armi lunghe.
+NADIA (in cuffia): Sei, forse sette, li vedo con la termica. Uno è grosso. Cammina come Ilić.
 MILO: Hanno fatto presto. Qualcuno ha parlato. Forse io, l'altra sera, all'osteria. A settantasei anni si parla troppo.
 (Una voce dall'alto, nel buio, amplificata da un megafono. Calma, quasi annoiata.)
-DRAGAN: Sironi! Signor perito! Esca. Facciamo la perizia insieme.
-DAVIDE: Ilić.
+DRAGAN: Sironi! Signor perito! Esca, che qui fuori c'è aria buona. Facciamo la perizia insieme.
+DAVIDE: È Ilić, e sa benissimo che sono qui dentro.
 DRAGAN: Lei voleva vedere la merce. Adesso la merce è qui. Porti fuori la cartella e il vecchio può tornare a vendere i suoi libri.
 MILO: Non ci credere, mulo. Questi non lasciano vecchi in giro. I vecchi ricordano.
-DRAGAN: Ho tempo, Sironi. La bora arriva domani. Stanotte è una bella notte per aspettare.
-NADIA (in cuffia): C'è un'altra uscita? Milo! C'è un'altra uscita?
+DRAGAN: Ho tempo, Sironi, tutto il tempo che voglio. La bora arriva domani. Stanotte è una bella notte per aspettare.
+NADIA (in cuffia): Milo, rispondimi! C'è un'altra uscita da quel buco, sì o no?
 MILO: Il condotto di ventilazione. In fondo, a destra. Esce dall'altra parte della collina, nei rovi. Ottanta metri, a carponi.
-DAVIDE: Andiamo. Tutti e due.
+DAVIDE: Allora andiamo, subito, tutti e due. Lei davanti, io dietro, e non si discute.
 MILO: Io a carponi per ottanta metri? Con le mie ginocchia? Mi trovano lì dentro tra una settimana, come un tasso.
 (Il primo colpo rimbalza sulla porta di ferro. Poi un secondo. Milo apre lo zaino ed estrae una vecchia pistola, una Tokarev, unta e lucida.)
 MILO: Vai. Io tengo la porta. Conosco questo bunker meglio di loro. L'ho costruito io, nella mia testa, per trentadue anni.
-DAVIDE: Milo, no.
+DAVIDE: Milo, no, non glielo permetto. Non la lascio qui da solo con quelli là fuori.
 MILO: Mulo, ascolta. Se un giorno ti bruciano, e succederà, va' in Istria. Sopra Rovigno, una casa di pietra con un fico davanti. Nessun nome sul campanello. Questa è la chiave.
 (Gli mette in mano una piccola chiave d'ottone. Davide la stringe.)
-DAVIDE: Lunedì. In libreria. Mi prepari il caffè con la grappa.
+DAVIDE: Allora ci vediamo lunedì, in libreria. Mi prepari il caffè con la grappa, e non mi faccia aspettare.
 MILO: Lunedì. Se no, leggi Joyce. "La storia è un incubo da cui cerco di svegliarmi." Io adesso provo a svegliarmi. Pojdi! Vai!
 NADIA (in cuffia): Davide, vai. Adesso!
 (Davide si infila nel condotto. Dietro di lui, nel bunker, il rumore secco della Tokarev. Una volta. Due. Poi la voce di Milo, che canta qualcosa in sloveno, stonato.)
@@ -173,32 +173,32 @@ NADIA (in cuffia): Davide, vai. Adesso!
 
 [SCENA 7 — Una strada forestale slovena, poi la statale verso Basovizza. Sabato 10 ottobre, le tre del mattino. Una vecchia Panda 4x4 senza luci. Nadia guida. Davide è sul sedile accanto, coperto di terra e di spine.]
 
-DAVIDE: Torna indietro.
-NADIA: No.
-DAVIDE: Nadia, torna indietro. È solo. Ha settantasei anni.
-NADIA: E ha scelto. Se torniamo, ha fatto tutto per niente. Lo sai.
+DAVIDE: Torna indietro, Nadia, subito. Non possiamo lasciarlo lassù.
+NADIA: No, non torno indietro, e non me lo chiedere un'altra volta.
+DAVIDE: Nadia, torna indietro. È solo. Ha settantasei anni, un bastone e una pistola di sessant'anni fa.
+NADIA: E ha scelto, Davide, l'ha scelto lui. Se torniamo, ha fatto tutto per niente. Lo sai.
 (Lontano, dietro la collina, gli spari si sono fermati. Il silenzio è peggio.)
-DAVIDE: Si sono fermati.
+DAVIDE: Senti? Gli spari si sono fermati. Non si sente più niente, nemmeno la sua canzone.
 NADIA: Si fermano sempre, gli spari. Non vuol dire niente. Milo conosce ogni sasso del Carso. Lunedì ti prepara il caffè.
-DAVIDE: Tu ci credi?
+DAVIDE: Tu ci credi davvero, a quello che stai dicendo? O lo dici solo perché io smetta di guardare indietro?
 NADIA: Io credo a quello che mi serve per guidare senza luci. Il resto lo credo domani.
-DAVIDE: Hai sentito la canzone?
+DAVIDE: Hai sentito anche tu la canzone, prima che smettesse? Non capivo le parole, ma era una canzone vecchia.
 NADIA: L'ho sentita. Era stonata. Uno che canta stonato sotto le pallottole non ha paura. Ha deciso.
 (Nadia accende i fari solo quando la strada torna asfaltata. Le luci della pianura, laggiù, verso Trieste.)
-NADIA: Il restauratore di Milano. Tuo padre faceva quel mestiere, no?
-DAVIDE: Mio padre restaurava Madonne per le parrocchie della Brianza. Non chiavi della NATO.
-NADIA: Lo so. Lo dicevo così.
-DAVIDE: Lo so che lo dicevi così.
+NADIA: Il restauratore di Milano, di cui parla la lettera. Tuo padre faceva quel mestiere, no?
+DAVIDE: Mio padre restaurava Madonne per le parrocchie della Brianza. Non chiavi della NATO. Lo vedi, uno come lui, a nascondere cifrari?
+NADIA: Lo so, lo so. Lo dicevo così, tanto per dire qualcosa nel buio.
+DAVIDE: Lo so che lo dicevi così. Non ti sto accusando di niente, stanotte.
 (Silenzio. Davide tira fuori la busta gialla. La apre con il pollice. Accende la torcia del telefono, coperta con la mano.)
 (Tre fotografie. Nella prima, Vianello giovane, a una scrivania piena di carte. Nella seconda, la porta del bunker, senza rovi. Nella terza, due uomini in camice bianco davanti a un grande quadro su un cavalletto.)
 (Uno è Ettore Vianello, a quarantasette anni. L'altro gli tiene una mano sulla spalla e ride. Ha la mascella di Davide, le sue sopracciglia, il suo modo di inclinare la testa. È Ernesto Colombo, a quarantasei anni.)
-NADIA: Cosa c'è?
-DAVIDE: Niente. Due vecchi davanti a un quadro.
-NADIA: Fammi vedere.
-DAVIDE: Guida.
+NADIA: Cosa c'è, nella busta? Hai cambiato faccia, e lo vedo anche senza luce.
+DAVIDE: Niente di importante. Due vecchi davanti a un quadro, in un laboratorio qualunque.
+NADIA: Allora fammi vedere, se è niente. Due vecchi e un quadro non fanno male a nessuno.
+DAVIDE: Guida, Nadia, pensa a guidare.
 (Davide gira la foto. Sul retro, a matita, la grafia piccola e ordinata di Vianello: "Con E. — Milano, maggio '94.")
-NADIA: Davide. Fammi vedere.
-DAVIDE: Guarda la strada, Nadia. Ci sono i cervi, a quest'ora.
+NADIA: Davide. Fammi vedere. Non te lo chiedo una terza volta.
+DAVIDE: Guarda la strada, Nadia. Ci sono i cervi, a quest'ora, e scendono sempre dalla parte del bosco.
 (Infila la fotografia nella tasca interna della giacca, sul petto, insieme alla chiave d'ottone. Spegne la torcia. Guarda il buio fuori dal finestrino.)
 DAVIDE (tra sé): Chiedi a Ernesto.
 

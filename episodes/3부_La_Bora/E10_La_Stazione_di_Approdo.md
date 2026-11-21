@@ -7,190 +7,190 @@
 [SCENA 1 — Santa Croce, strada costiera sopra il mare. Lunedì, le sei e mezza. Un cancello grigio, una targa: ADRIACAVI S.p.A. — STAZIONE DI APPRODO. La bora è calata. Il mare è viola.]
 
 (Una piccola auto elettrica si ferma davanti al cancello. Scende una donna con un casco da bicicletta in mano e uno zaino pieno di cavi.)
-DAVIDE: Dottoressa Petrič? Buongiorno. Sironi, Assicurazioni Tirrene.
-ANA: Ingegnera. Non dottoressa. E non è buongiorno, sono le sei e trentuno.
-DAVIDE: Il guardiano mi ha detto che lei arriva sempre alle sei e mezza. Gli ho offerto un caffè.
-ANA: Il guardiano direbbe la data di nascita di sua madre per un caffè. Cosa vuole?
-DAVIDE: Parlare del sinistro del trenta settembre. Il cavo danneggiato dall'ancora della «Marianne K.».
+DAVIDE: Dottoressa Petrič? Buongiorno, e mi scusi se l'aspetto davanti al cancello come un venditore di enciclopedie. Sironi, Assicurazioni Tirrene.
+ANA: Ingegnera, non dottoressa. E non è buongiorno, sono le sei e trentuno, e alle sei e trentuno io non ho ancora un carattere.
+DAVIDE: Il guardiano mi ha detto che lei arriva sempre alle sei e mezza, puntuale come un treno svizzero. Gli ho offerto un caffè per saperlo.
+ANA: Il guardiano direbbe anche la data di nascita di sua madre per un caffè. Cosa vuole da me, a quest'ora?
+DAVIDE: Parlare del sinistro del trenta settembre, quello del cavo danneggiato dall'ancora della «Marianne K.». Le rubo mezz'ora, non di più.
 ANA: Ne ho già parlato con tre periti. Uno di Londra, uno di Rotterdam e uno di Genova. Tutti volevano sapere la stessa cosa: chi paga.
-DAVIDE: Io no. Io voglio sapere cosa c'è sul fondo, accanto al cavo.
+DAVIDE: Io no, a me di chi paga importa pochissimo. Io voglio sapere cosa c'è sul fondo, accanto al cavo.
 (Ana si ferma con la chiave nel lucchetto. Lo guarda per la prima volta.)
-ANA: Non c'è niente accanto al cavo.
-DAVIDE: Allora mi offra un caffè e me lo dimostri.
-NADIA (in cuffia): Questa ti piace. Si sente dalla voce.
-DAVIDE (piano): Lavora.
+ANA: Non c'è niente accanto al cavo, soltanto fango, sassi e qualche rete abbandonata. L'ho scritto in tutte le mie relazioni.
+DAVIDE: Allora mi offra un caffè e me lo dimostri con i suoi dati. Se ho torto, me ne vado e non mi vede più.
+NADIA (in cuffia): Questa ti piace, si sente dalla voce. Diventi gentile come un notaio ogni volta che una donna ti tratta male.
+DAVIDE (piano): Lavora, Nadia, e lascia lavorare anche me. Dimmi piuttosto se c'è qualcuno sulla strada costiera.
 
 ---
 
 [SCENA 2 — Ufficio di Ana, primo piano. Scaffali ordinati, schemi di rete appesi al muro, una pianta di basilico sul davanzale.]
 
-ANA: Il caffè è della macchinetta. Non si lamenti. Un milanese si lamenta sempre del caffè.
-DAVIDE: Come sa che sono milanese? Ho detto Genova.
-ANA: Ha detto "Assicurazioni Tirrene, Genova". Ma parla come mio professore del Politecnico. Le vocali chiuse, la fretta.
-DAVIDE: Lei ha studiato a Milano.
-ANA: Cinque anni. Odiavo la nebbia. Amavo i treni puntuali.
-DAVIDE: Allora mi capirà se vado al punto. Ingegnera, il cavo non è stato danneggiato per sbaglio. La «Marianne K.» ha trascinato l'ancora apposta, per tre ore. E sul fondo ha lasciato qualcosa.
-ANA: Questa è una teoria. Io lavoro con i dati.
+ANA: Il caffè è della macchinetta, e la prego di non lamentarsi. Un milanese si lamenta sempre del caffè, anche quando è buono.
+DAVIDE: Come fa a sapere che sono milanese? Le ho detto Genova, e ho perfino il biglietto da visita per dimostrarlo.
+ANA: Ha detto "Assicurazioni Tirrene, Genova". Ma parla come il mio professore del Politecnico. Le vocali chiuse, la fretta.
+DAVIDE: Quindi lei ha studiato a Milano, al Politecnico. Non me lo aspettavo da una che lavora sopra il mare.
+ANA: Cinque anni, in un monolocale dalle parti di Città Studi. Odiavo la nebbia. Amavo i treni puntuali.
+DAVIDE: Allora mi capirà se vado subito al punto. Ingegnera, il cavo non è stato danneggiato per sbaglio. La «Marianne K.» ha trascinato l'ancora apposta, per tre ore. E sul fondo ha lasciato qualcosa.
+ANA: Questa è una teoria, e le teorie le lascio volentieri ai giornalisti. Io lavoro con i dati, e i miei dati non dicono niente del genere.
 DAVIDE: Allora le do un dato. Il primo ufficiale della «Marianne K.» si è buttato in mare il giorno prima di parlare con me.
-ANA: Un dato tragico. Non un dato tecnico.
-DAVIDE: Un altro. Domenica, alla Barcolana, è morto un funzionario dello Stato. Aveva in mano un apparecchio con un simbolo sopra. Una fenice.
+ANA: È un dato tragico, e mi dispiace per quell'uomo. Ma non è un dato tecnico, e io non posso metterlo in un grafico.
+DAVIDE: Gliene do un altro. Domenica, alla Barcolana, è morto un funzionario dello Stato. Aveva in mano un apparecchio con un simbolo sopra. Una fenice.
 (Ana posa la tazzina. La mano le trema appena.)
-ANA: Lei non è un perito.
-DAVIDE: No.
-ANA: Lo sapevo. Un perito vero mi avrebbe chiesto la franchigia nei primi due minuti. Chi è?
+ANA: Lei non è un perito, vero? Non lo è mai stato, e adesso la prego di non prendermi in giro un'altra volta.
+DAVIDE: No, non sono un perito, e mi dispiace averle mentito davanti al cancello. Era l'unico modo per arrivare fin qui.
+ANA: Lo sapevo. Un perito vero mi avrebbe chiesto la franchigia nei primi due minuti. Chi è, allora?
 DAVIDE: Mi chiamo Davide. Lavoro per lo Stato italiano. Non posso dirle altro. Non deve credermi: deve solo guardare i suoi dati. Dal primo ottobre il traffico sul cavo ha qualche anomalia?
 (Ana non risponde subito. Guarda lo schermo spento del suo computer.)
 ANA: Piccole cose. Ritardi di qualche millisecondo. Un consumo di energia che non torna, di notte. Ho scritto tre segnalazioni. Nessuno mi ha risposto. La terza me l'hanno restituita con un timbro: "Archiviata su indicazione superiore".
 NADIA (in cuffia): Indicazione superiore. Che bella espressione italiana. Non vuol dire niente e vuol dire tutto.
 ANA: Mia nonna era di Capodistria. Diceva sempre: quando lo Stato ti dice "non preoccuparti", è il momento di preoccuparsi.
-DAVIDE: Sua nonna avrebbe fatto carriera nel mio ufficio.
-ANA: Va bene. Le faccio vedere la sala controllo. Ma lei non tocca niente.
-DAVIDE: È la frase della settimana.
+DAVIDE: Sua nonna avrebbe fatto carriera nel mio ufficio, glielo assicuro. Lì dentro nessuno si preoccupa finché non è troppo tardi.
+ANA: Va bene, le faccio vedere la sala controllo, ma soltanto perché quelle segnalazioni le ho firmate io. Lei non tocca niente.
+DAVIDE: È la frase della settimana, ingegnera, me la ripetono tutti da giorni. Prometto di tenere le mani in tasca.
 
 ---
 
 [SCENA 3 — Sala controllo della stazione. Pareti di monitor, luci verdi e ambra, un ronzio continuo. Sul monitor centrale, una mappa del golfo con le linee dei cavi.]
 
 ANA: Questo è il cavo. Arriva da sud, dal Mediterraneo, e tocca terra qui sotto. Da qui il traffico va verso Vienna, Monaco, Francoforte. Banche, borse, sistemi di pagamento.
-DAVIDE: Anche SIRIO?
-ANA: Come conosce quel nome?
-DAVIDE: Me l'ha insegnato un vecchio restauratore. Prima di morire.
-ANA: SIRIO passa anche da qui, sì. Non solo da qui. Ma da qui passa una parte importante.
-NADIA (in cuffia): Chiedile del cassone. Ma piano, che questa scappa.
-DAVIDE: Ingegnera, immagini una scatola appoggiata sul fondo, vicino al cavo. Cosa potrebbe fare?
-ANA: Non le spiego come si fa. Non lo spiego a nessuno.
-DAVIDE: Non voglio sapere come. Voglio sapere cosa.
+DAVIDE: E ci passa anche SIRIO? Il sistema dei pagamenti, quello che nessuno nomina mai ad alta voce?
+ANA: Come fa a conoscere quel nome? Non è scritto su nessun giornale, e nemmeno nei nostri opuscoli per le scuole.
+DAVIDE: Me l'ha insegnato un vecchio restauratore, prima di morire. Non mi chieda altro, perché è una storia lunga e finisce male.
+ANA: SIRIO passa anche da qui, sì. Non solo da qui. Ma da qui passa una parte importante, quella che va verso nord.
+NADIA (in cuffia): Chiedile del cassone. Ma piano, che questa scappa come una gatta al primo rumore. Falle credere che l'idea sia venuta a lei.
+DAVIDE: Ingegnera, immagini una scatola appoggiata sul fondo, vicino al cavo. In teoria, che cosa potrebbe fare?
+ANA: Non le spiego come si fa, né a lei né a nessun altro. Ci sono cose che un ingegnere non dice nemmeno al confessore.
+DAVIDE: Non voglio sapere come si fa, non mi interessa e non lo capirei. Voglio sapere cosa potrebbe fare, a grandi linee.
 (Ana riflette. Poi prende una matita e disegna una porta su un foglio.)
 ANA: Pensi a un orecchio appoggiato a una porta. La scatola ascolta. E forse, con le istruzioni giuste, può anche parlare.
-DAVIDE: Parlare con SIRIO.
+DAVIDE: Parlare con SIRIO, intende? Mandargli dei messaggi come se fosse un utente qualsiasi, una banca di provincia che chiede un trasferimento?
 ANA: Parlare come se fosse SIRIO stesso. Ma da sola non basta. Serve una chiave. Una chiave vecchia, scritta da chi ha costruito il sistema.
-DAVIDE: E se uno avesse due pezzi di quella chiave?
-ANA: Due pezzi? Lei parla di una chiave divisa?
-DAVIDE: In tre. Di due so dove sono.
+DAVIDE: E se uno avesse già due pezzi di quella chiave? Gli mancherebbe molto per arrivare fino in fondo?
+ANA: Due pezzi? Lei mi sta parlando di una chiave divisa, come nei film di spionaggio degli anni Settanta?
+DAVIDE: Divisa in tre, sì, e purtroppo non è un film. Di due pezzi so esattamente dove sono.
 (Ana lo guarda come si guarda un pazzo. Poi disegna una seconda serratura sotto la prima.)
 ANA: Allora le dico una cosa che so da manuale, non da segreto. I sistemi di quell'epoca hanno spesso due serrature. La prima è la chiave vera. La seconda è una frase. Una sequenza di parole che genera tutto il resto.
-DAVIDE: Un seme.
+DAVIDE: Un seme, quindi. Una frase da cui nasce tutto il resto, come una pianta da un chicco.
 ANA: Lo chiamano così, sì. Con due pezzi e la scatola lei entra nell'ingresso. Ma senza il seme, la porta interna resta chiusa. È una casa senza maniglie.
-NADIA (in cuffia): Il terzo pezzo. Vianello lo diceva: "Nessuno dei tre basta da solo."
-ANA: Lei sa dov'è, questo seme?
+NADIA (in cuffia): Il terzo pezzo. Vianello lo diceva: "Nessuno dei tre basta da solo." Adesso finalmente capisco cosa voleva dire.
+ANA: Lei sa dov'è, questo seme? Me lo dica adesso, perché se lo sa, siamo già in pericolo tutti e due.
 (Davide esita. Nella tasca interna della giacca c'è la cartella di Vianello. E la fotografia.)
-DAVIDE: No.
-ANA: Mente male, per uno che lavora per lo Stato.
-DAVIDE: Mento benissimo. Solo non con le ingegnere alle sette del mattino.
-NADIA (in cuffia): Davide. Perché hai esitato?
+DAVIDE: No, non lo so. Se lo sapessi, non sarei qui a bere il caffè della sua macchinetta.
+ANA: Mente male, per uno che lavora per lo Stato. Si è toccato la giacca prima di rispondere.
+DAVIDE: Mento benissimo, glielo garantisco. Solo non con le ingegnere alle sette del mattino, che guardano le persone come guardano i grafici.
+NADIA (in cuffia): Davide. Perché hai esitato? Ti ho sentito trattenere il fiato, e tu non lo trattieni mai.
 (Davide non risponde. Si toglie l'auricolare per un istante, poi lo rimette.)
 
 ---
 
 [SCENA 4 — Sala controllo. Le otto e venti. La porta si apre. Entra un uomo in tuta da lavoro, con una cassetta degli attrezzi e un tesserino appeso al collo.]
 
-TECNICO: Buongiorno. Manutenzione. Devo controllare gli armadi della sala due.
-ANA: La manutenzione è il giovedì. Sempre il giovedì, da sei anni.
-TECNICO: Me l'hanno cambiata. Urgenza. Dopo l'incidente.
-DAVIDE: Posso vedere il tesserino? Sono dell'assicurazione. Devo segnare tutti gli accessi dopo il sinistro.
+TECNICO: Buongiorno, manutenzione. Devo controllare gli armadi della sala due, ci metto un'oretta al massimo. Non si disturbi per me, so dove andare.
+ANA: La manutenzione è il giovedì. Sempre il giovedì, da sei anni, e oggi è lunedì. Chi l'ha mandata?
+TECNICO: Me l'hanno cambiata stamattina, è un'urgenza dopo l'incidente. Io faccio quello che mi dice l'ufficio.
+DAVIDE: Posso vedere il tesserino? Sono dell'assicurazione. Devo segnare tutti gli accessi dopo il sinistro, altrimenti la polizza non copre niente.
 (Il tecnico esita. Poi gira il tesserino. Davide lo legge con calma.)
-DAVIDE: Servizi Marittimi Adriatici. Scaduto a giugno.
-TECNICO: Me lo rinnovano. La burocrazia, sa com'è.
+DAVIDE: Servizi Marittimi Adriatici, leggo qui. Peccato che sia scaduto a giugno, ormai quattro mesi fa.
+TECNICO: Me lo rinnovano la settimana prossima. La burocrazia, sa com'è, da queste parti non si muove niente.
 DAVIDE: Lo so benissimo. E so anche che quelle scarpe antinfortunistiche sono nuove. Nessun tecnico porta scarpe nuove a un lavoro urgente.
 (Il tecnico posa la cassetta. Infila la mano nella tuta. Ne tira fuori una pistola.)
-TECNICO: Ingegnera, si sieda. Lei, mani sul tavolo.
-DAVIDE: Ana, si sieda. Faccia quello che dice.
-NADIA (in cuffia): Davide, chiamo Furlan?
+TECNICO: Ingegnera, si sieda e non tocchi quel telefono. Lei, mani sul tavolo, e niente scherzi.
+DAVIDE: Ana, si sieda. Faccia quello che dice, con calma, e non lo guardi negli occhi.
+NADIA (in cuffia): Davide, chiamo Furlan? Dimmi soltanto sì o no, e lo faccio subito. Da qui sento il ronzio e basta.
 DAVIDE (piano): Non ancora.
-TECNICO: Con chi parla?
+TECNICO: Con chi parla? Lei ha qualcosa nell'orecchio, le ho visto muovere le labbra. Se è un microfono, lo butti per terra adesso.
 DAVIDE: Con nessuno. Parlo da solo, lo faccio quando ho paura. Amico, posso farle una domanda? Da perito? Una sola. Quanto le hanno dato per entrare qui stamattina? Mille? Duemila?
-TECNICO: Non sono affari suoi.
+TECNICO: Non sono affari suoi, e le conviene smettere subito di fare domande. Io non sono venuto qui per chiacchierare con un assicuratore.
 DAVIDE: Io di mestiere calcolo i rischi. Domenica un uomo è morto sulla diga per molto meno. Chi la manda sapeva che c'era un perito qui dentro?
-TECNICO: Non c'era nessun perito sul foglio.
+TECNICO: Non c'era nessun perito sul foglio. Mi avevano detto che l'ingegnera sarebbe stata sola, come tutte le mattine, fino alle nove.
 DAVIDE: Appunto. Allora o chi la manda è distratto, o l'ha mandata qui apposta per farla prendere. In tutti e due i casi, lei vale meno della sua cassetta.
 (Silenzio. Il ronzio dei server. Il tecnico guarda Ana, poi la porta.)
 DAVIDE: Sotto la sala c'è il mare. Sopra c'è una strada con una telecamera della Marina. Lei ha ancora tre minuti per sparire, se esce adesso. Dopo, non più.
-TECNICO: Lei è pazzo.
-DAVIDE: Sono di Milano. È quasi lo stesso.
+TECNICO: Lei è pazzo, completamente pazzo. Parla come se la pistola ce l'avesse lei, e non io che gliela punto in faccia.
+DAVIDE: Sono di Milano, che è quasi lo stesso. E da noi la pistola ce l'ha sempre chi sa fare i conti.
 (Il tecnico indietreggia. Lascia la cassetta per terra ed esce di corsa. Ana preme un pulsante rosso. Suona un allarme.)
-ANA: Lei… lei l'ha lasciato andare.
-DAVIDE: Lui era il messaggio. La cassetta è la lettera.
+ANA: Lei… lei l'ha lasciato andare. Mi puntava una pistola addosso, e lei l'ha lasciato uscire dalla porta.
+DAVIDE: Lui era il messaggio. La cassetta è la lettera. Chi l'ha mandato voleva che la trovassimo, oppure voleva vedere se la cercavamo.
 (Davide apre la cassetta. Sotto gli attrezzi, una chiavetta nera. Sopra, un'etichetta adesiva: Fenix Logistics — Magazzino 26.)
-NADIA (in cuffia): Uàglio'. Hai parlato con una pistola e hai vinto tu. Non ci credo.
-DAVIDE (piano): Neanche io. Mi tremano le ginocchia.
+NADIA (in cuffia): Uàglio'. Hai parlato con una pistola e hai vinto tu. Non ci credo. A Napoli ti farebbero sindaco.
+DAVIDE (piano): Neanche io ci credo, Nadia. Mi tremano le ginocchia, e per fortuna lui non le ha viste.
 
 ---
 
 [SCENA 5 — Un bar sulle Rive, davanti al mare. Martedì, le nove del mattino. Vetri appannati, odore di caffè e di pesce fritto. Furlan è seduta in fondo, in borghese.]
 
-FURLAN: Si sieda di schiena alla porta. Io la guardo per tutti e due.
-DAVIDE: Comandante. Al telefono sembrava che fosse morto qualcuno.
-FURLAN: È morto qualcuno. Kovačič.
+FURLAN: Si sieda di schiena alla porta. Io la guardo per tutti e due. Ho scelto questo bar perché il padrone era in Marina con mio fratello.
+DAVIDE: Comandante, al telefono aveva una voce strana, e lei non è una che si agita per niente. Sembrava che fosse morto qualcuno.
+FURLAN: È morto qualcuno. Kovačič. Mi dispiace dirglielo così, in un bar, ma non ho trovato un modo migliore.
 (Davide resta immobile. Il cameriere posa due caffè. Nessuno dei due li tocca.)
-DAVIDE: Quando?
+DAVIDE: Quando è successo? Mi dica tutto, comandante, e non mi risparmi niente.
 FURLAN: Ieri sera, tra le dieci e mezzanotte. Nel retrobottega della libreria. Lo ha trovato la donna delle pulizie, stamattina alle sette.
-DAVIDE: Era tornato dal confine. Era riuscito a tornare.
+DAVIDE: Era tornato dal confine, allora. Era riuscito a tornare, nonostante quattro uomini armati e la sua età.
 FURLAN: Era tornato. Con un braccio fasciato. Il vicino lo ha visto aprire la serranda verso le nove.
-DAVIDE: Come?
-FURLAN: Un colpo solo. Poi qualcuno ha messo in ordine. Molto in ordine.
-DAVIDE: Comandante, perché me lo dice lei e non la Questura?
-FURLAN: Perché la Questura la sta cercando, Colombo.
+DAVIDE: Come l'hanno ucciso? Voglio saperlo, anche se ormai non serve più a niente. Gli devo almeno questo, dopo quello che ha fatto per me.
+FURLAN: Un colpo solo. Poi qualcuno ha messo in ordine. Molto in ordine. Troppo, per un negozio di libri vecchi.
+DAVIDE: Comandante, perché me lo dice lei e non la Questura? Lei non è nemmeno della polizia.
+FURLAN: Perché la Questura la sta cercando, Colombo. Ed è meglio che lo sappia da me, prima che le mettano le manette.
 (Pausa. Fuori, un traghetto suona la sirena.)
 FURLAN: Sulla tazzina del caffè ci sono le sue impronte. Anche sul tagliacarte. Il tagliacarte è sporco di sangue.
 DAVIDE: La tazzina sì. Ho bevuto un caffè da lui, dieci giorni fa. Il tagliacarte non l'ho mai toccato. Mai.
 FURLAN: Io le credo. Il problema è che i tagliacarte non parlano. Le impronte sì.
-DAVIDE: Chi ha dato l'ordine di cercarmi?
+DAVIDE: Chi ha dato l'ordine di cercarmi? Voglio sapere da dove è partita la segnalazione, perché la Questura di Trieste non mi conosce nemmeno.
 FURLAN: La Procura, su segnalazione. La segnalazione è arrivata da Roma. Dal suo ufficio. Sironi è bruciato da ieri sera. Adesso tocca a Colombo. Le do un consiglio da soldato: non torni in albergo.
-DAVIDE: Non posso sparire adesso. Sarebbe una confessione.
-FURLAN: Allora non sparisca. Ma dorma con le scarpe.
+DAVIDE: Non posso sparire adesso, comandante. Sarebbe una confessione, e farei esattamente quello che vogliono loro.
+FURLAN: Allora non sparisca. Ma dorma con le scarpe, e scelga una stanza con la finestra sul retro.
 
 ---
 
 [SCENA 6 — Canal Grande di Trieste, Ponte Rosso. Mezzogiorno. La statua di bronzo di Joyce cammina sul ponte, il cappello in testa. Davide è seduto sul bordo del canale.]
 
-NADIA (al telefono): Davide. Dimmi che non è vero.
-DAVIDE: È vero.
+NADIA (al telefono): Davide, dimmi che non è vero. Dimmi che la radio della polizia si è sbagliata.
+DAVIDE: È vero, Nadia. L'hanno trovato stamattina nel retrobottega, e la Marina me l'ha confermato un'ora fa.
 (Silenzio sulla linea. Poi un respiro rotto.)
 NADIA (al telefono): Gli avevo promesso che a Natale gli portavo i babà. Quelli veri, da Napoli. Diceva che il dolce triestino è un dolce protestante.
-DAVIDE: Era tornato per te. Per vedere se eri al sicuro.
-NADIA (al telefono): Non dirmi così. Non adesso.
+DAVIDE: Era tornato per te, credo. Per vedere se eri al sicuro, prima ancora di pensare a se stesso.
+NADIA (al telefono): Non dirmi così, ti prego. Non adesso, che sono sola in questa soffitta e non ho nemmeno qualcuno da prendere a schiaffi.
 (Una pausa lunga. La sente soffiarsi il naso.)
 NADIA (al telefono): Sulla tazzina c'erano le tue impronte, vero? Me l'ha detto la radio della polizia.
-DAVIDE: Sulla tazzina e su un tagliacarte che non ho mai visto.
-NADIA (al telefono): Allora è la stessa mano. Lenzi domenica, Milo ieri. E tu domani.
-DAVIDE: Io domani sono ancora vivo.
+DAVIDE: Sulla tazzina e su un tagliacarte che non ho mai visto. Qualcuno ha preparato il quadro con molta cura.
+NADIA (al telefono): Allora è la stessa mano, quella che ha preparato il mio fascicolo. Lenzi domenica, Milo ieri. E tu domani.
+DAVIDE: Io domani sono ancora vivo, Nadia, te lo prometto. E dopodomani anche, se riesco a dormire con le scarpe.
 NADIA (al telefono): Non fare lo spiritoso. Ascoltami. Milo, il mese scorso, mi ha dato una chiave. Una vecchia chiave di ferro e un indirizzo in Istria. Ha detto: "Se va male, questa casa non la conosce nessuno. Nemmeno Belgrado se la ricorda."
-DAVIDE: Una casa dell'UDBA?
+DAVIDE: Una casa dell'UDBA? Di quelle che usavano per far passare la gente oltre il confine, quando il confine era ancora una cortina?
 NADIA (al telefono): Una delle sue. Vicino a Motovun, sopra una valle. Tienilo a mente. Non scriverlo da nessuna parte.
-DAVIDE: E il telefono di Lenzi?
+DAVIDE: E il telefono di Lenzi? Sei riuscita ad aprirlo, o ci stai ancora lavorando? Adesso è l'unica cosa che abbiamo in mano.
 NADIA (al telefono): È un osso duro. Una cartella cifrata dentro il telefono cifrato. Lenzi era un paranoico. Mi piace sempre di più, da morto.
 (Davide guarda la statua di Joyce. Una turista gli mette in testa un berretto per fare una foto.)
-DAVIDE: Nadia. C'è una cosa che non ti ho detto.
-NADIA (al telefono): Lo so. Il sasso.
-DAVIDE: Non è ancora il momento.
+DAVIDE: Nadia, c'è una cosa che non ti ho detto, e lo sai anche tu che c'è.
+NADIA (al telefono): Lo so, il sasso. Lo sento da qui, attraverso il telefono, quanto pesa. Te lo porti dietro da quando siamo usciti dal bunker.
+DAVIDE: Non è ancora il momento, e non è una cosa che si può dire al telefono.
 NADIA (al telefono): Allora dimmelo quando non sarò più al telefono. Così almeno ti posso guardare in faccia mentre menti.
 
 ---
 
 [SCENA 7 — Albergo Miramonti, la sala di lettura. Martedì, le cinque del pomeriggio. Poltrone di cuoio, giornali di Lubiana e di Vienna. Alla finestra, un uomo con il cappotto grigio e le mani dietro la schiena.]
 
-MALASPINA: Colombo. Si sieda. Ha l'aria di uno che non dorme da tre giorni.
-DAVIDE: Generale. Non sapevo che fosse a Trieste.
+MALASPINA: Colombo. Si sieda. Ha l'aria di uno che non dorme da tre giorni. Si tolga il cappotto, qui nessuno la conosce.
+DAVIDE: Generale, non sapevo che fosse a Trieste. Nessuno mi ha avvisato del suo arrivo, e di solito sono io a prenotarle l'albergo.
 MALASPINA: Non lo sapeva nessuno. Sono arrivato col treno delle due. Ho preferito venire a dirigere di persona. A Roma, in questi giorni, ci sono troppe orecchie.
-DAVIDE: La Questura mi cerca.
+DAVIDE: La Questura mi cerca, generale, per l'omicidio di Kovačič. Immagino che lo sappia già, visto che la segnalazione è partita dal nostro ufficio.
 MALASPINA: Lo so. Ho chiesto io di aspettare ventiquattro ore. Il tempo di capire.
-DAVIDE: Generale, io non ho ucciso Kovačič.
+DAVIDE: Generale, io non ho ucciso Kovačič. Ero suo ospite dieci giorni fa, e gli devo la vita.
 MALASPINA: Non l'ho mai pensato. Ma le impronte sono impronte, e i magistrati sono magistrati. Festina lente, Colombo. Prima di tutto, calma.
 (Malaspina si siede di fronte a lui. Versa due bicchieri d'acqua, con gesti precisi.)
 MALASPINA: Kovačič era un uomo del passato. Aveva molti nemici. Belgrado, Lubiana, forse anche Mosca. Non è detto che c'entri con noi.
-DAVIDE: È stato ucciso il giorno dopo Lenzi.
+DAVIDE: È stato ucciso il giorno dopo Lenzi, generale, a pochi chilometri dalla diga. Non le sembra strano?
 MALASPINA: Le coincidenze esistono. Lei le odia perché è milanese. Io le rispetto perché sono romano.
-DAVIDE: E il tecnico di ieri, alla stazione di approdo? Aveva un'etichetta di Fenix Logistics.
+DAVIDE: E il tecnico di ieri, alla stazione di approdo? Aveva un'etichetta di Fenix Logistics. Anche quella è una coincidenza da rispettare?
 MALASPINA: Ho letto il suo messaggio. Ottimo lavoro. La chiavetta me la dia, la faccio analizzare a Roma.
 (Davide non si muove. La chiavetta è nella sua tasca. Malaspina tende la mano, paziente.)
-DAVIDE: L'ho già consegnata alla Marina. Al comandante Furlan.
+DAVIDE: L'ho già consegnata alla Marina, al comandante Furlan, ieri sera. Mi è sembrato il posto più sicuro.
 (Un secondo di silenzio. Poi il generale sorride, come sempre.)
 MALASPINA: Alla Marina. Capisco. Va bene. La Marina è lo Stato, come noi. Un'ultima cosa, Colombo. La Rinaldi. Lei sa dov'è.
-DAVIDE: No, generale.
+DAVIDE: No, generale, non lo so. Da domenica non ho più avuto sue notizie, né dirette né indirette.
 MALASPINA: Lei mente bene. Gliel'ho insegnato io. Ma con me non serve. La ragazza è innocente, l'ho detto domenica. Però adesso è l'unica che può aiutarla con la Procura. Me la porti, e io le copro le spalle.
-DAVIDE: Se la trovo, gliela porto.
+DAVIDE: Se la trovo, gliela porto. Ha la mia parola, per quello che vale ancora a Roma.
 MALASPINA: Bene. Timeo Danaos et dona ferentes, Colombo. Diffidi di chi le fa regali. Anche di me, se vuole.
-DAVIDE: Lei mi sta facendo un regalo?
+DAVIDE: Lei mi sta facendo un regalo, generale? Perché io, sinceramente, non vedo nessun pacchetto, e nemmeno il nastro.
 MALASPINA: Le sto dando ventiquattro ore. A Roma è il regalo più caro che esista.
 
 ---
@@ -200,10 +200,10 @@ MALASPINA: Le sto dando ventiquattro ore. A Roma è il regalo più caro che esis
 (Sullo schermo, il numero romano senza nome.)
 DAVIDE: Pronto.
 MALASPINA (al telefono): Colombo. Mi scusi l'ora. Non dormiva, vero? Nemmeno io. Ho pensato tutto il pomeriggio a quello che mi ha detto. Ha ragione lei. Ci sono cose che non tornano.
-DAVIDE: Quali cose?
+DAVIDE: Quali cose, generale? Lenzi, Kovačič, o quello che mi ha chiesto oggi pomeriggio? Me lo dica adesso, perché stanotte non dormirò comunque.
 MALASPINA (al telefono): Non al telefono. Colombo, venga al Molo Audace. Stanotte. Le spiego tutto.
 (Clic. Davide resta seduto nel buio. Poi si alza e prende il cappotto.)
-NADIA (in cuffia): Non ci andare. Davide, ti prego. Non ci andare.
+NADIA (in cuffia): Non ci andare. Davide, ti prego, ascoltami almeno questa volta. Non ci andare.
 
 — FINE DELL'EPISODIO 10 —
 

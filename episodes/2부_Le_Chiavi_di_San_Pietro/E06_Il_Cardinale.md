@@ -7,37 +7,37 @@
 [SCENA 1 — Deposito sotterraneo sotto il Cortile della Pigna. Mercoledì, le otto e venti. La torcia di Davide illumina il rettangolo vuoto nella polvere.]
 
 (Benedetta tiene ancora in mano la scheda di estrazione. Davide la fotografa, fronte e retro, con il telefono.)
-BENEDETTA: Devo informare il Prefetto. È la regola.
-DAVIDE: Mi dia due giorni.
-BENEDETTA: Per fare cosa?
+BENEDETTA: Devo informare il Prefetto, don Colombo. È la regola, e stamattina ne ho già piegata una per lei.
+DAVIDE: Mi dia due giorni, sorella, soltanto due. Dopo potrà raccontare al Prefetto tutto quello che vuole, compreso il mio nome.
+BENEDETTA: Due giorni per fare cosa? Qui sotto non c'è più niente da trovare, a parte un rettangolo di polvere.
 DAVIDE: Per chiedere al cardinale perché un uomo che non scende qui da vent'anni ci è sceso il giorno in cui sono arrivato io.
 BENEDETTA: E lei crede che il cardinale risponderà a un prete di Milano?
-DAVIDE: No. Ma forse risponderà a una domanda.
+DAVIDE: A un prete no, non credo proprio. Ma forse risponderà a una domanda, se riesco a fargliela nel modo giusto.
 (Benedetta rimette la scheda nello spazio vuoto, esattamente dov'era.)
 BENEDETTA: Due giorni. Venerdì sera parlo. Anche Pietro ha taciuto tre volte prima che cantasse il gallo. Ma io non sono Pietro, e qui sotto i galli non cantano.
 NADIA (in cuffia): Ferrante. Ho la sua agenda pubblica. Ogni venerdì, dopo la messa delle sei, passeggia nei Giardini. Da solo, con il segretario dieci passi dietro.
-DAVIDE (piano): Venerdì, allora.
-NADIA (in cuffia): Davide, è un cardinale. Non è un ricettatore di Chioggia.
-DAVIDE (piano): Lo so. Per questo ci vado vestito da prete.
+DAVIDE (piano): Venerdì, allora. Ho due giorni per imparare a camminare dietro a un cardinale senza inciampare nella ghiaia.
+NADIA (in cuffia): Davide, è un cardinale. Non è un ricettatore di Chioggia. Se sbagli una parola con lui, non ti spara: ti cancella con un sorriso.
+DAVIDE (piano): Lo so benissimo, Nadia, e non ho nessuna intenzione di sbagliare. Per questo ci vado vestito da prete.
 
 ---
 
 [SCENA 2 — Residenza del cardinale Ferrante, dentro le Mura. Venerdì, le sette meno un quarto. Un'anticamera con un crocifisso d'avorio e un orologio a pendolo. Dalla porta interna escono due sacerdoti.]
 
 BRENNAN: Davide! Good morning. Anche lei in udienza dal Principe? Look, to be honest, oggi Sua Eminenza non è di ottimo umore.
-DAVIDE: Monsignore. Buongiorno. Ho chiesto un colloquio spirituale. Dieci minuti.
-BRENNAN: Spirituale. Con Ferrante. You're a brave man. Matteo, hai sentito?
+DAVIDE: Buongiorno, monsignore. Ho chiesto un colloquio spirituale con Sua Eminenza, dieci minuti appena, prima che cominci la sua giornata.
+BRENNAN: Spirituale. Con Ferrante. You're a brave man. Io con lui parlo solo di bilanci, ed esco sempre con il mal di testa. Matteo, hai sentito?
 (Il secondo prete, più giovane, elegante, con occhiali sottili, sorride appena. È Don Matteo Sala, il segretario di Brennan.)
 SALA: Ho sentito, monsignore. Don Davide cerca conforto nel posto più freddo del Vaticano. È molto ambrosiano.
 DAVIDE: A Milano siamo abituati al freddo, don Matteo. È la nebbia che ci manca.
 SALA: Qui la nebbia la facciamo con le parole. Mi dicono che martedì sera lei era in archivio, tardi. Con suor Benedetta.
-DAVIDE: Le notizie corrono, in Vaticano.
+DAVIDE: Le notizie corrono in fretta, in Vaticano. Più in fretta dei cardinali, a quanto pare, e anche dei loro segretari.
 SALA: Le notizie no. Le guardie svizzere scrivono rapporti. E i rapporti, qui, si leggono come i Vangeli: a voce alta, a messa. Se le serve qualcosa dall'archivio, chieda a me. Conosco suor Benedetta da anni.
 BRENNAN: Matteo conosce tutti. He's our memory. Io dimentico i nomi, lui li ricorda tutti, anche i santi minori.
-SALA: Soprattutto i santi minori, monsignore. Sono quelli che fanno il lavoro sporco.
+SALA: Soprattutto i santi minori, monsignore. Sono quelli che fanno il lavoro sporco, mentre i grandi si prendono le statue e le processioni.
 (Brennan ride, sincero. Sala no. I due escono. Si apre la porta interna: un prete magro, sulla quarantina, con un'agenda di pelle sotto il braccio.)
 DON FABRIZIO: Don Colombo. Sono don Fabrizio Orsi, segretario di Sua Eminenza. Il cardinale la aspetta in giardino. Preferisce parlare camminando.
-DAVIDE: Perché?
+DAVIDE: Camminando? Pensavo che a quest'ora Sua Eminenza preferisse una poltrona e un caffè ben caldo.
 DON FABRIZIO: Dice che le parole dette in piedi pesano meno. E che i muri, qui, hanno orecchie molto devote.
 
 ---
@@ -45,45 +45,45 @@ DON FABRIZIO: Dice che le parole dette in piedi pesano meno. E che i muri, qui, 
 [SCENA 3 — Giardini Vaticani, un viale di lecci sopra la Fontana dell'Aquilone. Le sette e un quarto. Luce bassa, merli, odore di terra bagnata. Ferrante cammina con un bastone d'ebano. Don Fabrizio resta dieci passi indietro.]
 
 FERRANTE: Lei ha chiesto un colloquio spirituale. Mi dica, don Davide: di che cosa ha bisogno la sua anima, alle sette del mattino?
-DAVIDE: Di verità, Eminenza.
+DAVIDE: Di verità, Eminenza. È una cosa di cui ultimamente sento molto la mancanza, e qui dentro non è facile trovarla.
 FERRANTE: E crede di trovarla in un giardino, dietro un vecchio cardinale? Non sarebbe più semplice cercarla in ginocchio?
-DAVIDE: In ginocchio ci ho provato. Mi fanno male le ginocchia.
+DAVIDE: In ginocchio ci ho provato, Eminenza, e più di una volta. Mi fanno male le ginocchia, e la risposta non è ancora arrivata.
 FERRANTE: Le ginocchia di un milanese. Ambrogio diceva: "Ubi Petrus, ibi Ecclesia." Dove c'è Pietro, lì c'è la Chiesa. Lei sa dove sta Pietro, don Davide?
 DAVIDE: Sotto la cupola, dicono. E nel deposito della Pigna, armadio sessantaquattro, palchetto tre. Ma lì, da qualche giorno, Pietro non c'è più.
 (Ferrante non si ferma. Il bastone tocca la ghiaia, regolare.)
 FERRANTE: Lei frequenta luoghi umidi. Fa male, alla sua età. Chi l'ha mandata laggiù? Il suo ufficio? O il suo zelo?
-DAVIDE: Una scheda di estrazione, Eminenza. Nove marzo. Firmata da lei.
+DAVIDE: Una scheda di estrazione, Eminenza, datata nove marzo. Era firmata da lei, e la sorella archivista ha riconosciuto la sua mano al primo sguardo.
 FERRANTE: Una firma. Sa quante firme mette un cardinale in un giorno? Lei ricorda ogni firma che ha messo, don Davide?
-DAVIDE: Ricordo quelle che mettono le persone in pericolo.
+DAVIDE: Ricordo quelle che mettono le persone in pericolo. Nel mio mestiere, Eminenza, sono le uniche firme che contano davvero.
 FERRANTE: E chi sarebbe in pericolo, per un vecchio registro del Seicento? I banchieri di Paolo V? Sono morti da un pezzo, non crede?
-DAVIDE: Un uomo è morto lunedì. Nel Tevere. Lavorava alla banca, a duecento metri da lei.
+DAVIDE: Un uomo è morto lunedì, nel Tevere. Lavorava alla banca, a duecento metri da lei, e prima di morire aveva molta paura.
 (Ferrante si ferma per la prima volta. Guarda una statua della Madonna tra i lecci.)
 FERRANTE: Gianni Ruffo. Ho detto messa per lui, ieri mattina. Da solo, nella mia cappella. Lei c'era, al funerale?
-DAVIDE: In fondo. Vicino alla porta.
+DAVIDE: Sì, c'ero. In fondo, vicino alla porta, dove mi aveva consigliato di stare un vecchio confessore che conosce gli uomini.
 FERRANTE: Senza colletto, immagino. Perché un prete si toglie il colletto per andare a un funerale? Per non farsi riconoscere? O perché non si sente degno di portarlo?
 (Davide non risponde. Ferrante riprende a camminare.)
 FERRANTE: Sa che cosa mi ricorda lei, don Davide? Gliel'ho detto alla nostra prima cena. Un ragazzo di Sant'Ambrogio. La messa delle sei, d'inverno. Sua madre in terza fila, a sinistra, con un velo blu.
-DAVIDE: Molti ragazzi servivano messa a Sant'Ambrogio.
+DAVIDE: Molti ragazzi servivano messa a Sant'Ambrogio, Eminenza. In quegli anni eravamo una piccola folla in cotta bianca, tutti con la stessa faccia assonnata.
 FERRANTE: Non tutti con quella faccia. Io ero un pretino di ventisei anni, mandato da Roma a imparare la pazienza dei lombardi. Lei teneva il turibolo come se fosse una bomba. Si ricorda?
-DAVIDE: Mi ricordo il turibolo.
+DAVIDE: Mi ricordo il turibolo, quello sì, e il fumo che mi bruciava gli occhi. Delle facce dei preti, invece, non mi ricordo quasi niente.
 FERRANTE: Un ragazzo che serve messa impara come si fa. Non sempre impara perché. Mi dicono che mercoledì scorso, alla consacrazione, lei ha saltato una riga.
-DAVIDE: Chi glielo dice, Eminenza?
+DAVIDE: Chi glielo dice, Eminenza? Mercoledì in cappella eravamo in pochi, e nessuno mi sembrava il tipo che porta notizie ai cardinali.
 FERRANTE: Le suore. Le suore dicono tutto, e sempre in latino, perché sembri una preghiera. Mi risponda, invece: perché un prete si ferma davanti a quelle parole? Per troppa fede? O perché non ha il diritto di dirle?
 (Un lungo silenzio. Un merlo attraversa il viale.)
 DAVIDE: Eminenza, il nove marzo lei ha preso un registro che non poteva prendere. E io lo so.
 FERRANTE: E io so che lei, ogni mattina, tiene in mano un pane che forse resta pane. E lei sa che io lo so. Non le sembra un equilibrio perfetto? Due uomini che sanno qualcosa l'uno dell'altro non sono nemici. Sono colleghi.
-DAVIDE: Oppure ostaggi.
+DAVIDE: Oppure ostaggi, Eminenza. Due uomini legati alla stessa corda, che non possono muoversi senza far cadere l'altro.
 FERRANTE: Ostaggi. Che parola moderna. Lei la usa con molta sicurezza. È un termine di contabilità canonica?
-DAVIDE: È un termine che si impara in fretta, a Roma.
+DAVIDE: È un termine che si impara in fretta, a Roma. Qui lo insegnano prima ancora del latino, e con molta più pratica.
 FERRANTE: Allora facciamo un patto di silenzio, come due vecchi confessori. Io non dico niente di lei. Lei non dice niente di me. E il registro?
-DAVIDE: Il registro, Eminenza. Dov'è?
+DAVIDE: Il registro, Eminenza. Dov'è? È l'unica domanda per cui sono venuto fin qui, e il silenzio non mi basta.
 FERRANTE: Dov'è Pietro? Dove sono le chiavi? Nostro Signore le ha date a un pescatore che lo aveva tradito tre volte. Lei crede che le chiavi stiano meglio nelle mani dei santi?
-DAVIDE: Credo che stiano meglio lontano da chi le vuole vendere.
+DAVIDE: Credo che stiano meglio lontano da chi le vuole vendere. Ed è proprio per questo che sono preoccupato, Eminenza.
 (Ferrante lo guarda. Per un attimo, negli occhi stanchi, passa qualcosa di simile alla gratitudine. O alla paura.)
 FERRANTE: Su questo, don Davide, siamo d'accordo più di quanto lei pensi. Il registro è dove nessuno lo può vendere. Non mi chieda di più.
-DAVIDE: E se glielo chiedessi lo stesso?
+DAVIDE: E se glielo chiedessi lo stesso, Eminenza? Sono milanese: abbiamo la testa dura e pochissima fantasia.
 FERRANTE: Le risponderei con un'altra domanda. È il privilegio dell'età. Lei sa perché io dico messa alle sei, ogni mattina, da quarantasei anni?
-DAVIDE: Perché?
+DAVIDE: No, Eminenza, non lo so. Me lo dica lei, perché proprio alle sei e da tanto tempo.
 FERRANTE: Perché ho peccato molto, e non sempre in latino. Ma alle sei, quando dico quelle parole, so che cosa tengo in mano. È l'unica cosa al mondo di cui sono ancora sicuro. Lei, don Davide, di cosa è sicuro?
 (Davide apre la bocca. La richiude. Ferrante annuisce, piano, come chi ha ricevuto la risposta che si aspettava.)
 FERRANTE: Torni a lavorare. E stia lontano dai luoghi umidi. Fabrizio, accompagni don Colombo. Io resto con la Madonna. Lei, almeno, non mi fa domande.
@@ -93,93 +93,93 @@ FERRANTE: Torni a lavorare. E stia lontano dai luoghi umidi. Fabrizio, accompagn
 [SCENA 4 — Trastevere, piazza di San Cosimato. Venerdì, le quattro del pomeriggio. Bancarelle del mercato che smontano, bambini col pallone. Livia Carrà fuma seduta sul bordo di una fioriera.]
 
 LIVIA: Aò, il pretino. Sei puntuale. Pensavo che i preti arrivassero sempre in ritardo, come il Giudizio.
-DAVIDE: Buongiorno, signora Carrà. Mi ha scritto che aveva qualcosa per me.
-LIVIA: Prima una domanda. Gianni Ruffo. L'avete ammazzato voi?
-DAVIDE: No.
+DAVIDE: Buongiorno, signora Carrà. Mi ha scritto che aveva qualcosa per me, e sono venuto appena ho potuto liberarmi.
+LIVIA: Prima una domanda, e guardame in faccia quando rispondi. Gianni Ruffo. L'avete ammazzato voi?
+DAVIDE: No, signora, non l'abbiamo ammazzato noi. E le assicuro che avrei voluto con tutto me stesso che restasse vivo.
 LIVIA: "Voi" chi? Non me l'hai manco chiesto. Lo vedi? Lo sai benissimo chi sono, "voi".
 DAVIDE: So che lei ha mandato un file a qualcuno. E che dopo una settimana è arrivato un prete da Milano.
 LIVIA: Un prete che guarda le uscite prima de sedersi. Ma che stai a dì, che sei un prete. Io non so' scema, Don Davide.
 LIVIA: Gianni Ruffo ce l'aveva un nome, eh. E una madre a Centocelle che adesso accende candele. Se Sandro fa la stessa fine, io ve brucio tutti. Te, il tuo vescovo, e quelli che ti pagano.
-DAVIDE: Signora Carrà. Ha detto che aveva qualcosa.
+DAVIDE: Signora Carrà, ha ragione ad avere paura, e anche a essere arrabbiata. Ma mi ha detto che aveva qualcosa, e il tempo ci serve tutto.
 (Livia spegne la sigaretta. Tira fuori dalla borsa una busta. Dentro, un santino: un affresco antico, una donna con un bambino in braccio e, accanto, un uomo che indica una stella.)
-LIVIA: Arrivato martedì. Niente lettera. Solo questo. Timbro di Roma, ufficio di via Salaria, sedici marzo.
+LIVIA: È arrivato martedì, nella cassetta insieme alla bolletta della luce. Niente lettera, solo questo. Timbro di Roma, ufficio di via Salaria, sedici marzo.
 (Davide prende il santino per i bordi, come un documento.)
 DAVIDE: La Madonna con il Bambino e il profeta. Catacombe di Priscilla. Terzo secolo. È la più antica immagine di Maria che conosciamo.
 (Livia alza un sopracciglio. Davide gira il santino. Sul retro, una grafia minuta, in stampatello.)
-DAVIDE: "Stella mia. Non cercarmi. Non ancora. S."
+DAVIDE: C'è scritto, in stampatello: "Stella mia. Non cercarmi. Non ancora. S."
 LIVIA: Stella mia. Mi chiamava così. Per il profeta che indica la stella, capisci? Il primo appuntamento me l'ha fatto là sotto. Romantico come un cimitero, Sandro.
-DAVIDE: È la sua grafia?
+DAVIDE: È la sua grafia? Ne è proprio sicura? Chi ha paura scrive in modo diverso, e lo stampatello si imita con facilità.
 LIVIA: È la sua grafia, è la sua stella, è il suo modo de fa' le cose. Sandro è vivo. Il sedici marzo era vivo.
-DAVIDE: Lo stesso giorno in cui hanno trovato Ruffo.
+DAVIDE: Il sedici marzo è lo stesso giorno in cui hanno trovato Ruffo nel fiume. Questa coincidenza non mi piace per niente.
 LIVIA: E secondo te è un caso? Ha visto il giornale e ha avuto paura. Oppure voleva dirmi che lui non è finito nel fiume.
-DAVIDE: Lei a chi l'ha detto?
-LIVIA: A te. Solo a te. E mo' me pento già.
-DAVIDE: Non lo dica a nessun altro. Non alla polizia, non al suo giornale. A nessuno.
-LIVIA: E perché dovrei fidarmi de te?
+DAVIDE: Lei a chi l'ha detto, oltre a me? Al suo direttore, a un'amica, a qualcuno in redazione?
+LIVIA: A te. Solo a te. E mo' me pento già, pretino. Ma de chi altro me potevo fidà, in questa città?
+DAVIDE: Non lo dica a nessun altro. Non alla polizia, non al suo giornale. A nessuno, nemmeno a sua madre.
+LIVIA: E perché dovrei fidarmi de te? Fino a dieci minuti fa non sapevo manco se stavi coi buoni o coi cattivi.
 DAVIDE: Non deve. Ma se Sandro la sta cercando, cerca lei. Non me. Se lei parla, chi lo sta cercando davvero arriva prima.
 (Livia lo guarda a lungo. Poi riprende il santino e lo infila nella borsa, contro il petto.)
-LIVIA: Se lo trovi prima de me, giuramelo. Me lo riporti vivo.
-DAVIDE: Glielo prometto.
-LIVIA: Non promettere, pretino. Giura. Le promesse le fanno i politici.
-DAVIDE: Lo giuro.
-LIVIA: Ecco. Mo' sì che sembri un prete.
+LIVIA: Se lo trovi prima de me, giuramelo. Me lo riporti vivo, hai capito? Vivo, non dentro una cassa.
+DAVIDE: Glielo prometto, signora Carrà. Farò tutto quello che posso perché torni da lei sulle sue gambe.
+LIVIA: Non promettere, pretino. Giura. Le promesse le fanno i politici in campagna elettorale, e poi se le scordano.
+DAVIDE: Lo giuro. Sul nome di mia madre, che di giuramenti se ne intendeva più di qualunque vescovo.
+LIVIA: Ecco. Mo' sì che sembri un prete. Uno vero, de quelli che ce credono pure quando nessuno li guarda.
 
 ---
 
 [SCENA 5 — Casa del Clero di Borgo Pio, la stanza di Davide. Sera. Le campane suonano per la Via Crucis del venerdì di Quaresima. Telefono cifrato all'orecchio.]
 
-MALASPINA (al telefono): Una scheda firmata da un cardinale. Lei mi porta sempre regali interessanti, Colombo.
+MALASPINA (al telefono): Una scheda firmata da un cardinale. Lei mi porta sempre regali interessanti, Colombo: prima un annegato, adesso un principe della Chiesa.
 DAVIDE: Ferrante sa chi sono, generale. O lo sospetta. Siamo a un equilibrio: lui tace su di me, io taccio su di lui.
 MALASPINA (al telefono): Gli equilibri sono fatti per essere rotti, al momento giusto. Il registro, Colombo. Il resto è contorno.
-DAVIDE: Dice che è al sicuro. "Dove nessuno lo può vendere."
-MALASPINA (al telefono): Tutti dicono così, finché arriva l'offerta giusta. Altro? La giornalista?
+DAVIDE: Dice che è al sicuro, "dove nessuno lo può vendere". L'ha detto come uno che ha paura, generale, non come uno che mente.
+MALASPINA (al telefono): Tutti dicono così, finché arriva l'offerta giusta. Altro da segnalare? La giornalista, per esempio?
 (Davide guarda la finestra. Sul davanzale ha posato il telefono personale, spento.)
-DAVIDE: Niente di nuovo. Piange e minaccia. Come tutte le fidanzate.
+DAVIDE: Niente di nuovo, generale. Piange e minaccia. Come tutte le fidanzate che non sanno dove sia finito il loro uomo.
 MALASPINA (al telefono): Le donne che minacciano, di solito, sanno qualcosa. La tenga d'occhio. Si riposi, Colombo. Domenica prossima è la quinta di Quaresima. Lei dovrà predicare, mi dicono. Prepari una bella omelia.
 (La linea si chiude. Davide resta immobile.)
-DAVIDE (tra sé): Prima volta in vent'anni. Gli ho mentito.
+DAVIDE (tra sé): Prima volta in vent'anni. Gli ho mentito. E la cosa peggiore è che non mi sento in colpa per niente.
 
 ---
 
 [SCENA 6 — Primavalle, panificio di Ciro. Venerdì, le undici e mezza di sera. La serranda è abbassata a metà. Dentro, il forno acceso, sacchi di farina, una radio che trasmette una partita del Napoli in replica. Davide, in jeans e giubbotto, senza colletto. Nadia lo aspetta seduta su una cassetta di legno.]
 
-NADIA: Sei in ritardo di sei minuti. E sei vestito da milanese in gita.
-DAVIDE: Mi sono perso. A Primavalle le strade si chiamano tutte come le altre strade.
-NADIA: Benvenuto nella Roma che non finisce sulle cartoline. Ciro! È arrivato.
+NADIA: Sei in ritardo di sei minuti, che per te è un record. E sei vestito da milanese in gita, con il giubbotto stirato.
+DAVIDE: Mi sono perso due volte, lo confesso. A Primavalle le strade si chiamano tutte come le altre strade, e i palazzi si somigliano.
+NADIA: Benvenuto nella Roma che non finisce sulle cartoline, quella dove si lavora davvero. Ciro! È arrivato, finalmente.
 (Dal retro esce un uomo sulla sessantina, grembiule infarinato, baffi grigi. Si pulisce le mani e squadra Davide.)
 CIRO: E chist chi è? Nadia, è 'o primmo ca me puorte. In sei anni.
-NADIA: Un collega, Ciro. Si chiama Davide.
+NADIA: Un collega, Ciro, non farti strane idee. Si chiama Davide, ed è uno che mangia poco e dorme ancora meno.
 CIRO: Davide. Comm' 'o re. Chillo cu 'a fionda. Tiene 'a faccia 'e uno ca nun dorme. Assettateve, ve porto 'e zeppole. Ieri era San Giuseppe, so' rimaste.
-DAVIDE: Grazie. E i cornetti?
+DAVIDE: Grazie, Ciro, molto gentile. E i cornetti? Nadia mi ha raccontato tutto dei suoi famosi cornetti.
 CIRO: 'E cornetti so' 'e peggio 'e Roma. L'ha detto essa, no? Ma 'e zeppole so' 'e meglio d'Italia. Chist'è 'a verità.
 (Ciro posa un vassoio di zeppole con la crema e l'amarena. Torna al forno, alza il volume della radio.)
 NADIA: Questo è il protocollo violato più dolce della mia carriera. Se il generale lo sa, mi manda a Bolzano a contare le mucche.
 DAVIDE: Il generale stasera non sa molte cose. Gli ho detto della scheda. Non gli ho detto del santino di Livia. Il timbro di via Salaria. Priscilla.
 (Nadia posa la zeppola a metà. Lo guarda.)
-NADIA: Gli hai nascosto una pista. Tu. Il chierichetto modello.
+NADIA: Gli hai nascosto una pista. Tu. Il chierichetto modello, quello che consegna i rapporti con tutte le virgole al posto giusto.
 DAVIDE: Ho fatto rapporto su Ruffo, e Ruffo è finito nel fiume. Non voglio fare rapporto su Pace.
-NADIA: Davide, non puoi pensare che…
-DAVIDE: Non penso niente. Sto solo zitto. È diverso.
+NADIA: Davide, ascoltami, non puoi pensare davvero che il generale…
+DAVIDE: Non penso niente, Nadia. Sto solo zitto. È diverso, e per una volta voglio essere io a decidere quando parlare.
 NADIA: E allora pensa anche a questo. Stamattina don Sala sapeva che martedì eri in archivio. Il rapporto della guardia svizzera è scritto a mano, me l'hai detto tu. Chi gliel'ha fatto leggere così presto? Le notizie non corrono, Davide. Qualcuno le porta. Come le zeppole.
 (Un silenzio. La radio esulta per un gol di dieci anni fa. Ciro, dal retro, batte le mani sulla pasta.)
 DAVIDE: Ieri sono andato al funerale di Ruffo. In fondo, vicino alla porta, come mi ha detto Anselmo.
-NADIA: Com'era?
+NADIA: E com'era? Raccontamelo davvero, non nella versione che metteresti in un rapporto.
 DAVIDE: Una chiesa di periferia, piena a metà. Una donna in prima fila non piangeva. Contava il rosario come si contano i soldi, veloce, senza sbagliare. E il prete ha detto: "Gianni era un uomo onesto." Tutti hanno annuito. Io no. Perché io so che non era onesto. Ha spostato soldi che ammazzano la gente. E poi si è pentito. E quel pentimento l'ha raccontato a me. A un uomo vestito da prete.
-NADIA: Davide…
-DAVIDE: Nadia, voglio smettere.
+NADIA: Davide, guardami un momento. Non sei stato tu a spostare quei soldi.
+DAVIDE: Nadia, voglio smettere. Non lo dico per rabbia, stasera: ci penso da giorni, e adesso ho il coraggio di dirlo ad alta voce.
 (Nadia non risponde subito. Si pulisce lo zucchero dalle dita, una per una.)
-NADIA: Smettere cosa? Il prete o la spia?
+NADIA: Smettere cosa? Il prete o la spia? Perché sono due mestieri diversi, anche se a Roma si somigliano parecchio.
 DAVIDE: Il bugiardo. Sono vent'anni che sono qualcun altro. Restauratore a Venezia, consulente a Roma, prete in Vaticano. E stamattina un cardinale mi ha chiesto di cosa sono sicuro. E io non avevo niente da dire.
-NADIA: Niente?
+NADIA: Niente? Neanche una cosa piccola, una sola, da tenere in tasca?
 DAVIDE: Niente. Mia figlia ieri mi ha mandato un messaggio per la festa del papà. "Auguri, Davide." Poi, un minuto dopo, un altro. "Papà." Con tre puntini. Ho guardato quei tre puntini per mezz'ora.
 NADIA: Lo sai cosa vogliono dire i tre puntini? "Ti sto perdonando, ma non te lo dico." Io con mia madre li uso da vent'anni.
 (Davide ride piano. Poi smette.)
 NADIA: Ascoltami bene, Meneghino. Se tu smetti, chi mi parla nell'orecchio? Chi mi spiega i blu obbedienti e i santini delle catacombe? Io resto sola con tre monitor e un panino al tonno.
-DAVIDE: Troverai un altro.
+DAVIDE: Troverai un altro, Nadia. Il generale ha una lista lunga di gente che sa mentire molto meglio di me.
 NADIA: Un altro, sì. Uno che non va ai funerali delle fonti. Uno che non si toglie il colletto per vergogna. Non lo voglio, un altro.
 (Un silenzio lungo. Il forno ronza.)
 NADIA: Smetti dopo Pasqua. Dopo. Adesso c'è un uomo sotto la via Salaria che aspetta qualcuno. E io voglio che quel qualcuno sia tu, non quelli che arrivano sempre tardi.
-DAVIDE: Dopo Pasqua.
+DAVIDE: Dopo Pasqua, allora. Te lo prometto, e stavolta non devo nemmeno giurare sul nome di mia madre.
 NADIA: Dopo Pasqua ti porto a Napoli. Ti faccio vedere com'è un cornetto vero. Così smetti di mangiare quelli di Ciro.
 CIRO (dal retro): Aggio sentito, eh! 'E cornetti mie so' 'e peggio, ma 'e recchie funzionano!
 
@@ -188,19 +188,19 @@ CIRO (dal retro): Aggio sentito, eh! 'E cornetti mie so' 'e peggio, ma 'e recchi
 [SCENA 7 — Borgo Pio, davanti alla Casa del Clero. L'una e mezza di notte. Pioviggina. Un solo lampione acceso. Sotto il lampione, un uomo con l'ombrello nero.]
 
 (Davide scende da un taxi, a cento metri. Cammina rasente ai muri. L'uomo sotto il lampione si volta: è don Fabrizio Orsi.)
-DON FABRIZIO: Don Colombo. Finalmente.
-DAVIDE: Don Fabrizio. È l'una e mezza.
+DON FABRIZIO: Don Colombo, finalmente. Cominciavo a pensare che stanotte non sarebbe più rientrato.
+DAVIDE: Don Fabrizio, è l'una e mezza di notte e sta piovendo. Che cosa ci fa qui sotto, da solo?
 DON FABRIZIO: Sua Eminenza mi ha detto di aspettarla. Anche tutta la notte, se serviva.
-DAVIDE: Il cardinale sa che stanotte non ero in casa?
+DAVIDE: Il cardinale sa che stanotte non ero in casa? E come fa a saperlo, se non l'ho detto a nessuno?
 DON FABRIZIO: Il cardinale non sa niente. Io non so niente. Io porto le lettere, padre. Non le leggo.
 (Tira fuori dalla tonaca una busta color avorio, senza stemma, chiusa con un sigillo di ceralacca rossa senza impronta.)
 DON FABRIZIO: Me l'ha data con le sue mani, dopo la Via Crucis. Mi ha detto: "Solo a lui. E poi dimentica la sua faccia."
-DAVIDE: E lei la dimenticherà?
+DAVIDE: E lei la dimenticherà davvero, don Fabrizio? Non mi sembra un uomo che dimentica facilmente le facce.
 DON FABRIZIO: Ho già cominciato. Buonanotte, padre. Preghi per lui. Stasera ha pianto, in cappella. Non l'avevo mai visto piangere.
 (Don Fabrizio si allontana sotto la pioggia, verso Porta Sant'Anna. Davide rompe il sigillo sotto il lampione. Un biglietto, una riga sola, scritta a penna stilografica, con mano tremante.)
 NADIA (in cuffia): Davide? Sei arrivato? Non mi hai mandato il segnale.
 DAVIDE (piano): Aspetta.
-NADIA (in cuffia): Cosa c'è?
+NADIA (in cuffia): Cosa c'è? Davide, mi stai spaventando.
 (Davide legge ad alta voce, piano, sotto la pioggia.)
 DAVIDE: "Sono ricattato. Mi aiuti. — O.F."
 

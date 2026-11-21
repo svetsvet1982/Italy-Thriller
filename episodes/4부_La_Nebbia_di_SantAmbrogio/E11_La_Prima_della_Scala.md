@@ -7,33 +7,33 @@
 [SCENA 1 — L'appartamento di Chiara. Le quattro del pomeriggio. Fuori è già quasi buio. Davide, in camicia bianca e pantaloni da smoking, sta davanti allo specchio dell'ingresso. Ernesto, seduto su una sedia, ha in grembo una scatola di cartone.]
 
 ERNESTO: Non quello. Quello è nero. Alla Prima vanno tutti in nero, sembrano un funerale di banchieri.
-DAVIDE: Papà, è il papillon che mi ha prestato Chiara. Era di suo padre.
+DAVIDE: Papà, è il papillon che mi ha prestato Chiara, non posso rifiutarlo. Era di suo padre, e lei ci teneva che lo portassi stasera.
 ERNESTO: Appunto. Era di un avvocato. (Apre la scatola. Tira fuori un papillon di seta blu scuro, un po' sbiadito.) Questo era il mio. Il giorno del matrimonio. Tua madre diceva che il nero è per i camerieri.
-DAVIDE (lo prende): Blu di Prussia.
+DAVIDE (lo prende): È blu di Prussia, vero? Lo riconosco dal riflesso, è lo stesso blu che usavi per i cieli dei fiamminghi.
 ERNESTO: Blu di Prussia. Te li ricordi ancora, i nomi. Brava la testa. Vediamo le mani.
 (Davide prova a fare il nodo. Sbaglia. Riprova. Sbaglia ancora.)
-DAVIDE: Non l'ho mai fatto. A Roma li compravo già annodati.
-ERNESTO: A Roma comprano tutto già fatto. Anche le opinioni. Vieni qui.
+DAVIDE: Non l'ho mai fatto in vita mia, papà, te lo confesso. A Roma li compravo già annodati, con l'elastico dietro, e nessuno se ne accorgeva.
+ERNESTO: A Roma comprano tutto già fatto. Anche le opinioni. Vieni qui, inginocchiati davanti a me, che da seduto non arrivo al tuo collo.
 (Davide si inginocchia davanti alla sedia. Ernesto alza le mani verso il collo del figlio. Le dita tremano troppo. Si ferma. Le riabbassa.)
-ERNESTO (piano): Non ce la faccio. Una volta facevo i nodi alle tele più piccole della mia unghia.
-DAVIDE: Allora dimmelo. Tu con la voce, io con le mani. Come a Brera.
+ERNESTO (piano): Non ce la faccio, Davide, le dita non mi ubbidiscono più. Una volta facevo i nodi alle tele più piccole della mia unghia.
+DAVIDE: Allora dimmelo a voce, passo per passo, e io eseguo. Tu con la voce, io con le mani. Come a Brera.
 ERNESTO: Come a Brera. (Respira.) La parte sinistra più lunga. Due dita. Incrocia. Passa sotto. Adesso piega la destra a fiocco, come una farfalla che dorme. Così diceva mio padre. Adesso la sinistra scende sopra, davanti. E poi… piano. Dietro il fiocco, nel buco. Non tirare. Mai tirare. Il nodo si fa con la pazienza, non con la forza.
 (Davide stringe il nodo. Lo guarda nello specchio. È un po' storto. È perfetto.)
-ERNESTO: Storto. Bene. I nodi dritti sono quelli comprati.
+ERNESTO: È storto, e va benissimo così, non toccarlo più. I nodi dritti sono quelli comprati.
 (Sul tavolino, il tablet si illumina. Una videochiamata. Giulia, in felpa, i capelli raccolti, una parete anonima dietro di lei.)
-GIULIA: Raga. Mio padre in smoking. Ok, fammi vedere. Girati.
+GIULIA: Raga, non ci credo, mio padre in smoking. Ok, fammi vedere bene, non stare lì impalato. Girati, dai, che da qui vedo solo il mento.
 (Davide si gira, un po' rigido, davanti alla telecamera.)
 GIULIA: Sembri James Bond. Ma tipo quello vecchio.
-DAVIDE: Quale vecchio?
-GIULIA: Tipo… vecchio. Boh. Il papillon però ci sta. È blu?
-ERNESTO: È del nonno.
-GIULIA: Ah, allora sì. Nonno, gli hai fatto tu il nodo?
-ERNESTO: Io ho parlato. Lui ha fatto. È così che lavoriamo, adesso.
+DAVIDE: Quale vecchio, scusa? Guarda che ce ne sono stati sei o sette, e alcuni erano parecchio più vecchi di me quando hanno smesso.
+GIULIA: Tipo… vecchio, boh, quello che guardava il nonno la domenica pomeriggio. Il papillon però ci sta, giuro. È blu, o è la telecamera?
+ERNESTO: È blu, Giulia, ed è quello del nonno. L'ho portato al mio matrimonio, e stasera va alla Scala senza di me.
+GIULIA: Ah, allora sì, allora ci sta ancora di più. Nonno, ma gliel'hai fatto tu il nodo? Perché lui non è capace, si vede.
+ERNESTO: Io ho parlato e lui ha fatto, Giulia. È così che lavoriamo, adesso, io e tuo padre: uno ha la testa e l'altro le mani.
 GIULIA: Che ansia, voi due. (Pausa. Abbassa la voce.) Davide. Stasera torni, sì?
-DAVIDE: Torno.
+DAVIDE: Torno, Giulia, te lo prometto. Stavolta non è una frase che dico per chiudere la telefonata.
 GIULIA: Lo dici come lo dicevi sempre. "Torno." Poi tornavi dopo tre mesi con un portachiavi.
-DAVIDE: Stavolta torno domani. Senza portachiavi.
-GIULIA: Mmh. Ok. Allora ciao. Ciao, Davide.
+DAVIDE: Stavolta torno domani, e senza portachiavi. Niente souvenir dagli aeroporti, te lo giuro: solo io, con la faccia stanca.
+GIULIA: Mmh. Ok, ti credo a metà, che è già tanto. Allora ciao. Ciao, Davide.
 (La chiamata si chiude. Davide resta in ginocchio davanti al padre. Ernesto gli sistema il colletto con due dita tremanti.)
 ERNESTO: Verdi ha scritto il Requiem per Manzoni, lo sapevi? Quando è morto. Stasera tu vai da Verdi. Io resto qui con Manzoni. Il capitolo della peste: così mi sembra di stare meglio.
 
@@ -42,83 +42,83 @@ ERNESTO: Verdi ha scritto il Requiem per Manzoni, lo sapevi? Quando è morto. St
 [SCENA 2 — Piazza della Scala, poi il foyer del teatro. Le cinque e mezza. Transenne, fotografi, polizia a cavallo, una piccola folla di contestatori con i cartelli dietro le grate. Pellicce, smoking, flash nella nebbia.]
 
 NADIA (in cuffia): Ti sento. Io e Wang siamo nel furgone in via Verdi. Ventidue gradi qui dentro, ventidue schermi. E un raviolo al vapore.
-DAVIDE: Io ho un papillon blu e un nome vero. Ci vediamo dopo.
+DAVIDE: Io invece ho un papillon blu, un nome vero e nessuna copertura. Restate in ascolto sul canale, ci sentiamo appena sono dentro.
 (Davide arriva all'ingresso principale, dando il braccio a una signora minuscola, novant'anni, avvolta in un visone, con un bastone d'argento.)
 SCIURA BRIVIO: Tienimi su, Davidino. Se cado davanti ai fotografi, mi uccido io prima di loro.
-DAVIDE: La tengo, sciura Teresa.
+DAVIDE: La tengo stretta, sciura Teresa, non si preoccupi. Se cade lei, cado anch'io, e domani siamo tutti e due sul Corriere.
 SCIURA BRIVIO: Tuo padre mi ha restaurato tre Hayez e un vescovo. Il palco è mio da sessant'anni. Stasera ci porto un ricercato. Era ora che succedesse qualcosa di divertente, in quel palco.
 (All'ingresso, tra gli addetti alla sicurezza, una donna in cappotto di montone. Conte. Guarda l'orologio. Poi Davide.)
 CONTE: Colombo. Sono le cinque e trentacinque. Le sue dodici ore sono scadute a mezzogiorno.
-DAVIDE: Lo so, ispettore. Mi riarresta?
+DAVIDE: Lo so benissimo, ispettore, ho contato i minuti anch'io. Allora mi riarresta qui, davanti ai fotografi, o aspetta almeno l'ouverture?
 CONTE: Dopo il quarto atto. Non ho mai visto il Don Carlo, e la questura mi ha dato il biglietto in piedi in loggione. (Abbassa la voce.) Vitali è dentro. Arnaldi è arrivato dieci minuti fa. Palco di primo ordine, il numero sette.
 (Il foyer. Lampadari, specchi, il mormorio di mille persone che si guardano. Davide si muove tra la folla. Un uomo in smoking, cinquant'anni, con un bicchiere in mano, si ferma di colpo.)
-SACCHI: Non ci credo. Colombo? Davide Colombo, del Berchet?
-DAVIDE: Filippo Sacchi. Terza B. Mi copiavi le versioni di greco.
+SACCHI: Non ci credo, non può essere. Colombo? Davide Colombo, del Berchet? Sei proprio tu, o ho bevuto troppo champagne?
+DAVIDE: Sono io, Filippo Sacchi, terza B. Tu mi copiavi le versioni di greco e poi prendevi un voto più alto del mio.
 SACCHI: E tu mi rubavi la merenda. Ma… scusa, non eri… alla televisione, la settimana scorsa? Dicevano…
-DAVIDE: Dicevano un sacco di cose. Tu fai ancora il banchiere?
-SACCHI: Gestisco fondi. Pensioni, soprattutto. Roba noiosa.
+DAVIDE: Dicevano un sacco di cose, la televisione dice sempre qualcosa. Parliamo di te, piuttosto: fai ancora il banchiere?
+SACCHI: Gestisco fondi, adesso, pensioni soprattutto. Roba noiosa, te lo assicuro, niente che possa interessare a uno come te.
 DAVIDE: Allora domattina, alle nove, guarda i tuoi schermi. Se è tutto noioso, offrimi un caffè. È il mio lavoro, Filippo: far succedere niente.
-NADIA (in cuffia): Ore due. Vicino allo scalone. Il viceministro.
+NADIA (in cuffia): Guarda a ore due, vicino allo scalone. Il viceministro è appena entrato, e sta stringendo mani come in campagna elettorale.
 (Federico Arnaldi, cinquantotto anni, capelli argentati, sorriso da campagna elettorale, stringe mani. Accanto a lui, due uomini con l'auricolare. Più indietro, un uomo magro con una valigetta di cuoio nero.)
 NADIA (in cuffia): Quello con la valigetta. Maggiore Guido Santoro. L'aiutante del generale da quindici anni. Lo vedevo passare in corridoio a Forte Braschi. Non salutava mai. Il generale non lo vedo. Ma Santoro non va da nessuna parte senza di lui.
 (In quel momento, dall'alto dello scalone, un uomo in smoking grigio scende lentamente. Si ferma a metà. Alza appena il bicchiere verso Davide. Malaspina.)
-DAVIDE (piano): Eccolo.
+DAVIDE (piano): Eccolo, Nadia, è sullo scalone. Mi ha visto subito, e mi sta brindando addosso come a un vecchio amico.
 
 ---
 
 [SCENA 3 — Il palco della sciura Brivio, terzo ordine. Le sei. Si spengono le luci. Il primo atto: il chiostro del convento di San Giusto. Un coro di monaci, voci basse, quasi un respiro.]
 
 (La sciura Brivio si è addormentata dopo dieci minuti, il binocolo in grembo. Davide guarda la sala. Di fronte, nel secondo ordine, il palco di Malaspina. Il generale ascolta con gli occhi chiusi.)
-NADIA (in cuffia): Primo atto. Fase uno. Tutti ai loro posti. Vitali?
+NADIA (in cuffia): Siamo al primo atto, fase uno del piano. Tutti ai loro posti, per favore, e controllo radio. Vitali, mi senti?
 VITALI (in cuffia): Sono nel corridoio del primo ordine. Arnaldi è nel suo palco con la moglie. Due agenti del generale fuori dalla porta. Santoro è con loro. Valigetta in mano.
-DAVIDE: Non la posa mai?
+DAVIDE: Corrado, guardalo bene: quella valigetta non la posa mai, nemmeno per un secondo? Ci sarà pure un momento in cui ha le mani libere.
 VITALI (in cuffia): Mai. Neanche per andare in bagno. Ci ho provato due volte, maestro… Davide. Scusa.
-DAVIDE: Chiamami come ti viene. Stasera non ho tempo per la grammatica.
+DAVIDE: Chiamami come ti viene, Corrado, non importa. Stasera non ho tempo per la grammatica, e nemmeno per le cerimonie.
 (Una maschera entra in silenzio nel palco. Porge a Davide un biglietto piegato. Esce.)
 DAVIDE (legge, piano): "Bel papillon. Te l'ha fatto tuo padre? R. M."
-NADIA (in cuffia): Che cosa ti scrive?
-DAVIDE: Mi fa i complimenti. È il suo modo di dirmi che sa dove ho dormito.
+NADIA (in cuffia): Che cosa ti ha scritto? Leggimelo, Davide, che da qui vedo solo che hai smesso di respirare per un secondo.
+DAVIDE: Mi fa i complimenti per il papillon. È il suo modo di dirmi che sa dove ho dormito, e con chi ho passato il pomeriggio.
 (Sul palcoscenico, la voce del vecchio monaco: "Il duolo della terra nel chiostro ancor ci segue…")
-NADIA (in cuffia): Che dice il frate?
+NADIA (in cuffia): E il frate, invece, cosa sta dicendo? Io l'opera la capisco come tu capisci il napoletano stretto, cioè per niente.
 DAVIDE: Dice che il dolore del mondo ti segue anche in convento. Non c'è posto dove scappare.
 WANG (in cuffia): Io ho scaricato il libretto. Il frate in realtà è il nonno. L'imperatore morto. Fa finta di essere un monaco.
-DAVIDE: Un vecchio che fa finta di essere un altro. Il mio genere.
+DAVIDE: Un vecchio che fa finta di essere un altro per proteggere la famiglia. È proprio il mio genere di storia, Wang.
 NADIA (in cuffia): Davide. Il piano. Secondo intervallo, la saletta, il tablet. Ma i due pezzi della chiave sono in quella valigetta. Se gli togliamo Arnaldi, ha ancora la chiave. Torna l'anno prossimo.
-DAVIDE: Lo so. Ci serve la valigetta. E a noi nessuno lascia avvicinare la valigetta.
+DAVIDE: Lo so. Ci serve la valigetta. E a noi nessuno lascia avvicinare la valigetta. Santoro mi conosce, conosce Corrado, e conosce perfino la tua voce.
 (Nel palco di fronte, Malaspina apre gli occhi. Guarda dritto verso di lui. Sorride.)
-DAVIDE (piano): Ma c'è qualcuno che lui non conosce abbastanza.
+DAVIDE (piano): Ma c'è qualcuno che lui non conosce abbastanza, qualcuno che stasera non ha nessun motivo di stare dalla nostra parte.
 
 ---
 
 [SCENA 4 — Il ridotto dei palchi. Primo intervallo. Champagne, specchi, voci troppo alte. Davide si ferma vicino a una finestra. Una donna in abito verde scuro gli porge un bicchiere.]
 
 CLAIRE: Tiens. Non bevi mai abbastanza alle feste. È per questo che ti notano.
-DAVIDE: Claire. Pensavo che fossi a Parigi a scrivere il rapporto sulla mia morte.
+DAVIDE: Claire, che sorpresa. Pensavo che fossi a Parigi a scrivere il rapporto sulla mia morte, con tutti i dettagli e una bella foto.
 CLAIRE: L'ho scritto. Manca solo la data. (Beve.) Bel nodo. Storto. Lo hai fatto tu?
-DAVIDE: L'ho fatto con mio padre. Lui parlava, io facevo.
-CLAIRE: Comme à Brera. Sì, lo so. So tutto, Davide. È il mio problema.
+DAVIDE: L'ho fatto con mio padre, oggi pomeriggio. Lui parlava e io facevo, perché le sue mani non ce la fanno più.
+CLAIRE: Comme à Brera. Sì, lo so. So tutto, Davide. È il mio problema. Leggo i rapporti su di te come altri leggono i romanzi, la sera, prima di dormire.
 (Passa Malaspina, a tre metri, con due signore. Si ferma. Saluta Claire con un leggero inchino.)
 MALASPINA: Madame Duval. Che piacere. Parigi ci onora. Davide, ti trovo elegante. Il blu ti sta bene. Era il colore di tua madre?
-DAVIDE: Di mio padre, generale. Mia madre preferiva il nero dei veli.
+DAVIDE: Di mio padre, generale. Mia madre preferiva il nero dei veli. Ma questo lei lo sa già, perché ha letto anche il suo fascicolo.
 MALASPINA: Ah, la famiglia. Sempre la famiglia. Godetevi il secondo atto. È quello con il rogo.
 (Si allontana. Claire lo segue con gli occhi.)
 CLAIRE: Sa che sono qui per te. Lo sa da Parigi, il bastardo. A Parigi hanno parlato con lui la settimana scorsa.
-DAVIDE: E cosa gli hanno detto?
+DAVIDE: E cosa gli hanno detto, a Parigi? Immagino che non abbiano parlato del tempo, né dell'ultima mostra al Louvre.
 CLAIRE: Che la Francia vuole i due pezzi della chiave. Che in cambio la Francia non ha mai sentito parlare di un certo Davide Colombo. (Il suo telefono vibra. Guarda lo schermo.) Eccoli. Puntuali come le tasse.
 (Si allontana di due passi. Risponde.)
-VOCE DA PARIGI (al telefono): Duval. Situation?
-CLAIRE (al telefono): Je suis avec lui.
+VOCE DA PARIGI (al telefono): Duval, c'est moi. Situation? Nous attendons votre rapport depuis une heure, et le ministre commence à s'impatienter.
+CLAIRE (al telefono): Je suis avec lui, en ce moment même, au théâtre. Il porte un nœud papillon bleu et il ne se doute de rien.
 VOCE DA PARIGI (al telefono): Bien. L'ordre est confirmé. Récupération des deux pièces avec l'accord du général. Et Colombo, ce soir. Pas de témoin.
-CLAIRE (al telefono): Et si je dis non?
+CLAIRE (al telefono): Et si je dis non? Si, pour une fois, je refuse tout simplement d'obéir à cet ordre-là?
 VOCE DA PARIGI (al telefono): Vous ne direz pas non. Vous avez une carrière, Duval.
-CLAIRE (al telefono): J'avais une carrière. (Chiude la chiamata.)
+CLAIRE (al telefono): Vous vous trompez, monsieur, et depuis longtemps. J'avais une carrière. (Chiude la chiamata.)
 (Torna da Davide. Gli prende il bicchiere dalla mano, beve anche il suo.)
-CLAIRE: Ho appena finito la mia carriera. Mi serviva coraggio liquido.
-DAVIDE: Claire. Cosa hai fatto?
+CLAIRE: Ho appena finito la mia carriera, in trenta secondi e senza nemmeno alzare la voce. Mi serviva un po' di coraggio liquido.
+DAVIDE: Claire, guardami. Cosa hai fatto? Dimmelo chiaro, perché da qui ti ho vista diventare bianca come quella tovaglia.
 CLAIRE: Niente. Ho detto una parola. Non. È corta, in francese. In italiano è uguale. (Lo guarda.) A Venezia mi hai detto che avevo una faccia che torna. Ecco. È tornata. Ma non per Parigi. E non montarti la testa: non per te. Per quella vecchia signora che dorme nel tuo palco. Per il tuo amico con il bar. Per tua figlia che ti chiama Davide. Per una volta voglio fare la cosa che non è scritta in nessun ordine.
-DAVIDE: Lo sai cosa ti faranno?
+DAVIDE: Lo sai cosa ti faranno, adesso, quelli di Parigi? Non ti perdoneranno mai un "no" detto al telefono durante un intervallo.
 CLAIRE: Un ufficio senza finestre. Forse peggio. (Sorride.) Ma ho visto il tuo ufficio, a Roma. Anche quello non aveva finestre. E guarda come sei venuto bene.
-DAVIDE: La valigetta di Santoro. Non la posa mai.
+DAVIDE: Resta il problema della valigetta di Santoro, Claire. Non la posa mai, me l'ha confermato Vitali due volte.
 CLAIRE: Tutti posano tutto, Davide. Basta dargli un motivo. Un bicchiere rovesciato. Una donna francese un po' ubriaca. Un rogo sul palcoscenico.
 (Suona il campanello della fine dell'intervallo.)
 CLAIRE: Secondo atto. Quello con il rogo. Me l'ha detto il tuo generale. Che gentile.
@@ -128,24 +128,24 @@ CLAIRE: Secondo atto. Quello con il rogo. Me l'ha detto il tuo generale. Che gen
 [SCENA 5 — Secondo atto. L'autodafé. Sul palcoscenico, la piazza davanti alla cattedrale: campane, ottoni, il coro del popolo, gli eretici portati al rogo. Il volume della musica è enorme. Corridoio del secondo ordine.]
 
 VITALI (in cuffia): Santoro si muove. Va verso il palco del generale. Il generale non c'è. Santoro entra da solo.
-DAVIDE: La valigetta?
-VITALI (in cuffia): In mano.
-NADIA (in cuffia): Claire è nel corridoio. Ha un bicchiere pieno. Cammina storta. Molto bene.
+DAVIDE: E la valigetta, Corrado? Dimmi che non l'ha lasciata a uno degli agenti fuori dalla porta, altrimenti salta tutto.
+VITALI (in cuffia): Ce l'ha in mano, come sempre, stretta contro la gamba. Entra nel palco del generale e chiude la porta dietro di sé.
+NADIA (in cuffia): Claire è nel corridoio. Ha un bicchiere pieno. Cammina storta. Molto bene. Se non sapessi chi è, giurerei che ha bevuto tre bottiglie.
 (Claire, barcollando, apre la porta del palco sbagliato. Quello di Malaspina. Santoro si alza di scatto.)
-SANTORO: Signora, questo palco è privato.
+SANTORO: Signora, mi scusi, ma questo palco è privato. Non può entrare così, senza bussare, durante lo spettacolo.
 CLAIRE: Oh, pardon… pardon, monsieur. Je cherche… le petit… il piccolo… come si dice…
-SANTORO: Il bagno è in fondo al corridoio. Esca, per favore.
+SANTORO: Il bagno è in fondo al corridoio, signora, sulla destra. Esca, per favore, prima che chiami la sicurezza.
 (Claire inciampa. Lo champagne finisce sulla giacca di Santoro, sulle mani, sulla valigetta. Santoro impreca. Posa la valigetta sulla sedia per pulirsi.)
 CLAIRE: Mon Dieu! Je suis désolée… aspetti, aspetti, ho un fazzoletto…
 (Sul palcoscenico, i cannoni del coro. Il rogo si accende. Tutta la sala guarda in basso. Le mani di Claire, veloci, aprono e chiudono la valigetta mentre lei si china con il fazzoletto.)
-NADIA (in cuffia): Che succede? Non vedo niente.
+NADIA (in cuffia): Che succede là dentro? Non vedo niente, la telecamera del corridoio inquadra solo la porta chiusa.
 DAVIDE: Succede Verdi.
-SANTORO: Lasci stare. Lasci stare! Se ne vada.
-CLAIRE: Va bene, va bene… Che uomo antipatico. Gli italiani una volta erano galanti.
+SANTORO: Lasci stare, le ho detto, non mi tocchi! Lasci stare! Se ne vada subito, signora, o la faccio accompagnare fuori.
+CLAIRE: Va bene, va bene… Che uomo antipatico. Gli italiani una volta erano galanti. Adesso urlano alle signore come se fossero allo stadio.
 (Claire esce. Chiude la porta. Nel corridoio smette subito di barcollare. Cammina dritta, veloce, verso la scala di servizio.)
-VITALI (in cuffia): Santoro è ancora dentro. Sta pulendo la giacca. Non ha aperto la valigetta.
+VITALI (in cuffia): Santoro è ancora dentro. Sta pulendo la giacca. Non ha aperto la valigetta. Si lamenta dello champagne come se gli avessero sparato.
 CLAIRE (in cuffia): Scala di servizio, secondo pianerottolo. Due moduli d'acciaio. Grandi come un accendino. Pesanti come trent'anni.
-DAVIDE: E nella valigetta?
+DAVIDE: E nella valigetta, al loro posto, cosa hai lasciato? Se la apre e la trova vuota, se ne accorge in un secondo.
 CLAIRE (in cuffia): Due accendini. Veri. Comprati stamattina al tabaccaio di via Manzoni. Se il maggiore fuma, almeno saranno utili.
 (Davide arriva sul pianerottolo. Claire gli mette in mano i due moduli. Le loro dita si toccano un secondo di troppo.)
 CLAIRE: Tieni. Adesso sono tuoi. Io non li ho mai visti.
@@ -157,30 +157,30 @@ CLAIRE: Non dire grazie. Gli italiani dicono sempre grazie quando vogliono dire 
 [SCENA 6 — Secondo intervallo, poi l'inizio del terzo atto. Il retro dei palchi di primo ordine. Un corridoio stretto, velluto rosso consumato. In fondo, la porta di una saletta riservata.]
 
 (Due agenti di Malaspina accompagnano Arnaldi verso la saletta. Santoro li segue con la valigetta. Dentro, su un tavolino, un tablet acceso.)
-ARNALDI: Un briefing di sicurezza adesso? Durante l'intervallo? Mia moglie mi aspetta per lo champagne.
+ARNALDI: Un briefing di sicurezza adesso? Durante l'intervallo? Mia moglie mi aspetta per lo champagne, e se non torno in tempo me lo farà pesare fino a Natale.
 SANTORO: Due minuti, signor viceministro. Una procedura di routine. Il volto davanti allo schermo, poi il pollice qui. Ci aspetta il generale.
-DAVIDE: Il generale non vi aspetta più.
+DAVIDE: Il generale non vi aspetta più, maggiore. Non vi aspetta da un pezzo, e se fossi in voi me ne preoccuperei parecchio.
 (Davide è sulla porta, con Vitali accanto. Gli agenti mettono la mano sotto la giacca. Vitali alza il tesserino.)
 VITALI: Fermi. Sicurezza AISE in teatro. Il responsabile sono io. Toglietevi le mani dalla giacca.
-SANTORO: Vitali. Lei è impazzito. Quell'uomo è un latitante.
+SANTORO: Vitali, ma lei è impazzito? Quell'uomo è un latitante ricercato per due omicidi, e lei lo porta davanti al viceministro?
 DAVIDE: Signor viceministro, buonasera. Mi chiamo Davide Colombo. Mi hanno visto in televisione, ma la televisione dice sempre metà delle cose. Le chiedo solo una cosa: non tocchi quel tablet.
-ARNALDI: Ma lei… lei è quello accusato di due omicidi!
+ARNALDI: Ma lei… lei è quello accusato di due omicidi! L'ho visto al telegiornale, c'era la sua foto in tutte le edizioni!
 DAVIDE: Sì. E lei tra dieci secondi sarà quello che ha fatto crollare il sistema dei pagamenti europei. Con il suo pollice. Il suo nome sarà nei libri di storia, ma nella pagina sbagliata.
-ARNALDI: Maggiore, che cosa dice quest'uomo?
-SANTORO: Delira, viceministro. Il volto, prego. Poi il pollice.
-DAVIDE: Maggiore Santoro. Apra la sua valigetta.
+ARNALDI: Maggiore, mi spieghi lei, per favore. Che cosa sta dicendo quest'uomo, e perché nessuno lo porta via?
+SANTORO: Delira, viceministro, non lo ascolti. È un uomo bruciato che cerca vendetta. Il volto, prego. Poi il pollice.
+DAVIDE: Maggiore Santoro, faccia una cosa semplice prima di andare avanti. Apra la sua valigetta, qui, adesso.
 SANTORO: Prego?
 DAVIDE: La apra. Davanti al viceministro. Se dentro c'è quello che crede, io mi metto le manette da solo.
 (Santoro esita. Poi apre la valigetta. Dentro, due accendini di plastica, uno rosso e uno blu. Silenzio. Dalla sala, lontano, arriva il violoncello del terzo atto: la solitudine del re.)
 DAVIDE: Due accendini. Il tabaccaio di via Manzoni la saluta. Senza quei due moduli, il pollice del viceministro apre una porta sul vuoto. Il generale lo sa da un'ora. Per questo non è più nel suo palco.
-VITALI: È vero. Il palco del generale è vuoto dall'inizio dell'intervallo. Controllate, se volete.
+VITALI: È vero. Il palco del generale è vuoto dall'inizio dell'intervallo. Controllate, se volete. L'ho visto uscire io, senza cappotto, dalla porta di servizio.
 (Uno degli agenti parla piano nel suo auricolare. Ascolta. Impallidisce.)
-AGENTE: Non risponde. Il generale non risponde.
+AGENTE: Il generale non risponde, maggiore. Ho provato sul canale e sul cellulare, e da tutte e due le parti c'è solo silenzio.
 DAVIDE: Non risponderà più. Vi ha lasciati qui come ha lasciato me a Trieste. Come ha lasciato Lenzi. Lui si salva sempre da solo. È il suo talento.
-ARNALDI: Io non tocco niente. Io… io voglio mia moglie.
+ARNALDI: Io non tocco niente, non tocco proprio niente. Io… io voglio mia moglie, voglio tornare nel mio palco e non sapere altro.
 DAVIDE: Sua moglie è nel palco sette, viceministro. Ci torni. E stasera non stringa la mano a nessuno.
 (Arnaldi esce quasi correndo. Santoro guarda Davide. Ha ancora la valigetta aperta tra le mani.)
-SANTORO: Lei non capisce. Il generale stava facendo qualcosa per questo paese. Qualcosa di grande.
+SANTORO: Lei non capisce. Il generale stava facendo qualcosa per questo paese. Qualcosa di grande. Io l'ho seguito per quindici anni perché ci credevo.
 DAVIDE: Lo so. Me l'ha spiegato in una cripta. Le cose grandi, maggiore, le paga sempre la gente piccola.
 (Dal fondo del corridoio arriva Conte, con due agenti in borghese. Si mette un dito sulle labbra.)
 CONTE: Signori, Polizia di Stato. Vi prego di seguirmi in silenzio. C'è il Grande Inquisitore, e io lo voglio sentire.
@@ -189,25 +189,25 @@ CONTE: Signori, Polizia di Stato. Vi prego di seguirmi in silenzio. C'è il Gran
 
 [SCENA 7 — Via Verdi, il furgone di Wang. Le ventidue e otto minuti. Schermi, cavi, il vapore di una tazza di tè. Nelle cuffie, lontana, la musica del terzo atto: la prigione di Rodrigo.]
 
-WANG: Ventidue e otto. La procedura parte tra due minuti. Senza pollice, senza moduli.
+WANG: Sono le ventidue e otto. La procedura parte tra due minuti, anche senza il pollice di Arnaldi e senza i moduli.
 NADIA: Parte lo stesso. Il generale non annulla mai niente. La spinge da fuori, dal dispositivo di Trieste. Vuole forzare la porta anche senza chiave.
-DAVIDE (in cuffia): Ce la fai?
-NADIA: Davide, stai zitto. Per una volta, stai zitto tu.
+DAVIDE (in cuffia): Nadia, ce la fai a fermarlo da lì? Se ti serve qualcosa da dentro il teatro, dimmelo adesso e io corro.
+NADIA: Davide, stai zitto, ti prego. Per una volta in dodici anni, stai zitto tu e lasciami lavorare.
 (Le dita di Nadia corrono sulla tastiera. Wang le passa una chiavetta, poi un'altra.)
-WANG: Ventidue e nove.
+WANG: Ventidue e nove, manca un minuto. Io ti tengo aperte le linee, tu pensa solo alla porta.
 NADIA: Ho il registro di ieri sera. So dove bussa. Gli chiudo la porta in faccia. Non serve una chiave per chiudere, basta sapere dov'è la serratura.
 (Nelle cuffie, la voce di Rodrigo, morente: "Io morrò, ma lieto in core…")
-WANG: Ventidue e dieci. Sta bussando.
+WANG: Ventidue e dieci in punto. Sta bussando, Nadia, e bussa forte, lo vedo da tutte le spie che si accendono.
 NADIA: Lo vedo. Bussa forte, il vecchio. (Preme un tasto. Poi un altro.) Non… stasera… si… entra.
 (Una riga rossa sullo schermo diventa grigia. Poi scompare.)
 WANG: Rifiutata. La procedura è rifiutata. Ritenta… rifiutata ancora.
-NADIA: Porta chiusa.
-WANG: Chiusa. Non murata. Finché esistono i pezzi, qualcuno può tornare a bussare.
-NADIA: I pezzi li ha Davide. In tasca. Con un papillon blu.
-DAVIDE (in cuffia): Nadia.
+NADIA: Porta chiusa. Stasera il generale resta fuori, al freddo, come tutti quelli che non hanno il biglietto.
+WANG: Chiusa. Non murata. Finché esistono i pezzi, qualcuno può tornare a bussare. Stanotte abbiamo vinto una partita, Nadia, non il campionato.
+NADIA: I pezzi li ha Davide, in tasca, sotto un papillon blu storto. E finché li tiene lui, io stanotte dormo.
+DAVIDE (in cuffia): Nadia, ascolta, volevo dirti soltanto…
 NADIA: Lo so. Non dirlo. Lo so che sei fiero di me. Si sente dal respiro.
 (Si appoggia allo schienale. Si copre la faccia con le mani. Wang le mette davanti un raviolo freddo.)
-WANG: Mangia. Anche gli eroi, a Milano, mangiano alle dieci.
+WANG: Adesso mangia, che è un ordine. Anche gli eroi, a Milano, mangiano alle dieci, e quelli di via Paolo Sarpi mangiano ravioli.
 
 ---
 
@@ -215,12 +215,12 @@ WANG: Mangia. Anche gli eroi, a Milano, mangiano alle dieci.
 
 (La sciura Brivio si sveglia di colpo, al primo applauso. Si alza in piedi, aiutata da Davide.)
 SCIURA BRIVIO: È finito? Era bello? Io dormo sempre al secondo atto. Lo faccio da sessant'anni.
-DAVIDE: Era bello, sciura. Il nonno si è portato via il nipote. Nel convento.
+DAVIDE: Era bellissimo, sciura, si è persa il meglio. Alla fine il nonno si è portato via il nipote, dentro il convento.
 SCIURA BRIVIO: Come sempre. I vecchi si portano via i giovani. Tuo padre era più bravo di te a raccontare le opere, Davidino.
 (Applausi, fiori sul palco, il coro, i cantanti. Davide guarda il palco di fronte. Vuoto. Una sedia di velluto girata verso il muro.)
 CONTE (in cuffia): Colombo, sono in loggione. Santoro e i due parlano. Arnaldi è con la moglie, bianco come un lenzuolo. Del generale nessuna traccia. Le sue auto sono ancora in piazza. Lui no.
 NADIA (in cuffia): Sto guardando tutte le telecamere della piazza. Niente. È come se la nebbia se lo fosse mangiato.
-DAVIDE: La nebbia non mangia nessuno. Lo nasconde e basta. È diverso.
+DAVIDE: La nebbia non mangia nessuno, Nadia. Lo nasconde e basta, ed è molto diverso. Prima o poi si alza, e lui sarà ancora lì.
 (Gli applausi crescono. Cantanti, direttore, il pubblico in piedi. Nell'auricolare di Davide, un fruscio. Un clic. Poi una voce che non dovrebbe esserci.)
 NADIA (in cuffia): Davide, c'è qualcuno nel canale. Non sono io. Non è Wang. Qualcuno è entrato…
 MALASPINA (in cuffia): Bravo. Vieni a salutarmi, Davide. Sopra la città. Dove la Madonnina ti guarda.

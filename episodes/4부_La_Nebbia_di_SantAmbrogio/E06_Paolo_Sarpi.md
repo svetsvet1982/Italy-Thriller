@@ -7,17 +7,17 @@
 [SCENA 1 — Bar Navigli "Da Beppe". L'una di notte. Le sedie sono capovolte sui tavoli. Nadia ha le cuffie sulle orecchie e ascolta la registrazione per la ventesima volta.]
 
 NADIA: Niente. Sala tossisce, posa il telefono sul tavolo. Poi c'è una porta. Poi una voce, in fondo. Ma è troppo bassa. Sotto c'è un condizionatore, o una fontana.
-DAVIDE: Fammela sentire.
+DAVIDE: Fammela sentire, per favore. Non mi servono le parole, mi basta il modo in cui le dice.
 (Nadia gli passa le cuffie. Davide chiude gli occhi. Ascolta. Le sue labbra si muovono appena.)
-BEPPE: Allora? Chi è?
+BEPPE: Allora? Chi è? Dai, Davide, non tenerci sulle spine, che io alle due di notte ho il cuore debole.
 DAVIDE: Non capisco le parole. Capisco il ritmo. Lento. Ogni frase finisce in salita, come una domanda che non è una domanda.
-NADIA: Lo pensi tu o lo senti?
+NADIA: Lo pensi tu o lo senti davvero? Perché sono otto mesi che vuoi sentire la sua voce dappertutto, anche nel rumore del frigorifero.
 DAVIDE: Ho ascoltato quella voce per ventun anni, Nadia. In riunione, al telefono, ai funerali. So come respira prima di dire una cosa in latino.
 NADIA: In tribunale "so come respira" non vale niente, Davide. Ci serve la sua voce pulita. Parola per parola.
-BEPPE: E chi la pulisce, una voce? La lavatrice?
+BEPPE: E chi la pulisce, una voce? La lavatrice? Perché la mia lava male anche le camicie, figurati un generale.
 NADIA: Uno che conosco. Ha un server in un posto dove nessuno cerca mai niente, perché tutti pensano di sapere già cosa c'è.
-DAVIDE: Dove?
-NADIA: Paolo Sarpi. Sotto una ravioleria.
+DAVIDE: E dove sarebbe questo posto magico? Non dirmi in un convento, perché ne ho abbastanza di preti per tutta la vita.
+NADIA: Niente conventi, tranquillo. È in via Paolo Sarpi, sotto una ravioleria, a dieci passi dal tram.
 BEPPE: Ué. Allora vengo anch'io. Lì fanno i ravioli al vapore più buoni di Milano.
 NADIA: Tu resti qui, Beppe. Tu domani ci servi con il furgone. E con la faccia pulita.
 BEPPE: La mia faccia non è pulita dal 1997, tusa. Ma va bene. Porto io i ravioli a casa.
@@ -26,44 +26,44 @@ BEPPE: La mia faccia non è pulita dal 1997, tusa. Ma va bene. Porto io i raviol
 
 [SCENA 2 — Via Paolo Sarpi. Le nove del mattino. Strada pedonale, lanterne rosse spente sopra le vetrine, carrelli di verdura, biciclette. La nebbia si mescola al vapore che esce da una ravioleria: "Fiore di Loto". Dietro il banco, un uomo di quarant'anni con il grembiule chiude ravioli a velocità impossibile.]
 
-WANG: Siamo chiusi. Apriamo alle undici.
-NADIA: Anche per me?
+WANG: Siamo chiusi, mi dispiace. Apriamo alle undici, e prima di allora qui dentro comanda solo la farina.
+NADIA: Anche per me sei chiuso, Wang? Dopo tutti i cappuccini che ti ho offerto in corso Como?
 (Wang alza gli occhi. Rimane fermo un secondo, un raviolo a metà tra le dita.)
 WANG: Rinaldi. Mi avevano detto che eri morta. O in Slovenia. O tutte e due.
-NADIA: In Slovenia ci sono stata. Morta non ancora. Lui è Davide.
+NADIA: In Slovenia ci sono stata davvero, per un po'. Morta non ancora, anche se ci hanno provato. Lui è Davide.
 WANG: Lo so chi è. È al telegiornale tutte le sere, prima delle previsioni del tempo. Mia madre dice che ha una faccia onesta. Mia madre si sbaglia sempre sulle facce.
-DAVIDE: Sua madre ha ragione a metà. Piacere. Colombo.
-WANG: Colombo. Il cognome più comune della Lombardia. Bella copertura.
+DAVIDE: Sua madre ha ragione a metà, e di questi tempi è già una buona media. Piacere, mi chiamo Colombo.
+WANG: Colombo. Il cognome più comune della Lombardia. Bella copertura. Nell'elenco del telefono ce ne sono tre pagine, e nessuno ne ricorda uno.
 DAVIDE: Non è una copertura. È il mio nome. È questo il problema.
 WANG: Wang. Wang Lei. Nato alla Mangiagalli, battezzato da nessuno, cresciuto in via Canonica. Mi sun de Milan, sciur Colombo. Più milanese di lei, scommetto.
-DAVIDE: Ué. Il dialetto, anche.
+DAVIDE: Ué, anche il dialetto, e con l'accento giusto. Mi sa che ha ragione lei, e non mi capita spesso di perdere una scommessa così presto.
 WANG: Mio nonno ha imparato il milanese prima dell'italiano. Vendeva cravatte in via Paolo Sarpi nel '62. Diceva che l'italiano serve per lo Stato, il milanese per i clienti.
-DAVIDE: Suo nonno era un uomo saggio.
+DAVIDE: Suo nonno era un uomo saggio. Mio padre direbbe la stessa cosa, ma lui ai clienti parlava solo di vernici.
 WANG: Mio nonno era un uomo che vendeva cravatte false. Ma sì, era saggio. Sedetevi. Prima si mangia. A Paolo Sarpi non si parla di lavoro a stomaco vuoto.
 (Wang mette sul banco due cestini di bambù fumanti. Una signora anziana esce dalla cucina, guarda Davide, dice qualcosa in cinese e torna dentro.)
-NADIA: Cos'ha detto tua madre?
+NADIA: Cos'ha detto tua madre? Dalla faccia non sembrava un complimento, ma con lei non si capisce mai.
 WANG: Ha detto che lui è più magro che in televisione. E che deve mangiare. E che se porta la polizia, gli taglia le mani.
-DAVIDE: Lo dica a sua madre: niente polizia. La polizia cerca me.
-WANG: Glielo dico. Ma lei taglia le mani lo stesso. Per principio.
+DAVIDE: Lo dica pure a sua madre: niente polizia, glielo garantisco. La polizia, in questo momento, cerca soltanto me.
+WANG: Glielo dico. Ma lei taglia le mani lo stesso. Per principio. In trent'anni di ravioleria non ha mai fatto un'eccezione, nemmeno per il parroco.
 
 ---
 
 [SCENA 3 — Il retro della ravioleria. Un magazzino stretto: sacchi di farina, casse di cavolo, un frigorifero industriale. Wang apre il frigorifero. Dietro i vassoi, una seconda porta, d'acciaio.]
 
-WANG: Prima di scendere, parliamo di prezzo.
+WANG: Prima di scendere, però, parliamo di prezzo. Sotto si lavora, e io non lavoro mai prima di aver chiuso un contratto.
 NADIA: Tu mi devi un favore, Wang. Nel '22 ho fatto sparire un fascicolo con il tuo nome. Dalla mia Agenzia.
 WANG: Lo so. E ti ho ringraziata con un cesto di ravioli che è valso più del fascicolo. Siamo pari, Rinaldi.
-DAVIDE: Quanto vuole?
+DAVIDE: Allora mi dica lei quanto vuole. Non ho molto, ma quel poco glielo posso far arrivare in fretta.
 WANG: Niente soldi. I soldi vostri adesso sono tutti sorvegliati. Voglio una cosa più difficile.
-DAVIDE: Cioè?
-WANG: Due biglietti per il derby. Sabato sera. Curva Sud.
+DAVIDE: Più difficile dei soldi? Mi spaventa, perché a Milano non ci sono molte cose più difficili dei soldi.
+WANG: Voglio due biglietti per il derby di sabato sera, in Curva Sud. Due, uno accanto all'altro.
 (Silenzio. Davide lo guarda come se avesse chiesto un rene.)
-DAVIDE: Lei è milanista.
+DAVIDE: Quindi lei è milanista. Me lo doveva dire subito, prima di farmi mangiare i suoi ravioli.
 WANG: Dal 1989. La notte di Barcellona. Mio padre piangeva in cucina con il mestolo in mano.
-DAVIDE: Io sono interista, Wang. La sua è una richiesta immorale.
+DAVIDE: Io sono interista, Wang. La sua è una richiesta immorale. Mi chiede di comprare la felicità al nemico con le mie mani.
 WANG: Lo so. Per questo è un buon prezzo. Al derby sono finiti i biglietti da tre settimane. Per lei, che è un uomo ricercato, sarà una bella sfida.
-NADIA: Davide. Beppe.
-DAVIDE: Beppe conosce mezza Curva Nord. Ma la Sud…
+NADIA: Davide, non guardarmi così, la soluzione ce l'abbiamo in casa. Si chiama Beppe e asciuga bicchieri sui Navigli.
+DAVIDE: Beppe conosce mezza Curva Nord, è vero, e l'altra mezza gli deve dei soldi. Ma la Sud è un altro pianeta, Nadia.
 NADIA: Beppe conosce anche i bagarini. Tutti i bagarini di Milano sono amici di Beppe. Tutti gli ex ladri, pure.
 DAVIDE (sospira): Va bene. Due biglietti in Curva Sud. Se mi vede mio padre, mi disereda.
 WANG: Allora siamo d'accordo. Scendiamo. Attenti alla testa: l'ho costruita io, la scala. Ero più basso, allora.
@@ -73,57 +73,57 @@ WANG: Allora siamo d'accordo. Scendiamo. Attenti alla testa: l'ho costruita io, 
 
 [SCENA 4 — Il server della ravioleria. Una cantina a volta del Novecento. Rack di computer, ventole, cavi lungo le pareti di mattoni. Fa caldo come in estate. Sul muro, una sciarpa rossonera e un calendario di una pasticceria di Wenzhou.]
 
-WANG: Allora. Che cosa devo pulire?
+WANG: Allora, ditemi tutto. Che cosa devo pulire, e quanto è sporco? Perché la pulizia ha prezzi diversi, come in tintoria.
 NADIA: Un audio. Due minuti e dieci. La prima voce la conosciamo. Ci serve la seconda. È lontana, sotto c'è un rumore d'acqua.
 (Wang carica il file. Sullo schermo appare una lunga onda verde. Muove il mouse con una lentezza quasi affettuosa.)
 WANG: È una fontana. Non un condizionatore. Il getto è costante, l'acqua cade da poco in alto. Un cortile interno, forse. Una fontanella romana.
-DAVIDE: Il cortile di un palazzo, a Roma. Lì le fontanelle non si spengono mai.
+DAVIDE: Il cortile di un palazzo, a Roma, vicino al suo ufficio di allora. Lì le fontanelle non si spengono mai, nemmeno d'agosto.
 WANG: Le fontane si possono togliere. Sono matematica. L'acqua è un rumore stupido: fa sempre la stessa cosa. Le voci no.
 (Batte qualche tasto. L'onda verde si assottiglia. Da sotto, come da un pozzo, emerge una voce d'uomo.)
 SALA (registrazione): …ha abboccato. Domani entra in archivio. Come voleva lei.
 MALASPINA (registrazione): Bravo, don Matteo. Il ragazzo è bravo, ma è curioso. I curiosi trovano sempre quello che cerchi tu, se gli lasci credere che lo cercano loro.
-SALA (registrazione): E dopo Pasqua?
+SALA (registrazione): E dopo Pasqua, generale? Che cosa facciamo, quando avrà trovato quello che deve trovare?
 MALASPINA (registrazione): Dopo Pasqua lei sparisce, don Matteo. E la signorina Rinaldi diventa la nostra talpa. È già tutto nel sistema. Festina lente.
 (Clic. Fine della registrazione. Nella cantina, solo il ronzio delle ventole.)
 WANG: Voce maschile, sessanta, sessantacinque anni. Accento romano educato. Uno che è abituato a non alzare mai la voce.
-DAVIDE: È lui.
-NADIA (piano): "È già tutto nel sistema."
+DAVIDE: È lui, senza nessun dubbio. Adesso non lo dico più col respiro, Nadia: lo dico con le sue parole.
+NADIA (piano): "È già tutto nel sistema." L'ha detto così, come si ordina un caffè al bancone.
 (Nadia si toglie gli occhiali. Si gira verso il muro. Davide le si avvicina, ma non la tocca.)
-DAVIDE: Nadia.
+DAVIDE: Nadia, guardami un attimo. Non sei obbligata a essere forte proprio adesso, in questa cantina.
 NADIA: Otto mesi. Otto mesi a dormire in macchina, nei treni regionali, sopra una libreria a Trieste. Mia madre crede che io sia in Australia. E lui lo aveva deciso a marzo. Prima di Pasqua. Con un "festina lente".
 DAVIDE: Adesso c'è la sua voce che lo dice. È la prima prova, Nadia. Non è una sensazione, non è un mio respiro. È lui.
-NADIA: Lo so. Dammi un minuto. Un minuto e torno napoletana.
+NADIA: Lo so. Dammi un minuto. Un minuto e torno napoletana. Prima però lasciami odiarlo in silenzio, come si deve.
 WANG (voltandosi verso lo schermo): Prendetevi pure il minuto. Io intanto faccio una copia su tre server. Uno a Shenzhen, uno a Rotterdam, uno dietro il frigorifero di mia zia a Prato.
-DAVIDE: Sua zia sa di avere un server dietro il frigorifero?
+DAVIDE: Sua zia sa di avere un server dietro il frigorifero? Perché se lo scopre, temo che le mani le tagli lei, invece di sua madre.
 WANG: Mia zia sa che il frigorifero adesso fa più freddo. Le basta. Ma nella registrazione c'è altro. All'inizio. Sala parla di un bonifico.
 (Wang torna indietro. La voce di Sala, chiara: "Il bonifico da Lussemburgo è arrivato. La Fenix ringrazia.")
 NADIA (si volta, gli occhi asciutti): La Fenix. Fenix Capital. Il fondo che abbiamo visto a Roma, nei conti delle fondazioni.
-WANG: Allora seguiamo i soldi. Datemi due ore.
+WANG: Allora seguiamo i soldi, che sono sempre più onesti delle persone. Datemi due ore e un'altra porzione di ravioli.
 
 ---
 
 [SCENA 5 — Il server, due ore dopo. Cartoni di ravioli vuoti sul tavolo. Sugli schermi, tabelle, grafici, nomi di società.]
 
 WANG: Fenix Capital Partners. Lussemburgo. Un fondo piccolo, sulla carta. Ma ha sei fratelli: Irlanda, Cipro, Delaware, Isole Cayman. E i fratelli hanno cugini.
-DAVIDE: Me lo dica come lo direbbe a sua madre.
+DAVIDE: Me lo dica come lo direbbe a sua madre, per favore. Io di finanza so quanto basta per perdere al Fantacalcio.
 WANG: A mia madre direi: questi signori hanno scommesso tantissimi soldi che la casa del vicino brucerà. Non una casa. Tutto il quartiere.
-NADIA: Posizioni corte. Quanto?
+NADIA: Quindi sono posizioni corte, scommesse al ribasso. Di quanti soldi stiamo parlando, più o meno?
 WANG: Sommando tutti i cugini, circa quattro miliardi di euro di esposizione. Contro le banche italiane, contro i titoli di Stato, contro l'euro. Se i mercati scendono del venti per cento, guadagnano più di quanto valga un'intera regione.
-DAVIDE: E se non scendono?
+DAVIDE: E se invece i mercati non scendono? Se quel giorno va tutto bene e la gente compra il panettone come sempre?
 WANG: Perdono tutto. Nessuno fa una scommessa così senza avere già in mano il fiammifero.
-NADIA: Quando scadono?
+NADIA: E quando scadono, queste scommesse? Perché il fiammifero di solito si accende poco prima.
 WANG: Ecco la cosa più bella. Quasi tutte nello stesso momento. Martedì otto dicembre, all'apertura dei mercati. Non un'ora dopo: all'apertura.
-DAVIDE: L'otto dicembre è l'Immacolata.
+DAVIDE: L'otto dicembre è l'Immacolata, Wang. Mezza Italia sarà a letto o in coda per gli addobbi di Natale.
 WANG: In Italia chiudono le scuole. Le Borse no. Francoforte, Londra, Parigi, Milano: alle nove sono tutte aperte.
 NADIA: Allora il fiammifero si accende la sera prima. Lunedì sette. Sant'Ambrogio.
 DAVIDE: La sera della Prima alla Scala. Mezzo governo in platea, tutte le televisioni puntate sul sipario. Nessuno guarda i server, quella sera. Nemmeno quelli che dovrebbero.
 WANG: E la notte tra il sette e l'otto, se il sistema dei pagamenti si blocca, la mattina dopo nessuna banca sa più quanti soldi ha. Panico. E il panico, alle nove, vale quattro miliardi.
-DAVIDE: Non mi dica come. Non voglio saperlo.
+DAVIDE: Non mi dica come lo farebbero, la prego. Non voglio saperlo, e soprattutto non voglio che lo sappia questa cantina.
 WANG: Non lo so nemmeno io, sciur Colombo. So soltanto contare. E so che chi conta così, ha già deciso.
-NADIA: Mancano quattro giorni.
+NADIA: Mancano quattro giorni, Davide. Quattro giorni, e noi abbiamo un audio, un raviolo e un fondo in Lussemburgo.
 DAVIDE: E a lui manca ancora una cosa. Quella che è sotto un cielo dipinto, a Brera.
 NADIA: E l'audio? Deve averlo qualcuno fuori da questa cantina. Qualcuno con una toga.
-DAVIDE: Chiara. Stasera le arriva una copia. Lei sa cosa farne.
+DAVIDE: Lo diamo a Chiara, stasera stessa, una copia pulita. Lei sa cosa farne, e soprattutto sa come non farsela rubare.
 WANG: Un magistrato. Io do una copia a un magistrato. Mia madre, se lo viene a sapere, mi taglia le mani tutte e due.
 DAVIDE: Gliela consegni dentro un cestino di ravioli. Sua madre non si accorgerà di niente.
 
@@ -131,60 +131,60 @@ DAVIDE: Gliela consegni dentro un cestino di ravioli. Sua madre non si accorger�
 
 [SCENA 6 — Il cortile interno del palazzo di ringhiera, sopra la ravioleria. Panni stesi che non asciugheranno mai. Nadia fuma seduta su un gradino. Davide è in piedi, al telefono.]
 
-ERNESTO (al telefono): Stanotte, allora.
-DAVIDE: Stanotte. Alle undici passa Beppe a prenderti. Con il furgone del bar.
+ERNESTO (al telefono): Allora è deciso, si fa stanotte. Te lo sento nella voce che non hai dormito, ma questo non me lo dici, vero?
+DAVIDE: Sì, papà, stanotte. Alle undici passa Beppe a prenderti sotto casa, con il furgone del bar.
 ERNESTO (al telefono): Il Fumagalli? Quello che rubava le gomme da masticare dal giornalaio?
 DAVIDE: Adesso ruba solo l'Inter alle partite. Papà, sei sicuro? Possiamo fare senza di te.
 ERNESTO (al telefono): No che non potete. Tu sai dove guardare, ma non sai cosa guardare. Porto la mia cassetta. E le mie mani, che tremano. Le mani buone le porti tu.
-DAVIDE: Va bene, va bene.
+DAVIDE: Va bene, va bene, ho capito, non insisto. Tanto con te non ho mai vinto una discussione.
 ERNESTO (al telefono): Non dire "va bene, va bene" a tuo padre. Lo dicevi anche a sette anni, quando non volevi fare i compiti. Alle undici. Mettiti una maglia pesante. In quel magazzino fa freddo come in chiesa.
 (Clic. Davide si siede sul gradino accanto a Nadia. Lei gli porge la sigaretta. Lui fa di no con la testa.)
-NADIA: Tuo padre ti tratta come un bambino.
+NADIA: Tuo padre ti tratta ancora come un bambino, lo sai? Ti ha appena detto di metterti la maglia pesante.
 DAVIDE: Mio padre mi tratta come un bambino da quarantasei anni. Adesso so perché. Sapeva tutto, Nadia. Da sempre.
-NADIA: E tu non te ne sei mai accorto. Il grande agente sotto copertura.
+NADIA: E tu non te ne sei mai accorto, il grande agente sotto copertura. Ventun anni di addestramento, e non hai visto tuo padre.
 DAVIDE: I figli sono i peggiori agenti del mondo. Vedono solo quello che vogliono vedere.
 (Pausa. Nadia guarda il fumo che sale verso il quadrato di cielo grigio.)
 NADIA: Quando sarà finito, io non so dove andrò. Non credo di poter tornare a Forte Braschi. Non dopo che mi hanno chiamata talpa davanti a tutti.
-DAVIDE: Torni a Napoli. Da tua madre. Le dici che l'Australia era bellissima.
+DAVIDE: Puoi tornare a Napoli, da tua madre, e dirle che l'Australia era bellissima. Le porti un canguro di peluche e nessuno fa domande.
 NADIA: Mia madre sa che non sono mai stata in Australia. Ho la pelle troppo bianca. (Spegne la sigaretta.) E tu? Dopo, cosa farai?
 DAVIDE: Dopo? Non lo so. Non ho mai pensato a un dopo. Ho sempre pensato al prossimo treno.
 NADIA: Allora comincia. Pensa a un dopo, Meneghino. Ti fa bene. A me fa bene.
-DAVIDE: Vado a prendere altri ravioli. Prima che la madre di Wang ci tagli le mani.
+DAVIDE: Per adesso il mio dopo è un'altra porzione di ravioli, e la prendo subito, prima che la madre di Wang ci tagli le mani.
 
 ---
 
 [SCENA 7 — La ravioleria, nel primo pomeriggio. Il locale è pieno: studenti, operai, una famiglia. Al tavolino accanto alla vetrina appannata, da sola, una donna elegante con un cappotto color cammello mangia ravioli con le bacchette, con precisione chirurgica. Davide si ferma sulla soglia della cucina.]
 
 CLAIRE: Si sieda, signor Colombo. I ravioli al vapore si raffreddano in fretta. Come i rapporti tra i servizi.
-DAVIDE: Signora Duval. A Paolo Sarpi. Con le bacchette.
+DAVIDE: Signora Duval, a Paolo Sarpi, con le bacchette in mano. Di tutti i posti in cui pensavo di rivederla, questo non era nella lista.
 CLAIRE: Ho vissuto due anni a Hong Kong. Non lo sapeva? Allora ci sono cose che non sa, di me.
 (Davide si siede di fronte a lei. Si guardano. Nessuno dei due sorride.)
-DAVIDE: Come mi hai trovato?
+DAVIDE: Lasciamo stare Hong Kong. Come mi hai trovato, in una città di un milione e mezzo di persone e con questa nebbia?
 CLAIRE: Ah. Il "tu". Bene, siamo già al secondo atto. (Posa le bacchette.) La tua amica napoletana ha ordinato un cappuccino alle due del pomeriggio davanti a un liceo. Qualcuno l'ha notata. A Milano un cappuccino a quell'ora è come una confessione firmata.
-DAVIDE: L'ha notata la DGSE?
+DAVIDE: E chi l'ha notata, di preciso? La DGSE adesso ha agenti anche dietro i banconi dei bar milanesi?
 CLAIRE: L'ha notata un barista. Il barista l'ha detto alla cugina. La cugina lavora per un uomo che lavora per noi. Il mondo è piccolo, Davide. Soprattutto il tuo, adesso.
-DAVIDE: E cosa vuole Parigi da un uomo bruciato?
+DAVIDE: E cosa vuole Parigi da un uomo bruciato, senza passaporto, che vive dietro un bar sui Navigli?
 CLAIRE: Parigi pensa che tu sia l'unico uomo vivo che sta per avere tutta la Chiave Lotto in testa. E Parigi ha paura delle teste. Le teste si vendono.
-DAVIDE: Io non mi vendo.
+DAVIDE: Io non mi vendo, Claire. Non mi sono venduto in ventun anni, e non comincio adesso che non ho più niente da perdere.
 CLAIRE: Questo l'ho detto anch'io, a Parigi. Mi hanno risposto che tutti dicono così, finché il prezzo non è giusto. E che tu sei appena stato licenziato dal tuo paese con l'accusa di omicidio. Gli uomini licenziati cercano nuovi padroni.
-DAVIDE: Gli uomini licenziati cercano di dormire. E qual è l'ordine?
+DAVIDE: Gli uomini licenziati cercano soltanto di dormire una notte intera. Ma dimmi la verità: qual è l'ordine, esattamente?
 CLAIRE: "Récupérer ou neutraliser." Recuperare o neutralizzare. È una formula elegante, in francese. In italiano suona peggio.
-DAVIDE: Recuperare vuol dire portarmi a Parigi.
+DAVIDE: Recuperare, immagino, vuol dire portarmi a Parigi in qualche modo, con le buone o con un furgone.
 CLAIRE: Con le parole del seme nella tua testa, in una stanza bianca, con dei signori molto gentili. Per sempre.
-DAVIDE: E neutralizzare non lo traduco.
-CLAIRE: Non serve.
+DAVIDE: E neutralizzare non lo traduco, vero? Credo di conoscere già il significato, da entrambe le parti del tavolo.
+CLAIRE: Non serve tradurlo, Davide. L'hai scritto anche tu, in qualche rapporto, con parole altrettanto educate.
 (Silenzio. Il vapore sale dai cestini tra loro. Claire prende un raviolo e lo intinge nell'aceto nero.)
 CLAIRE: Ti do una cosa, gratis. Così poi non potrai dire che la Francia è avara. La ditta di Roma che ha aggiornato la sicurezza di Brera, e il suo socio di Malta, li conosci già. Ma Malta è solo una cassetta delle lettere. La holding ha un secondo indirizzo in Lussemburgo. Stesso notaio, stesso piano di Fenix Capital.
-DAVIDE: Quindi a Brera il sistema lo conoscono meglio di noi.
+DAVIDE: Quindi a Brera il sistema di sicurezza lo conoscono meglio di noi, perché l'hanno pagato loro. Ogni porta e ogni telecamera.
 CLAIRE: E tuo padre ha settantotto anni e le mani che tremano. Lo porti con te, stanotte?
-DAVIDE: Chi ti ha detto stanotte?
+DAVIDE: Chi ti ha detto stanotte? Non l'ho detto a nessuno fuori da quel cortile, nemmeno a Beppe con le parole precise.
 CLAIRE: Nessuno. Fino a un secondo fa era un'ipotesi. Adesso è un'informazione. Grazie.
-DAVIDE (tra i denti): Te set… Sei brava.
+DAVIDE (tra i denti): Te set… Sei brava, maledettamente brava. Sono caduto come un allievo del primo anno.
 CLAIRE: Lo so. Allora ascoltami bene. Se entri a Brera stanotte, entri nella casa di Malaspina. Con le chiavi che ti ha lasciato lui sotto lo zerbino.
-DAVIDE: Perché me lo dici?
+DAVIDE: E perché me lo dici, se il tuo ordine è recuperarmi o farmi sparire? Non ha senso, e tu fai sempre cose che hanno senso.
 CLAIRE: Perché a Venezia mi hai coperta, quando potevi vendermi. Senza chiedermi niente in cambio. E noi francesi abbiamo un difetto: paghiamo i debiti. Anche quando non conviene.
-DAVIDE: E dopo averlo pagato?
-CLAIRE: Dopo, siamo pari. E sono di nuovo libera di eseguire gli ordini.
+DAVIDE: E dopo averlo pagato, questo debito, cosa succede tra noi due? Me lo dici adesso, così almeno lo so.
+CLAIRE: Dopo, siamo pari. E sono di nuovo libera di eseguire gli ordini. Non prenderla come una cosa personale: per me non lo è mai stata.
 (Davide la guarda. Lei sostiene lo sguardo.)
 DAVIDE: A Venezia pensavo che fossi l'unica persona capace di farmi paura.
 CLAIRE: E io ti avevo detto che hai una faccia che torna. Ecco. È tornata. Più magra, più stanca. Ma è la stessa.

@@ -6,19 +6,19 @@
 
 [SCENA 1 — Casa del Clero di Borgo Pio, terzo piano, la stanza di Davide. Domenica di Pasqua, ore 23.40. Il letto non è stato toccato. Sul davanzale, il ramo d'ulivo secco di Anselmo.]
 
-DAVIDE: "Che anche lei non crede." L'ha detto così, Nadia. Come se lo leggesse da un foglio.
-NADIA (in cuffia): Lo so. Ho riascoltato l'audio sei volte.
-DAVIDE: Chi lo sa, che non credo? Io stesso non lo so.
+DAVIDE: "Che anche lei non crede." L'ha detto così, Nadia. Come se lo leggesse da un foglio che qualcun altro aveva scritto per lui.
+NADIA (in cuffia): Lo so, Davide. Ho riascoltato l'audio sei volte, e ogni volta mi fa più freddo della precedente.
+DAVIDE: Ma chi può sapere che non credo? Io stesso non lo so, la mattina, quando mi abbottono la talare.
 NADIA (in cuffia): Ho le chat di Elia. La Polizia Postale me le ha passate un'ora fa. Il profilo che lo ha agganciato, a febbraio, gli scrive di te.
-DAVIDE: Cosa scrive?
+DAVIDE: Di me? E cosa scrive, esattamente? Leggimelo parola per parola, senza addolcire niente.
 NADIA (in cuffia): Ascolta: "A Pasqua ci sarà un prete milanese. Ha servito messa da bambino a Sant'Ambrogio. Sua madre era una santa. Lui non crede più. Lui ti capirà."
 (Davide si siede sul letto, piano.)
-DAVIDE: Mia madre. Hanno scritto di mia madre a un ragazzo di diciannove anni.
-NADIA (in cuffia): Davide. Queste cose non stanno su internet. Stanno in un posto solo.
-DAVIDE: Nel mio fascicolo personale.
-NADIA (in cuffia): Nel tuo fascicolo. A Forte Braschi. Livello Direzione.
+DAVIDE: Mia madre. Hanno scritto di mia madre a un ragazzo di diciannove anni, per convincerlo a morire in piazza.
+NADIA (in cuffia): Davide, ascoltami. Queste cose non stanno su internet, non le trovi con una ricerca. Stanno in un posto solo.
+DAVIDE: Lo so dove stanno, Nadia. Nel mio fascicolo personale, quello che ho compilato io stesso quando sono entrato.
+NADIA (in cuffia): Nel tuo fascicolo, sì. A Forte Braschi. Livello Direzione, come il muro su ORGANISTA.
 (Silenzio lungo.)
-DAVIDE: Anselmo è andato da lui?
+DAVIDE: Parliamo d'altro, prima che io dica qualcosa di cui mi pento. Anselmo è andato da lui, stasera?
 NADIA (in cuffia): Alle otto, in Questura. È rimasto due ore. Quando è uscito ha detto solo: "Il ragazzo stanotte dorme." Poi ha chiesto un taxi e si è lamentato del prezzo.
 DAVIDE: Domani vado da Anselmo anch'io. Per l'unica cosa che non ho ancora fatto qui dentro. Dire la verità a qualcuno.
 
@@ -27,19 +27,19 @@ DAVIDE: Domani vado da Anselmo anch'io. Per l'unica cosa che non ho ancora fatto
 [SCENA 2 — Basilica di San Pietro, un confessionale di legno scuro in fondo alla navata sinistra. Lunedì dell'Angelo, 6 aprile, ore 8.15. La basilica è quasi vuota. Una lucina verde accesa sopra la grata: "Italiano".]
 
 (Davide si inginocchia. Si toglie la cuffia dall'orecchio e la spegne. La mette in tasca.)
-ANSELMO: L'ho sentita arrivare. Ha un passo da milanese, anche in talare. Non va mai piano.
-DAVIDE: Padre. Sono venuto a confessarmi. Davvero, questa volta.
-ANSELMO: Allora cominci come si comincia. Se se lo ricorda.
+ANSELMO: L'ho sentita arrivare dal fondo della navata. Ha un passo da milanese, anche in talare. Non va mai piano, neanche in chiesa.
+DAVIDE: Padre, sono venuto a confessarmi. Davvero, questa volta, senza nessuno che ascolti nell'orecchio.
+ANSELMO: Allora cominci come si comincia, con le parole di sempre. Se se lo ricorda, dopo tutto questo tempo.
 DAVIDE: Mi benedica, padre, perché ho peccato. La mia ultima confessione… era il 1994. La cresima. Avevo quattordici anni.
 ANSELMO: Trentadue anni. Si metta comodo, neh. Abbiamo tempo. Dio ne ha anche di più.
 DAVIDE: Non sono un prete. Lei lo sa. Non sono mai stato ordinato. Sono qui per un lavoro. Non le posso dire quale.
-ANSELMO: Questo lo so da quella prima mattina. Mi dica quello che non so.
+ANSELMO: Questo lo so da quella prima mattina, quando ha sbagliato a fare la genuflessione. Mi dica quello che non so.
 DAVIDE: Ho celebrato sette Messe. Ho detto le parole sopra il pane. Non tutte: una riga l'ho sempre saltata. Ma ho dato la comunione. A centoquarantadue persone. Le ho contate.
-ANSELMO: Perché le ha contate?
+ANSELMO: E perché le ha contate, figliolo? Non è una cosa che si fa, contare le persone che si comunicano.
 DAVIDE: Perché sono un contabile. E perché volevo sapere quante persone avevo ingannato. Si inginocchiavano, padre. Una vecchia piangeva.
 DAVIDE: Ho ascoltato le confessioni. Tredici. Una era di un uomo che si chiamava Gianni Ruffo. Mi ha detto che aveva spostato dei soldi, che sarebbe morta della gente. Io l'ho riferito ai miei capi. Due giorni dopo l'hanno tirato fuori dal Tevere.
 (Lunga pausa dietro la grata.)
-ANSELMO: E lei pensa di averlo ucciso.
+ANSELMO: E lei pensa di averlo ucciso, con quella telefonata. È questo che si porta dietro da tre settimane.
 DAVIDE: Penso di avergli tolto l'unico posto al mondo dove poteva parlare senza paura. Il sigillo. Io l'ho rotto. Lui credeva che io fossi un prete.
 ANSELMO: Lui ha parlato a Dio. Dio non ha rotto niente. Lei sì. Sono due cose diverse, e la seconda è sua. La tenga. Altro?
 DAVIDE: Mercoledì un prete vero è morto tra le mie braccia. Mi ha chiesto l'assoluzione. Io non gliel'ho data. Sarebbe stata falsa. Lui stava morendo, e io non volevo dargli una cosa falsa proprio alla fine. Abbiamo detto l'atto di dolore insieme. L'ho finito da solo.
@@ -48,21 +48,21 @@ ANSELMO: Sa che quella è stata la cosa più sacerdotale che lei abbia fatto in 
 DAVIDE: Ieri un ragazzo mi ha chiesto di confessarlo. Avevo in mano la sua vita e quella di migliaia di persone. E non ho detto le parole. Gliel'ho mandato a lei.
 ANSELMO: Il ragazzo l'ho visto. Di quello che mi ha detto non le dirò niente, nemmeno sotto tortura. Ma le dico questo: lei ha fatto bene a mandarmelo.
 DAVIDE: E poi c'è mia madre. Rosa. È morta nel 2011. Mi portava a Sant'Ambrogio alle sei del mattino. Io qui ho indossato il suo Dio come un vestito preso a noleggio.
-ANSELMO: E com'era, il vestito?
+ANSELMO: E com'era, quel vestito, una volta addosso? Le stava largo, stretto, le pungeva sulle spalle?
 DAVIDE: Mi stava bene. È questo che non mi perdono. Mi stava troppo bene.
 (Anselmo tace a lungo. Si sente il suo respiro, vecchio, regolare.)
 ANSELMO: Adesso mi ascolti, Davide. Io dovrei darle l'assoluzione. È il mio mestiere, ed è un mestiere bellissimo. Ma l'assoluzione chiede due cose: il pentimento e il proposito.
-DAVIDE: Sono pentito.
+DAVIDE: Sono pentito, padre, glielo giuro. Non sono mai stato così pentito di niente in vita mia.
 ANSELMO: Lo vedo. Il pentimento ce l'ha, glielo leggo nella voce. Ma il proposito? Mi dica la verità: se domani le chiedono di mettersi un'altra maschera, lei cosa fa?
-DAVIDE: La metto.
-ANSELMO: Ecco. E se le chiedono di nuovo un collarino?
-DAVIDE: Non lo so, padre. Davvero non lo so.
+DAVIDE: La metto, padre. Non posso mentirle proprio qui dentro: se me lo chiedono, la metto.
+ANSELMO: Ecco, appunto. E se le chiedono di nuovo un collarino, un'altra volta, in un'altra città?
+DAVIDE: Non lo so, padre. Davvero non lo so, e non voglio dirle una cosa solo perché suona bene.
 ANSELMO: Allora non posso dirle "Ego te absolvo" come se niente fosse. Non perché lei non sia un prete. Ma perché lei, oggi, non sa ancora a chi sta chiedendo perdono. E non può promettere di non rifarlo. Io non la tratto da bambino, Davide. La tratto da uomo. Però una cosa posso darla. Quella non si nega a nessuno. San Francesco la dava ai lupi, figuriamoci a un milanese. Una benedizione. Chini la testa.
 (Davide china la testa contro la grata. La mano di Anselmo si alza, nell'ombra.)
 ANSELMO: Benedicat te omnipotens Deus, Pater, et Filius, et Spiritus Sanctus.
 DAVIDE (in un sussurro): Amen.
 ANSELMO: Le parole dell'assoluzione le tengo da parte. Gliele conservo, neh. Quando lei saprà a chi chiede perdono, torni. Io sarò qui. O sarò da un'altra parte, ma ci sarà qualcuno.
-DAVIDE: E se non torno?
+DAVIDE: E se non torno, padre? Se passano altri trent'anni e io resto da qualche parte, con un'altra faccia?
 ANSELMO: Tornerà. I chierichetti tornano sempre. È la nostalgia della cenere. C'è altro?
 (Davide esita. Le labbra si aprono e si richiudono.)
 DAVIDE: C'è una cosa. Ma non è mia. È di mio padre. E non l'ho ancora chiesta neanche a lui.
@@ -72,51 +72,51 @@ ANSELMO: Allora non la dica a me. La chieda a lui. Prima a lui, poi a Dio. Dio �
 
 [SCENA 3 — Ospedale di Santo Spirito in Sassia, reparto di terapia intensiva, una stanza singola. Lunedì, ore 15.30. Finestra sul Tevere. Il caporale Jonas Meier, pallido, ha gli occhi aperti.]
 
-MEIER: Don… Colombo.
-DAVIDE: Non parli troppo, Meier. I medici mi hanno dato dieci minuti.
+MEIER: Don… Colombo. È venuto davvero. Huber mi aveva detto che sarebbe passato, ma non ci credevo.
+DAVIDE: Non parli troppo, Meier, si stanca. I medici mi hanno dato dieci minuti, e una suora all'ingresso li conta.
 MEIER: Svizzeri. Puntuali. Anche i medici di Roma, quando ci curano, diventano svizzeri. Le candele. Mi dica delle candele. Huber non mi dice niente, dice che devo riposare. Ja, ja, riposare.
 DAVIDE: La sua lista era giusta. Il terzo camion aveva un doppio fondo. Ieri, in piazza, nessuno è morto. Nessuno, Jonas.
 (Meier chiude gli occhi. Una lacrima gli scende verso l'orecchio.)
-MEIER: Genau. Allora è servito.
-DAVIDE: È servito. Lei ha salvato sessantamila persone mentre dormiva. È un record anche per la Guardia.
+MEIER: Genau. Allora è servito a qualcosa, quello che ho fatto. Allora non ho preso le botte per niente.
+DAVIDE: È servito, sì. Lei ha salvato sessantamila persone mentre dormiva. È un record anche per la Guardia.
 MEIER: Quella sera, l'uomo che mi ha colpito. Mi ricordo una cosa sola. La voce. Niente di speciale. "Fermo, ragazzo." Ma l'italiano… era perfetto. Senza dialetto. Come uno che lavora in un ufficio, a Roma. Non un criminale. Un funzionario.
 (Davide non risponde. Guarda il fiume.)
 MEIER: Don Colombo. Quella sera, prima. Io le ho parlato di mia sorella e di Dio. E lei mi ha risposto. Erano vere, le cose che mi ha detto?
-DAVIDE: Erano vere, Jonas. Anche se io non lo sono del tutto.
+DAVIDE: Erano vere, Jonas, ogni parola. Anche se io, che le dicevo, non lo sono del tutto.
 MEIER: Ja. L'avevo capito. Un prete vero non guarda le porte quando entra in una stanza. Lei guarda sempre le porte.
-DAVIDE: Deve fare rapporto?
+DAVIDE: Allora deve fare rapporto, immagino. Lo capirei, Jonas, e non le chiederò di fare diversamente.
 MEIER: Il regolamento dice che devo fare rapporto su tutto ciò che minaccia la sicurezza del Santo Padre.
-DAVIDE: E lei cosa farà?
+DAVIDE: E lei cosa farà, caporale? Lei è l'uomo più ligio al regolamento che abbia conosciuto a Roma.
 MEIER: Lei non minaccia il Santo Padre. Lei minaccia solo se stesso. Questo non è nel regolamento.
-DAVIDE: Grazie, Jonas.
+DAVIDE: Grazie, Jonas. Non so cosa dire, per una volta, e per uno come me è una cosa rara.
 MEIER: Non mi ringrazi. Preghi per me. Anche se lei non è… ja. Preghi lo stesso. Male non fa.
 
 ---
 
 [SCENA 4 — Palazzo del Sant'Uffizio, appartamento del cardinale Ferrante. Martedì 7 aprile, ore 9.00. Scatoloni pieni di libri. Le pareti già spoglie. Rimane solo un crocifisso, e la libreria vuota di Sant'Agostino.]
 
-FERRANTE: Le piacciono i traslochi, Don Davide?
-DAVIDE: Li ho fatti spesso. Non mi sono mai piaciuti.
+FERRANTE: Le piacciono i traslochi, Don Davide? Io li trovo sempre un piccolo esame di coscienza, fatto con lo scotch.
+DAVIDE: Li ho fatti spesso, Eminenza, per lavoro. Non mi sono mai piaciuti, e ogni volta ho lasciato indietro qualcosa.
 FERRANTE: Neanche a me. In cinquant'anni di sacerdozio ho cambiato casa quattro volte. Questa è l'ultima. Si va in un convento sul lago di Bolsena. Le suore cucinano bene, dicono. Lei crede alle suore che cucinano bene?
-DAVIDE: Lei crede alle dimissioni per motivi di salute, Eminenza?
+DAVIDE: E lei crede alle dimissioni per motivi di salute, Eminenza? Me lo chiedo da ieri sera, da quando ho letto il comunicato.
 FERRANTE: Ah. Lei ha imparato. Risponde con una domanda. Fra cinque settimane sarebbe diventato un ottimo monsignore.
-DAVIDE: Il Santo Padre ha accettato?
+DAVIDE: Il Santo Padre ha già accettato, allora? Pensavo che queste cose richiedessero mesi, qui dentro.
 FERRANTE: Ieri sera. Per motivi di salute. La salute dell'anima, ma questo non lo scrivono sul comunicato.
 (Ferrante prende dalla scrivania un piccolo santino ingiallito. Glielo porge.)
 FERRANTE: Sant'Ambrogio. L'ho trovato nel mio breviario dei primi anni. Milano, 1989. Io ero un giovane prete della diocesi, e c'era un ragazzino che teneva la navicella dell'incenso come se fosse un uccellino vivo. Aveva paura di farlo scappare.
-DAVIDE: Non si ricorda di me. Non può ricordarsi di me.
+DAVIDE: Non si ricorda di me, Eminenza. Non può ricordarsi di me, eravamo in cento bambini in cotta bianca.
 FERRANTE: Forse no. Forse ricordo solo il modo di tenere le mani. Lei lo fa ancora, sa? Quando tiene una cosa preziosa. Lo ha fatto con quel libro.
-DAVIDE: Eminenza. Perché il primo giorno mi ha parlato di quel ragazzo?
+DAVIDE: Eminenza, allora mi dica perché. Perché il primo giorno, a cena, mi ha parlato proprio di quel ragazzo?
 FERRANTE: Perché era vero. E perché volevo vedere la sua faccia. La faccia di un uomo quando qualcuno gli tocca l'infanzia. Lei si è irrigidito come un soldato. Lo è stato, immagino. Adesso mi permetta una domanda, l'ultima. Chi, a Roma, conosce i chierichetti di Milano di quasi quarant'anni fa?
 (Silenzio. Davide stringe il santino.)
-DAVIDE: Pochi.
+DAVIDE: Pochi, Eminenza. Molto pochi, e quasi tutti dalla stessa parte di un muro.
 FERRANTE: Pochissimi. E chi l'ha mandata qui, vestito da prete, sapeva di quel ragazzo. Altrimenti non l'avrebbe vestita così. Ci pensi, sul treno.
-DAVIDE: E il libro, Eminenza? Voleva sapere cosa c'era dentro che valeva più di lei.
-FERRANTE: Me lo dica.
-DAVIDE: Una chiave. Non una chiave di ferro. Una chiave di numeri.
-FERRANTE: E adesso dov'è?
-DAVIDE: In una cassaforte.
-FERRANTE: Di chi?
+DAVIDE: E il libro, Eminenza? Voleva sapere cosa c'era dentro che valeva più di lei. Gliel'avevo promesso.
+FERRANTE: Allora me lo dica adesso, prima che chiudano l'ultimo scatolone. Sono curioso come un seminarista.
+DAVIDE: Una chiave, Eminenza. Non una chiave di ferro, come quelle di Pietro sugli stemmi. Una chiave di numeri.
+FERRANTE: E adesso dov'è, questa chiave di numeri? In mani sicure, spero.
+DAVIDE: È in una cassaforte, chiusa a doppia mandata. Almeno così mi hanno detto.
+FERRANTE: E di chi è, quella cassaforte? Questa è l'unica cosa che conta, Don Davide.
 (Davide non risponde. Ferrante annuisce piano, come se la risposta fosse arrivata lo stesso.)
 FERRANTE: Ecco. Si faccia sempre questa domanda, Don Davide. Non dove sono le chiavi. Di chi è la cassaforte. Vada con Dio. O con chi le pare. Ma vada.
 
@@ -124,32 +124,32 @@ FERRANTE: Ecco. Si faccia sempre questa domanda, Don Davide. Non dove sono le ch
 
 [SCENA 5 — Appartamento sicuro, Trastevere. Martedì, ore 12.40. Davide sta svuotando l'appartamento: i portatili nelle borse, il microscopio nella sua custodia. Nadia in cuffia.]
 
-NADIA (in cuffia): Sei solo?
-DAVIDE: Solo. Bruno e Ferri sono già tornati a Forte Braschi.
+NADIA (in cuffia): Sei solo, Davide? Rispondimi con sincerità, è importante, e guarda anche nell'altra stanza.
+DAVIDE: Sono solo, te lo garantisco. Bruno e Ferri sono già tornati a Forte Braschi stamattina, con le borse.
 NADIA (in cuffia): Bene. Allora spegni il portatile della casa. Usa solo il tuo telefono. Quello vecchio, quello che non ti hanno dato loro.
-DAVIDE: Nadia. Che succede?
+DAVIDE: Nadia, mi stai facendo paura. Dimmi che cosa succede, senza giri di parole.
 NADIA (in cuffia): Succede che ieri notte ho fatto una cosa che non dovevo fare. Sono entrata dietro il muro.
-DAVIDE: Il fascicolo di ORGANISTA.
+DAVIDE: Nel fascicolo di ORGANISTA? Quello con il campo del referente chiuso a livello Direzione?
 NADIA (in cuffia): Non nel fascicolo. Nei registri di sistema che lo circondano. Chi lo apre, quando, da dove. Il muro protegge il contenuto, non le impronte.
-DAVIDE: E cosa hai trovato?
+DAVIDE: E cosa hai trovato, in quelle impronte? Dimmelo subito, anche se è brutto.
 (Una pausa lunga. Quando Nadia riparla, la voce è diversa. Più piccola.)
 NADIA (in cuffia): Ho trovato il nome del referente. Di chi ha gestito Sala per sette anni. Di chi riceveva le sue agende ogni martedì.
 DAVIDE: Chi?
 NADIA (in cuffia): Io. Rinaldi, Nadia. Matricola, credenziali, firma digitale. Tutte mie. Centoquattro accessi. Tutti con le mie chiavi.
-DAVIDE: Non è possibile.
+DAVIDE: Non è possibile, Nadia. Ti conosco da anni, e so benissimo che non è possibile.
 NADIA (in cuffia): No. Non è possibile. Ascolta le date. Il ventiquattro dicembre, alle undici di sera, qualcuno apre il fascicolo con le mie credenziali da un terminale di Forte Braschi. Io il ventiquattro dicembre ero a Napoli. Da Ciro. Con mia madre e i pastori del presepe.
-DAVIDE: Allora è un falso. Lo dimostri.
+DAVIDE: Allora è un falso, ed è un falso grossolano. Lo puoi dimostrare con una sola testimonianza, quella di Ciro.
 NADIA (in cuffia): Un'altra. Una sera di febbraio, a Venezia. Io ero in cuffia con te, dalle nove a mezzanotte. Te lo ricordi? Quella sera mi hai parlato di tuo padre e dei quadri. E alla stessa ora, con le mie chiavi, qualcuno scaricava un rapporto di Sala.
-DAVIDE: Io posso testimoniare.
+DAVIDE: Allora posso testimoniare io, Nadia. Ero con te in linea per tutte quelle tre ore, e i registri delle chiamate lo dimostrano.
 NADIA (in cuffia): Tu? Il mio partner. Quello che parla con me ogni notte. Davide, la tua testimonianza vale quanto la mia firma, per loro. Cioè zero.
-DAVIDE: Per chi, "loro"?
+DAVIDE: Per chi, "loro"? Dimmi chi sono, perché comincio a non capire più chi sta da quale parte.
 NADIA (in cuffia): L'Ispettorato interno. Mi hanno convocata per oggi alle quattro. Un certo Lenzi. Uno della mia età, più o meno, gentile, che non sorride mai. Ha già una cartella con il mio nome sopra.
 (Davide si appoggia al tavolo. Le tende a quadretti si muovono nel vento.)
-DAVIDE: Vado dal generale. Adesso. Gli racconto tutto.
+DAVIDE: Vado dal generale, adesso, prima delle quattro. Gli racconto tutto, le date, Ciro, la notte di Venezia.
 NADIA (in cuffia): No. Ti prego. Non dire niente a nessuno, per ora. Neanche a lui. Prima devo capire chi ha le chiavi più grandi delle mie.
-DAVIDE: Nadia…
+DAVIDE: Nadia, non chiedermi questo. Non posso stare zitto mentre ti fanno a pezzi con le tue stesse chiavi.
 NADIA (in cuffia): Ricordi la cosa che ti ho detto domenica? A Napoli la routine di notte non esiste. Qualcuno ha pensato a me per sette anni, Davide. Per sette anni ha preparato questo.
-DAVIDE: Io non ti lascio sola.
+DAVIDE: Io non ti lascio sola in questa storia, Nadia. Non dopo Venezia, non dopo tutte quelle notti in cuffia.
 NADIA (in cuffia): Tu prendi il treno per Milano e vai da tua figlia. E poi, quando torni, ti porto da Ciro. Me l'hai chiesto tu, a Venezia. Io te l'ho promesso la domenica delle Palme. E allora la mantengo, questa. Almeno questa. Le altre promesse, in questo mestiere, sono tutte di cartapesta.
 
 ---
@@ -157,18 +157,18 @@ NADIA (in cuffia): Tu prendi il treno per Milano e vai da tua figlia. E poi, qua
 [SCENA 6 — Casa del Clero di Borgo Pio, la stanza di Davide. Martedì, ore 17.10. La valigia aperta sul letto. Lo specchio sopra il lavandino.]
 
 (Bussano. Monsignor Brennan sulla porta, senza la fascia, con gli occhi stanchi.)
-BRENNAN: I won't stay long. Volevo solo… salutarla.
-DAVIDE: Entri, monsignore.
+BRENNAN: I won't stay long, Don Davide, glielo prometto. Volevo solo… salutarla, prima che parta per Milano.
+DAVIDE: Entri pure, monsignore, si sieda sulla sedia. Il letto è occupato dalla valigia, come vede.
 BRENNAN: Ho lavorato con Matteo sei anni. Sei anni, Don Davide. Gli lasciavo le chiavi di casa quando andavo a Dublino. Look, come ho fatto a non vedere?
 DAVIDE: Lei ha visto quello che le ha fatto vedere. Era molto bravo. La colpa è di Matteo, non sua.
 BRENNAN: Lei è gentile. Pregherò per lui. È strano, vero? Pregare per l'uomo che ti ha usato.
-DAVIDE: Non è strano, monsignore. È il suo mestiere. Lei lo fa bene.
-BRENNAN: And you? Pregherà anche lei?
-DAVIDE: Ci proverò. Comincerò da lei.
+DAVIDE: Non è strano, monsignore, è il suo mestiere. Lei lo fa bene, meglio di molti che ho visto qui dentro.
+BRENNAN: And you? Pregherà anche lei, a Milano, quando avrà tolto l'abito?
+DAVIDE: Ci proverò, monsignore, non le prometto di più. Comincerò da lei, se non le dispiace.
 (Brennan sorride, commosso. Gli stringe la mano con tutte e due le mani, all'irlandese. Esce.)
 (Davide resta solo. Si mette davanti allo specchio. Il collarino bianco, rigido, nella sua fessura nera.)
 DAVIDE (tra sé): Due settimane, a Milano, per imparare a metterlo. Mi tremavano le dita. Il primo giorno l'ho messo storto e il rettore ha riso.
-DAVIDE (tra sé): Mamma. Tu mi avresti voluto così. Lo so. Ma non così.
+DAVIDE (tra sé): Mamma. Tu mi avresti voluto così. Lo so. Ma non così, non con una bugia cucita addosso.
 (Sfila il collarino. Un piccolo rumore di plastica. Il collo è nudo. Sembra più vecchio.)
 DAVIDE (tra sé): Ecco. Un secondo. Ci vuole un secondo per smettere di essere un altro. È tornare se stessi che non so quanto ci vuole.
 (Mette il collarino dentro il breviario, tra le pagine dei Vespri. Prende il ramo d'ulivo secco dal davanzale e lo avvolge in un fazzoletto.)
@@ -179,28 +179,28 @@ DAVIDE (tra sé): "Il ramo è ancora verde. Ne avrà bisogno." Padre, il suo vec
 
 [SCENA 7 — Stazione di Roma Termini, binario 12. Martedì, ore 19.35. Il Frecciarossa per Milano Centrale. Altoparlanti, valigie, il profumo dei cornetti del bar.]
 
-MALASPINA (al telefono): Colombo. Mi dicono che lascia Roma senza salutare.
-DAVIDE: Generale. La saluto adesso.
+MALASPINA (al telefono): Colombo. Mi dicono che lascia Roma senza salutare. Non è da lei, e non è da noi.
+DAVIDE: Generale, la saluto adesso, dal binario. Il treno parte tra cinque minuti, quindi sarò breve.
 MALASPINA (al telefono): Ha fatto un lavoro eccellente. Una piazza salvata, un traditore smascherato, un frammento recuperato. Finis coronat opus.
 DAVIDE: Il traditore è morto su un muro. Il frammento è in una cassaforte. E la piazza l'ha salvata un ragazzo che ha cambiato idea.
 MALASPINA (al telefono): Lei è sempre troppo modesto. È un difetto lombardo. Una settimana a Milano, con sua figlia. Poi la voglio a Roma, in sede.
-DAVIDE: In sede?
+DAVIDE: In sede, generale? Con tutto il rispetto, io in sede non ci sono mai stato più di un mese.
 MALASPINA (al telefono): Una scrivania. Qualche mese. Finché l'Ispettorato non chiude la verifica sulla dottoressa Rinaldi, nessuno della sua cellula va sul campo. È una precauzione, non una punizione.
-DAVIDE: Lei crede che Nadia…
+DAVIDE: Lei crede davvero che Nadia… che proprio Nadia, dopo tutti questi anni…
 MALASPINA (al telefono): Io non credo, Colombo. Io verifico. Lei l'ha sentita, oggi?
 (Davide guarda il treno. Una pausa di mezzo secondo.)
-DAVIDE: Ieri. Di lavoro.
+DAVIDE: Ieri. Di lavoro. Una telefonata breve sulle chat del ragazzo, niente di più.
 MALASPINA (al telefono): Se la sente, mi avvisi. Per il suo bene. E per il suo. Buon viaggio, Colombo.
 (La linea si chiude. Davide sale sul treno. Si siede al finestrino. Il treno parte. Sul telefono arriva una foto di Giulia: la maschera di Colombina appesa sopra la sua scrivania. Poi lei chiama.)
-GIULIA (al telefono): Papà. Mamma dice che torni stasera. È vero o è un'altra "consulenza"?
-DAVIDE: È vero. Arrivo alle undici. Domani ti porto a mangiare il risotto. Quello vero.
-GIULIA (al telefono): Quello vero è solo quello del nonno. Lo dici sempre tu.
-DAVIDE: Allora andiamo dal nonno.
+GIULIA (al telefono): Papà. Mamma dice che torni stasera. È vero o è un'altra "consulenza"? Perché l'ultima volta hai detto così e poi sei sparito un mese.
+DAVIDE: È vero, amore, questa volta è vero. Arrivo alle undici. Domani ti porto a mangiare il risotto. Quello vero.
+GIULIA (al telefono): Quello vero è solo quello del nonno. Lo dici sempre tu, quando ti lamenti dei ristoranti.
+DAVIDE: Hai ragione, l'ho detto io e non posso rimangiarmelo. Allora domani andiamo dal nonno, tutti e due.
 (Davide chiude la chiamata. Guarda fuori: la periferia di Roma, i pini, il tramonto. Pensa a suo padre. Alle tre parole di Venezia che non ha mai detto a nessuno. Non le dice nemmeno adesso.)
 (Ore 21.02. Dopo Firenze. Il telefono vecchio vibra una volta. Un messaggio. Numero sconosciuto. Nessuna firma. Ma la punteggiatura è quella di Nadia.)
 NADIA (messaggio): Mi stanno accusando di essere la talpa. Non fidarti di nessuno. Nemmeno di lui.
 (Davide fissa lo schermo. Chiama. Squilla una volta, due. Poi una voce registrata: "Il numero selezionato non è al momento raggiungibile.")
-DAVIDE (tra sé): Nemmeno di lui. Lui chi, Nadia? Lui chi?
+DAVIDE (tra sé): Nemmeno di lui. Lui chi, Nadia? Lui chi? Il generale, mio padre, o qualcuno che non ho ancora incontrato?
 (Richiama. Silenzio. Richiama ancora. Silenzio. Fuori, la galleria dell'Appennino inghiotte il treno. Nel finestrino nero c'è solo il riflesso di un uomo senza collarino.)
 
 — FINE DELL'EPISODIO 12 —

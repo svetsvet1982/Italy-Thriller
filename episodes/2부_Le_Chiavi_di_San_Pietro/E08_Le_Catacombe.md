@@ -58,7 +58,7 @@ DAVIDE: Tutto, Nadia. Questa volta gli dico tutto, perché da solo non ce la pos
 NADIA (in cuffia): Davide. Ti prego, pensaci un minuto prima di rispondermi così. Hai visto anche tu come vanno a finire le fonti, a Roma.
 DAVIDE: Nadia, Pace è un testimone. Se esce vivo da lì sotto, ha bisogno di una casa sicura, di un medico, di documenti nuovi. Io non ho niente. Io ho un colletto bianco e un breviario. Senza la centrale, lo porto fuori e poi? Lo nascondo da Ciro, sotto la farina?
 NADIA (in cuffia): Ciro lo nasconderebbe, eccome. E in una settimana lo farebbe ingrassare tanto che non lo riconoscerebbe più nessuno.
-DAVIDE: Devo fare rapporto. Il protocollo di esfiltrazione passa dal generale. Non c'è un'altra strada.
+DAVIDE: Devo fare rapporto, Nadia, e non per obbedienza. Il protocollo di esfiltrazione passa dal generale. Non c'è un'altra strada, e lo sai anche tu.
 NADIA (in cuffia): Scusami, non volevo dirlo così. Ma l'ultima volta che hai fatto rapporto su una fonte…
 DAVIDE: Lo so cosa è successo l'ultima volta. Ci penso ogni mattina, quando mi metto il colletto.
 (Silenzio. Davide piega la mappa.)
@@ -113,7 +113,7 @@ LIVIA: Quaranta minuti. Va' con Dio, pretino. Anche se non ci credi, Lui magari 
 PACE (dal buio): Spenga la luce, padre, subito. E resti fermo dove si trova, con le mani bene in vista, anche se non le vedo.
 (Davide si ferma. Spegne la torcia. Buio assoluto.)
 DAVIDE: Lei è Sandro Pace? Sono il prete di cui le ha parlato Livia, quello che fa le domande. Sono solo, glielo garantisco.
-PACE (dal buio): Mi dica il nome che Livia mi dà. Il nome vero. Quello che nessuno sa.
+PACE (dal buio): Prima mi dica il nome che Livia mi dà. Il nome vero. Quello che nessuno sa, a parte noi due.
 DAVIDE: Stella. No: è lei, la stella. Lei la chiama così. Stella mia. Come il profeta che indica la stella, sull'affresco della Madonna.
 (Una pausa. Un respiro che trema.)
 PACE (dal buio): Va bene. Si sieda. C'è un gradino alla sua destra. Non accenda la luce. Al buio la voce si sente meglio. E una pistola si punta peggio.
@@ -127,7 +127,7 @@ PACE (dal buio): Diciassette conti. Piccoli Fratelli di San Zaccaria. Una congre
 PACE (dal buio): Le uscite vanno a Malta, all'Opera Fides. Da Malta a Cipro, alla Caritas Orientis. Da Cipro… in posti dove i soldi diventano armi. Il Sahel. I Balcani. Ho seguito i numeri fino a dove i numeri finiscono e cominciano i morti.
 DAVIDE: E tutto finisce lì, in quelle armi? Non c'è niente che si perde per strada?
 PACE (dal buio): No. È questo il punto. Non tutto. Ogni volta, un dieci per cento va da un'altra parte. Una finanziaria in Lussemburgo. Pulita, elegante. Sul logo c'è un uccello. Un uccello che brucia.
-DAVIDE: Quell'uccello l'ha disegnato su un foglio. L'abbiamo trovato nel cassetto del suo ufficio, in banca.
+DAVIDE: Quell'uccello l'ha disegnato su un foglio. L'abbiamo trovato nel cassetto del suo ufficio, in banca, sotto una pila di estratti conto.
 PACE (dal buio): Allora l'avete trovato. Bene. Quel dieci per cento non compra armi, padre. Compra qualcos'altro. Non so cosa. So solo che chi lo prende non ha bisogno di soldi. Ha bisogno di potere.
 DAVIDE: E a chi ha detto tutto questo, prima di sparire? Qualcuno deve averlo saputo, se poi sono venuti a cercarla sotto casa.
 PACE (dal buio): A uno di dentro. Lo chiamavo il Chierico. Firmava i biglietti così: "Cl." Me li lasciava nel libretto dei canti, sul leggio del coro, alla messa della domenica.
@@ -185,7 +185,7 @@ DAVIDE (tra sé, tremando): Si iniquitates observaveris, Domine… Domine, quis 
 (Pace è seduto contro il muro. Ha la camicia bianca scura di sangue, sul fianco. Davide preme con il giubbotto sulla ferita.)
 DAVIDE: Ti tengo, Sandro, ti tengo io. L'ambulanza sta arrivando, Livia ha chiamato. Resta con me, guardami.
 PACE: Che bella. La vede? La donna con le braccia alzate. La Velata. Da ragazzo la mostravo ai turisti. Dicevo: "Prega da milleottocento anni e non si è ancora stancata."
-DAVIDE: Mia madre pregava così. Con le braccia un po' alzate, quando pensava che nessuno la vedesse.
+DAVIDE: Mia madre pregava così. Con le braccia un po' alzate, quando pensava che nessuno la vedesse, davanti alla finestra della cucina.
 PACE: Ascolti. Nel giubbotto. Tasca interna. Il libretto dei canti. Dentro la copertina c'è una chiavetta. Tutto. I conti, le date, i biglietti del Chierico fotografati.
 (Davide fruga nel giubbotto di Pace. Trova un libretto consumato, con la copertina di cartone. Lo stringe.)
 PACE: E c'è un'altra cosa. L'ultimo bonifico grande. È programmato. Sabato santo. La mattina presto. Come se qualcuno sapesse che quel giorno nessuno guarderà i conti.
@@ -194,7 +194,7 @@ PACE: Padre. Mi dia l'assoluzione, la prego. Non voglio andarmene con tutto ques
 (Davide si blocca. Guarda la Velata, le sue braccia alzate. Poi guarda Pace.)
 DAVIDE: Sandro. Io non sono un prete.
 PACE: Lo so. L'ho capito quando ha detto "scusate" ai morti. I preti veri non chiedono scusa ai morti. Ci sono abituati.
-DAVIDE: Non posso darti quello che chiedi. Non sarebbe vero. E tu meriti una cosa vera.
+DAVIDE: Non posso darti quello che chiedi. Non sarebbe vero, sarebbe solo un'altra bugia. E tu, stanotte, meriti una cosa vera.
 PACE: Allora… cosa mi resta, padre? Che cosa fa uno come me, adesso, qui sotto, senza un prete?
 DAVIDE: Ti resta quello che mi ha insegnato mia madre. Quando non c'è un prete, Dio ascolta lo stesso. Se il dolore è vero. Ripeti con me. Piano. Non serve la voce.
 (Davide gli prende la mano. Parla lentamente, a bassa voce, come un bambino che recita a memoria.)

@@ -91,7 +91,7 @@ DAVIDE: E arrivavano davvero, quelle carte? O era soltanto una paura di Ettore, 
 MILO: Arrivavano. Da Roma. Da qualcuno dei vostri. Il progetto non era ancora finito e qualcuno lo vendeva già. Gli ho detto di sì. È diventato bianco come questa parete.
 DAVIDE: E chi le vendeva? Un nome, un ufficio, un grado: qualunque cosa si ricordi.
 MILO: Non lo so. Arrivavano senza firma. Noi lo chiamavamo "il Postino". Pagavamo, e il Postino non chiedeva mai di più. Questo mi faceva paura. Un traditore che non chiede soldi tradisce per un'idea. Sono i peggiori.
-DAVIDE: E lei, in cambio, che cosa ha avuto da Ettore? Uno come lei non regala una risposta così.
+DAVIDE: E lei, in cambio, che cosa ha avuto da Ettore? Uno come lei, con quella tessera in tasca, non regala una risposta così a un ufficiale nemico.
 MILO: Questo glielo dico un'altra volta. Forse. Lei mi ha dato il nome di Ettore, io le ho dato una storia. Siamo pari.
 DAVIDE: Pari non direi, signor Kovačič. Lei, oltre alla storia, mi ha detto anche una bugia.
 MILO: Quale bugia? Stia attento, perché alla mia età si diventa permalosi, e un vecchio permaloso con una bottiglia di slivovka è pericoloso.
@@ -111,7 +111,7 @@ DAVIDE: E se mento? Lei come fa a saperlo, con tutta questa gente intorno e il r
 MILO: Allora me ne accorgo. Ho mentito per quarant'anni, a Belgrado, a Lubiana e anche a mia moglie. Conosco la musica, e riconosco anche le note stonate.
 (Kovačič muove il pedone di re. Davide risponde con il pedone dell'alfiere.)
 MILO: Siciliana. Un milanese che gioca la siciliana. Lei è pieno di contraddizioni, signore, e me ne accorgo già alla seconda mossa.
-DAVIDE: Sono italiano. È la stessa cosa, signor Kovačič: noi viviamo di contraddizioni da duemila anni.
+DAVIDE: Sono italiano. È la stessa cosa, signor Kovačič: noi viviamo di contraddizioni da duemila anni, e ormai ci sembrano un pregio.
 (Qualche mossa. Kovačič prende un pedone nero.)
 MILO: Primo pedone, prima domanda. Mi dica il suo vero nome, quello che non c'è sul biglietto da visita.
 DAVIDE: Davide, come mi chiamava mia madre quando ero in ritardo per cena. Il resto glielo dico al prossimo pezzo, se riesce a prenderlo.
@@ -148,7 +148,7 @@ MILO: Lei ha un avvocato che la segue al caffè? Allora è più nei guai di quan
 (Kovačič sposta la torre. Il re nero è chiuso.)
 MILO: Scacco. Abbandoni, signor Davide, non c'è vergogna. Ci rivedremo, quando sarà pronto a giocare sul serio e a rispondere senza guardare la porta.
 (Davide abbatte il suo re con un dito. Il pezzo rotola sul marmo.)
-DAVIDE: Abbandono, allora. Ma la prossima volta scelgo io il tavolo, e lontano dagli specchi.
+DAVIDE: Abbandono, allora, con tutta la dignità che mi resta. Ma la prossima volta scelgo io il tavolo, e lontano dagli specchi.
 
 ---
 

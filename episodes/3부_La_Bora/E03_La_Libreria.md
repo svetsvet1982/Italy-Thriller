@@ -29,7 +29,7 @@ DAVIDE: Come da procedura. Un uomo è morto come da procedura, e adesso sua mogl
 LENZI: Lei sta insinuando qualcosa, Colombo. Se è così, la prego di dirlo chiaramente, senza giri di parole.
 DAVIDE: Sto contando, dottore. Come fa lei. Lei, io, il comandante, Roma. Uno di questi quattro ha parlato con qualcuno.
 (Lenzi lo guarda. Poi guarda il mare, piatto e indifferente.)
-LENZI: Lo scrivo. Ogni nome, nell'ordine in cui lei li ha detti, compreso il mio.
+LENZI: Lo scrivo. Ogni nome, nell'ordine in cui lei li ha detti, compreso il mio, che per correttezza metto al primo posto.
 DAVIDE: Lo scriva pure, dottore. Io intanto vado a comprare dei libri, che almeno non muoiono.
 
 ---
@@ -45,7 +45,7 @@ MILO: Prima dei cavi c'erano i pesci. E prima dei pesci, ciò, c'era l'Austria, 
 (Apre un cassetto largo e piatto. Ne tira fuori una carta ingiallita.)
 MILO: Questa è del 1883. Marina imperiale. Più precisa di tutte quelle venute dopo, comprese quelle che usa oggi la vostra Marina. Gli austriaci erano noiosi, ma precisi.
 DAVIDE: Un po' come i milanesi, allora. Anche noi siamo noiosi, ma almeno arriviamo puntuali.
-MILO: Lei è milanese? Eppure ha un biglietto da visita di Genova. Strano, per uno che arriva puntuale.
+MILO: Lei è milanese? Eppure ha un biglietto da visita di Genova. Strano, per uno che arriva puntuale, avere due città e nessuna delle due sulla faccia.
 DAVIDE: Come fa a saperlo? Non le ho ancora detto il mio nome, e nemmeno da dove vengo.
 MILO: Le spunta dal taschino. Un libraio legge tutto. Anche le tasche, soprattutto quelle degli sconosciuti.
 (Davide si china sulla carta. Santa Croce, i fondali segnati in braccia viennesi. Il gatto si stira e lo guarda.)
@@ -77,7 +77,7 @@ MILO: Venga di là, nel retro, dove si può parlare senza che la radio ci ascolt
 
 (Kovačič versa due dita di grappa di prugne in due bicchierini.)
 MILO: Slivovka. Fatta da mio cugino a Sesana. Illegale da tutte e due le parti del confine. Na zdravje.
-DAVIDE: Na zdravje. Spero di averlo detto bene, perché lo sloveno non l'ho mai studiato.
+DAVIDE: Na zdravje. Spero di averlo detto bene, perché lo sloveno non l'ho mai studiato, e l'ultima cosa che voglio è offendere suo cugino.
 MILO: Novembre 1989. La settimana in cui a Berlino cadeva il Muro. Qui non cadeva niente. Qui c'era la nebbia sul Carso e il valico di Lipizza alle tre di notte.
 DAVIDE: E lei, quella notte, era dall'altra parte della sbarra. Lo capisco da come guarda quella fotografia.
 MILO: Io ero l'altra parte. UDBA, il servizio di sicurezza jugoslavo. Sezione di Capodistria. Avevo trentanove anni e credevo ancora in quasi tutto.
@@ -108,7 +108,7 @@ MILO: Lei che cosa preferisce, il bianco o il nero? Scelga con calma, perché po
 DAVIDE: Prendo il nero. Gli ospiti scelgono il nero e perdono con dignità, almeno così mi ha insegnato mio padre.
 MILO: Regola della casa. Ogni pezzo preso, una domanda. Risposta vera. Se non vuole rispondere, abbandona la partita.
 DAVIDE: E se mento? Lei come fa a saperlo, con tutta questa gente intorno e il rumore delle tazzine?
-MILO: Allora me ne accorgo. Ho mentito per quarant'anni. Conosco la musica, e riconosco anche le note stonate.
+MILO: Allora me ne accorgo. Ho mentito per quarant'anni, a Belgrado, a Lubiana e anche a mia moglie. Conosco la musica, e riconosco anche le note stonate.
 (Kovačič muove il pedone di re. Davide risponde con il pedone dell'alfiere.)
 MILO: Siciliana. Un milanese che gioca la siciliana. Lei è pieno di contraddizioni, signore, e me ne accorgo già alla seconda mossa.
 DAVIDE: Sono italiano. È la stessa cosa, signor Kovačič: noi viviamo di contraddizioni da duemila anni.
@@ -121,7 +121,7 @@ DAVIDE: Un cavallo, signor Kovačič. Vale più di un pedone, quindi mi spettano
 DAVIDE: Prima: lei conosce Nadia Rinaldi? Seconda: perché Ettore aveva scritto il suo nome in un quaderno?
 MILO: Rispondo alla seconda. A Trieste si risponde sempre prima alla seconda. Ettore scriveva i nomi delle persone di cui si fidava. Il mio era uno dei pochi.
 (Kovačič muove un alfiere. Poi alza gli occhi e guarda Davide nello specchio, non in faccia.)
-MILO: E adesso la prima. Le ho mentito, prima. Non sono trentasette anni.
+MILO: E adesso la prima, che è quella che le interessa davvero. Le ho mentito, prima. Non sono trentasette anni.
 DAVIDE: Lo so, gliel'ho già detto in libreria. Ma adesso voglio sapere chi è venuto prima di me.
 MILO: Ad aprile è entrata in libreria una ragazza. Capelli bagnati, uno zaino, un accento di Napoli che cercava di nascondere e non ci riusciva. Ha guardato i Joyce per dieci minuti. Poi mi ha chiesto il milleuno.
 DAVIDE: Era Nadia. Mi dica che era lei, e che non me lo sto immaginando perché lo voglio troppo.
@@ -146,7 +146,7 @@ MILO: Lo so. Guanti di pelle, vicino alla colonna. È entrato tre minuti dopo di
 DAVIDE: È il mio avvocato. Mi segue dappertutto, come un'ombra con il taccuino, e scrive anche quante zollette metto nel caffè.
 MILO: Lei ha un avvocato che la segue al caffè? Allora è più nei guai di quanto pensassi, e io sono troppo vecchio per i guai degli altri.
 (Kovačič sposta la torre. Il re nero è chiuso.)
-MILO: Scacco. Abbandoni, signor Davide. Ci rivedremo, quando sarà pronto a giocare sul serio.
+MILO: Scacco. Abbandoni, signor Davide, non c'è vergogna. Ci rivedremo, quando sarà pronto a giocare sul serio e a rispondere senza guardare la porta.
 (Davide abbatte il suo re con un dito. Il pezzo rotola sul marmo.)
 DAVIDE: Abbandono, allora. Ma la prossima volta scelgo io il tavolo, e lontano dagli specchi.
 
@@ -156,7 +156,7 @@ DAVIDE: Abbandono, allora. Ma la prossima volta scelgo io il tavolo, e lontano d
 
 (Davide è seduto davanti all'ingresso, un giornale aperto che non legge. Lenzi entra, si toglie il cappotto, lo vede. Non finge sorpresa.)
 DAVIDE: Com'era l'acqua tonica al San Marco, dottore? Mi è sembrato che non l'abbia nemmeno assaggiata.
-LENZI: Tiepida, e senza bollicine. L'ho lasciata lì, come ha visto, perché non ero lì per bere.
+LENZI: Tiepida, e senza bollicine. L'ho lasciata lì, come ha visto, perché non ero lì per bere, e il cameriere me l'ha fatta pagare lo stesso.
 DAVIDE: Almeno non lo nega. È già qualcosa, per uno che passa il pomeriggio dietro un giornale.
 LENZI: Io la sorveglio, Colombo. Gliel'ho detto il primo giorno. Non mi sono nascosto. Mi sono seduto davanti a uno specchio.
 DAVIDE: E che cosa ha visto, nello specchio, oltre a un uomo che beve il caffè con un vecchio?

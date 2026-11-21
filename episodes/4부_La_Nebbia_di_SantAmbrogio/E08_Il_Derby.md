@@ -212,7 +212,7 @@ VITALI: Il generale non ha bisogno del vostro seme. Ha già un piano B. (Pausa.)
 - Ernesto 위치: 1층 빨간 링 측면 구역 9열, 금발 남자(E05)와 **Ferri**(E05) 사이 → Malaspina 측 청부 인력. Conte 경위는 귀빈석에 있었음(Davide와 마주치지 않음).
 - Vitali 대면: Vitali는 *Lei*를 고집("se le do del tu… è più facile così"), 비테르보 교육과정에서 Davide가 tu를 허락했었음. Davide의 가르침 "Agli appuntamenti si arriva prima, ma ci si fa vedere puntuali." Vitali는 Davide가 두 사람을 죽였다고 믿느냐는 질문에 눈을 피함("Non sono pagato per credere"). Ferri·금발은 Vitali가 아니라 '로마'의 명령을 받음. 한 번 "Davide"라고 이름을 부름.
 - 하프타임(21:32, 인테르 1–0, 9번 헤딩골 — 선수명 없음): Ferri 일행은 약속한 16번 출구가 아니라 **11번 타워 램프**로 Ernesto를 끌고 가려 함(주차장 차량 대기) → 울트라스 램프 난입, 연막탄 → Beppe가 Ernesto 구출 → **Ferri가 짧은 칼로 Beppe의 왼쪽 옆구리를 찌름**(깊지 않음, 출혈) → 울트라스가 Ferri 제압 → Ferri는 경찰(Mobile)에 체포. 금발은 도주. Ernesto의 모자 분실.
-- Beppe: **산 카를로 병원**으로 이송(Nadia 동승). "Mi ha bucato come una salamella." 바 열쇠는 바질 화분 밑, 고양이 밥 줄 것, 커피 머신 만지지 말 것. 1998년 산 비토레 교도소 18개월 수감 때 Davide만 면회 안 옴(Davide는 다른 이름으로 보스니아에 있었음) — 이번에 털어놓고 화해. 어릴 때(10살) Ernesto가 Cinquecento로 둘을 첫 더비에 데려감(2–1 패, Beppe 울음). Beppe 면회 온 사람: 어머니, "la Luisa", 신부. Beppe의 바에는 고양이가 있음.
+- Beppe: 입원 거부 → Nadia가 Wang의 이모(전 간호사)에게 데려감(9화 도입과 연결). "Mi ha bucato come una salamella." 바 열쇠는 바질 화분 밑, 고양이 밥 줄 것, 커피 머신 만지지 말 것. 1998년 산 비토레 교도소 18개월 수감 때 Davide만 면회 안 옴(Davide는 18살, 자기도 잡힐까 두려워 피했고 이후 입대하며 외면함) — 이번에 털어놓고 화해. 어릴 때(10살) Ernesto가 Cinquecento로 둘을 첫 더비에 데려감(2–1 패, Beppe 울음). Beppe 면회 온 사람: 어머니, "la Luisa", 신부. Beppe의 바에는 고양이가 있음.
 - Ernesto는 리소토에 사프란 '암술'만 씀(봉지 가루 금지) — 에필로그 리소토용.
 - 22:02 주차장: Vitali 단독, 손을 펴 보이고 "다음 10분간 명령 없음". 마지막 대사 "Il generale non ha bisogno del vostro seme. Ha già un piano B. Lunedì, alla Scala." → Malaspina는 가짜 시드를 곧 알게 될 것이며 이미 Piano B(12/7 스칼라)로 전환.
 - Ernesto는 Davide와 함께 Beppe의 바 승합차로 이동(이후 거처는 미정).

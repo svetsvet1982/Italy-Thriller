@@ -40,11 +40,11 @@ CHIARA: No. No, no, no. (Si guarda intorno. Abbassa la voce.) Sei impazzito? Sia
 DAVIDE: Una candela, ogni sera, quando esci dalla Procura. Da quando sei in DDA. Per i testimoni. Te lo ricordi che me l'avevi detto?
 CHIARA: Me lo ricordo. Non mi ricordo di averti detto in quale chiesa.
 DAVIDE: Non me l'hai detto. Ho guardato dove c'era meno strada da fare dal tuo ufficio. Tu odi perdere tempo.
-CHIARA: Hai trenta secondi. Poi esco e chiamo i carabinieri. Il posto di guardia è a cinquanta metri.
+CHIARA: Hai trenta secondi, e li conto davvero, uno per uno. Poi esco e chiamo i carabinieri. Il posto di guardia è a cinquanta metri.
 DAVIDE: Non ho ammazzato nessuno, Chiara. Né a Trieste né da nessun'altra parte. Questo è il primo dei trenta secondi.
 CHIARA: Venticinque. E non mi interessa cosa giuri, mi interessa cosa riesci a dimostrare.
 DAVIDE: Quello che mi ha messo addosso quei morti si chiama Ruggero Malaspina. È il mio capo. Era il mio capo. Lavora per un'organizzazione privata che vuole spegnere le banche d'Europa.
-CHIARA: Diciotto. E sembra un romanzo di quelli che compri in stazione.
+CHIARA: Diciotto. E sembra un romanzo di quelli che compri in stazione, prima di un Frecciarossa in ritardo, e che lasci sul sedile quando scendi.
 DAVIDE: Ha bisogno di una cosa che ha mio padre. Dentro un quadro. Entro pochi giorni. E sorveglia Giulia.
 (Chiara si irrigidisce. Si siede nel banco davanti al suo, di schiena, come se pregasse.)
 CHIARA: Ripeti l'ultima frase. Lentamente, parola per parola, e pensa bene a quello che dici.
@@ -89,7 +89,7 @@ BEPPE (dal sedile di guida, senza voltarsi): Il caffè fa schifo. E le lenzuola 
 [SCENA 4 — Appartamento di Chiara, via Melzo, quarto piano. Le undici di sera. Un corridoio con le librerie piene di codici e romanzi. In fondo, una porta socchiusa: sulla parete della camera di Giulia, una maschera dorata e azzurra. La cucina è piccola, ordinata, con una finestra sui tetti.]
 
 (Chiara apre la porta. Non dice niente. Si sposta per lasciarlo passare. Davide si ferma davanti alla camera di Giulia. Guarda la maschera.)
-CHIARA: La Colombina. Dorme con quella sopra la testa. Dice che le fa la guardia.
+CHIARA: La Colombina. Dorme con quella sopra la testa da febbraio, e non me la lascia nemmeno spolverare. Dice che le fa la guardia.
 DAVIDE: Gliel'ho presa a Venezia, a febbraio. Non pensavo che l'avrebbe tenuta, credevo che l'avrebbe buttata in un cassetto.
 CHIARA: Lo so. A febbraio. Quando avevo due uomini sotto casa e uno davanti alla scuola. (Va in cucina. Lui la segue.) Siediti. Caffè?
 DAVIDE: Sì, grazie. Se non ti disturba, a quest'ora. Sono tre giorni che dormo poco e male.
@@ -174,7 +174,7 @@ CHIARA: Una. Niente armi. Se scopro che hai sparato a qualcuno, la cartellina la
 DAVIDE: Ma le ho promesso che le avrei detto tutto. Sabato, al bar di Beppe, guardandola negli occhi.
 CHIARA: Glielo dirai dopo. Quando sarai di nuovo un uomo con un solo nome. (Pausa.) Quattro. Quando è finita, ti consegni. A me. Non alla Conte, non a Roma. A me. Davanti a un avvocato vero.
 DAVIDE: Va bene. Accetto tutte e quattro le condizioni, anche la terza, anche se mi costa più delle altre.
-CHIARA: Dici "va bene" troppo in fretta. Come sempre.
+CHIARA: Dici "va bene" troppo in fretta. Come sempre, come quando ti chiedevo se saresti tornato per il compleanno di Giulia.
 DAVIDE: Questa volta lo dico in fretta perché è vero. Non perché voglio chiudere il discorso.
 (Chiara lo guarda. Strappa il foglio dal blocco. Lo piega in due.)
 CHIARA: Sai qual è la cosa peggiore? Che ti credo. Ti ho creduto in chiesa, al secondo minuto. Mi sono arrabbiata per non crederti, e non ci sono riuscita.
@@ -191,7 +191,7 @@ DAVIDE: Allora è ufficiale. Lo dicono mia figlia, la mia collega, e adesso anch
 (Chiara guarda lo schermo. Guarda l'orologio del forno: 7:00. Guarda Davide. Preme il tasto del vivavoce e posa il telefono sul tavolo.)
 CHIARA: Pronto, sono Bassi. Chi parla, a quest'ora, su questo numero?
 MALASPINA (al telefono): Dottoressa, buongiorno. Mi scusi l'ora. Sono il generale Ruggero Malaspina. Credo che non ci siamo mai parlati. A febbraio le ha telefonato un mio colonnello, in un'occasione spiacevole.
-CHIARA: Mi ricordo il colonnello. Non mi ricordo il suo nome, generale.
+CHIARA: Mi ricordo il colonnello, e mi ricordo anche il tono con cui parlava della mia famiglia. Non mi ricordo il suo nome, generale.
 MALASPINA (al telefono): I nomi non contano. Contano le persone. Lei è una persona seria, e per questo la chiamo io, direttamente.
 (Davide non si muove dalla finestra. Chiara alza una mano: zitto.)
 MALASPINA (al telefono): Dottoressa Bassi, credo che suo marito sia lì con lei.
@@ -199,7 +199,7 @@ MALASPINA (al telefono): Dottoressa Bassi, credo che suo marito sia lì con lei.
 — FINE DELL'EPISODIO 4 —
 
 <!-- 연속성 메모:
-- **Aurelia Sicurezza 지분 40% = Fenice Holding Limited(몰타, 라 발레타)**, 법정대리인 **"Avvocato Lucio Ferraris"** = AISE 비상선 위장명 'Studio dentistico Ferraris'와 동일(Malaspina가 2006년 직접 지은 이름, 강의 중 "il dentista fa sempre un po' male"라며 웃음). 즉 국가 가공 신분이 민간 회사 등기에 등장 → Chiara: **falso ideologico in atto pubblico**(+ turbativa d'asta 가능성). "Al Capone e le tasse."
+- **Aurelia Sicurezza 지분 40% = Fenice Holding Limited(몰타, 라 발레타)**, 법정대리인 **"Avvocato Lucio Ferraris"** = AISE 비상선 위장명 'Studio dentistico Ferraris'와 동일(Malaspina가 2006년 직접 지은 이름, 강의 중 "come le macchine: veloce e non si ferma mai"라며 웃음). 즉 국가 가공 신분이 민간 회사 등기에 등장 → Chiara: **falso ideologico in atto pubblico**(+ turbativa d'asta 가능성). "Al Capone e le tasse."
 - 브레라 수장고 = 덫(문 열면 로마가 즉시 앎) → 정식 침입 계획 수정 필요.
 - **Chiara**: 매일 저녁 퇴근길에 **San Pietro in Gessate**(법원 맞은편)에서 증인들을 위해 촛불 하나(DDA 이후 습관). 12/1 19:45 성당 접근 → 23시 아파트 → 밤새 대화 → 12/2 07:00 Malaspina 전화(5화 콜드 오픈과 연결). 12/1 밤 Giulia는 다음 날 그리스어 시험 때문에 친구 집에서 잠. 낙타색 코트. 아파트 = **via Melzo**(포르타 베네치아) 4층, 법전·소설 책장, 창 너머 지붕들. Giulia는 Colombina 가면을 머리 위에 걸고 잠("le fa la guardia").
 - Chiara의 법적 입장: 트리에스테 GIP의 구속영장(ordinanza di custodia cautelare) 존재, 신고 의무, 형법 378조 favoreggiamento personale(최대 4년). 트리에스테 사건은 관할 밖 → Brera 계약 이행지 밀라노 기준으로 **'modello 45'(atti relativi, 피의자·범죄통지 없음)** 비공식 파일 개설. Guardia di Finanza로 몰타 회사 계좌, 브레라 출입 기록 조회 예정.

@@ -28,7 +28,7 @@ LIVIA (al telefono): Pretino, sei seduto? M'ha chiamato Sandro. M'ha chiamato st
 LIVIA: M'ha chiamato da una cabina telefonica. Esistono ancora, lo sapevi? Quaranta secondi in tutto: li ho contati, come una scema, con l'orologio in mano.
 DAVIDE: Che cosa ha detto? Esattamente, parola per parola, anche le cose che le sembrano senza importanza.
 LIVIA: Ha detto: "Stella mia, stai bene?" Io ho pianto, come una scema. Poi ha detto: "Venerdì. Mezzanotte. Dove ti ho detto la prima volta che mi piacevi."
-DAVIDE: Priscilla, allora. Il posto del santino, e del vostro primo appuntamento.
+DAVIDE: Priscilla, allora. Il posto del santino, e del vostro primo appuntamento. Ha scelto l'unico luogo di Roma dove solo lei poteva capire il messaggio.
 LIVIA: Davanti alla Madonna con la stella, sì. Me l'ha detto là sotto, la prima volta. Al buio, perché la guida era andata avanti con i giapponesi.
 DAVIDE: E come pensa di entrare, di notte, in una catacomba? I cancelli sono chiusi, e ci sono le telecamere.
 LIVIA: Sandro da ragazzo faceva il volontario lì. Con gli scout. Conosce un cancelletto verde dalla parte di Villa Ada. Un'entrata di servizio, per gli archeologi.
@@ -36,15 +36,15 @@ DAVIDE: Gli ha parlato di me? Che cosa sa, il suo Sandro, di questo prete di Mil
 LIVIA: Gli ho detto che c'è un prete che fa le domande giuste. Lui ha riso. Ha detto: "Portalo. Solo lui. Se è un prete vero, saprà pregare. Se non lo è, saprà correre."
 DAVIDE: Un uomo prudente, il suo Sandro. Mi piace già, anche se non l'ho mai visto in faccia.
 LIVIA: Sandro è un contabile. Mette le virgole anche quando ha paura. Io vengo con te, e non provà a dirmi de no.
-DAVIDE: No, signora Carrà, questo no, e non se ne discute.
+DAVIDE: No, signora Carrà, questo no, e non se ne discute. Se le succede qualcosa là sotto, Sandro non me lo perdonerebbe mai, e nemmeno io.
 LIVIA: Ma che stai a dì? È il mio uomo! So' quattro settimane che non dormo, e mo' dovrei aspettà in macchina come una tassista?
 DAVIDE: Appunto. Se la seguono, seguono lei fino a lui. Lei resta in macchina, sulla Salaria, con il motore acceso. Se fra quaranta minuti non sono fuori, chiama il 112. Non me. Il 112.
-LIVIA: E se tu non torni, pretino? Che je dico, ai carabinieri?
+LIVIA: E se tu non torni, pretino? Che je dico, ai carabinieri, che ho perso un prete e un fidanzato nella stessa notte?
 DAVIDE: Allora dica ai carabinieri che un prete è entrato in una catacomba e non ne è uscito. Faranno un ottimo titolo, per il suo giornale.
 LIVIA (con un mezzo sorriso, contro voglia): Sei proprio uno stronzo, pretino.
-DAVIDE: Me lo dicono tutti. Ma di solito in confessionale.
+DAVIDE: Me lo dicono tutti, signora, non è una novità. Ma di solito in confessionale, e con molto più rispetto.
 (Livia spegne il motore. Lo guarda, seria.)
-LIVIA: L'hai giurato, a San Cosimato. Te lo ricordi? Me lo riporti vivo.
+LIVIA: L'hai giurato, a San Cosimato, davanti alle bancarelle. Te lo ricordi? Me lo riporti vivo, non me ne frega niente del resto.
 DAVIDE: Me lo ricordo, Livia. È l'unica promessa che ho fatto a Roma senza mentire.
 
 ---
@@ -55,7 +55,7 @@ NADIA (in cuffia): Ieri mattina ho scritto del biglietto di Ferrante. Come avevo
 DAVIDE: Il silenzio del generale è una parola latina. Anzi, è la sua preferita: quella che non lascia tracce scritte.
 NADIA (in cuffia): E domani? Cosa gli dici, di domani? Perché da come stai zitto, ho paura di indovinarlo.
 DAVIDE: Tutto, Nadia. Questa volta gli dico tutto, perché da solo non ce la posso fare.
-NADIA (in cuffia): Davide. Ti prego, pensaci un minuto prima di rispondermi così.
+NADIA (in cuffia): Davide. Ti prego, pensaci un minuto prima di rispondermi così. Hai visto anche tu come vanno a finire le fonti, a Roma.
 DAVIDE: Nadia, Pace è un testimone. Se esce vivo da lì sotto, ha bisogno di una casa sicura, di un medico, di documenti nuovi. Io non ho niente. Io ho un colletto bianco e un breviario. Senza la centrale, lo porto fuori e poi? Lo nascondo da Ciro, sotto la farina?
 NADIA (in cuffia): Ciro lo nasconderebbe, eccome. E in una settimana lo farebbe ingrassare tanto che non lo riconoscerebbe più nessuno.
 DAVIDE: Devo fare rapporto. Il protocollo di esfiltrazione passa dal generale. Non c'è un'altra strada.
@@ -64,8 +64,8 @@ DAVIDE: Lo so cosa è successo l'ultima volta. Ci penso ogni mattina, quando mi 
 (Silenzio. Davide piega la mappa.)
 NADIA (in cuffia): Allora fammi una promessa. Non dire al generale da dove entri. Digli via Salaria, digli Priscilla, digli quello che vuoi. Ma il cancelletto verde no. Quello tienilo per te.
 DAVIDE: Perché proprio il cancelletto? Al generale non importa da quale porta entro, gli importano le carte.
-NADIA (in cuffia): Perché voglio sapere chi ci arriva, al cancelletto verde. Se ci arriva qualcuno.
-DAVIDE: Nadia, tu pensi davvero che dentro casa nostra qualcuno…
+NADIA (in cuffia): Perché voglio sapere chi ci arriva, al cancelletto verde. Se ci arriva qualcuno, vuol dire che una delle persone che lo sanno ha parlato.
+DAVIDE: Nadia, tu pensi davvero che dentro casa nostra, a Forte Braschi, qualcuno stia lavorando per l'altra parte…
 NADIA (in cuffia): Io non penso. Io conto. Come lo svizzero. E i conti, da Venezia, non mi tornano più.
 DAVIDE: Va bene, hai vinto. Il cancelletto lo tengo per me, e al generale dirò soltanto via Salaria.
 NADIA (in cuffia): Grazie. E Davide… stanotte prova a dormire. Domani sera ti voglio sveglio. E vivo. In quest'ordine.
@@ -96,9 +96,9 @@ LIVIA: Mi ha detto: "Qui sotto c'è gente che ha amato qualcuno per sempre. Guar
 DAVIDE: E lui che cosa ha risposto? Non mi sembra un uomo che si offende facilmente.
 LIVIA: Lui m'ha baciata. Davanti alla Madonna. Al buio. Poi ha detto: "Scusa, non dovevo, è un luogo sacro." Ecco. Questo è Sandro.
 (Silenzio. La pioggia sul tettuccio. Livia si accende una sigaretta, poi la spegne subito.)
-LIVIA: Tu ce l'hai qualcuno, pretino? Lo so che non dovrei chiederlo a un prete.
+LIVIA: Tu ce l'hai qualcuno, pretino? Lo so che non dovrei chiederlo a un prete, ma stasera le regole le lasciamo in macchina.
 DAVIDE: Ho una figlia di quindici anni. Mi chiama per nome, come un collega. Ma ogni tanto, quando non ci pensa, le scappa ancora un papà.
-LIVIA: E sua madre? Scusa, pretino, so' una giornalista: le domande me escono da sole.
+LIVIA: E sua madre? Scusa, pretino, so' una giornalista: le domande me escono da sole, pure quando non dovrebbero.
 DAVIDE: Sua madre dice che io sono sempre qualcun altro. Ha ragione, purtroppo. Anche stasera, anche qui.
 LIVIA: Stasera sei quello che me lo riporta. Basta che sei questo, e il resto me lo spieghi un'altra volta.
 (Davide apre la portiera. Si sistema il colletto bianco, sotto il giubbotto scuro.)
@@ -110,15 +110,15 @@ LIVIA: Quaranta minuti. Va' con Dio, pretino. Anche se non ci credi, Lui magari 
 [SCENA 6 — Catacombe di Priscilla. Mezzanotte. Un cancelletto verde arrugginito, poi una scala di tufo. Gallerie strette, nicchie vuote nelle pareti. Buio quasi totale. Davide ha una piccola torcia.]
 
 (Davide scende piano. L'aria è umida, ferma. Si sente solo il suo respiro e una goccia d'acqua lontana.)
-PACE (dal buio): Spenga la luce, padre, subito. E resti fermo dove si trova.
+PACE (dal buio): Spenga la luce, padre, subito. E resti fermo dove si trova, con le mani bene in vista, anche se non le vedo.
 (Davide si ferma. Spegne la torcia. Buio assoluto.)
-DAVIDE: Lei è Sandro Pace? Sono il prete di cui le ha parlato Livia.
+DAVIDE: Lei è Sandro Pace? Sono il prete di cui le ha parlato Livia, quello che fa le domande. Sono solo, glielo garantisco.
 PACE (dal buio): Mi dica il nome che Livia mi dà. Il nome vero. Quello che nessuno sa.
-DAVIDE: Stella. No: è lei, la stella. Lei la chiama così. Stella mia.
+DAVIDE: Stella. No: è lei, la stella. Lei la chiama così. Stella mia. Come il profeta che indica la stella, sull'affresco della Madonna.
 (Una pausa. Un respiro che trema.)
 PACE (dal buio): Va bene. Si sieda. C'è un gradino alla sua destra. Non accenda la luce. Al buio la voce si sente meglio. E una pistola si punta peggio.
 DAVIDE: Io non ho pistole, Sandro. Ho una torcia spenta e un breviario in tasca, nient'altro.
-PACE (dal buio): I preti non hanno mai pistole. È per questo che muoiono i contabili.
+PACE (dal buio): I preti non hanno mai pistole. È per questo che muoiono i contabili, padre: perché si fidano dei preti.
 (Il fruscio di qualcuno che si siede, a due metri.)
 DAVIDE: Livia sta bene, non si preoccupi per lei. È qui fuori, sulla Salaria, e la aspetta con il motore acceso.
 PACE (dal buio): Lo so. Ho sentito la Panda. Fa un rumore come una lavatrice vecchia. Io gliel'ho sempre detto di cambiarla.
@@ -129,7 +129,7 @@ DAVIDE: E tutto finisce lì, in quelle armi? Non c'è niente che si perde per st
 PACE (dal buio): No. È questo il punto. Non tutto. Ogni volta, un dieci per cento va da un'altra parte. Una finanziaria in Lussemburgo. Pulita, elegante. Sul logo c'è un uccello. Un uccello che brucia.
 DAVIDE: Quell'uccello l'ha disegnato su un foglio. L'abbiamo trovato nel cassetto del suo ufficio, in banca.
 PACE (dal buio): Allora l'avete trovato. Bene. Quel dieci per cento non compra armi, padre. Compra qualcos'altro. Non so cosa. So solo che chi lo prende non ha bisogno di soldi. Ha bisogno di potere.
-DAVIDE: A chi ha detto tutto questo, prima di sparire?
+DAVIDE: E a chi ha detto tutto questo, prima di sparire? Qualcuno deve averlo saputo, se poi sono venuti a cercarla sotto casa.
 PACE (dal buio): A uno di dentro. Lo chiamavo il Chierico. Firmava i biglietti così: "Cl." Me li lasciava nel libretto dei canti, sul leggio del coro, alla messa della domenica.
 DAVIDE: E non l'ha mai visto in faccia? Neanche una volta, in chiesa, tra i banchi della domenica?
 PACE (dal buio): Mai. Al telefono parlava con una voce cambiata da una macchina. Citava sant'Agostino. Mi ha detto: "Io parlo con lo Stato italiano. Lo Stato sa. Lo Stato la protegge." Io mi sono fidato. Come ci si fida di un confessore.
@@ -138,8 +138,8 @@ PACE (dal buio): Il ventisei febbraio mi lascia un biglietto: "Tutto a posto. Do
 (Un rumore. Lontano, verso l'ingresso, un clic metallico. Poi un secondo.)
 PACE (dal buio, in un soffio): Ha sentito?
 DAVIDE (in un soffio): Il cancelletto.
-PACE (dal buio): Chi sa del cancelletto verde? Me lo dica subito, padre, non c'è tempo.
-DAVIDE: Livia. Io. E una persona di cui mi fido più che di me stesso.
+PACE (dal buio): Chi sa del cancelletto verde? Me lo dica subito, padre, non c'è tempo. Lo conoscono in pochissimi, anche tra gli archeologi.
+DAVIDE: Livia. Io. E una persona di cui mi fido più che di me stesso, l'unica a cui l'ho detto.
 PACE (dal buio): Allora si fida della persona sbagliata. O qualcuno ha seguito lei, padre, fin qui sotto.
 
 ---
@@ -147,18 +147,18 @@ PACE (dal buio): Allora si fida della persona sbagliata. O qualcuno ha seguito l
 [SCENA 7 — Catacombe di Priscilla, le gallerie. Pochi minuti dopo. Fasci di torce lontani, che rimbalzano sul tufo. Passi pesanti, almeno due persone.]
 
 (Pace afferra Davide per il braccio, nel buio. Una mano sudata, forte.)
-PACE (sussurrando): Mi segua. Mano sul muro, sempre a sinistra. Conto i passi io.
-DAVIDE (sussurrando): Dove andiamo? Io qui sotto non vedo niente, nemmeno le mie mani.
+PACE (sussurrando): Mi segua, e non lasci mai il muro. Mano sul muro, sempre a sinistra. Conto i passi io, come facevo con i turisti.
+DAVIDE (sussurrando): Dove andiamo? Io qui sotto non vedo niente, nemmeno le mie mani, e sento solo il suo respiro.
 PACE (sussurrando): Giù, al secondo piano. Loro non conoscono le scale, e al buio le scale fanno più danni delle pistole.
 (Corrono curvi, nel buio. Dietro, una voce maschile, bassa.)
 UOMO: Pace! Sandro! Siamo amici. Ci manda chi ti protegge.
-PACE (sussurrando): Mi protegge, dice. Come ha protetto Ruffo, che adesso sta al Verano.
+PACE (sussurrando): Mi protegge, dice. Come ha protetto Ruffo, che adesso sta al Verano. Non ci casco, padre, non stavolta.
 (Una scala stretta. Pace scende per primo. Davide inciampa, si aggrappa a una nicchia. Qualcosa di secco si sbriciola sotto le sue dita.)
 DAVIDE (sussurrando): Scusate.
-PACE (sussurrando): Con chi parla? Qui non c'è nessuno, a parte noi due.
+PACE (sussurrando): Con chi parla, padre? Qui non c'è nessuno, a parte noi due e quei due là sopra.
 DAVIDE (sussurrando): Con chi stava qui. Da milleottocento anni, e io gli ho appena messo una mano addosso.
 (Un fascio di luce taglia la galleria, sopra di loro. Si fermano. Il fascio passa. Riprendono.)
-UOMO: Sono scesi di sotto, li ho sentiti. Prendi la destra. Io vado dritto.
+UOMO: Sono scesi di sotto, li ho sentiti sulla scala. Prendi la destra e tieni la torcia bassa. Io vado dritto.
 PACE (sussurrando): Destra è la Cappella Greca. Andiamo lì. C'è un'altra uscita, dietro, murata a metà.
 (Arrivano in una piccola sala a volta. Davide sente il soffitto più alto, l'eco diversa.)
 PACE (sussurrando): Qui. La Cappella Greca. Le pareti sono tutte dipinte: lei non le vede, ma ci sono. Il banchetto, il pane spezzato, la gente seduta a tavola.
@@ -169,9 +169,9 @@ DAVIDE: Sandro!
 (Davide lo trascina dietro un pilastro di tufo. La torcia dell'uomo si avvicina, cerca. Davide non ha armi. Prende fiato. E comincia a parlare, ad alta voce, calmo, con la voce della messa.)
 DAVIDE: De profundis clamavi ad te, Domine. Domine, exaudi vocem meam.
 (L'eco moltiplica la voce. Sembra venire da tutte le pareti, da tutte le nicchie. La torcia si ferma, incerta.)
-UOMO: Chi c'è? Chi parla? Fatti vedere, se hai il coraggio!
+UOMO: Chi c'è? Chi parla? Fatti vedere, se hai il coraggio, invece di nasconderti dietro i morti!
 DAVIDE: Fiant aures tuae intendentes in vocem deprecationis meae.
-UOMO: Smettila con questa cantilena! Dove sei? Esci fuori!
+UOMO: Smettila con questa cantilena, mi hai capito? Dove sei? Esci fuori, o sparo a caso!
 DAVIDE (con voce piana, chiara): Sono un prete. E tu sei in un cimitero, con quarantamila morti intorno. Fuori ci sono i carabinieri. Li ha chiamati una donna, dieci minuti fa. Puoi spararmi. Ma poi devi uscire. E l'unica uscita che conosci è quella dove ti aspettano.
 (Silenzio. La torcia trema. Da lontano, dall'altra galleria, la voce del secondo uomo.)
 SECONDO UOMO (da lontano): Lascia perdere, ce ne andiamo! Ci sono le sirene, sulla Salaria! Via, via!
@@ -190,7 +190,7 @@ PACE: Ascolti. Nel giubbotto. Tasca interna. Il libretto dei canti. Dentro la co
 (Davide fruga nel giubbotto di Pace. Trova un libretto consumato, con la copertina di cartone. Lo stringe.)
 PACE: E c'è un'altra cosa. L'ultimo bonifico grande. È programmato. Sabato santo. La mattina presto. Come se qualcuno sapesse che quel giorno nessuno guarderà i conti.
 DAVIDE: Sabato santo, va bene, ho capito tutto. Adesso basta parlare, Sandro: tieni il fiato per l'ambulanza.
-PACE: Padre. Mi dia l'assoluzione, la prego. Non voglio andarmene con tutto questo addosso.
+PACE: Padre. Mi dia l'assoluzione, la prego. Non voglio andarmene con tutto questo addosso, con tutti quei numeri e quei morti.
 (Davide si blocca. Guarda la Velata, le sue braccia alzate. Poi guarda Pace.)
 DAVIDE: Sandro. Io non sono un prete.
 PACE: Lo so. L'ho capito quando ha detto "scusate" ai morti. I preti veri non chiedono scusa ai morti. Ci sono abituati.
@@ -203,15 +203,15 @@ DAVIDE: Mio Dio, mi pento e mi dolgo con tutto il cuore dei miei peccati…
 DAVIDE: …perché peccando ho meritato i tuoi castighi, e molto più perché ho offeso te, infinitamente buono e degno di essere amato sopra ogni cosa.
 (Pace ripete, ancora più piano: «…sopra ogni cosa…»)
 DAVIDE: Propongo con il tuo santo aiuto di non offenderti mai più. Signore, misericordia. Perdonami.
-PACE: Perdonami. (Sorride appena.) Lei la sa a memoria, come un chierichetto della prima comunione.
-DAVIDE: La so da quando avevo sette anni. Non l'avevo più detta da trenta.
+PACE: Perdonami. (Sorride appena.) Lei la sa a memoria, come un chierichetto della prima comunione. Senza sbagliare nemmeno una parola, anche adesso.
+DAVIDE: La so da quando avevo sette anni, me l'ha insegnata mia madre in cucina. Non l'avevo più detta da trenta.
 PACE: Allora l'ha detta anche per sé. Non faccia finta di no, padre: me ne sono accorto dalla voce.
 (Davide non risponde. Gli occhi gli si riempiono. Da lontano, voci, passi diversi, una radio dei carabinieri.)
 PACE: Dica a Livia… dica alla mia stella che il coro, domenica… che il basso lo trovino un altro.
 DAVIDE: Glielo dici tu. Domenica, in chiesa, davanti a tutto il coro. Glielo dici tu, Sandro.
 (Pace scuote la testa, piano. Gli stringe il polso con una forza improvvisa. Lo tira verso di sé.)
 PACE: Ascolti. L'ultima cosa. Il Chierico… al telefono… diceva "il nostro ufficio". "La nostra centrale". Come dite voi.
-DAVIDE: Come diciamo noi? Sandro, che cosa vuol dire? Chi è?
+DAVIDE: Come diciamo noi? Sandro, che cosa vuol dire? Chi è? Dimmi solo un nome, una cosa, qualsiasi cosa.
 PACE: Il Chierico… è uno dei vostri. Non della Chiesa. Dei vostri.
 (La mano di Pace si apre. Il libretto dei canti scivola sulle ginocchia di Davide. Sulla parete, la Velata continua a pregare, con le braccia alzate.)
 

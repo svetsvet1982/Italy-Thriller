@@ -23,7 +23,7 @@ DAVIDE: Al laboratorio. Voglio una seconda scansione, a risoluzione più alta, p
 (Un uomo esce da una calle, una sigaretta spenta tra le labbra.)
 UOMO: Sior, ga da accender? Go perso l'acendin in barca, e senza fumar a st'ora no me sveio.
 DAVIDE: Non fumo, mi dispiace. Provi al bar della fondamenta, apre fra poco.
-UOMO: Peccato. Alora el me scusa, sior.
+UOMO: Peccato. Alora el me scusa, sior, e el staga atento, che co sta nebia se sbaglia strada facilmente.
 (Alle spalle di Davide, il borbottio di un motore. Una barca da lavoro si accosta alla riva, senza luci.)
 NADIA (in cuffia): Cos'è questo rumore? Sembra un motore, e molto vicino a te.
 DAVIDE: Una barca. Senza luci.
@@ -40,7 +40,7 @@ MORO: No. Ti fa el bravo e ti sta zitto, che no xe una gita in gondola.
 DAVIDE: Allora indovino da solo. Il sole è a sinistra, lo sento sulla guancia. Andiamo a sud.
 MORO: Ti sta zitto, o te buto in acqua. E lì nissun te sente indovinar.
 DAVIDE: Con le mani legate? Non è sportivo, e voi veneziani mi sembrate gente che ci tiene allo sport.
-SANDRO: Moro, lassa star. El paron lo vol intiero.
+SANDRO: Moro, lassa star. El paron lo vol intiero, e se ghe manca un toco xe ti che ti ghe lo spieghi.
 (Il tempo passa. Una campana lontana, sopra l'acqua. Odore di gasolio e di pesce.)
 DAVIDE: Campane. Pellestrina, a quest'ora? Allora fra mezz'ora siamo a Chioggia.
 MORO: Sandro, ti senti? Questo xe un indovin. Ghe manca solo la sfera de vero e el turbante.
@@ -120,18 +120,18 @@ SCARPA: Alora, parlemo de afari. Un restauratore vero sa far le copie, no?
 DAVIDE: Un restauratore vero sa riconoscerle. Farle è un altro mestiere. Si chiama falsario.
 SCARPA: I nomi no me interessa. Ti pituri una copia de la Madona, bela, precisa, col blu e tuto. Prima de l'asta ti fa el cambio: la copia va all'asta, l'original vien da mi. E ti torni a Milan vivo, co un bel regaleto.
 DAVIDE: Signor Scarpa, per una copia credibile di un Lotto servono settimane. Una tavola di pioppo vecchia, i pigmenti giusti, mesi di asciugatura. L'asta è sabato.
-SCARPA: Sete zorni. Dio ga fato el mondo in sete zorni, e ti ti xe solo un restauratore, no ti ga da far le stele.
-DAVIDE: Dio non aveva una perizia da superare. Né la signora Morosini che gli guardava le crepe.
-SCARPA: (Ride.) Dio no gaveva la Morosini, xe vero. Fortunà lui.
+SCARPA: Sete zorni, sior, e no uno de più. Dio ga fato el mondo in sete zorni, e ti ti xe solo un restauratore, no ti ga da far le stele.
+DAVIDE: Dio non aveva una perizia da superare. Né la signora Morosini che gli guardava le crepe. E nemmeno un esperto di Ginevra con la lente in tasca.
+SCARPA: (Ride.) Dio no gaveva la Morosini, xe vero. Fortunà lui. Quela dona la varda i quadri come mi vardo i conti del pesse.
 DAVIDE: E poi c'è un commissario che mi guarda come un pesce sul banco. Un russo con uno yacht. Una francese che sa tutto prima di tutti. E lei mi chiede di rubare un quadro sotto gli occhi di tutti loro.
-SCARPA: Proprio per questo. Se tuti varda el quadro, nissun varda el restauratore.
+SCARPA: Proprio per questo. Se tuti varda el quadro, nissun varda el restauratore. Xe come al mercato: tuti varda el pesse, nissun varda chi tien la bilancia.
 (Davide tace a lungo. Poi annuisce, lentamente.)
 DAVIDE: Supponiamo che io accetti. Che cosa vi impedisce di buttarmi in laguna, dopo il cambio?
 SCARPA: La mia parola. A Chioggia la parola de Bepi Scarpa la val più de un contrato dal notaio.
 DAVIDE: Con tutto il rispetto, la sua parola l'ho letta stanotte sul mio specchio. In rossetto.
-SCARPA: (Si incupisce. Poi ride di nuovo.) Ciò, ti me piasi. Cossa ti vol?
+SCARPA: (Si incupisce. Poi ride di nuovo.) Ciò, ti me piasi. Ti xe el primo milanese che me fa rider dopo l'ultimo Carneval. Cossa ti vol?
 DAVIDE: Tre cose. Primo: mi lasciate lavorare in pace, niente Moro alle spalle e niente rossetto. Secondo: i materiali li scelgo io e li pagate voi. Terzo: voglio sapere per chi lavoro, perché lei, con rispetto, non mi sembra un collezionista di Lotto.
-SCARPA: Mi no son un colesionista, no. Mi go un cliente. E el cliente ga un cliente.
+SCARPA: Mi no son un colesionista, no. Mi go un cliente. E el cliente ga un cliente. Mi vendo pesse e favori, e no domando mai chi li magna.
 (Il telefono di Scarpa vibra sul tavolo. Lui guarda lo schermo e si raddrizza sulla sedia, come un soldato.)
 SCARPA: Eco. Parli del diavolo, e el diavolo te telefona. Adesso ti lo senti anca ti.
 
@@ -139,8 +139,8 @@ SCARPA: Eco. Parli del diavolo, e el diavolo te telefona. Adesso ti lo senti anc
 
 [SCENA 6 — Il magazzino. Lo stesso momento. Il telefono di Scarpa al centro del tavolo.]
 
-SCARPA (al telefono): Pronto. Sì, compare. Xe qua. No, nissun lo ga tocà. Quasi nissun.
-CALABRESE (al telefono): Mettimi in vivavoce, Bepi. Voglio sentirlo respirare.
+SCARPA (al telefono): Pronto. Sì, compare. Xe qua. No, nissun lo ga tocà. Quasi nissun. El Moro el ga le man un fià nervose, ma el xe intiero.
+CALABRESE (al telefono): Mettimi in vivavoce, Bepi. Voglio sentirlo respirare. Da come respira un uomo capisco se mi dirà la verità.
 (Scarpa obbedisce. Una voce calma, profonda: un accento del Sud levigato da trent'anni di affari al Nord.)
 CALABRESE (al telefono): Buongiorno, dottore. Mi scusi per il modo. Bepi è un uomo di mare, e gli uomini di mare non sanno mandare un invito.
 DAVIDE: Buongiorno a lei. Con chi parlo? Visto che mi hanno portato qui con un cappuccio, almeno al telefono vorrei sapere un nome.
@@ -179,14 +179,14 @@ SANDRO: Una fia. Martina, nove ani. (Tira fuori il telefono e mostra una foto, q
 DAVIDE: È brava. Davvero. Guardi l'orizzonte: l'ha messo basso, come un pittore vero. Quasi tutti i bambini lo mettono a metà foglio.
 SANDRO: Disé? La maestra ga dito che xe "carino". Carino. Martina la ga pianto tuta la sera.
 DAVIDE: La maestra non capisce niente di orizzonti. Dica a Martina una cosa, da parte mia: il mare non è mai blu. È grigio, verde, color fango, color argento. Il blu lo mette chi non lo guarda.
-SANDRO: El mar no xe blu… (Ride piano.) Xe vero. Lo vardo da quarant'ani, e no xe mai stà blu.
+SANDRO: El mar no xe blu… (Ride piano.) Xe vero. Lo vardo da quarant'ani, e no xe mai stà blu. Gnanca una volta, gnanca d'istà.
 DAVIDE: Se il prossimo lo fa grigio e verde, vince il concorso. Glielo garantisco. Sono un professionista.
 (Silenzio. Sandro si siede su un'altra cassa, lontano.)
 SANDRO: Lei ga fioi? Me par de sì, da come el gaveva i oci sul disegno de Martina.
 DAVIDE: Una figlia. Quindici anni. Studia greco e mi chiama per nome, per farmi arrabbiare.
-SANDRO: Alora el capisse. (Abbassa la voce.) Ghe digo una roba, sior. Stanote xe prevista l'acqua alta, centoquaranta. Co sona la sirena, qua i omeni i core tuti a tirar su le casse e a ligar le barche. Per mezz'ora no varda nissun.
+SANDRO: Alora el capisse, el sa cossa vol dir aver paura per una fia. (Abbassa la voce.) Ghe digo una roba, sior. Stanote xe prevista l'acqua alta, centoquaranta. Co sona la sirena, qua i omeni i core tuti a tirar su le casse e a ligar le barche. Per mezz'ora no varda nissun.
 DAVIDE: Perché me lo dice? Se Scarpa lo viene a sapere, lei rischia più di me, e Martina resta senza padre.
-SANDRO: Mi no go dito gnente. Go parlà del tempo. A Chioggia se parla sempre del tempo.
+SANDRO: Mi no go dito gnente. Go parlà del tempo. A Chioggia se parla sempre del tempo, perché xe l'unica roba che no la comanda Bepi.
 (Alla porta si ferma, senza voltarsi.)
 SANDRO: E staga atento al Moro. No xe cativo come el par. Xe pezo.
 

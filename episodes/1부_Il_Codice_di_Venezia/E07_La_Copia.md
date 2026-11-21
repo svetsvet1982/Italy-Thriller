@@ -125,7 +125,7 @@ DAVIDE: Me lo ricordavo, sai. Ma volevo sentirtelo dire, con la tua voce, come q
 ERNESTO (al telefono): Tu avevi le mani migliori delle mie. Lo sai, sì? A vent'anni. Le avevi migliori delle mie.
 DAVIDE: Papà… non dirlo così, come se fosse una cosa finita. Non è il momento di fare i conti.
 ERNESTO (al telefono): Perché hai smesso? Non te l'ho mai chiesto. Tua madre mi diceva di non chiedertelo.
-DAVIDE: A Roma pagavano meglio, papà. È la risposta più semplice, e anche quella che ti ho dato per vent'anni.
+DAVIDE: A Roma pagavano meglio, papà. È la risposta più semplice, e anche quella che ti ho sempre dato, ogni volta che me l'hai chiesto.
 ERNESTO (al telefono): E a Roma ti hanno promosso, almeno? Te lo chiedo ogni Natale, e tu cambi sempre discorso.
 DAVIDE: No, papà. A Roma non promuovono nessuno. Si invecchia e basta.
 ERNESTO (al telefono): Allora sei tornato a dipingere di nascosto. Per un cliente. (Ride piano, poi tossisce.) Io adesso non tengo più il pennello. La mano destra fa quello che vuole. Il dottore dice che è normale. Io dico che è la mano che si è stufata di me.
@@ -166,14 +166,14 @@ NADIA (in cuffia): Il generale non lo sa. È l'unica cosa che non sa di me. Ades
 DAVIDE (tra sé): Carta del '94. Colla animale. Chi incolla la carta dentro una battuta? Nessun restauratore lo farebbe, a meno di voler nascondere qualcosa.
 (La striscia si stacca. Sotto, nel legno, c'è un piccolo incavo. Dentro, un cartoncino piegato in quattro, giallo.)
 NADIA (in cuffia): Cosa hai trovato? Ti sento respirare in modo strano. Di nuovo.
-DAVIDE: Un biglietto, scritto a matita, nascosto dentro la cornice. Ha una calligrafia da ingegnere, ordinata, tutta uguale.
+DAVIDE: Un biglietto, scritto a matita, nascosto dentro la cornice da qualcuno che sapeva cosa faceva. Ha una calligrafia da ingegnere, ordinata, tutta uguale.
 NADIA (in cuffia): Leggilo ad alta voce, piano, parola per parola. Io intanto registro tutto.
 DAVIDE (legge): "A chi toglierà questa carta: se il blu ti ha parlato, non fidarti di chi te l'ha fatto ascoltare. Vieni a trovarmi. E. V. Burano, via San Mauro, numero 312. Ottobre 1994."
 NADIA (in cuffia): E. V. Ettore Vianello. Il nome che chiude l'archivio della signora Morosini.
 DAVIDE: Il restauratore del '94. Il "Chiamare V." di Ferrin, nell'ultima pagina del suo diario di lavoro.
 NADIA (in cuffia): Aspetta. Cerco. (Si sente digitare.) Il nostro crittografo fantasma. Nato a Venezia nel 1946, settantanove anni. Residente a Burano, via San Mauro: è ancora lì. Il resto della scheda è classificato. Livello che io non vedo.
 DAVIDE: Quindi un restauratore che lavorava per la Difesa. Questo spiegherebbe molte cose, compresa la calligrafia.
-NADIA (in cuffia): O uno della Difesa che restaurava quadri. Come qualcuno che conosco.
+NADIA (in cuffia): O uno della Difesa che restaurava quadri. Come qualcuno che conosco. Il mestiere cambia, Meneghino, ma il travestimento resta lo stesso.
 (Davide gira il cartoncino. Sul retro, una sola riga, sbiadita.)
 DAVIDE (legge): "Del senno di poi son piene le fosse."
 NADIA (in cuffia): E questo cosa vuol dire? A Napoli abbiamo mille proverbi, ma questo non l'ho mai sentito.

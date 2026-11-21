@@ -9,7 +9,7 @@
 BEPPE: È lui! Davide, è tuo padre! Rispondi, dai, che magari l'hanno lasciato andare e ci chiama da una cabina!
 NADIA: Aspetta, non rispondere di corsa. Non è lui, Davide: lo hanno preso con il telefono in tasca, ricordi?
 (Davide risponde. Mette il vivavoce.)
-MALASPINA (al telefono): Buongiorno, Davide. Hai dormito? Io no. Alla mia età si dorme poco. E tuo padre russa.
+MALASPINA (al telefono): Buongiorno, Davide. Hai dormito? Io no. Alla mia età si dorme poco. E tuo padre russa. Russa come un uomo con la coscienza tranquilla, il che, conoscendolo, mi sorprende.
 DAVIDE: Passamelo, subito. Non ho voglia di sentire come dormi tu, voglio sentire come respira lui.
 MALASPINA (al telefono): Tra un momento. Prima gli affari. Sei sempre stato impaziente, anche al corso. Volevi la risposta prima della domanda.
 DAVIDE: La domanda la conosco già, non c'è bisogno di girarci intorno. Tu vuoi le parole, e nient'altro.
@@ -23,7 +23,7 @@ DAVIDE: Passamelo adesso, o di parole non ne senti neanche una. Te lo dico con c
 ERNESTO (al telefono): Davide? Sto bene. Mi danno anche il caffè. Fa schifo, ma è caldo.
 DAVIDE: Papà, dimmi la verità e non fare il milanese duro. Ti hanno fatto male, anche solo un poco?
 ERNESTO (al telefono): Nessuno mi ha fatto male. Mi hanno fatto vedere la televisione. Pensa che punizione. Senti, il Fumagalli ce li ha i biglietti? Perché senza biglietto, al derby, non ti fanno entrare neanche se sei il Papa.
-MALASPINA (al telefono): Basta così. A stasera, Davide. Vieni da solo. E vieni con la memoria buona.
+MALASPINA (al telefono): Basta così. A stasera, Davide. Vieni da solo. E vieni con la memoria buona. Se una sola parola è fuori posto, tuo padre lo saprà prima di te.
 (Clic. Silenzio nel bar.)
 BEPPE: Ué, hai sentito? "Vieni da solo", al derby, in mezzo a ottantamila. Questo qui non ha mai visto la Curva Nord in vita sua.
 
@@ -41,7 +41,7 @@ TARZAN: E che segnale sarebbe? Perché in Curva, con i tamburi e i cori, un fisc
 DAVIDE: Una sciarpa alzata. Primo anello arancio, il corridoio sotto il settore centrale. Voi siete sopra, al secondo verde. Vedete bene.
 TARZAN: E quando vediamo la sciarpa, cosa facciamo di preciso? Dimmelo chiaro, che i miei ragazzi capiscono solo le cose semplici.
 BEPPE: Scendete. Tutti. Come quella volta nel 2005, quando c'era la fila per le salamelle e il Ghezzi era ancora in passeggino.
-GHEZZI: Mio papà mi portava in Curva a due anni. È per questo che sono così.
+GHEZZI: Mio papà mi portava in Curva a due anni. È per questo che sono così. Mia madre dice che ho imparato prima i cori del Padre Nostro.
 NADIA: E i fumogeni? Ve lo chiedo per scrupolo, ma allo stadio sono vietati, e stasera ci sarà mezza Questura.
 TARZAN: Signorina, a San Siro sono vietate tante cose. Ma il derby è il derby, e certe regole si fermano ai tornelli.
 (Nadia guarda il foglietto di Davide, sopra la sua spalla. Legge.)
@@ -69,7 +69,7 @@ BEPPE: Io ti ho odiato, sai. Per un anno. Dicevo: quello lì studia a Brera e si
 DAVIDE: Avevo paura, Beppe. Diciotto anni e la paura che venissero a prendere anche me. Poi sono partito militare e ho fatto finta che tu non esistessi.
 BEPPE: Adesso lo so. Prima no. (Si ferma davanti a un baracchino.) Ecco. Te l'ho detto. Adesso mi sento più leggero. Due salamelle, capo. Con le cipolle.
 DAVIDE: Io non ho fame, Beppe, ho lo stomaco chiuso da stamattina. Prendila tu anche per me.
-BEPPE: Al derby la fame non c'entra. È liturgia. Come la messa per tua madre.
+BEPPE: Al derby la fame non c'entra. È liturgia. Come la messa per tua madre. La salamella prima della partita è l'ostia dei milanesi, e chi la rifiuta porta sfiga.
 (Prendono i panini. Mangiano in piedi, in mezzo alla folla che li spinge.)
 BEPPE: E se stasera va male? Se ti prendono, davanti a tutti, cosa devo fare io con tuo padre?
 DAVIDE: Allora tu porti mio padre a casa e gli fai il risotto. Lui lo vuole con lo zafferano in pistilli, non in bustina. Altrimenti si offende.
@@ -91,11 +91,11 @@ DAVIDE (piano): Eccolo. Sta guardando la partita. Sta perfino criticando l'arbit
 NADIA (in cuffia): E l'altro gigante, quello accanto a lui? Wang, riesci a vedergli la faccia o almeno i vestiti?
 WANG (in cuffia): Lo zoom non è un granché, mi spiace. Ha un giaccone blu e avrà quarant'anni, più o meno.
 DAVIDE: È Ferri, quello del tram. Allora non c'è solo l'Agenzia, stasera: ci sono anche i mercenari del generale.
-NADIA (in cuffia): Davide, c'è anche la Mobile. La Conte è in tribuna d'onore. Il derby è il derby anche per la polizia.
+NADIA (in cuffia): Davide, c'è anche la Mobile. La Conte è in tribuna d'onore. Il derby è il derby anche per la polizia. Tieni la sciarpa sul naso e non guardare mai verso il centro.
 DAVIDE: Se mi vede la Conte, la serata finisce in Questura con le manette, e mio padre resta con quei due.
-TARZAN: Ué, Colombo! Guarda la partita, almeno un po'! Abbiamo appena preso un palo!
+TARZAN: Ué, Colombo! Guarda la partita, almeno un po'! Abbiamo appena preso un palo! Se non la guardi tu, almeno fa' finta, che i ragazzi si offendono.
 DAVIDE: Lo so, Tarzan, lo so, me l'hanno già detto in cuffia. Anche dalla Curva Sud, purtroppo.
-WANG (in cuffia): Il palo l'avete preso voi. Noi abbiamo esultato. Scusate.
+WANG (in cuffia): Il palo l'avete preso voi. Noi abbiamo esultato. Scusate. Mio padre, a casa, avrà già battuto il mestolo sul tavolo tre volte.
 (Il cronometro sul maxischermo segna 24'. Davide si sfila la sciarpa e scende verso le scale.)
 
 ---
@@ -118,7 +118,7 @@ DAVIDE: Lo so. Neanche io ho scelto i miei, a Venezia. Ci si accorge sempre tard
 (Davide tira fuori il foglietto piegato in quattro. Non lo consegna. Lo tiene tra due dita.)
 DAVIDE: Prima dimmi una cosa. Guardami e dimmi che credi davvero che io abbia ammazzato due uomini.
 (Vitali lo guarda. Un secondo. Due. Abbassa gli occhi.)
-VITALI: Non sono pagato per credere. Sono pagato per eseguire.
+VITALI: Non sono pagato per credere. Sono pagato per eseguire. Me l'hanno ripetuto così tante volte che ormai lo dico anche nel sonno.
 DAVIDE: Questa frase l'ho detta anch'io, alla tua età. Per vent'anni. Guarda dove mi ha portato. Sotto uno stadio, a scambiare mio padre con un salmo.
 VITALI: Mi dia il foglietto, Colombo. Non mi costringa a prenderlo, perché non voglio sapere chi dei due vincerebbe.
 DAVIDE: Prima mi davi del tu, Corrado. Al corso, a Viterbo. Ti ho detto io di darmi del tu. Perché adesso il Lei?
@@ -128,24 +128,24 @@ VITALI: Dodici parole, in stampatello, con la sua calligrafia di sempre. Al cors
 DAVIDE: Dodici, sì. Come voleva lui, né una di più né una di meno.
 VITALI: Le passo al generale. Tra un'ora le avrà. All'intervallo, suo padre esce dalla tribuna e va verso l'uscita sedici. A piedi. Lì lo lasciano.
 DAVIDE: Se gli succede qualcosa, Corrado, anche solo un graffio sulla mano, sai già cosa succede dopo.
-VITALI: Lo so. So cosa mi farebbe. Mi ha insegnato anche questo.
+VITALI: Lo so. So cosa mi farebbe. Mi ha insegnato anche questo. Ma le chiedo di credere che io, quel graffio, non lo voglio più di lei.
 (Vitali si infila il foglietto nel giaccone. Fa due passi. Si ferma, senza voltarsi.)
 VITALI: Davide. (Pausa.) Il biondo e Ferri non prendono ordini da me. Prendono ordini da Roma. Io non posso garantirle niente.
 DAVIDE: Grazie, Corrado. È il primo regalo onesto che mi fai da quando ci siamo rivisti, e non lo dimentico.
 (Vitali se ne va, inghiottito dal tunnel. Davide si rimette la cuffia.)
 DAVIDE: Nadia, hai sentito tutto? Dimmi che la cuffia non si è persa la parte importante.
-NADIA (in cuffia): Ho sentito. Non lo lasciano all'uscita sedici. Mai. Prepariamo il piano tuo, non il suo.
+NADIA (in cuffia): Ho sentito. Non lo lasciano all'uscita sedici. Mai. Prepariamo il piano tuo, non il suo. Avviso Wang di seguire le telecamere della tribuna rossa senza mollarle un secondo.
 
 ---
 
 [SCENA 6 — San Siro. Ore 21:32. Fischio della fine del primo tempo. Uno a zero. Migliaia di persone si alzano insieme verso i bar e i bagni. Le scale diventano fiumi. Primo anello, uscita laterale della tribuna rossa: Ernesto scende piano, il biondo lo tiene per un braccio, Ferri lo segue.]
 
-WANG (in cuffia): Si muovono. Ma non verso l'uscita sedici. Verso la rampa della torre undici. C'è una macchina che aspetta giù, nel parcheggio.
-DAVIDE: Lo sapevo. Tarzan, adesso!
+WANG (in cuffia): Si muovono. Ma non verso l'uscita sedici. Verso la rampa della torre undici. C'è una macchina che aspetta giù, nel parcheggio, con il motore acceso e le luci spente.
+DAVIDE: Lo sapevo, maledizione, lo sapevo. Tarzan, adesso!
 (Dal secondo anello verde, una sciarpa nerazzurra si alza. Poi cento. Poi mille. Un coro parte, enorme. E una valanga di gente scende per le scale.)
 TARZAN (al megafono): Ragazzi! Tutti giù! Alla rampa! C'è la birra gratis, pirla!
 (Fumogeni. Una nebbia nerazzurra si mescola alla nebbia vera. Nella rampa a spirale, decine di ultras si infilano tra il biondo, Ernesto e Ferri. Spinte, cori, abbracci, sciarpe.)
-FERRI: Spostatevi! Fate largo, cazzo, siamo della sicurezza, fateci passare!
+FERRI: Spostatevi! Fate largo, cazzo, siamo della sicurezza, fateci passare! Questo signore sta male, lo dobbiamo portare fuori subito!
 GHEZZI: Ué, calma, fratello, che fretta hai? È il derby, qui non passa nessuno senza cantare con noi!
 BEPPE: Signor Ernesto! Di qua, venga verso di me! Mi dia la mano e non la molli per nessun motivo!
 ERNESTO: Fumagalli! Ma allora le gomme da masticare servivano a qualcosa! Ti ho sempre detto che eri veloce di mani!
@@ -158,20 +158,20 @@ DAVIDE: Beppe! Attento!
 (Beppe si mette in mezzo, tra Ferri e il vecchio. Un movimento rapido. Beppe si piega in due, una mano sul fianco.)
 BEPPE: Ué… Ma che fai, pirla… Con un coltello, al derby, davanti a un vecchio…
 (Il Tarzan afferra Ferri per il bavero. Il Ghezzi gli torce il braccio. Il coltello cade e rotola giù per la rampa.)
-TARZAN: Questo qui l'ha accoltellato! Al Beppe! L'ha accoltellato al Beppe!
+TARZAN: Questo qui l'ha accoltellato! Al Beppe! L'ha accoltellato al Beppe! Prendetelo, ragazzi, e che nessuno lo lasci scappare!
 (Un rumore diverso, adesso. Non più cori. Una rabbia muta. Ferri sparisce sotto venti persone. Davide si inginocchia accanto all'amico.)
 DAVIDE: Beppe, Beppe, guardami. Tieni gli occhi aperti e guardami, come quando mi guardavi dalla porta del bar.
-BEPPE: Sto bene… Mi ha bucato come una salamella. Con le cipolle.
+BEPPE: Sto bene… Mi ha bucato come una salamella. Con le cipolle. Non fare quella faccia, che mi fai più paura tu del coltello.
 NADIA (in cuffia): Ambulanza all'uscita quattordici. La chiamo io. Due minuti. Tenete la pressione sulla ferita.
 DAVIDE (preme le mani sul fianco di Beppe): Resta con me, Beppe, non dormire. Parlami dell'Inter, di qualsiasi cosa, ma parla.
 BEPPE: Al derby non si dorme, Davide, è peccato mortale. E poi siamo uno a zero, no?
-ERNESTO: Uno a zero. Ha segnato il nove. Di testa. Bel gol, Fumagalli. Bel gol.
+ERNESTO: Uno a zero. Ha segnato il nove. Di testa. Bel gol, Fumagalli. Bel gol. L'ho visto dalla tribuna mentre quei due mi tenevano le braccia, e ho applaudito lo stesso.
 
 ---
 
 [SCENA 7 — Fuori dallo stadio, uscita quattordici. Ore 21:50. Luci blu di un'ambulanza nella nebbia. Due infermieri caricano Beppe sulla barella. Il secondo tempo è cominciato: dallo stadio arriva un boato lontano.]
 
-INFERMIERE: Coltellata al fianco sinistro. Non profonda, ma perde sangue. Lo portiamo al San Carlo. Chi viene con lui?
+INFERMIERE: Coltellata al fianco sinistro. Non profonda, ma perde sangue. Lo portiamo al San Carlo. Chi viene con lui? Decidete in fretta, perché non aspetto la fine del secondo tempo.
 DAVIDE: Vengo io, sono suo amico da quarant'anni. Mi faccia salire, per favore, non lo lascio da solo.
 NADIA: Tu no. Ci sono telecamere, polizia, la Conte a trecento metri. E lui al San Carlo non ci va: al pronto soccorso le coltellate si denunciano. Lo porto io da Wang. Sua zia ha fatto l'infermiera per trent'anni.
 BEPPE (dalla barella): Davide, vieni qui un attimo, chinati. Ti devo dire una cosa importante, prima che mi portino via.
@@ -180,7 +180,7 @@ BEPPE: Il bar. Le chiavi sono sotto il vaso del basilico. Dai da mangiare al gat
 DAVIDE: Te lo prometto, Beppe, il gatto e il basilico. E scusami, per San Vittore, per tutto quello che non ho fatto.
 BEPPE: Ma va' a ciapà i ratt. Siamo pari. Adesso vai a prendere quel bastardo del tuo generale. E fai gol.
 (Beppe firma il rifiuto del ricovero con la mano sporca di sangue. Nadia lo carica sul taxi di un cugino di Wang. Il taxi sparisce nella nebbia. Davide resta in piedi accanto al padre, sotto la torre a spirale.)
-ERNESTO: È un brav'uomo, il Fumagalli. Ladro, ma bravo. Come tutti i milanesi veri.
+ERNESTO: È un brav'uomo, il Fumagalli. Ladro, ma bravo. Come tutti i milanesi veri. Si è messo davanti a un coltello per un vecchio che lo sgridava dal balcone.
 DAVIDE: Papà, guardami un momento. Stai bene davvero, o lo dici solo perché sei un Colombo e non ti lamenti mai?
 ERNESTO: Ho perso il cappello. Ho perso le pastiglie delle otto. E ho visto un derby gratis, dopo quarant'anni. Poteva andare peggio.
 DAVIDE: Gli ho dato dodici parole false, papà, per riaverti. Un salmo della mamma, scritto con la mia mano.
@@ -194,7 +194,7 @@ VITALI: Colombo, si fermi un momento, per favore. Non sono qui per quello che pe
 (Davide si mette davanti al padre. Vitali alza le mani, aperte. Non c'è nessuno con lui.)
 DAVIDE: Sei venuto a riprenderlo? Perché stavolta, Corrado, dovrai passare sopra di me, e non c'è nessuna curva a coprirti.
 VITALI: No. Ferri è in mano alla Mobile. Il biondo è scappato. E io sono qui da solo. Non ho nessun ordine, per i prossimi dieci minuti.
-ERNESTO: È il ragazzo che mi faceva vedere la televisione. Educato. Mi portava anche il caffè.
+ERNESTO: È il ragazzo che mi faceva vedere la televisione. Educato. Mi portava anche il caffè. Gli ho detto che era cattivo, e lui si è scusato come se l'avesse fatto lui.
 VITALI: Ho letto il suo foglietto, Colombo. Miserere mei, Deus. L'Allegri. Lo cantavamo nel coro della mia scuola, dai salesiani.
 DAVIDE: Allora lo sapevi già, mentre lo leggevi sotto lo stadio. Ecco cos'era quel mezzo sorriso.
 VITALI: L'ho capito al terzo rigo. E l'ho mandato a Roma lo stesso. (Pausa.) Ma non importa. Non le serve fare il furbo. Non più.

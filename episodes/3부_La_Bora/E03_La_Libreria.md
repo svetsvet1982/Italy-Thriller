@@ -7,7 +7,7 @@
 [SCENA 1 — Barcola, la scogliera sotto la pineta. Sabato 3 ottobre, sette e venti del mattino. La bora è finita. Il mare è piatto, lucido, innocente. Nastro bianco e rosso della Polizia tra due pini.]
 
 (Furlan, in borghese, giacca a vento blu, aspetta vicino al nastro. Un ispettore della Polizia di Stato, cinquant'anni, sta chiudendo una busta di plastica trasparente.)
-FURLAN: È arrivato. Non si avvicini troppo: la Polizia è gelosa dei suoi morti. Lui è già in ambulanza. L'ha trovato alle sei e dieci un pensionato che fa il bagno tutto l'anno, con quattordici gradi d'acqua.
+FURLAN: È arrivato. Non si avvicini troppo: la Polizia è gelosa dei suoi morti. Lui è già in ambulanza. L'ha trovato alle sei e dieci un pensionato che fa il bagno tutto l'anno, con quattordici gradi d'acqua. Il poveretto adesso trema più di lui.
 DAVIDE (all'ispettore): Sironi, Assicurazioni Tirrene. Il signor Perović doveva rilasciarmi una dichiarazione stamattina, alle nove, nel mio albergo.
 ISPETTORE: Allora la dichiarazione l'ha rilasciata a noi, signor Sironi, ed è stata piuttosto breve. Una parola sola.
 (Mostra la busta. Dentro, un foglio a quadretti con una sola parola in stampatello: SCUSATE.)
@@ -19,7 +19,7 @@ ISPETTORE: Faccio questo lavoro da ventisei anni, signor Sironi. Gli uomini che 
 (L'ispettore si allontana verso l'ambulanza. Furlan si avvicina a Davide e parla senza guardarlo.)
 FURLAN: Luka scriveva in montenegrino anche la lista della spesa. In cirillico. Ne ho una copia: l'ho trovata ieri sul tavolo di carteggio. Questo "Scusate" è in italiano, in uno stampatello perfetto.
 (Lenzi arriva di corsa dal parcheggio. È la prima volta che Davide lo vede correre. Ha il colletto storto.)
-LENZI: Colombo… Sironi. L'ho saputo adesso, dalla radio della Polizia, mentre parcheggiavo.
+LENZI: Colombo… Sironi. L'ho saputo adesso, dalla radio della Polizia, mentre parcheggiavo. Sono venuto appena ho sentito il nome della nave.
 (Furlan alza appena un sopracciglio. Non dice niente.)
 DAVIDE: Chi sapeva delle nove, dottore? Me lo dica lei, che tiene la contabilità di tutto.
 LENZI: Lei. Io. Il comandante, forse, se Perović gliel'ha detto. Non vedo nessun altro, a bordo o a terra.
@@ -43,14 +43,14 @@ MILO: Per lavoro? Nessuno compra carte dell'Ottocento per lavoro. Per nostalgia 
 DAVIDE: Sono un perito di assicurazioni. Voglio vedere com'erano i fondali prima dei cavi, prima che li riempissimo di fili e di guai.
 MILO: Prima dei cavi c'erano i pesci. E prima dei pesci, ciò, c'era l'Austria, che li contava uno per uno.
 (Apre un cassetto largo e piatto. Ne tira fuori una carta ingiallita.)
-MILO: Questa è del 1883. Marina imperiale. Più precisa di tutte quelle venute dopo. Gli austriaci erano noiosi, ma precisi.
+MILO: Questa è del 1883. Marina imperiale. Più precisa di tutte quelle venute dopo, comprese quelle che usa oggi la vostra Marina. Gli austriaci erano noiosi, ma precisi.
 DAVIDE: Un po' come i milanesi, allora. Anche noi siamo noiosi, ma almeno arriviamo puntuali.
 MILO: Lei è milanese? Eppure ha un biglietto da visita di Genova. Strano, per uno che arriva puntuale.
 DAVIDE: Come fa a saperlo? Non le ho ancora detto il mio nome, e nemmeno da dove vengo.
 MILO: Le spunta dal taschino. Un libraio legge tutto. Anche le tasche, soprattutto quelle degli sconosciuti.
 (Davide si china sulla carta. Santa Croce, i fondali segnati in braccia viennesi. Il gatto si stira e lo guarda.)
 DAVIDE: E il gatto, come si chiama? Mi guarda come se mi conoscesse già da tempo.
-MILO: Zeno. Come quello di Svevo. Fuma troppo e dice sempre che domani smette.
+MILO: Zeno. Come quello di Svevo. Fuma troppo e dice sempre che domani smette, ma domani, a Trieste, non arriva mai.
 DAVIDE: I gatti non fumano, signore. Almeno, nessuno di quelli che ho conosciuto io.
 MILO: Questo sì. Di nascosto, quando io non guardo. Come tutti i triestini, del resto.
 (Davide si sposta verso una vetrinetta chiusa a chiave. Dentro, dei volumi di Joyce.)
@@ -60,16 +60,16 @@ DAVIDE: Io invece cerco un Ulisse, e non per metterlo sullo scaffale come un sop
 MILO: Ne ho sei. Edizioni economiche, traduzioni, una del Sessanta con la copertina strappata.
 DAVIDE: Io cerco una prima edizione, quella di Parigi, del 1922. So che è rara, ma ho tempo.
 MILO: Quelle sono mille copie numerate. Cento su carta d'Olanda, firmate. Centocinquanta su carta vergata. Settecentocinquanta su carta comune. Lei ha i soldi per una di quelle?
-DAVIDE: Io non cerco una di quelle. Io cerco il numero milleuno.
+DAVIDE: Io non cerco una di quelle, e non ho i soldi nemmeno per guardarle da vicino. Io cerco il numero milleuno.
 (Silenzio. La radio slovena continua a parlare del tempo. Il gatto apre un occhio. Kovačič si toglie gli occhiali e li pulisce lentamente con il gilet.)
 MILO: Il milleuno non esiste, signore. Lei lo sa, altrimenti non me l'avrebbe chiesto con quella faccia.
-DAVIDE: Lo so. Per questo lo cerco qui, e non in una libreria qualunque.
+DAVIDE: Lo so benissimo. Per questo lo cerco qui, in via San Nicolò, e non in una libreria qualunque del centro.
 MILO: Chi le ha detto di chiedere il milleuno? Pensi bene alla risposta, perché ne dipendono molte cose.
 DAVIDE: Un amico che restaurava quadri. Si chiamava Ettore, ed è morto a febbraio, in un'isola della laguna.
 (Lunga pausa. Kovačič rimette gli occhiali. Le mani, per un istante, non sono più quelle di un libraio.)
 MILO: Sono trentasette anni che nessuno mi chiede il milleuno.
 (Gira il cartello sulla porta: «Torno subito». Chiude a chiave.)
-MILO: Venga di là, nel retro, dove si può parlare. Zeno, tu resti di guardia e mi avverti se entra qualcuno.
+MILO: Venga di là, nel retro, dove si può parlare senza che la radio ci ascolti. Zeno, tu resti di guardia e mi avverti se entra qualcuno.
 
 ---
 
@@ -87,17 +87,17 @@ DAVIDE: Fino al 1989, immagino. Fino alla notte della nebbia, quando i libri non
 MILO: Fino a quella notte. Mi telefona e mi dice: "Milo, hai ancora quell'Ulisse milleuno?" Era il nostro modo di dire: devo vederti, e non come amico.
 DAVIDE: E che cosa voleva da lei, così urgente da chiamarla nel cuore della notte?
 MILO: Voleva sapere una cosa sola. Se a Belgrado arrivavano carte di un certo progetto della NATO. Un progetto sulle banche, sui soldi che viaggiano di notte da un Paese all'altro.
-DAVIDE: E arrivavano davvero, quelle carte? O era soltanto una paura di Ettore?
+DAVIDE: E arrivavano davvero, quelle carte? O era soltanto una paura di Ettore, di quelle che vengono di notte agli uomini che lavorano con i cifrari?
 MILO: Arrivavano. Da Roma. Da qualcuno dei vostri. Il progetto non era ancora finito e qualcuno lo vendeva già. Gli ho detto di sì. È diventato bianco come questa parete.
 DAVIDE: E chi le vendeva? Un nome, un ufficio, un grado: qualunque cosa si ricordi.
 MILO: Non lo so. Arrivavano senza firma. Noi lo chiamavamo "il Postino". Pagavamo, e il Postino non chiedeva mai di più. Questo mi faceva paura. Un traditore che non chiede soldi tradisce per un'idea. Sono i peggiori.
 DAVIDE: E lei, in cambio, che cosa ha avuto da Ettore? Uno come lei non regala una risposta così.
 MILO: Questo glielo dico un'altra volta. Forse. Lei mi ha dato il nome di Ettore, io le ho dato una storia. Siamo pari.
 DAVIDE: Pari non direi, signor Kovačič. Lei, oltre alla storia, mi ha detto anche una bugia.
-MILO: Quale bugia? Stia attento, perché alla mia età si diventa permalosi.
+MILO: Quale bugia? Stia attento, perché alla mia età si diventa permalosi, e un vecchio permaloso con una bottiglia di slivovka è pericoloso.
 DAVIDE: Trentasette anni. Il gatto si è svegliato quando l'ha detto, e i gatti sentono le bugie prima delle persone.
 (Kovačič ride. Una risata breve, roca, sincera.)
-MILO: Zeno è un pessimo agente. Venga, andiamo a prendere un caffè. Qui le pareti hanno orecchie. Al San Marco hanno solo specchi.
+MILO: Zeno è un pessimo agente, l'ho sempre detto. Venga, andiamo a prendere un caffè, che qui si sta stretti. Qui le pareti hanno orecchie. Al San Marco hanno solo specchi.
 
 ---
 
@@ -110,11 +110,11 @@ MILO: Regola della casa. Ogni pezzo preso, una domanda. Risposta vera. Se non vu
 DAVIDE: E se mento? Lei come fa a saperlo, con tutta questa gente intorno e il rumore delle tazzine?
 MILO: Allora me ne accorgo. Ho mentito per quarant'anni. Conosco la musica, e riconosco anche le note stonate.
 (Kovačič muove il pedone di re. Davide risponde con il pedone dell'alfiere.)
-MILO: Siciliana. Un milanese che gioca la siciliana. Lei è pieno di contraddizioni.
+MILO: Siciliana. Un milanese che gioca la siciliana. Lei è pieno di contraddizioni, signore, e me ne accorgo già alla seconda mossa.
 DAVIDE: Sono italiano. È la stessa cosa, signor Kovačič: noi viviamo di contraddizioni da duemila anni.
 (Qualche mossa. Kovačič prende un pedone nero.)
 MILO: Primo pedone, prima domanda. Mi dica il suo vero nome, quello che non c'è sul biglietto da visita.
-DAVIDE: Davide. Il resto glielo dico al prossimo pezzo, se riesce a prenderlo.
+DAVIDE: Davide, come mi chiamava mia madre quando ero in ritardo per cena. Il resto glielo dico al prossimo pezzo, se riesce a prenderlo.
 MILO: Davide basta. Davide contro Golia. A Trieste amiamo le storie in cui vince il piccolo. Perché qui non succede mai.
 (Davide prende un cavallo bianco.)
 DAVIDE: Un cavallo, signor Kovačič. Vale più di un pedone, quindi mi spettano due domande.
@@ -130,12 +130,12 @@ MILO: Nadia è venuta da me. È viva.
 DAVIDE: Quando è venuta? Mi dica almeno la data, la prego, poi mi fermo.
 MILO: Lei non ha preso nessun pezzo, signor Davide. Niente domanda. La regola vale anche per chi ha fretta.
 (Davide guarda la scacchiera. Poi prende un pedone con la regina, senza pensarci, lasciandola scoperta.)
-DAVIDE: Ecco il suo pedone, l'ho preso. Adesso me lo dica: quando?
+DAVIDE: Ecco il suo pedone, l'ho preso, e non mi importa della regina. Adesso me lo dica: quando è venuta?
 MILO: Il ventitré aprile. È rimasta diciannove giorni nella stanza sopra la libreria. Usciva solo di notte. Leggeva tutto: Svevo, Saba, i miei vecchi elenchi del telefono jugoslavi. E il quaderno di Ettore, una fotocopia portata da Roma.
 DAVIDE: E poi, dopo quei diciannove giorni? Dove è andata, con chi, e perché se n'è andata?
 MILO: Poi è partita. Basta. Un pedone vale una risposta, non un romanzo, e lei ha già avuto più di quanto valeva.
 (Kovačič prende la regina nera con il cavallo. La posa accanto alla tazzina, con delicatezza.)
-MILO: La sua regina. Si è distratto. La mia domanda vale molto.
+MILO: La sua regina. Si è distratto, signor Davide, e un uomo distratto è un uomo innamorato o spaventato. La mia domanda vale molto.
 DAVIDE: Chieda pure quello che vuole. Ho perso la regina, non ho intenzione di perdere anche la faccia.
 MILO: Lei è venuto a prenderla o a salvarla?
 (Lungo silenzio. Intorno, tazzine, un cameriere che chiama un ordine, uno studente che ride. Nello specchio alle spalle di Kovačič, a un tavolo vicino alla colonna, un uomo legge «Il Piccolo». Porta i guanti di pelle.)
@@ -143,8 +143,8 @@ DAVIDE: Non lo so ancora. Me lo chiedo da quando sono sceso dal treno, e ogni gi
 MILO: Questa è la prima risposta completamente vera che mi dà. Allora io non sono ancora pronto a darle la mia. Svevo diceva che la vita non è né brutta né bella, ma è originale. Anche le risposte: arrivano quando vogliono loro.
 DAVIDE: Non si volti, signor Kovačič, ma abbiamo compagnia. Vicino alla colonna, dietro il giornale.
 MILO: Lo so. Guanti di pelle, vicino alla colonna. È entrato tre minuti dopo di noi. Ha ordinato un'acqua tonica e non l'ha toccata. Un uomo che non beve al San Marco è un uomo in servizio.
-DAVIDE: È il mio avvocato. Mi segue dappertutto, come un'ombra con il taccuino.
-MILO: Lei ha un avvocato che la segue al caffè? Allora è più nei guai di quanto pensassi.
+DAVIDE: È il mio avvocato. Mi segue dappertutto, come un'ombra con il taccuino, e scrive anche quante zollette metto nel caffè.
+MILO: Lei ha un avvocato che la segue al caffè? Allora è più nei guai di quanto pensassi, e io sono troppo vecchio per i guai degli altri.
 (Kovačič sposta la torre. Il re nero è chiuso.)
 MILO: Scacco. Abbandoni, signor Davide. Ci rivedremo, quando sarà pronto a giocare sul serio.
 (Davide abbatte il suo re con un dito. Il pezzo rotola sul marmo.)
@@ -161,7 +161,7 @@ DAVIDE: Almeno non lo nega. È già qualcosa, per uno che passa il pomeriggio di
 LENZI: Io la sorveglio, Colombo. Gliel'ho detto il primo giorno. Non mi sono nascosto. Mi sono seduto davanti a uno specchio.
 DAVIDE: E che cosa ha visto, nello specchio, oltre a un uomo che beve il caffè con un vecchio?
 LENZI: Un uomo che ha perso a scacchi apposta. Chi è il libraio, e che cosa le ha detto?
-DAVIDE: Un vecchio che vende carte austriache e cartoline ai turisti. Mi ha battuto in trenta mosse.
+DAVIDE: Un vecchio che vende carte austriache e cartoline ai turisti. Mi ha battuto in trenta mosse, e mi ha offerto il caffè per consolarmi.
 LENZI: Milo Kovačič, settantasei anni. Ex UDBA, sezione di Capodistria. Fascicolo aperto dal nostro servizio nel 1984, archiviato nel 1996. L'ho chiesto a Roma alle tredici.
 DAVIDE: Anche questo a Roma, dunque. Lei manda a Roma perfino i nomi dei librai.
 LENZI: Tutto a Roma, Colombo. Io non ho altri posti dove mandare le cose, e non li ho mai cercati.
@@ -174,8 +174,8 @@ DAVIDE: Allora mi dica una cosa vera, dottore. Una sola, fuori verbale, e poi la
 LENZI: Non esiste il fuori verbale, Colombo. Tutto quello che si dice, prima o poi, finisce scritto da qualche parte.
 DAVIDE: Provi lo stesso, almeno una volta. Le prometto che non lo racconterò a nessuno.
 (Lenzi guarda l'orologio a pendolo. Abbassa la voce.)
-LENZI: Ieri sera il generale mi ha risposto in undici minuti. "Ricevuto." Di solito ci mette un giorno, quando ci mette.
-DAVIDE: Il generale è stato ufficiale di stato maggiore. Quando c'è vento, risponde in fretta.
+LENZI: Ieri sera il generale mi ha risposto in undici minuti. "Ricevuto." Di solito ci mette un giorno, quando ci mette. Alle ventidue e trentuno, di venerdì sera, era ancora sveglio davanti alla linea riservata.
+DAVIDE: Il generale è stato ufficiale di stato maggiore, e certe abitudini restano. Quando c'è vento, risponde in fretta.
 LENZI: Sì. Così dicono tutti. E più lo sento ripetere, più mi chiedo chi l'abbia detto per primo.
 (Rimette i guanti, un dito alla volta.)
 LENZI: Domani è domenica. Che cosa fa, visto che la nave è sotto sequestro e il porto è chiuso?
@@ -203,7 +203,7 @@ MILO: Io ho settantasei anni e le ginocchia dell'Austria-Ungheria. Lei va da sol
 DAVIDE: E che vino devo portare? Non vorrei sbagliare proprio adesso, per una bottiglia.
 MILO: Il suo. Di casa sua. Qualcosa che dica chi è lei meglio di un biglietto da visita.
 DAVIDE: Grazie, Milo. Per la storia, per la partita e anche per la bugia, che alla fine mi ha detto la verità.
-MILO: Hvala, si dice. E non mi ringrazi. Joyce diceva che la storia è un incubo dal quale cerca di svegliarsi. Io mi sono svegliato tardi. Lei si svegli prima.
+MILO: Hvala, si dice. E non mi ringrazi, perché ancora non sa dove la mando. Joyce diceva che la storia è un incubo dal quale cerca di svegliarsi. Io mi sono svegliato tardi. Lei si svegli prima.
 (Il gatto si infila dentro. La porta verde si chiude. La lampadina gialla si spegne.)
 MILO (da dietro la porta): Laku noč, signor Davide. Buona notte, e stia attento alle cucine: non tutte hanno un Bepi.
 

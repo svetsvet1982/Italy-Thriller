@@ -13,7 +13,7 @@ NADIA (in cuffia): Romantico, come sempre. E le mani, invece? Non fare il duro c
 DAVIDE: Ustioni di secondo grado, dice il medico del pronto soccorso. Ha detto anche che i restauratori sono gente strana, e non ho trovato argomenti per contraddirlo.
 (Davide intinge un tampone nel solvente. Lo passa sul manto con movimenti minimi, circolari. Il blu della ridipintura si scioglie piano.)
 DAVIDE: Il blu obbediente se ne va, strato dopo strato. Sotto c'è il lapislazzuli vero. E sopra il lapislazzuli… eccoli.
-NADIA (in cuffia): Madonna mia, li vedo anch'io. Sembrano granelli di polvere caduti sul colore, niente di più.
+NADIA (in cuffia): Madonna mia, li vedo anch'io. Sembrano granelli di polvere caduti sul colore, niente di più. Se non me lo dicevi tu, li avrei puliti con un soffio.
 DAVIDE: Non sono polvere, sono punti neri e regolari, una griglia. Vianello li ha messi uno per uno, nel novantaquattro, con un pennello da un pelo.
 (Sullo schermo, la griglia si allarga: file di punti, alcune intatte, altre spaccate dal calore.)
 NADIA (in cuffia): Il fuoco ne ha rovinati parecchi, però. Guarda il bordo destro: è andato quasi tutto, sembra una strada bombardata.
@@ -32,7 +32,7 @@ DAVIDE: Da quando avevo nove anni. Facevo il chierichetto a Sant'Ambrogio. Mia m
 NADIA (in cuffia): Tu? Chierichetto? Con la tonaca bianca e le mani giunte? Questa me la segno, Meneghino, e la racconto a tutto l'ufficio.
 DAVIDE: Con la tonaca bianca e le ginocchia sbucciate. Il versetto continua: "E a te darò le chiavi del regno dei cieli."
 NADIA (in cuffia): Le chiavi. Come quella in mano al Bambino, nel quadro. Non può essere un caso, nemmeno per uno scettico come me.
-DAVIDE: E come diceva Vianello, a Burano, davanti alla grappa. Il resto lo custodisce Pietro.
+DAVIDE: E come diceva Vianello, a Burano, davanti alla grappa. Il resto lo custodisce Pietro. Allora pensavo che fosse una frase da vecchio, adesso so che era un indirizzo.
 
 ---
 
@@ -49,9 +49,9 @@ DAVIDE (tra sé): "Chiedi a Ernesto." Tre parole, e adesso pesano più di tutto 
 NADIA (in cuffia): Ti ho perso? Davide? Se la linea cade, dimmelo, perché da qui sento solo il tuo respiro.
 (Davide gira il telefono a faccia in giù. Respira.)
 DAVIDE: Ha citato Manzoni, Nadia. Fino alla fine, con il fumo dappertutto, ha trovato la forza di citare Manzoni.
-NADIA (in cuffia): Manzoni, certo, era il suo autore. Quale pezzo ha scelto, per andarsene? Sono curiosa.
+NADIA (in cuffia): Manzoni, certo, era il suo autore. Quale pezzo ha scelto, per andarsene? Sono curiosa, perché io all'ultimo momento citerei solo mia madre.
 DAVIDE: "La c'è la Provvidenza." Renzo, alla fine. Era un vecchio che amava le belle frasi, Nadia. Anche quando moriva.
-NADIA (in cuffia): Mi dispiace, davvero, Davide. Ti piaceva, quel vecchio, si capiva da come gli parlavi.
+NADIA (in cuffia): Mi dispiace, davvero, Davide. Ti piaceva, quel vecchio, si capiva da come gli parlavi. Con lui avevi una voce che non ti sentivo da anni.
 DAVIDE: Mi piaceva, sì. Conosceva mio padre meglio di me, e non ho fatto in tempo a chiedergli come.
 NADIA (in cuffia): Dormi due ore, adesso, è un ordine. Poi Dandolo ti vuole vedere, alle tre. Riva degli Schiavoni, al ponte della Paglia.
 DAVIDE: Va bene, va bene, dormo due ore. Ma se mi chiami prima delle dieci, ti cancello dai contatti. Chiudo.
@@ -78,7 +78,7 @@ DANDOLO: Quello di Ferrin. Gli assassini sono sentimentali. O forse solo pigri. 
 (Pausa. Un vaporetto passa sotto il ponte della Paglia, lento.)
 DAVIDE: E la signora Morosini? Non me la immagino in una cella, con i suoi specchi e il suo bicchiere di rosso.
 DANDOLO: Indagata per truffa e ricettazione. Collabora, con molta eleganza, come fa tutto. Credo che alla fine venderà il palazzo.
-DAVIDE: E Ostrovskij? Mi dica che almeno lui l'avete fermato, prima che arrivasse al mare aperto.
+DAVIDE: E Ostrovskij? Mi dica che almeno lui l'avete fermato, prima che arrivasse al mare aperto. Un uomo così, fuori dalle acque italiane, non lo rivediamo più.
 DANDOLO: L'«Anastasia» ha passato la bocca di porto di Malamocco all'una e quaranta. La Guardia Costiera aveva una motovedetta proprio lì, ma l'hanno richiamata dieci minuti prima. Un'altra emergenza, dicono. Nessuno sa chi ha telefonato.
 (Dandolo si volta verso di lui. Lo guarda negli occhi.)
 DANDOLO: Stamattina ho ricevuto un'altra telefonata da Roma. La seconda in tre giorni. Mi hanno detto di non farle domande.
@@ -109,7 +109,7 @@ DAVIDE: Domani torni a Parigi, vero? Nadia mi ha detto che hai prenotato il prim
 CLAIRE: Domattina, il primo volo. Mi aspettano con molte domande e nessun quadro, e io dovrò sorridere a tutte e due le cose.
 DAVIDE: E cosa scriverai nel rapporto, Claire? Mi interessa, perché probabilmente dovrò leggerlo anch'io, prima o poi.
 CLAIRE: Che il quadro è bruciato a Poveglia. È vero. Quasi. E non ti chiedo cosa c'era sotto il blu: so che non me lo diresti.
-DAVIDE: Grazie, Claire, davvero. Non è una cosa piccola, quella che fai, e lo so bene.
+DAVIDE: Grazie, Claire, davvero. Non è una cosa piccola, quella che fai, e lo so bene. A Parigi qualcuno ti chiederà perché non hai insistito.
 CLAIRE: Non è gentilezza, Davide, non illuderti. È stanchezza. E forse un po' di rispetto, che per una francese è quasi peggio.
 DAVIDE: Allora grazie anche per Lev. Senza la tua pistola nello stivale, stanotte saremmo tutti in fondo alla laguna, con Vianello.
 CLAIRE: E grazie a te per l'altro giorno. Mi hai dato della traditrice. Era quasi un complimento: vuol dire che ti fidavi abbastanza da sentirti tradito.
@@ -122,7 +122,7 @@ TONI: Riva degli Schiavoni, signori. Fine della corsa. Il bacio era compreso nel
 (La gondola accosta. Claire sale sulla riva. Si volta. Il tono cambia: più formale, quasi freddo.)
 CLAIRE: Arrivederci, signor Colombo. È stato un onore lavorare con Lei.
 (Davide la guarda. Capisce. Esita un istante.)
-DAVIDE: L'onore è stato mio, madame Duval. Buon viaggio, e salutI Parigi da parte di un restauratore milanese.
+DAVIDE: L'onore è stato mio, madame Duval. Buon viaggio, e saluti Parigi da parte di un restauratore milanese.
 CLAIRE: Ci rivedremo. Non so dove, non so quando. Ma Lei ha una faccia che torna.
 (Si allontana tra la folla, senza voltarsi più.)
 TONI: Sior, scusi, eh, non sono affari miei. Ma una donna così la lascia andare con una stretta di mano? Lei è proprio milanese.
@@ -143,7 +143,7 @@ DAVIDE: No, Toni, hai detto la cosa giusta. È una storia di famiglia. Un giorno
 MASCHERERA: Ciò, questa la conosco: l'ha venduta mio marito. Ma quell'azzurro l'ho fatto io, con il lapislazzuli. Un blu onesto.
 DAVIDE: Lo vedo, signora, si riconosce subito. È un blu che non obbedisce a nessuno, e si vede anche senza lampada.
 (Fuori, nel campo. Il sole è pallido. Davide tira fuori dalla borsa un pacco lungo, avvolto in carta marrone.)
-DAVIDE: Questo invece è per te, Toni. Non dire niente prima di averlo aperto, per favore.
+DAVIDE: Questo invece è per te, Toni. Non dire niente prima di averlo aperto, per favore. L'ho fatto fare apposta, e ci ho messo tre giorni a trovarlo.
 TONI: Per mi? Sior, no, non posso accettare. Mi ha già pagato, ottocento a settimana, avevamo detto, e io sono un uomo di parola.
 DAVIDE: Quelli sono soldi, Toni, e i soldi si spendono. Questo è un'altra cosa, una cosa che resta. Aprilo.
 (Toni scarta il pacco. È una forcola di noce, scolpita a mano, lucida, con le curve morbide come una scultura.)
@@ -185,7 +185,7 @@ DAVIDE (piano): Lo so, Nadia, lo so benissimo. È proprio per questo che non te 
 [SCENA 7 — Stazione di Venezia Santa Lucia, binario 4. Martedì, le cinque. Folla, valigie, piccioni. Il Frecciarossa è già sul binario.]
 
 (Davide cammina lungo il treno. Su una panchina, un uomo di sessant'anni passati, in cappotto loden grigio e cappello, legge il «Gazzettino». Abbassa il giornale.)
-MALASPINA: Colombo. Si sieda un momento. Il treno non parte senza di lei. Ho controllato.
+MALASPINA: Colombo. Si sieda un momento. Il treno non parte senza di lei. Ho controllato. Ho persino chiesto al capotreno di aspettarla, con molta cortesia.
 DAVIDE: Generale, buonasera. Non sapevo che fosse a Venezia, Nadia non me l'ha detto. Forse non lo sapeva nemmeno lei.
 MALASPINA: Nemmeno Venezia lo sa. È il fascino di questa città: si arriva sempre in incognito. Anche senza maschera.
 (Davide si siede accanto a lui. Posa la valigetta tra loro.)
@@ -196,14 +196,14 @@ MALASPINA: Il quadro era un mezzo. Lei ha salvato il fine. Ha fatto un ottimo la
 DAVIDE: Quasi, appunto. Due morti, un ragazzo con un occhio nero, e un russo in acque internazionali con il suo yacht.
 MALASPINA: Ostrovskij ci ha fatto un favore, scappando. Un russo arrestato a Venezia è un caso diplomatico. Un russo in fuga è solo un russo.
 DAVIDE: La motovedetta di Malamocco è stata richiamata dieci minuti prima che passasse l'«Anastasia». Lei lo sapeva, generale?
-MALASPINA: Davvero? Dieci minuti prima? La burocrazia italiana. Dopo quarant'anni, riesce ancora a stupirmi.
+MALASPINA: Davvero? Dieci minuti prima? La burocrazia italiana. Dopo quarant'anni, riesce ancora a stupirmi. Farò chiedere una relazione, naturalmente, ma non si aspetti miracoli.
 (Malaspina apre la valigetta. Solleva appena la carta giapponese. Guarda il frammento azzurro, annerito ai bordi.)
 MALASPINA: Che strano odore ha il pioppo bruciato. Quasi d'incenso. Il professor Vianello, mi dica: prima di morire, ha detto qualcosa?
 (Un attimo. Davide guarda i binari.)
 DAVIDE: Ha citato Manzoni, generale. "La c'è la Provvidenza." Le ultime parole di Renzo, o quasi.
-MALASPINA: Un veneziano che muore con Manzoni in bocca. Curioso. Di solito i veneziani citano Goldoni.
+MALASPINA: Un veneziano che muore con Manzoni in bocca. Curioso. Di solito i veneziani citano Goldoni. O bestemmiano, che in fondo è la stessa cosa.
 DAVIDE: Aveva letto molto, nella sua vita, e non solo i veneziani. E aveva paura del fuoco, credo, fino all'ultimo.
-MALASPINA: Peccato. I morti dicono sempre la cosa più importante, Colombo. Bisogna solo saperli ascoltare.
+MALASPINA: Peccato. I morti dicono sempre la cosa più importante, Colombo. Bisogna solo saperli ascoltare. E qualche volta, Colombo, i vivi li ascoltano per conto nostro.
 (Chiude la valigetta. La tiene sulle ginocchia.)
 MALASPINA: Il frammento viene con me. Lei vada a Milano, veda sua figlia. Si riposi. Otium, Colombo. Anche i Romani ne avevano bisogno.
 DAVIDE: E lei, generale? Torna a Roma stasera, con il frammento sulle ginocchia, o resta qui a guardare la laguna?
@@ -212,7 +212,7 @@ DAVIDE: Non sapevo che amasse l'opera, generale. In tanti anni non me ne ha mai 
 MALASPINA: Ci sono tante cose che non sa di me. È per questo che lavoriamo bene insieme.
 ALTOPARLANTE: Frecciarossa 9744 per Milano Centrale, in partenza dal binario 4. Si raccomanda ai signori viaggiatori di salire in carrozza.
 (Davide si alza. Prende la scatola con la maschera.)
-MALASPINA: "Tu es Petrus." L'ha letta, la relazione della Rinaldi? Matteo, sedici, diciotto.
+MALASPINA: "Tu es Petrus." L'ha letta, la relazione della Rinaldi? Matteo, sedici, diciotto. Me l'ha mandata stamattina, con tre punti esclamativi, che per lei è quasi un'emozione.
 DAVIDE: "E su questa pietra edificherò la mia Chiesa." La so a memoria, generale, da quando portavo la tonaca bianca.
 MALASPINA: Lo so. Lei è stato chierichetto, a Sant'Ambrogio. Per sua madre, mi pare. Una donna di grande fede.
 DAVIDE: Lei sa molte cose della mia famiglia, generale. Più di quante ne sappia io, a volte, e questo non mi piace.

@@ -14,7 +14,7 @@
 | 06 | [Il Ballo in Maschera](1부_Il_Codice_di_Venezia/E06_Il_Ballo_in_Maschera.md) | 145 |
 | 07 | [La Copia](1부_Il_Codice_di_Venezia/E07_La_Copia.md) | 140 |
 | 08 | [Burano](1부_Il_Codice_di_Venezia/E08_Burano.md) | 135 |
-| 09 | [L'Asta](1부_Il_Codice_di_Venezia/E09_L_Asta.md) | 140 |
+| 09 | [L'Asta](1부_Il_Codice_di_Venezia/E09_L_Asta.md) | 142 |
 | 10 | [Tradimento](1부_Il_Codice_di_Venezia/E10_Tradimento.md) | 141 |
 | 11 | [Poveglia](1부_Il_Codice_di_Venezia/E11_Poveglia.md) | 140 |
 | 12 | [Il Ponte dei Sospiri](1부_Il_Codice_di_Venezia/E12_Il_Ponte_dei_Sospiri.md) | 146 |
@@ -24,15 +24,15 @@
 | 화 | 제목 | 턴 |
 |---|---|---|
 | 01 | [Il Colletto Bianco](2부_Le_Chiavi_di_San_Pietro/E01_Il_Colletto_Bianco.md) | 144 |
-| 02 | [La Prima Messa](2부_Le_Chiavi_di_San_Pietro/E02_La_Prima_Messa.md) | 142 |
+| 02 | [La Prima Messa](2부_Le_Chiavi_di_San_Pietro/E02_La_Prima_Messa.md) | 140 |
 | 03 | [Conti Dormienti](2부_Le_Chiavi_di_San_Pietro/E03_Conti_Dormienti.md) | 140 |
 | 04 | [Il Confessionale](2부_Le_Chiavi_di_San_Pietro/E04_Il_Confessionale.md) | 144 |
 | 05 | [L'Archivio](2부_Le_Chiavi_di_San_Pietro/E05_L_Archivio.md) | 140 |
 | 06 | [Il Cardinale](2부_Le_Chiavi_di_San_Pietro/E06_Il_Cardinale.md) | 140 |
 | 07 | [La Guardia Svizzera](2부_Le_Chiavi_di_San_Pietro/E07_La_Guardia_Svizzera.md) | 142 |
-| 08 | [Le Catacombe](2부_Le_Chiavi_di_San_Pietro/E08_Le_Catacombe.md) | 143 |
+| 08 | [Le Catacombe](2부_Le_Chiavi_di_San_Pietro/E08_Le_Catacombe.md) | 140 |
 | 09 | [Il Chierico](2부_Le_Chiavi_di_San_Pietro/E09_Il_Chierico.md) | 142 |
-| 10 | [Il Passetto](2부_Le_Chiavi_di_San_Pietro/E10_Il_Passetto.md) | 140 |
+| 10 | [Il Passetto](2부_Le_Chiavi_di_San_Pietro/E10_Il_Passetto.md) | 141 |
 | 11 | [Domenica di Pasqua](2부_Le_Chiavi_di_San_Pietro/E11_Domenica_di_Pasqua.md) | 141 |
 | 12 | [Ego te absolvo](2부_Le_Chiavi_di_San_Pietro/E12_Ego_te_absolvo.md) | 139 |
 
@@ -46,7 +46,7 @@
 | 04 | [Il Carso](3부_La_Bora/E04_Il_Carso.md) | 137 |
 | 05 | [Nadia](3부_La_Bora/E05_Nadia.md) | 143 |
 | 06 | [Il Porto Vecchio](3부_La_Bora/E06_Il_Porto_Vecchio.md) | 145 |
-| 07 | [Miramare](3부_La_Bora/E07_Miramare.md) | 138 |
+| 07 | [Miramare](3부_La_Bora/E07_Miramare.md) | 136 |
 | 08 | [Il Confine](3부_La_Bora/E08_Il_Confine.md) | 138 |
 | 09 | [La Barcolana](3부_La_Bora/E09_La_Barcolana.md) | 142 |
 | 10 | [La Stazione di Approdo](3부_La_Bora/E10_La_Stazione_di_Approdo.md) | 140 |
@@ -70,4 +70,4 @@
 | 11 | [La Prima della Scala](4부_La_Nebbia_di_SantAmbrogio/E11_La_Prima_della_Scala.md) | 145 |
 | 12 | [La Madonnina](4부_La_Nebbia_di_SantAmbrogio/E12_La_Madonnina.md) | 149 |
 
-**총 턴 수: 6773**
+**총 턴 수: 6769**
